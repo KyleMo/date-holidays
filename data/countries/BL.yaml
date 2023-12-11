@@ -1,6 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Saint_Barth%C3%A9lemy#Festivals_and_holidays
-# @source https://www.legisocial.fr/jours-feries.html
-# @source https://publicholidays.la/saint-barthelemy/fr/2020-dates/
 holidays:
   BL:
     names:
@@ -15,29 +12,38 @@ holidays:
       easter -48:
         _name: easter -48
         type: observance
+        id: d042f46b-1434-42e3-a883-122795b90ee9
       easter -47:
         _name: easter -47
         type: Observance
+        id: 6876c511-8bc2-400c-8227-a1fcee51adf0
       easter -46:
         _name: easter -46
         type: observance
+        id: b5b7bda5-99dc-48bb-907f-58a94ffce2b8
       easter -21:
         name:
           fr: Mi-Carême
           en: Laetare Sunday
         type: observance
+        id: 5261bf0f-cae5-4a57-8002-92a7027bddd3
       easter -2:
         _name: easter -2
         type: bank
+        id: e2c5b9a1-11b9-4586-9efe-201b0d08458e
       easter:
         _name: easter
         type: observance
+        id: 6e65cd4c-c53e-497f-affd-52c963721c34
       08-24:
         name:
           fr: Fête de Saint Barthélemy
           en: Saint Barth
         type: observance
+        id: 914a3e2e-7b97-4a51-8cde-4d21faa0ec04
       10-09:
         _name: Abolition of Slavery
+        id: 30e2e8d4-a90d-4a4d-84c5-c58d95115dc7
       12-25:
         _name: 12-25
+        id: 5830bdb8-2560-4bd9-a699-0b68c71d5001

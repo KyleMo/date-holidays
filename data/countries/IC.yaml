@@ -1,6 +1,5 @@
 holidays:
   IC:
-    # @source http://www.gobiernodecanarias.org/boc/2019/107/003.html
     names:
       es: Islas Canarias
       en: Canary Islands
@@ -15,14 +14,17 @@ holidays:
         name:
           es: Día de Canarias
           en: Canary Islands Day
+        id: 04beec44-382f-41bb-b07d-a8c7a1d7fb1c
       substitutes 05-30 if Sunday then next Monday:
         substitute: true
         name:
           es: Día de Canarias
           en: Canary Islands Day
+        id: 971767b7-ca3e-4ca8-93df-175abc88b9b7
       substitutes 08-15 if Sunday then next Monday:
         substitute: true
         _name: 08-15
+        id: e744c271-1ded-415c-b51a-cba202cc31e8
     regions:
       EH:
         names:

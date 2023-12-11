@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Hungary
   HU:
     names:
       hu: Magyarország
@@ -13,142 +12,176 @@ holidays:
       01-01:
         _name: 01-01
         type: public
+        id: 4cf8081b-3be6-4200-8dc0-262fc1250e8f
       02-01:
         name:
           hu: A köztársaság emléknapja
           en: Memorial Day of the Republic
         type: observance
+        id: 9df87882-466f-48b3-b5fc-2c2a0a5e2343
       02-25:
         name:
           hu: A kommunista diktatúrák áldozatainak emléknapja
           en: Memorial Day for the Victims of the Communist Dictatorships
         type: observance
+        id: 6f124ead-a06f-40f4-a774-d6ffc1c259f0
       03-08:
         _name: 03-08
         type: observance
+        id: e8018d9e-7eb3-4fc8-93eb-d16a71312e5d
       03-15:
         name:
           hu: 1948-as forradalom
           en: National Day
         type: public
+        id: 71d65a24-500b-4d56-ac22-4844ea4d8a3f
       04-16:
         name:
           en: Memorial Day for the Victims of the Holocaust
           hu: A holokauszt áldozatainak emléknapja
         type: observance
+        id: e57cd1ae-f2c1-40b3-b040-dde1376398bc
       easter:
         _name: easter
         type: public
+        id: a771f923-b780-4653-adfa-197cffe449d2
       easter 1:
         _name: easter 1
         type: public
+        id: 6a96a372-8906-4a38-8443-6643822b9a6c
       05-01:
         _name: 05-01
         type: public
+        id: f5dd8877-0e00-417f-8639-f0ec05b297c7
       1st sunday in May:
         _name: Mothers Day
         type: observance
+        id: eec53dbe-4930-4e60-9a7e-b72127d1f988
       05-21:
         name:
           en: National Defense Day
           hu: Honvédelmi nap
         type: observance
+        id: 8e47eb15-48f0-466b-9f12-e1fc50161a24
       easter 49:
         _name: easter 49
         type: public
+        id: 0583c01c-c848-459a-9b1f-0913a1c47cb2
       easter 50:
         _name: easter 50
         type: public
+        id: ec4b72f2-3519-43b5-a003-140a3eb9cf31
       06-04:
         name:
           en: Day of National Unity
           hu: A nemzeti összetartozás napja
         type: observance
+        id: fab79cc5-f3dc-465b-9eba-b638c8248875
       06-19:
         name:
           en: Day of the Independent Hungary
           hu: A független Magyarország napja
         type: observance
+        id: 35cb1f11-295f-49e7-b6a6-739d636f7aac
       08-20:
         name:
           hu: Szent István ünnepe
           en: Saint Stephen's Day
         type: public
+        id: 10f466e6-239d-4c6f-81b4-e9461b95b75d
       10-06:
         name:
           en: Memorial Day for the Martyrs of Arad
           hu: Az aradi vértanúk emléknapja
         type: observance
+        id: eef7c70f-64ef-4d5f-9597-c45e60a6921f
       10-23:
         name:
           hu: 1956-os forradalom
           en: National Day
         type: public
+        id: e6547e4e-64cb-4274-ab83-e02c214de653
       11-01:
         _name: 11-01
         type: public
+        id: 204914e8-de8f-4a7d-b06d-7385dffa9d70
       12-06:
         _name: 12-06
         type: observance
+        id: 1d64f0a9-6bd9-414a-b068-dabda7107faf
       12-24:
         _name: 12-24
         type: optional
+        id: c0f9d348-73d7-49a4-838b-950221988177
       12-25:
         _name: 12-25
         type: public
+        id: fcad0db7-b3a1-41c4-92ad-94258d3777f9
       12-26:
         _name: 12-26
         type: public
+        id: 7b1dac9c-326b-4a9f-b3b0-6095ef6214e7
       12-31:
         _name: 12-31
         type: observance
-      "2023-10-30":
+        id: bfa2e51a-ecbc-4509-9242-6348491dbd92
+      '2023-10-30':
         name:
           hu: Őszi szünet
           en: Autumn school holiday
         type: school
-      "2023-10-31":
+        id: ee2b4178-91b3-46bd-a012-13e6737985c6
+      '2023-10-31':
         name:
           hu: Őszi szünet
           en: Autumn school holiday
         type: school
-      "2023-11-02":
+        id: fc6d8ab1-8b1d-4ec0-af45-88a14b4e35c7
+      '2023-11-02':
         name:
           hu: Őszi szünet
           en: Autumn school holiday
         type: school
-      "2023-11-03":
+        id: 9d366003-88e8-4924-b5ef-72539c6a2be4
+      '2023-11-03':
         name:
           hu: Őszi szünet
           en: Autumn school holiday
         type: school
-      "2023-12-22":
+        id: 6f51bd52-49a1-402a-ad90-f9a875a2b07b
+      '2023-12-22':
         name:
           hu: Téli szünet
           en: Winter school holiday
         type: school
-      "2023-12-27":
+        id: 37f6e999-8c6f-470c-ac01-336752eb0df1
+      '2023-12-27':
         name:
           hu: Téli szünet
           en: Winter school holiday
         type: school
-      "2024-01-02":
+        id: ab0dd722-ff98-42e4-abd1-389079a23b4b
+      '2024-01-02':
         name:
           hu: Téli szünet
           en: Winter school holiday
         type: school
-      "2024-01-03":
+        id: 98f38f8b-f278-46f1-9d4e-959682707f54
+      '2024-01-03':
         name:
           hu: Téli szünet
           en: Winter school holiday
         type: school
-      "2024-01-04":
+        id: f1c90bb4-4e6c-457b-857a-cc1d413b14ae
+      '2024-01-04':
         name:
           hu: Téli szünet
           en: Winter school holiday
         type: school
-      "2024-01-05":
+        id: 827933f1-49d9-4366-b724-b5c50e53f5c0
+      '2024-01-05':
         name:
           hu: Téli szünet
           en: Winter school holiday
         type: school
+        id: f43354c6-da7d-4855-931c-c31db368ad1e

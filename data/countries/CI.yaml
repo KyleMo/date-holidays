@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Ivory_Coast
   CI:
     names:
       fr: République de Côte d'Ivoire
@@ -13,59 +12,44 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 89415e85-87fa-43ed-8042-689ad8d2eb5c
       easter 1:
         _name: easter 1
+        id: 8284867a-e0d4-477e-942e-4c1e3a7d0062
       05-01:
         _name: 05-01
+        id: 52e3ee5f-9ecd-4889-8053-ebadfa0f9a14
       easter 39:
         _name: easter 39
+        id: 21e9cb11-7cba-45e4-86be-1eeb1b4e9974
       easter 50:
         _name: easter 50
+        id: 84494727-e662-415d-876a-bfb46fcc4887
       08-07 since 1960:
         _name: Independence Day
+        id: 04ea2fa8-b24d-4610-9493-0283e00adc4e
       08-15:
         _name: 08-15
+        id: 296bcc4a-9d11-405a-90f3-8c4dfb6ad06a
       11-01:
         _name: 11-01
+        id: 48c05475-fb77-4cd0-b115-65d8d2300a04
       11-15 since 1996:
         name:
           en: National Peace Day
+        id: b3dd43ad-1a80-41ed-a89d-f5a7167214cb
       12-25:
         _name: 12-25
+        id: 1f86f0fe-61d3-45cf-93f7-c1e3010ee133
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: de5f5fe9-7000-485a-b00a-5c75aa90bb84
       27 Ramadan:
         _name: 27 Ramadan
+        id: b9bc2872-395d-4d6a-a32b-76adca26c88b
       1 Shawwal:
         _name: 1 Shawwal
+        id: e1e55c29-73ca-4823-8162-072f9782841c
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-    # states:
-    #   AB:
-    #     name: Abidjan
-    #   BS:
-    #     name: Bas-Sassandra
-    #   CM:
-    #     name: Comoé
-    #   DN:
-    #     name: Denguélé
-    #   GD:
-    #     name: Gôh-Djiboua
-    #   LC:
-    #     name: Lacs
-    #   LG:
-    #     name: Lagunes
-    #   MG:
-    #     name: Montagnes
-    #   SM:
-    #     name: Sassandra-Marahoué
-    #   SV:
-    #     name: Savanes
-    #   VB:
-    #     name: Vallée du Bandama
-    #   WR:
-    #     name: Woroba
-    #   YM:
-    #     name: Yamoussoukro
-    #   ZZ:
-    #     name: Zanzan
+        id: 3532cda6-1c88-4c9b-b262-b950a45a92b1

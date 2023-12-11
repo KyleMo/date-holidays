@@ -1,12 +1,5 @@
 holidays:
   HK:
-    # sources:
-    #   - https://www.gov.hk/en/about/abouthk/holiday/2022.htm
-    #   - https://www.gov.hk/en/about/abouthk/holiday/2021.htm
-    #   - https://www.gov.hk/en/about/abouthk/holiday/2020.htm
-    #   - https://www.gov.hk/en/about/abouthk/holiday/2019.htm
-    #   - https://www.gov.hk/en/about/abouthk/holiday/2018.htm
-    #   - https://www.gov.hk/en/about/abouthk/holiday/2017.htm
     names:
       zh: 香港
       en: Hong Kong
@@ -22,71 +15,88 @@ holidays:
         _name: 01-01
         name:
           zh: 一月一日
+        id: 7156b2b4-91a6-4442-8c9d-ba4e3cf977fa
       chinese 01-0-01 and if Saturday then next Tuesday:
         name:
           en: Lunar New Year
           zh: 農曆年初一
+        id: 352f3ac9-36fb-4922-b660-2a688203377f
       chinese 01-0-02 and if Saturday then next Monday:
         name:
           en: The second day of the Lunar New Year
           zh: 農曆年初二
+        id: 99b562b0-5414-42d4-a703-8ba82fa8dbbc
       chinese 01-0-03 and if Saturday then next Monday:
         name:
           en: The third day of the Lunar New Year
           zh: 農曆年初三
+        id: 7736e0a9-80ad-4fdf-a534-8faa333429ca
       chinese 5-01 solarterm and if Sunday then next Monday:
         name:
           en: Qingming Festival
           zh: 清明節
+        id: 42d4dcca-b3f0-4bf6-b337-c553dd4a6cf2
       easter -2:
         _name: easter -2
+        id: d799c4b6-0f95-49a4-9836-282bd2c248a8
       easter -1:
         _name: easter -1
+        id: 56ffd648-ed3e-4b24-b939-50d4b01359a5
       easter:
         _name: easter
+        id: e404d0f1-ff35-4856-9eef-9bafeda4813e
       easter 1:
         _name: easter 1
         disable:
-          # As the day following Ching Ming Festival and Easter Monday fall on the same day, the next following day that is not itself a general holiday will be observed as an additional general holiday.
-          - "2021-04-05"
+          - '2021-04-05'
         enable:
-          - "2021-04-06"
+          - '2021-04-06'
+        id: edfa89b8-ae1a-4527-8e83-1e7765d7ec99
       05-01 and if Sunday then next Monday:
         substitute: true
         _name: 05-01
+        id: 970b1cca-6906-4403-9257-3fa6af123350
       chinese 04-0-08 and if Sunday then next Monday:
         name:
           en: Birthday of the Buddha
           zh: 佛誕
+        id: 048f694b-9691-4f70-bf82-31a90f19535d
       chinese 05-0-05:
         name:
           en: Dragon Boat Festival
           zh: 端午节
+        id: a01873cc-ecee-400e-94c9-8844c2274177
       07-01 and if Sunday then next Monday:
         substitute: true
         name:
           en: Hong Kong Special Administrative Region Establishment Day
           zh: 香港特別行政區成立紀念日
+        id: 30e40bdd-84ca-4166-b902-7475e0f74443
       chinese 08-0-16 and if Sunday then next Monday if is public holiday then next day omit Saturday, Sunday:
         substitute: true
         name:
           en: The day following the Chinese Mid-Autumn Festival
           zh: 中秋節翌日
+        id: 14b3543c-1e70-4639-b9a7-dc11a0b93d91
       10-01 and if Sunday then next Monday:
         substitute: true
         name:
           en: National Day
           zh: 國慶日
+        id: 5c63156b-69e4-42b0-b9a8-9eb6177eaef3
       chinese 09-0-09 and if Sunday then next Monday:
         substitute: true
         name:
           en: Chung Yeung Festival
           zh: 重阳节
+        id: 5cd5deb1-6c38-4c8c-95c3-3563ff50c87a
       12-25 and if Sunday then next Monday:
         substitute: true
         _name: 12-25
+        id: a1ad3a5e-2a33-4066-9286-20b420945f4d
       12-26 and if Sunday then next Monday if Monday then next Tuesday:
         substitute: true
         name:
           en: The first weekday after Christmas Day
           zh: 圣诞节后的第一个工作日
+        id: 0623c374-abcf-4c3d-ad11-342657b59bce

@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_South_Sudan
   SS:
     names:
       en: South Sudan
@@ -11,30 +10,42 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: b76eb87a-2de0-4e46-adf3-88122f7e62bd
       01-09:
         name:
           en: Peace Agreement Day
+        id: 9a389f0b-e2f2-4b82-a575-565dac1eeb78
       03-08:
         _name: 03-08
+        id: 53c316d6-d7d1-446a-b925-424ef05471d2
       05-16:
         name:
           en: SPLA Day
+        id: 085c2004-74dd-4cbd-8413-9b39ad4f6304
       1st monday in July:
         _name: Mothers Day
         type: observance
+        id: 4f02ee90-6787-45f2-8d29-118580057c5b
       07-09:
         _name: Independence Day
+        id: 870dad48-4b83-4b02-85af-5c1444599289
       07-30:
         name:
           en: Martyrs Day
+        id: e9743f88-a2ba-4228-a6a1-8d02ee1f06e6
       12-25:
         _name: 12-25
+        id: 09fe2077-02fb-400b-a369-dd27704c8ead
       12-28:
         name:
           en: Republic Day
+        id: 6349117a-c784-4ce6-ac3d-f286cd853cec
       12-31:
         _name: 12-31
+        id: b4f49e18-9bb8-4eaf-bb3e-454d600544ca
       2 Shawwal:
         _name: 1 Shawwal
+        id: 813c0e4c-4d5e-478d-bd84-553279d21f5c
       12 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
+        id: 76cefbac-7478-4126-9498-4c607173fbbc

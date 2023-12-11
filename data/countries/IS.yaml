@@ -1,6 +1,4 @@
 holidays:
-  # @source https://github.com/gudmundur/holidays/blob/master/index.js
-  # @attrib https://de.wikipedia.org/wiki/Feiertage_in_Island
   IS:
     names:
       is: Ísland
@@ -13,90 +11,116 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 42f4f254-58b2-49e6-8578-1516436f2b73
       01-06:
         _name: 01-06
         type: observance
+        id: 686aa8df-032c-4a6b-be61-db46fed14d67
       friday after 01-18:
         name:
           is: Bóndadagur
         type: observance
+        id: d5399107-8b56-498c-a182-6e88f70246f1
       02-18:
         name:
           is: Konudagur
           en: Woman's Day
         type: observance
+        id: 0c8e037f-ee68-45f4-a81a-7b57f21f48f8
       easter -48:
         name:
           is: Bolludagur
         type: observance
+        id: 9fe13793-d285-4e4f-bfe2-3409ffc1c233
       easter -47:
         name:
           is: Sprengidagur
         type: observance
+        id: 661bbbd9-ed67-4c1d-bfac-93782c0cd67e
       easter -46:
         _name: easter -46
         type: observance
+        id: 96eed31d-c25e-43ea-a136-ee5f63c31da8
       easter -7:
         _name: easter -7
         type: observance
+        id: 51c74aee-d4f0-485b-8af0-6a157552c660
       easter -3:
         _name: easter -3
+        id: 1ea83895-3c9a-47cc-a899-581e0baca5f0
       easter -2:
         _name: easter -2
+        id: f22f09d1-d187-4e10-983f-551a9b98faae
       easter:
         _name: easter
+        id: 3a486b11-bb31-4187-b928-a2f9f09d4805
       easter 1:
         _name: easter 1
+        id: ab06fda1-27b9-4d63-a400-27aef30b4544
       thursday after 04-18:
         name:
           is: Sumardagurinn fyrsti
           en: First Day of Summer
+        id: 08fac2ab-fab7-48f9-9a08-ad95711b2c95
       05-01:
         _name: 05-01
+        id: 07151643-a1b9-47ed-87e2-228ce461ae0d
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: ae36a3ad-92a3-48d0-a4b6-6b6246eb1d44
       easter 39:
         _name: easter 39
+        id: afdf70db-d648-4228-8b34-d28eeed0b9bb
       easter 49:
         _name: easter 49
+        id: 04b63773-ed25-4b2b-9bfc-f1c9b51bb882
       easter 50:
         _name: easter 50
+        id: 5ea7f690-771f-4bd6-89d0-a5dcd4d77a17
       1st sunday in June:
         name:
           is: Sjómannadagurinn
           en: The Seamen's Day
         type: observance
+        id: f9458f80-a928-466e-84a8-d22587d90406
       06-17:
         name:
           is: Íslenski þjóðhátíðardagurinn
           en: Icelandic National Day
+        id: 63b9ff8c-d9b4-488c-9a50-3a8edbb9217c
       1st monday in August:
         name:
-          # is: Verslunarmannahelgi
           is: Frídagur verslunarmanna
           en: Commerce Day
+        id: ab2889a4-5f35-46f4-bb44-a83f66e6063d
       saturday after 10-21:
         name:
           is: Fyrsti vetrardagur
           en: First Day of Winter
         type: observance
+        id: 01d43d9c-8a3b-431f-ac1e-6654a0602f46
       11-16:
-        # since 1996
         name:
           is: Dagur íslenskrar tungu
           en: Icelandic Language Day
         type: observance
+        id: 930e3372-bed5-4115-b4cb-d5c5e4d07244
       12-23:
         name:
           is: Þorláksmessa
           en: St Þorlákur's Day
         type: observance
-      "12-24 13:00 if sunday then 00:00":
+        id: 21f418dd-546f-42ce-b9ef-f298afd85dee
+      12-24 13:00 if sunday then 00:00:
         _name: 12-24
+        id: 98b94d6a-4556-48d3-91ea-efc242cdda1c
       12-25:
         _name: 12-25
+        id: 9730a48d-5806-48f2-b772-ec411baea0a9
       12-26:
         _name: 12-26
-      "12-31 13:00 if sunday then 00:00":
+        id: 6ad408fd-dd02-4e94-bb80-2bcfb11c185a
+      12-31 13:00 if sunday then 00:00:
         _name: 12-31
+        id: 081c673f-0a4d-44e2-8eb7-7a2fb7a784b3

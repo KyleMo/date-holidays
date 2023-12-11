@@ -1,6 +1,5 @@
 holidays:
   KN:
-    # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Saint_Kitts_and_Nevis
     names:
       en: St. Kitts & Nevis
     langs:
@@ -12,72 +11,51 @@ holidays:
       01-01 and if Saturday then next Monday:
         substitute: true
         _name: 01-01
+        id: 32b8a95b-c387-43b2-aec0-8a14248e1970
       01-02:
         name:
           en: Carnival Day
+        id: 23267ed2-79b2-4ea8-9015-ae5dc1e6f711
       easter -2:
         _name: easter -2
+        id: 683ef59d-7172-498d-9576-6829c3733ae5
       easter:
         _name: easter
         type: observance
+        id: 89d63464-e7db-4654-beb6-67177b91bc85
       easter 1:
         _name: easter 1
+        id: 6b7d2c87-80fa-41c7-bd85-53960f698242
       easter 49:
         _name: easter 49
         type: observance
+        id: f7a82423-5d81-430e-ac45-fa3592b55530
       easter 50:
         _name: easter 50
+        id: afc01641-67de-45de-9171-48772211eb25
       1st Monday in May:
         _name: 05-01
+        id: 0ee05e7c-506e-4455-b0e6-c1675ff2a452
       1st Monday in August:
         name:
           en: Emancipation Day
+        id: 4a97f6be-159d-4e9a-bf89-078e2406f53b
       1st Tuesday in August:
         name:
           en: Culturama Day
+        id: b282749e-bf7a-470d-a626-386e959b44a8
       09-16 and if Sunday then next Monday:
         substitute: true
         name:
           en: National Heroes' Day
+        id: 259078af-d45d-4ba6-8dc0-08d0fb41441f
       09-19 if Sunday then next Monday:
         substitute: true
         _name: Independence Day
+        id: a9813baf-f544-4287-88c2-1023d57d3a43
       12-25:
         _name: 12-25
+        id: 4c9d5cc8-4ac4-432c-951c-20738213ae1c
       12-26:
         _name: 12-26
-    # states:
-    #   K:
-    #     name: Saint Kitts
-    #     regions:
-    #       '11':
-    #         name: Saint Peter Basseterre
-    #       '13':
-    #         name: Saint Thomas Middle Island
-    #       '15':
-    #         name: Trinity Palmetto Point
-    #       '01':
-    #         name: Christ Church Nichola Town
-    #       '02':
-    #         name: Saint Anne Sandy Point
-    #       '03':
-    #         name: Saint George Basseterre
-    #       '06':
-    #         name: Saint John Capisterre
-    #       08:
-    #         name: Saint Mary Cayon
-    #       09:
-    #         name: Saint Paul Capisterre
-    #   'N':
-    #     name: Nevis
-    #     regions:
-    #       '10':
-    #         name: Saint Paul Charlestown
-    #       '12':
-    #         name: Saint Thomas Lowland
-    #       '04':
-    #         name: Saint George Gingerland
-    #       '05':
-    #         name: Saint James Windward
-    #       '07':
-    #         name: Saint John Figtree
+        id: cd34a015-558e-4155-a534-36c4b9c7edbf

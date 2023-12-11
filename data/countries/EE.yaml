@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Estonia
   EE:
     names:
       et: Eesti
@@ -12,115 +11,108 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: a7e84fc6-a824-4da3-8b7f-fe4686ac588d
       01-06:
         _name: 01-06
         type: observance
+        id: e8c330e8-b189-4f12-bc53-36016fa59570
       02-02:
         name:
           et: Tartu rahulepingu aastapäev
           en: Anniversary of the Tartu Peace Treaty
         type: observance
+        id: 90501dec-aa91-4c0b-9330-2bcd4403067b
       02-24:
         _name: Independence Day
         type: public
+        id: 22c92711-84bc-45e9-ba18-48b7456c95bb
       03-14:
         name:
           et: emakeelepäev
           en: Native Language Day
         type: observance
+        id: 2e7351f0-52a4-4386-8a46-e8baf45fcb8c
       easter -2:
         _name: easter -2
+        id: 3d735ece-bcb6-4180-8ae6-7b4c37dfb6bd
       easter:
         _name: easter
+        id: 509f42a4-fa52-448d-80ae-b7bf0856a1d2
       05-01:
         _name: 05-01
+        id: 6458d6d8-8f92-47a8-9152-fdd0a0e5c66b
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: ef40f958-1946-4490-9377-7a86baacccc6
       easter 49:
         _name: easter 49
+        id: 97a0c0b5-c8eb-4bb2-8ec1-a0c3d7cfc1d1
       06-04:
         name:
           et: Eesti lipu päev
           en: National Flag Day
         type: observance
+        id: a5a0fab9-c9b2-49cf-bd76-7860ca72cd8f
       06-14:
         name:
           et: leinapäev
           en: Day of Mourning and Commemoration
         type: observance
+        id: 95ae67ff-df69-47ee-8897-87a42b12362f
       06-23:
         name:
           et: võidupüha
           en: Victory Day
+        id: 2a83da6e-bb90-440c-9bfb-79d332464cdc
       06-24:
         name:
           et: jaanipäev
           en: Midsummer Day
+        id: f90ed5ec-1c55-4b38-81f5-ce0863c68df8
       08-20:
         name:
           et: taasiseseisvumispäev
           en: Day of Restoration of Independence
+        id: 2a829760-cca3-4160-87f0-27444c91eef0
       08-23:
         name:
           et: kommunismi ja natsismi ohvrite mälestuspäev
           en: European Day of Remembrance for Victims of Stalinism and Nazism
         type: observance
+        id: ffd71b4a-4054-4ab2-a3f0-3c52c1479165
       2nd sunday in September:
         name:
           et: vanavanemate päev
           en: Grandparents Day
         type: observance
+        id: 9fff72e8-ed1e-4b0c-888d-0815109477ba
       09-22:
         name:
           et: vastupanuvõitluse päev
           en: Resistance Fighting Day
         type: observance
+        id: 5d557b33-2772-47f6-8bb5-6d0fb825139d
       11-02:
         _name: 11-02
         type: observance
+        id: 7c284965-a18d-43ea-961b-87109756137f
       2nd sunday in November:
         _name: Fathers Day
         type: observance
+        id: 0cb5aebd-fc00-4e1d-b35a-d01ed4086115
       11-16:
         name:
           et: taassünni päev
           en: Day of Declaration of Sovereignty
         type: observance
+        id: 33c823a0-5770-4ef5-97e2-656b2fc0def9
       12-24:
         _name: 12-24
+        id: be0810ad-b209-45ac-9f09-3aa481806626
       12-25:
         _name: 12-25
+        id: 2364b3a7-89ca-4c1a-82d1-43d121cf1007
       12-26:
         _name: 12-26
-    # states:
-    # '37':
-    #   name: Harju
-    # '39':
-    #   name: Hiiu
-    # '44':
-    #   name: Ida-Viru
-    # '49':
-    #   name: Jõgeva
-    # '51':
-    #   name: Järva
-    # '57':
-    #   name: Lääne
-    # '59':
-    #   name: Lääne-Viru
-    # '65':
-    #   name: Põlva
-    # '67':
-    #   name: Pärnu
-    # '70':
-    #   name: Rapla
-    # '74':
-    #   name: Saare
-    # '78':
-    #   name: Tartu
-    # '82':
-    #   name: Valga
-    # '84':
-    #   name: Viljandi
-    # '86':
-    #   name: Võru
+        id: dce091e2-44dc-402e-a3e0-7439147fc361

@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Trinidad_and_Tobago
 holidays:
   TT:
     names:
@@ -12,126 +11,130 @@ holidays:
       01-01 and if Sunday then next Monday:
         substitute: true
         _name: 01-01
+        id: 8716a232-94d0-4813-a732-7af9de10cdf5
       easter -2:
         _name: easter -2
+        id: b6be8441-23b3-4775-9d76-61391ee33e00
       easter:
         _name: easter
+        id: 767a53ce-3618-46b1-83b1-8ef7d0b36a7a
       easter 1:
         _name: easter 1
         type: observance
+        id: b78b4d13-4a6d-43f2-98c2-a91f5ef8835f
       03-30 and if Sunday then next Monday:
         substitute: true
         name:
           en: Spiritual Baptist Liberation Day
+        id: 86f7d23a-1b84-4860-8820-49edc60cfdac
       easter 60:
         _name: easter 60
+        id: 96223d83-73bd-4953-ad53-29a2718f5226
       05-30 and if Sunday then next Monday:
         substitute: true
         name:
           en: Indian Arrival Day
+        id: 0c9c5c2c-8aec-4b2c-ac14-aaf94533f1d6
       06-19 and if Sunday then next Monday:
         substitute: true
         _name: 05-01
+        id: 192cb2e9-f20e-458b-a1ad-818dbf11908d
       08-01 and if Sunday then next Monday:
         substitute: true
         name:
           en: Emancipation Day
+        id: 9c010563-2361-48d1-a381-63eb5ecae8e3
       08-31 and if Sunday then next Monday:
         substitute: true
         _name: Independence Day
+        id: e54badef-b88a-4939-b2c7-b5481fe188c6
       09-24 and if Sunday then next Monday:
         substitute: true
         name:
           en: Republic Day
+        id: 91ea1bd1-7f34-436c-828b-337ecfd99410
       12-25 and if Sunday then next Tuesday:
         substitute: true
         _name: 12-25
+        id: afe16e81-593e-48de-9c8b-cc37055a9b52
       12-26 and if Sunday then next Monday:
         substitute: true
         _name: 12-26
+        id: 18c3995a-3443-430a-9b72-1d9f92ed5734
       1 Shawwal and if Sunday then next Monday:
         substitute: true
         _name: 1 Shawwal
-      # Divali
-      "2012-11-13":
+        id: da93a2dc-6aaf-4bf8-a939-88b3732a3e05
+      '2012-11-13':
         _name: Deepavali
-      "2013-11-03":
+        id: 74297b5f-0b52-40e0-b5c8-496473587d54
+      '2013-11-03':
         _name: Deepavali
-      "2013-11-04":
+        id: 69a8466e-c5d9-4701-aaa5-1a2d11a48c9f
+      '2013-11-04':
         substitute: true
         _name: Deepavali
-      "2014-10-23":
+        id: 48ce7405-e13c-458f-9ae5-969970eea4a0
+      '2014-10-23':
         _name: Deepavali
-      "2015-11-11":
+        id: 8c957cb4-02c5-459c-9228-f2127438ab5f
+      '2015-11-11':
         _name: Deepavali
-      "2016-10-29":
+        id: f0a99109-5c9f-4a55-8224-6bfc5d627103
+      '2016-10-29':
         _name: Deepavali
-      "2017-10-19":
+        id: 25d59445-b408-458e-b410-818a21dfe91d
+      '2017-10-19':
         _name: Deepavali
-      "2018-11-07":
+        id: ef6d2bcf-8fb6-4ed0-8a0b-359fc756c837
+      '2018-11-07':
         _name: Deepavali
-      "2019-10-27":
+        id: 260ecca3-20f2-4359-83e1-424ef7a53d73
+      '2019-10-27':
         _name: Deepavali
-      "2019-10-28":
+        id: 90ac842c-2df1-41d9-93db-85da0467f35e
+      '2019-10-28':
         substitute: true
         _name: Deepavali
-      "2020-11-14":
+        id: a904a757-2e41-4be8-93dc-d678cb21ad8f
+      '2020-11-14':
         _name: Deepavali
-      "2021-11-04":
+        id: 1a4c651d-bea8-4b39-b592-490afe7f0e87
+      '2021-11-04':
         _name: Deepavali
-      "2022-10-24":
+        id: efd3e382-e16b-452b-bee9-4fc04ec114a7
+      '2022-10-24':
         _name: Deepavali
-      "2023-11-12":
+        id: d3521458-bd39-4379-9c08-926ff1e423d1
+      '2023-11-12':
         _name: Deepavali
-      "2023-11-13":
+        id: 86058d1f-de3e-42fb-9c12-97a2d4d7ecd4
+      '2023-11-13':
         substitute: true
         _name: Deepavali
-      "2024-10-31":
+        id: e0ba3698-0bee-4d0a-b29f-3fab9adbd4b2
+      '2024-10-31':
         _name: Deepavali
-      "2025-10-20":
+        id: 12e2a980-9608-4c00-b326-8047fd1a13d4
+      '2025-10-20':
         _name: Deepavali
-      "2026-11-08":
+        id: 3e53662c-cdfd-4ac6-be93-8afde1bad4a4
+      '2026-11-08':
         _name: Deepavali
-      "2026-11-09":
+        id: 3e7b96df-ed46-42c9-8667-a923cbb0ec99
+      '2026-11-09':
         substitute: true
         _name: Deepavali
-      "2027-10-28":
+        id: db261511-b01d-488b-bc26-e9051170a620
+      '2027-10-28':
         _name: Deepavali
-      "2028-10-17":
+        id: bbe53256-bb5e-4619-b60c-a45979c3db88
+      '2028-10-17':
         _name: Deepavali
-      "2029-11-05":
+        id: 624aeffa-f5e9-4ed2-bf0e-e106b9747c84
+      '2029-11-05':
         _name: Deepavali
-      "2030-10-25":
+        id: 8a825ba4-e4c7-4565-a400-fa1ed2c5752b
+      '2030-10-25':
         _name: Deepavali
-
-    # states:
-    #   ARI:
-    #     name: Arima
-    #   CHA:
-    #     name: Chaguanas
-    #   CTT:
-    #     name: Couva-Tabaquite-Talparo
-    #   DMN:
-    #     name: Diego Martin
-    #   MRC:
-    #     name: Mayaro-Rio Claro
-    #   PED:
-    #     name: Penal-Debe
-    #   POS:
-    #     name: Port of Spain
-    #   PRT:
-    #     name: Princes Town
-    #   PTF:
-    #     name: Point Fortin
-    #   SFO:
-    #     name: San Fernando
-    #   SGE:
-    #     name: Sangre Grande
-    #   SIP:
-    #     name: Siparia
-    #   SJL:
-    #     name: San Juan-Laventille
-    #   TOB:
-    #     name: Tobago
-    #   TUP:
-    #     name: Tunapuna-Piarco
+        id: 39744601-c7c9-4878-b6bb-65e5e2211813

@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://fr.wikipedia.org/wiki/Cameroun
   CM:
     names:
       fr: Cameroun
@@ -13,46 +12,35 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 1cd101dc-9be0-4e38-bab4-333f7361ad3f
       02-11:
         name:
           fr: Fête de la Jeunesse
           en: Youth Day
+        id: a1a3392b-a53e-4bf8-ad1f-0f6bc62f11d6
       easter -2:
         _name: easter -2
+        id: 5bfd3ba2-8794-49c9-ae52-841bf445420b
       05-01 if sunday then next monday:
         _name: 05-01
+        id: 9cdb525e-f612-4013-be92-d98ca08a2fa4
       05-20:
         name:
           fr: Fête nationale ou de l'unité
           en: National Day
+        id: 1226c5a7-3c87-468b-af96-b74b61167ff4
       easter 39:
         _name: easter 39
+        id: a9328885-94cb-44e9-9239-e42a5c12dfca
       08-15:
         _name: 08-15
+        id: 99258578-4a6a-418f-8150-45cb55b17e1b
       12-25:
         _name: 12-25
+        id: 5a696668-e9f8-4ead-97ba-2b994adcc910
       1 Shawwal:
         _name: 1 Shawwal
+        id: 11498d60-f859-4eb6-b8d1-efef2e73d680
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-    # states:
-    # AD:
-    #   name: Adamawa
-    # CE:
-    #   name: Centre
-    # EN:
-    #   name: Far North
-    # ES:
-    #   name: East
-    # LT:
-    #   name: Littoral
-    # 'NO':
-    #   name: North
-    # NW:
-    #   name: Northwest
-    # OU:
-    #   name: West
-    # SU:
-    #   name: South
-    # SW:
-    #   name: Southwest
+        id: e4df3c5a-8214-4e61-97ae-33bb9d3a44f0

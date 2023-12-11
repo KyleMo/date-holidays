@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Puerto_Rico
 holidays:
   PR:
     names:
@@ -9,46 +8,55 @@ holidays:
     zones:
       - America/Puerto_Rico
     dayoff: sunday
-    # Puerto Rico follows US public holidays
     _days: US
     days:
       01-06:
         _name: 01-06
+        id: 6f3270ee-dc3d-4840-99c3-eefc511382e9
       2nd Monday in January:
         name:
           es: Natalicio de Eugenio María de Hostos
           en: Birthday of Eugenio María de Hostos
+        id: 8d54d045-802c-46d2-9cb2-af37427f59bb
       02-18:
         name:
           es: Natalicio de Luis Muñoz Marín
           en: Birthday of Luis Muñoz Marín
+        id: 69155a66-d18c-4ede-833b-51ca9a2374f6
       03-02 since 2017:
         name:
           es: Día de la Ciudadanía Americana
           en: American Citizenship Day
-      # Saint Patrick's Day is not observed
-      03-17: false
+        id: 8e5e0260-7c7f-4aa0-836e-9af0f48c5066
+      03-17:
+        id: b77bb976-3f77-4a48-85c4-1fd43a603e6c
       03-22:
         name:
           es: Día de la Abolición de Esclavitud
           en: Emancipation Day
+        id: c938dec9-ecac-4799-a4f2-936d712fd3c4
       04-16:
         name:
           es: Natalicio de José de Diego
           en: Birthday of José de Diego
+        id: a69cc4ba-1d41-4b59-8416-f20e5bca9f52
       3rd Monday in July:
         name:
           es: Natalicio de Don Luis Muñoz Rivera
           en: Birthday of Don Luis Muñoz Rivera
+        id: b357da32-c252-4d64-83e1-96f0d74f93cf
       07-25:
         name:
           es: Constitución de Puerto Rico
           en: Puerto Rico Constitution Day
+        id: d9ddb029-961f-4c02-b6f0-a8daa360025f
       07-27:
         name:
           es: Natalicio de Dr. José Celso Barbosa
           en: Birthday of Dr. José Celso Barbosa
+        id: 7034f4bd-70d7-42ab-8e03-732c674193c3
       11-19:
         name:
           es: Día del Descubrimiento de Puerto Rico
           en: Discovery of Puerto Rico
+        id: 1ade4154-23b4-41bf-82a0-37d326150fbb

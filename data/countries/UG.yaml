@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Uganda
   UG:
     names:
       en: Uganda
@@ -12,38 +11,54 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: f392672d-462a-42c6-98ae-9e32ec04cec7
       01-26:
         name:
           en: Liberation Day
+        id: 45e1f030-9f88-4045-b690-794f761bef23
       02-16:
         name:
           en: Archbishop Janan Luwum Day
+        id: 4b98d72f-7642-4361-ad48-2a0d014e55e2
       03-08:
         _name: 03-08
+        id: d0a968d4-3efa-47c7-b761-dc4770d7c754
       easter -46:
         _name: easter -46
         type: observance
+        id: b9a1875a-2fcc-4b37-86e8-a3a80ad1959c
       easter -2:
         _name: easter -2
+        id: 660b9fb4-e805-444e-b178-1434f9f5cbed
       easter:
         _name: easter
+        id: 34d21d28-7a05-4a34-ab68-822fb5ad86fc
       easter 1:
         _name: easter 1
+        id: a25bdd4c-680a-4ee1-94ac-81ec0f69c626
       05-01:
         _name: 05-01
+        id: 5a91b0f5-98bb-445e-b0b4-e40f319d7b04
       06-03:
         name:
           en: Martyr's Day
+        id: 914dd0d7-33ce-4a32-8d3c-690b953d20a2
       06-09:
         name:
           en: National Heroes Day
+        id: 30b86650-9d4c-4097-8ba4-917f65538284
       10-09:
         _name: Independence Day
+        id: 9187eb87-2c72-448f-9ca1-1b7faedcb435
       12-25:
         _name: 12-25
+        id: 45e68cd1-9311-4f00-93a2-7714543095f5
       12-26:
         _name: 12-26
+        id: 42e92f35-5380-42b2-9038-d93d97349477
       1 Shawwal:
         _name: 1 Shawwal
+        id: 4e782954-cfb4-4780-ade0-1cfffe0a5d9c
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
+        id: a473c812-345e-447d-b964-f7985cfff5e5

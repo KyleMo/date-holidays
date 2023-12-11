@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Lithuania
   LT:
     names:
       lt: Lietuva
@@ -12,45 +11,61 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 27071747-64b8-473b-aed5-82dea5caba8d
       02-16:
         name:
           en: Day of Restoration of the State of Lithuania
           lt: Lietuvos valstybės atkūrimo diena
+        id: 22089b7f-5558-4e0e-8521-26f82ac2d369
       03-11:
         name:
           en: Day of Restoration of Independence of Lithuania
           lt: Lietuvos nepriklausomybės atkūrimo diena
+        id: d98ec299-7d8f-46ff-96d4-4d16c2893351
       easter:
         _name: easter
+        id: 777b261a-f306-42ee-ad6d-e4381c2b5bef
       easter 1:
         _name: easter 1
+        id: 701c94e4-9ed1-470a-8df0-762b51dc745e
       05-01:
         _name: 05-01
+        id: e61c821c-672f-499b-9f3f-631427e59251
       1st sunday in May:
         _name: Mothers Day
         type: observance
+        id: e2fc1154-cdc8-4c61-a386-7254e7e10626
       1st sunday in June:
         _name: Fathers Day
         type: observance
+        id: 8b12e88c-e307-4f47-b9bd-1f5b799fe676
       06-24:
         name:
           en: St. John's Day
           lt: Joninės, Rasos
+        id: e1d6a06b-185f-43fd-9156-e93711cbc36d
       07-06:
         name:
           en: Statehood Day
           lt: Valstybės diena
+        id: b0eda904-d492-4f3a-9c84-d7390d531161
       08-15:
         _name: 08-15
+        id: 3e41440d-c58a-4f16-86ae-cbe6d81de2cc
       11-01:
         _name: 11-01
+        id: f4460776-873a-44b5-ac7d-a415deeb0f76
       11-02:
         _name: 11-02
         active:
           - from: 2020
+        id: 26202f89-030e-4232-91dc-b579e736ffaf
       12-24:
         _name: 12-24
+        id: 02f94e8c-3234-42a0-a671-6cdaaf45af4b
       12-25:
         _name: 12-25
+        id: cc59f36d-a07e-4fb3-b7e2-a407a666d2e2
       12-26:
         _name: 12-26
+        id: 86c83192-978c-4ca7-b17d-4c5b54d866b8

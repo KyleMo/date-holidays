@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Jamaica
   JM:
     names:
       en: Jamaica
@@ -12,29 +11,40 @@ holidays:
       01-01 and if sunday then next monday:
         _name: 01-01
         substitute: true
+        id: 282ea6d1-c3e8-4897-86d3-cb391a2e01e5
       easter -46:
         _name: easter -46
+        id: a99b6a67-4b0d-4653-b68d-60bafa4da861
       easter -2:
         _name: easter -2
+        id: cbcbb10d-25c0-431e-8542-b92c6e229775
       easter:
         _name: easter
         type: observance
+        id: a95d1a4a-361c-4a4e-91c4-9d8c11822e4f
       easter 1:
         _name: easter 1
+        id: eaf82ecc-5869-4f65-9ddd-fc5a054f90d1
       05-23 if saturday,sunday then next monday:
         _name: 05-01
+        id: 3b9ffff0-c9d2-4940-b723-180395cc971a
       08-01 if sunday then next monday:
         name:
           en: Emancipation Day
+        id: 6f3ecc2b-025b-4891-8c37-7ade8ac5aad8
       08-06 and if sunday then next monday:
         _name: Independence Day
         substitute: true
+        id: 510eb3d6-9ee2-4f99-9e52-7dea3705779a
       3rd monday in October:
         name:
           en: National Heroes Day
+        id: 91b75458-0b8d-4420-9b2d-ff8c7d9f3782
       12-25 and if sunday then next tuesday:
         _name: 12-25
         substitute: true
+        id: 27f404c4-7966-4909-926c-a393d922738f
       12-26 and if sunday then next monday:
         _name: 12-26
         substitute: true
+        id: 46b3a3c6-f902-4bf0-be3e-4cb73beee495

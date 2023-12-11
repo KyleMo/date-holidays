@@ -1,7 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Venezuela
-  # @source http://www.lottt.gob.ve/ley-del-trabajo/titulo-iii/#capituloviii
-  # @source http://venciclopedia.com/index.php?title=Ley_de_Fiestas_Nacionales
   VE:
     names:
       es: Venezuela
@@ -14,85 +11,110 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 015059b4-f0ba-4192-990c-118d4a3209ed
       01-06:
         _name: 01-06
         type: observance
+        id: 338ec4a6-4ec7-4630-ac2d-45c2fd690b3b
       01-15:
         name:
           es: Día del Maestro
           en: Teacher's Day
         type: optional
         note: teachers only
+        id: b934baa7-0013-457e-a342-db3d7ddd4a39
       03-19:
         _name: 03-19
         type: observance
+        id: de2b80ae-028d-4231-a0a1-05b55e437026
       easter -48:
         name:
           en: Carnival
           es: Carnaval
+        id: ca108b96-6cdd-4481-b920-4c82dfe87f47
       easter -47:
         _name: easter -47
+        id: e6acd7f4-484b-430d-bd48-2c125eb26b5c
       easter -6 P7D:
         name:
           en: Holy Week
           es: Semana Santa
         type: observance
+        id: 6802c6bc-cebc-4d0f-a181-9a457cbfec92
       easter -3:
         _name: easter -3
+        id: ce1dd423-2b68-46a4-b817-0723a2e2a78d
       easter -2:
         _name: easter -2
+        id: 4bdec4b2-83b8-4314-a35f-f0f73d489623
       easter:
         _name: easter
+        id: 1fd1846b-933d-40e2-82e3-f4b57a6890de
       04-19:
         name:
           en: Declaration of Independence
           es: Declaración de la Independencia
+        id: a70306e1-cd23-4067-8d5e-44d3a246f9f0
       05-01:
         _name: 05-01
+        id: 396603a5-101f-4421-8348-f70a5da04762
       06-24:
         name:
           en: Battle of Carabobo
           es: Aniversario de la Batalla de Carabobo
+        id: 6c81760c-d3c2-4a53-9ab2-46dbd465169d
       07-05:
         _name: Independence Day
+        id: 4435ece4-8a74-4d72-9c42-d0ed94415e9f
       07-24:
         name:
           en: Birthday of Simón Bolívar
           es: Natalicio de Simón Bolívar
+        id: d82c3131-9b7d-4742-bb5a-23b87bbea72a
       08-03:
         name:
           en: Flag Day
           es: Día de la Bandera
         type: observance
+        id: 326fd34b-0289-4854-9e12-6ae7809d40c8
       09-11:
         name:
           en: Our Lady of Coromoto
           es: Día de Nuestra Señora de Coromoto
         type: observance
+        id: 6368e007-2839-4fe7-8e6a-c1d4de170abb
       10-12:
         name:
           en: Day of Indigenous Resistance
           es: Día de la resistencia indígena
+        id: bc0d69d6-f7b1-42f8-9102-db57355b7967
       11-01:
         _name: 11-01
         type: observance
+        id: 95d8e8b8-13b3-49e8-8a53-02c5fff0ddac
       11-02:
         _name: 11-02
         type: observance
+        id: 9c1e0485-0bf6-4620-87a7-c05460446fcc
       12-08:
         _name: 12-08
         type: observance
+        id: f88655d3-b45c-40e5-aa25-2915ad5d0c58
       12-10:
         name:
           en: Venezuelan Air Force Day
           es: Día de la Aviación Nacional
         type: observance
+        id: 6107d7b7-1d96-4cb4-a6c1-93fe7f37a825
       12-24:
         _name: 12-24
+        id: eaafe29c-d969-43c9-8031-94cd4a9062ac
       12-25:
         _name: 12-25
+        id: 381503c0-21d9-4193-9b5a-a9da0886624d
       12-31:
         _name: 12-31
+        id: b4cc157b-3e2b-499c-9d44-a70d08aabafc
     states:
       B:
         name: Anzoátegui
@@ -100,21 +122,25 @@ holidays:
           11-14:
             name:
               es: Natalicio de José Antonio Anzoátegui
+            id: 128ce0d2-19bf-4040-8668-0d001d811ded
       G:
         name: Carabobo
         days:
           11-13:
             name:
               es: Día de la Virgen del Socorro
+            id: dd13adc7-b03e-4dd8-a034-f89c06c07251
       K:
         name: Lara
         days:
           01-14:
             name:
               es: Día de La Divina Pastora
+            id: b7f9de0d-0c3f-4588-8d64-e8b1ad161820
           05-28:
             name:
               es: Natalicio de Jacinto Lara
+            id: 71b6c987-0094-46f5-9ebf-dc3f6acc9db9
         regions:
           BA:
             name: Barquisimeto
@@ -127,12 +153,14 @@ holidays:
         days:
           03-19:
             _name: 03-19
-      N:
+            id: cdb92839-afeb-4377-a9f3-bf38219d5f82
+      'N':
         name: Monagas
         days:
           12-07:
             name:
               es: Día de Maturin
+            id: 24a5377a-484f-453f-a2ea-bc33a4250ba8
       S:
         name: Táchira
         days:
@@ -140,12 +168,15 @@ holidays:
             _name: 08-15
             name:
               es: Día de la Virgen de Consolación
+            id: 4dce5dc7-51f0-4af6-8cb4-95477d023af8
       V:
         name: Zulia
         days:
           10-24:
             name:
               es: Natalicio de Rafael Urdaneta
+            id: d30b5a09-eaa4-4f9b-87cf-2b989c0d2aba
           11-18:
             name:
               es: Día de la Virgen de la Chinita
+            id: 1c2205b9-982a-4df6-905f-25c13271194f

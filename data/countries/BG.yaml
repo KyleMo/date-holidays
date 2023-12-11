@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Bulgaria
   BG:
     names:
       bg: България
@@ -11,111 +10,71 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 6be543f3-609a-482e-bda2-3a4b769caa7e
       03-01:
         name:
           bg: Баба Марта
           en: Granny March Day
         type: observance
+        id: 1ff2cd60-f52c-425b-9a4d-dbdc1582e2ab
       03-03:
         name:
           bg: Ден на Освобождението на България от Османската Империя
           en: Liberation Day
+        id: 0134ff39-42b7-4a65-97ee-0ba4c5a693bb
       03-08:
         _name: 03-08
         type: observance
+        id: 9a2ace4e-b759-4b20-b982-3b7239bf7c12
       orthodox -2:
         _name: easter -2
+        id: 43f7507a-8aed-4875-b210-e6a7ee365ea5
       orthodox:
         _name: easter
+        id: 0bda6bdf-994c-4c98-9d91-9fff4dd6b0e1
       orthodox 1:
         _name: easter 1
+        id: cffab9ca-7ccd-4fed-936a-4592b8ca0d7d
       05-01:
         _name: 05-01
+        id: 23aa0832-376b-4463-b2a3-9044d546e899
       05-06:
         name:
           bg: Гергьовден
           en: St. George's Day
+        id: 2c3d2bdf-a1e5-44f8-9476-8fb1e334ad80
       05-07:
         name:
           bg: Ден на радиото и телевизията
           en: Radio and Television Day
         type: observance
+        id: 272c6a92-dd73-41de-ae0c-c12dbdf60157
       05-24:
         name:
           bg: Ден на азбуката, културата и просветата
           en: Bulgarian Education and Culture, and Slavonic Literature Day
+        id: fd3fd383-2df0-4f10-ab71-2cb2ebde83e8
       09-06:
         name:
           bg: Ден на съединението
           en: Unification Day
+        id: 9ee3337d-df32-4990-9acf-0dc2ee08b001
       09-22:
         _name: Independence Day
+        id: c5e16547-7960-40ed-a7f3-9223fd5ee2f8
       11-01:
         name:
           bg: Ден на народните будители
           en: Revival Leaders' Day
         type: school
+        id: 879d3b5b-288a-40f8-9b4b-1b7c0188b1e0
       12-24:
         _name: 12-24
+        id: d78bd422-617f-4678-b383-d33517e9191b
       12-25:
         _name: 12-25
+        id: 4e77c8cc-7868-44a3-aaf0-761582dd917d
       12-26:
         _name: 12-26
         type: observance
-    # states:
-    # '01':
-    #   name: Blagoevgrad
-    # '02':
-    #   name: Burgas
-    # '03':
-    #   name: Varna
-    # '04':
-    #   name: Veliko Tarnovo
-    # '05':
-    #   name: Vidin
-    # '06':
-    #   name: Vratsa
-    # '07':
-    #   name: Gabrovo
-    # 08:
-    #   name: Dobrich
-    # 09:
-    #   name: Kardzhali
-    # '10':
-    #   name: Kyustendil
-    # '11':
-    #   name: Lovech
-    # '12':
-    #   name: Montana
-    # '13':
-    #   name: Pazardzhik
-    # '14':
-    #   name: Pernik
-    # '15':
-    #   name: Pleven
-    # '16':
-    #   name: Plovdiv
-    # '17':
-    #   name: Razgrad
-    # '18':
-    #   name: Ruse
-    # '19':
-    #   name: Silistra
-    # '20':
-    #   name: Sliven
-    # '21':
-    #   name: Smolyan
-    # '22':
-    #   name: Sofia
-    # '23':
-    #   name: Sofia District
-    # '24':
-    #   name: Stara Zagora
-    # '25':
-    #   name: Targovishte
-    # '26':
-    #   name: Haskovo
-    # '27':
-    #   name: Shumen
-    # '28':
-    #   name: Yambol
+        id: 579e205b-1327-4fa4-b6a4-1d0cdc6c50cf

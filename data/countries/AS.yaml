@@ -1,4 +1,3 @@
-# @source https://www.anz.com/americansamoa/en/about-us/anz-american-samoa/country-information/public-holidays/
 holidays:
   AS:
     names:
@@ -8,34 +7,39 @@ holidays:
       - Pacific/Pago_Pago
     langs:
       - en
-    # same federal holidays as US
     _days:
       - US
-    # additional holidays
     days:
       3rd monday in February:
         name:
           en: Washington's Birthday
-      # Saint Patrick's Day is not observed
-      03-17: false
-      04-15 if friday then next monday if saturday,sunday then next tuesday: false
+        id: cd6e1d98-8faf-4bd8-861c-06e9b7ae4379
+      03-17:
+        id: 10fdd142-c8ae-4ebc-8f2d-debd1119febe
+      04-15 if friday then next monday if saturday,sunday then next tuesday:
+        id: 830f2990-c2d2-49f8-ac40-5ed31d28d54f
       04-17 and if sunday then next monday:
         name:
           en: American Samoa Flag Day
         substitute: true
+        id: 1fde7559-40ca-48b0-84a5-df68b1f4c3fa
       07-16:
         name:
           en: Manu'a Cession Day
         type: optional
         note: Goverment offices closed
+        id: 38f27557-6959-4f5e-8362-c9dafe360a82
       2nd sunday in October:
         name:
           en: White Sunday
         type: observance
         note: christian
+        id: f0a5bdac-a3fb-4c58-ae63-a61ff844650b
       12-24 12:00:
         _name: 12-24
         type: bank
+        id: 99e4301b-0a83-4c4c-af8b-cdd703965244
       12-31 12:00:
         _name: 12-31
         type: bank
+        id: ae68ef02-ae88-4a96-a18c-18e8ed5e1a62

@@ -1,8 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_the_United_States
-  # @attrib https://en.wikipedia.org/wiki/Washington%27s_Birthday
-  # @source https://www4.law.cornell.edu/uscode/html/uscode05/usc_sec_05_00006103----000-.html
-  # @source https://uscode.house.gov/view.xhtml?edition=prelim&req=granuleid%3AUSC-prelim-title5-section6103&f=treesort&num=0
   US:
     names:
       en: United States of America
@@ -44,66 +40,80 @@ holidays:
       01-01 and if sunday then next monday if saturday then previous friday:
         substitute: true
         _name: 01-01
+        id: 371c7e66-946f-4bed-aebf-9e5d94a05c18
       3rd monday in January:
         name:
           en: Martin Luther King Jr. Day
           es: Natalicio de Martin Luther King, Jr.
+        id: 15b0ee20-7451-4291-9df8-52266f117e56
       3rd monday in February:
         name:
           en: Washington's Birthday
           es: Día de los Presidentes
+        id: 2da1a576-2cfa-412e-878f-516694909dfa
       02-14:
         _name: 02-14
         type: observance
+        id: fe1517ff-df4b-450a-9539-2ac53adc3257
       03-17:
         name:
           en: St. Patrick's Day
         type: observance
+        id: a361044e-fba9-4d24-9ced-c9689cc9b319
       easter:
         _name: easter
         type: observance
+        id: de4077cd-3e34-427a-9618-4abc4b16f68e
       04-15 if friday then next monday if saturday,sunday then next tuesday:
         name:
           en: Tax Day
         type: observance
+        id: e738afef-6e81-49a6-8c15-c7f9352bfb50
       wednesday before 04-28:
         name:
           en: Administrative Professionals Day
         type: observance
+        id: 2b1346b0-3fca-4b79-8864-87f2786be635
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-      # last monday in may
+        id: aabfa63a-2b84-41ba-9790-a40e9d93861e
       monday before 06-01:
         name:
           en: Memorial Day
           es: Recordación de los Muertos de la Guerra
+        id: 0222ec3e-9d00-4724-843a-2212ff99b072
       06-19 and if sunday then next monday if saturday then previous friday since 2021:
-        # @source https://www.congress.gov/bill/117th-congress/senate-bill/475
         substitute: true
         name:
           en: Juneteenth
+        id: 1bf4aa2b-2788-46e5-8b82-d65685ef60c8
       3rd sunday in June:
         _name: Fathers Day
         type: observance
+        id: fc5daa6c-53fa-4221-a99b-3d7963fef748
       07-04 and if sunday then next monday if saturday then previous friday:
         substitute: true
         _name: Independence Day
+        id: 19d9c9dd-29b2-4b35-bae5-3357f8786185
       1st monday in September:
         _name: 05-01
+        id: 39cfc563-e713-429c-ba7f-6b54160af105
       2nd monday in October:
         name:
           en: Columbus Day
           es: Descubrimiento de América
+        id: 173aebca-8100-474a-b1bf-e4755c19c74e
       10-31 18:00:
         name:
           en: Halloween
         type: observance
+        id: 94a06783-74f1-4e2d-89de-a3910c8b6bca
       11-11:
         name:
           en: Veterans Day
           es: Día del Veterano
-      # @source https://www.federalreserve.gov/aboutthefed/k8.htm
+        id: 39d7d0d9-af88-43d9-b0d4-a79e247210a2
       substitutes 11-11 if sunday then next monday if saturday then previous friday:
         substitute: true
         name:
@@ -111,28 +121,35 @@ holidays:
           es: Día del Veterano
         type: bank
         note: Federal Government offices are closed
+        id: 94594483-9e04-44d9-9e49-8019d440903b
       tuesday after 1st monday in November every 4 years since 1848:
         name:
           en: Election Day
         type: observance
+        id: 94b060ed-f2f6-4c53-aefc-6b10b8a8a297
       4th thursday in November:
         name:
           en: Thanksgiving Day
           es: Acción de Gracias
+        id: f6ac3bac-f9cb-4a22-ace3-ca66ee3ae9c3
       friday after 4th thursday in November:
         name:
           en: Day after Thanksgiving Day
           es: Dia despues Acción de Gracias
         type: observance
+        id: c57c5bd8-9e8b-4412-b5e0-1b21267aaf9d
       12-24:
         _name: 12-24
         type: optional
+        id: 518ca7da-29b4-4259-af86-01fa918d00e9
       12-25 and if sunday then next monday if saturday then previous friday:
         substitute: true
         _name: 12-25
+        id: 92ad5f94-fa83-47f8-9b26-945165d51488
       12-31:
         _name: 12-31
         type: observance
+        id: 4d2d3503-42cf-4f63-a64b-28e5e164e8a8
     states:
       AL:
         name: Alabama
@@ -141,16 +158,20 @@ holidays:
         days:
           3rd monday in January:
             name:
-              en: "Robert E. Lee/Martin Luther King Birthday"
+              en: Robert E. Lee/Martin Luther King Birthday
+            id: d927233e-8e9e-4e03-a76b-130234ad9345
           3rd monday in February:
             name:
               en: George Washington/Thomas Jefferson Birthday
+            id: f057b338-c712-4171-bb0e-0c5b8ec370b0
           4th monday in April:
             name:
               en: Confederate Memorial Day
+            id: 9ee26ec8-a132-464c-b585-294bd16fc70c
           1st monday in June:
             name:
               en: Jefferson Davis' birthday
+            id: f00c51de-1ca1-4a38-9c30-66388b5981f7
       AK:
         name: Alaska
         zones:
@@ -164,25 +185,27 @@ holidays:
           3rd monday in February:
             name:
               en: President's Day
+            id: cb818252-2852-4cd8-8428-cd25115ec04e
           monday before April:
             name:
               en: Seward's Day
-          # @source https://gov.alaska.gov/Walker/press-room/full-proclamation.html?pr=7296
-          # @source http://time.com/4070797/alaska-indigenous-peoples-day/
-          # @source https://www.alaskapublic.org/2017/06/28/governor-walker-signs-law-recognizing-indigenous-peoples-day-in-alaska/
+            id: 6509dfcd-f896-44d2-a3d7-4c0e0b5a5b26
           2nd monday in October:
             name:
               en: Columbus Day
             active:
-              - to: "2017-01-01"
-          "2nd monday in October #1":
+              - to: '2017-01-01'
+            id: b6dd3eb3-50c4-4dc7-8d98-e5eb342e2a52
+          '2nd monday in October #1':
             name:
               en: Indigenous Peoples' Day
             active:
-              - from: "2017-01-01"
+              - from: '2017-01-01'
+            id: ac6266d5-a30b-411f-956e-a922270a368f
           10-18:
             name:
               en: Alaska Day
+            id: 38e1bdc3-f390-437a-9cb8-93b0d42527ce
       AZ:
         name: Arizona
         zones:
@@ -192,9 +215,11 @@ holidays:
           3rd monday in January:
             name:
               en: Dr. Martin Luther King Jr./ Civil Rights Day
+            id: f34ffcc4-7f29-44dd-8c37-a57611ebc692
           3rd monday in February:
             name:
               en: Lincoln/Washington Presidents' Day
+            id: 78d77fe7-c6a4-4cf4-a5bc-6426d64aeee8
       AR:
         name: Arkansas
         zones:
@@ -203,14 +228,15 @@ holidays:
           3rd monday in January:
             name:
               en: Dr. Martin Luther King Jr./Robert E. Lee's Birthdays
+            id: 5f410b67-06d2-40bb-b785-df2c1d8aa458
           3rd monday in February:
             name:
               en: George Washington's Birthday/Daisy Gatson Bates Day
+            id: f9b58388-e29d-4373-ae37-628d77b59c1e
           12-24:
             _name: 12-24
+            id: 32f2c37b-6052-4d60-b57c-7f7e95fef0f0
       CA:
-        # @source http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=6700.
-        # @source http://www.calhr.ca.gov/employees/pages/state-holidays.aspx
         name: California
         zones:
           - America/Los_Angeles
@@ -218,35 +244,39 @@ holidays:
           3rd monday in February:
             name:
               en: Presidents' Day
-          2nd monday in October: false
+            id: 93422ef6-1cae-4636-a75e-f9aa53208e3d
+          2nd monday in October:
+            id: b1176c22-3932-40d4-9469-eb2288899eca
           02-15:
             type: observance
             name:
               en: Susan B. Anthony Day
+            id: 8d207df3-a956-4fea-8540-32790564a954
           03-31 and if sunday then next monday:
             substitute: true
             name:
               en: César Chávez Day
-          # easter -2 12:00 PT3H:
-          #  _name: easter -2
+            id: aca6b7fa-7f49-4685-a73b-2967ff163da1
           05-19:
             type: observance
             name:
               en: Malcolm X Day
+            id: c993b05a-01ae-4eaa-aef8-d845dc2d6b07
           05-23:
             type: observance
             name:
               en: Harvey Milk Day
+            id: 3e0aae92-6120-4439-a40a-40d5a54c9012
           friday after 4th thursday in November:
             name:
               en: Day after Thanksgiving Day
             type: public
+            id: 918fbbbd-68cb-4859-bef1-f8afde8d8f07
         regions:
           LA:
             name: Los Angeles
             days:
               08-24:
-                # reference: http://www.latimes.com/sports/sportsnow/la-sp-kobe-bryant-day-20160823-snap-story.html
                 name:
                   en: Kobe Bryant Day
                 type: observance
@@ -260,8 +290,10 @@ holidays:
           3rd monday in February:
             name:
               en: Washington-Lincoln Day
+            id: 705491a4-4885-48f0-b664-167b27b2c259
           2nd monday in October:
             type: observance
+            id: 4040cf8c-ad04-4d86-95c7-acc1ee909316
       CT:
         name: Connecticut
         zones:
@@ -270,102 +302,106 @@ holidays:
           02-12:
             name:
               en: Lincoln's Birthday
+            id: 62384268-9a69-432f-8e37-23aea896d71d
           easter -2:
             _name: easter -2
+            id: bfbf36ac-bee6-4fa3-8ed8-72cc5096516d
       DE:
         name: Delaware
         days:
-          2nd monday in October: false
-          3rd monday in February: false
+          2nd monday in October:
+            id: 534e6f1b-cacc-4e3e-8de3-9eceadd4527e
+          3rd monday in February:
+            id: f282f917-6f1f-474d-9985-97cac778dbc4
           easter -2:
             _name: easter -2
+            id: db131440-809f-4383-8092-f8664a617c33
           friday after 4th thursday in November:
             name:
               en: Day After Thanksgiving
+            id: bbf972bf-a5cc-46bc-a5f3-cf558553b59c
           tuesday after 1st monday in November in even years:
             name:
               en: Election Day
+            id: 20735a26-428f-4c27-a6c7-75449aa47539
       DC:
         name: District of Columbia
         days:
           04-16:
             name:
               en: Emancipation Day
+            id: ef26b274-6ddc-4015-8a74-e1ecd77892f8
           2nd monday in October:
             name:
               en: Columbus Day
             active:
-              - to: "2019-10-08"
-            # https://www.cnn.com/2021/10/11/us/indigenous-peoples-day-2021-states-trnd/index.html
-          "2nd monday in October #1":
+              - to: '2019-10-08'
+            id: e910fd9c-66b6-4348-9328-9b0cb6a395d9
+          '2nd monday in October #1':
             name:
               en: Indigenous Peoples' Day
             active:
-              - from: "2019-10-09"
+              - from: '2019-10-09'
+            id: 54e65ffe-79a9-4a6d-bb56-7452711de129
       FL:
         name: Florida
         days:
-          2nd monday in October: false
-          3rd monday in February: false
+          2nd monday in October:
+            id: f6214d76-1bfb-4dac-935b-ec2293562474
+          3rd monday in February:
+            id: 1b4e94b8-6ac9-4656-8484-053bc062415f
           02-15:
             name:
               en: Susan B. Anthony Day
+            id: 27ba911f-4f8a-4431-82e2-514fad103481
           friday after 4th thursday in November:
             name:
               en: Day After Thanksgiving
+            id: b42f1e74-34e6-4d9a-91ac-f6b914b011e6
       GA:
-        # Regarding changes from Confederate to more neutral holidays, see:
-        # @source https://www.ajc.com/blog/politics/why-monday-longer-confederate-memorial-day-georgia/55scplUOZWOIbAzmMKZnXM/
-        # @source https://www.cnn.com/2015/08/09/us/georgia-confederate-memorial-holiday-feat/index.html
-        #
-        # Every Year, Georgia's coverner proclaims the dates of the next year's holidays.
-        # 2016 was when Robert E. Lee's birthday and Confederate Memorial Day
-        # both became just "State Holiday". Every year since 2012 excluding 2014:
-        # @source https://dbhdd.georgia.gov/documents/state-holidays-2012
-        # @source https://ga.gsu.edu/2013/06/11/state-holidays/
-        # @source http://team.georgia.gov/wp-content/uploads/2014/08/2015-GA-State-Holidays.pdf
-        # @source http://team.georgia.gov/wp-content/uploads/2011/06/2016-State-Holidays.pdf
-        # @source http://team.georgia.gov/wp-content/uploads/2016/08/2017-State-Holidays.pdf
-        # @source http://team.georgia.gov/wp-content/uploads/2017/07/2018-State-Holidays-memo-07.12.17.pdf
-        # @source http://team.georgia.gov/wp-content/uploads/2018/10/2019-State-Holidays-Memo-07.18.18.pdf
         name: Georgia
         days:
-          # Washington's Birthday is celebrated near Christmas in Georgia.
-          3rd monday in February: false
-          "monday before 05-01 #1":
+          3rd monday in February:
+            id: 9293296e-a710-49ae-b15c-75e75b6ad642
+          'monday before 05-01 #1':
             name:
               en: Confederate Memorial Day
             active:
-              - to: "2016-01-01"
-          "monday before 05-01 #2":
+              - to: '2016-01-01'
+            id: 9a3e5ce0-f7d2-4350-a761-881140e9e71c
+          'monday before 05-01 #2':
             name:
               en: State Holiday
             note: Known as Confederate Memorial Day prior to 2016
             active:
-              - from: "2016-01-01"
-          "friday after 4th thursday in November #1":
+              - from: '2016-01-01'
+            id: be497d57-6b6e-4be5-b9be-a620a619f0a5
+          'friday after 4th thursday in November #1':
             name:
               en: Robert E. Lee's Birthday
-            note: General Lee was born on 1807-01-19 but this holiday was traditionally observed the day after Thanksgiving.
+            note: >-
+              General Lee was born on 1807-01-19 but this holiday was
+              traditionally observed the day after Thanksgiving.
             active:
-              - to: "2016-01-01"
-          "friday after 4th thursday in November #2":
+              - to: '2016-01-01'
+            id: 84f48dea-d7ac-40d2-937f-d5fc989ee14a
+          'friday after 4th thursday in November #2':
             name:
               en: State Holiday
             note: Known as Robert E. Lee's Birtday prior to 2016
             active:
-              - from: "2016-01-01"
-
+              - from: '2016-01-01'
+            id: 9554ed6d-e19a-4dfe-b961-58131c862fbe
           12-24:
             name:
               en: Washington's Birthday
+            id: 88df4c14-e91b-4342-ba97-908527d790fb
           substitutes 12-24 if wednesday then next friday:
             substitute: true
             name:
               en: Washington's Birthday
+            id: 5d23b0cd-97a2-4d9c-acb6-947978617c0b
       HI:
-        # @source http://dhrd.hawaii.gov/state-observed-holidays/
-        # @source https://dhrd.hawaii.gov/wp-content/uploads/2012/10/State-Holidays-2016-2017.pdf
         name: Hawaii
         zones:
           - Pacific/Honolulu
@@ -373,23 +409,30 @@ holidays:
           3rd monday in February:
             name:
               en: Presidents' Day
+            id: 0665cea7-25e9-4731-8e22-89cdf1a8e7ee
           03-26 and if saturday then previous friday if sunday then next monday:
             substitute: true
             name:
               en: Prince Jonah Kuhio Kalanianaole Day
+            id: 878cad42-dda1-4848-b61e-1dba68be141f
           easter -2:
             _name: easter -2
+            id: 9a8dd7c1-0c4c-47ca-8135-3acf41fdfa1e
           06-11 and if saturday then previous friday if sunday then next monday:
             substitute: true
             name:
               en: Kamehameha Day
+            id: 484a59c3-2acd-4363-b305-788224ae3008
           3rd friday in August:
             name:
               en: Statehood Day
-          2nd monday in October: false
+            id: 97cd3339-1635-4823-b3a4-04faa2f09000
+          2nd monday in October:
+            id: 94674866-6a7c-4c96-a3fa-0007ed228a87
           tuesday after 1st monday in November in even years:
             name:
               en: General Election Day
+            id: 075a47c9-eb10-4522-a3f6-767eb4010b4c
       ID:
         name: Idaho
         zones:
@@ -398,10 +441,12 @@ holidays:
         days:
           3rd monday in January:
             name:
-              en: "Martin Luther King, Jr./ Idaho Human Rights Day"
+              en: Martin Luther King, Jr./ Idaho Human Rights Day
+            id: 3a9eca02-6ae3-492e-be6f-deaebd9cf43d
           3rd monday in February:
             name:
               en: President's Day
+            id: edcd44fa-d5cf-4dcd-9518-a9f3d106c5ee
       IL:
         name: Illinois
         zones:
@@ -410,15 +455,19 @@ holidays:
           02-12:
             name:
               en: Lincoln's Birthday
+            id: b7056386-5cf0-4682-8f2f-671230c46f9a
           1st monday in March:
             name:
               en: Casimir Pulaski Day
+            id: 7d2c7c1a-0b94-4c10-9389-d45eb0cf324c
           05-19:
             name:
               en: Malcolm X Day
+            id: 67ca102e-5b7b-49e0-a88a-c9ca755dcd3c
           tuesday after 1st monday in November in even years:
             name:
               en: Election Day
+            id: f542c955-421f-4fda-bd37-bce99161bc83
       IN:
         name: Indiana
         zones:
@@ -433,15 +482,19 @@ holidays:
         days:
           easter -2:
             _name: easter -2
+            id: deae55f3-def5-407c-b5f2-10c2c3e57c48
           tuesday after 1st monday in May:
             name:
               en: Primary Election Day
+            id: 61a4c2c3-7223-410e-9ef0-1f0d5e204bc0
           tuesday after 1st monday in November:
             name:
               en: Election Day
+            id: c9508e24-c97a-46ef-9a62-b3835bd50129
           friday after 4th thursday in November:
             name:
               en: Lincoln's Birthday
+            id: 09850145-afe3-4921-bfec-e314c43035c7
       IA:
         name: Iowa
         zones:
@@ -450,37 +503,44 @@ holidays:
           02-12:
             name:
               en: Lincoln's Birthday
-          # https://www.desmoinesregister.com/story/news/2018/10/08/iowa-indigenous-peoples-day-columbus-day-kim-reynolds/1565615002/
+            id: 6da74aaa-460e-460e-8a64-6dc8d3267977
           2nd monday in October:
             name:
               en: Columbus Day
             active:
-              - to: "2018-10-07"
-          "2nd monday in October #1":
+              - to: '2018-10-07'
+            id: cf5384d8-a76a-4896-abe8-69863d9df6fa
+          '2nd monday in October #1':
             name:
               en: Indigenous Peoples' Day
             active:
-              - from: "2018-10-08"
+              - from: '2018-10-08'
+            id: 3f90dc60-9bcd-468f-bab2-8182e4299a97
       KS:
         name: Kansas
         zones:
           - America/Chicago
           - America/Denver
         days:
-          3rd monday in February: false
+          3rd monday in February:
+            id: 2b9feb05-1e2b-49f9-98cf-2f277165b72c
       KY:
         name: Kentucky
         zones:
           - America/Kentucky/Louisville
           - America/Kentucky/Monticello
         days:
-          3rd monday in February: false
-          "easter -2 14:00":
+          3rd monday in February:
+            id: cc895794-07b7-41fd-88a1-891f1f814419
+          easter -2 14:00:
             _name: easter -2
+            id: 2929a968-7cab-4013-ba89-3bc40d8ba076
           12-24:
             _name: 12-24
+            id: 559e39a6-7887-4e42-88c5-096fd679f5d3
           12-31:
             _name: 12-31
+            id: 9cb37626-3063-44a4-af94-6eab7e76c9d0
       LA:
         name: Louisiana
         zones:
@@ -488,11 +548,13 @@ holidays:
         days:
           easter -2:
             _name: easter -2
+            id: 7045a40e-db53-45af-86e1-23ac2fa59825
           tuesday after 1st monday in November in even years:
             name:
               en: Election Day
+            id: 58eced25-3019-42d3-9199-aa9faa8508b2
         regions:
-          NO:
+          'NO':
             name: New Orleans
             days:
               easter -47:
@@ -507,15 +569,17 @@ holidays:
           3rd monday in February:
             name:
               en: Washington's Birthday/President's Day
+            id: 68a7da35-4afa-4623-8822-9d08ba139b0a
           3rd monday in April:
             name:
               en: Patriots' Day
-          # https://www.maine.gov/governor/mills/news/governor-mills-recognizes-indigenous-peoples-day-2021-10-11
-          "2nd monday in October #1":
+            id: 67f55654-7a3f-4603-8bcc-66805c7e1762
+          '2nd monday in October #1':
             name:
               en: Indigenous Peoples' Day
             active:
-              - from: "2019-04-26"
+              - from: '2019-04-26'
+            id: c3dc6c7f-7be2-400c-9300-95b22628a4c8
       MD:
         name: Maryland
         zones:
@@ -524,12 +588,15 @@ holidays:
           3rd monday in February:
             name:
               en: President's Day
+            id: 4982a134-b0de-4932-ad24-554535f30099
           friday before 1st monday before 06-01 since 2009 and prior to 2016:
             name:
               en: Service Reduction Day
+            id: 9d86bbfd-7ae4-4c53-bbe8-a6a41cb2c9fe
           friday after 4th thursday in November:
             name:
               en: Native American Heritage Day
+            id: 987e4f36-7a1e-4b4f-a974-5749706cfca6
       MA:
         name: Massachusetts
         zones:
@@ -538,12 +605,15 @@ holidays:
           03-17:
             name:
               en: Evacuation Day
+            id: 4a3d745b-a4d4-4d6d-ba23-524108442701
           3rd monday in April:
             name:
               en: Patriots' Day
+            id: 5eb675b4-45d3-4c56-8496-e50b2ce0e281
           06-17:
             name:
               en: Bunker Hill Day
+            id: b610ebad-5817-4229-afdc-dd5e98804a8f
       MI:
         name: Michigan
         zones:
@@ -552,28 +622,31 @@ holidays:
         days:
           12-24:
             _name: 12-24
+            id: f21c6493-4d64-4599-aac8-530ed9b42ea3
           12-31:
             _name: 12-31
+            id: 55867240-64a9-41ff-bffc-b5e2a383d2b2
       MN:
         name: Minnesota
         zones:
           - America/Chicago
-        # all federal holidays
         days:
           3rd monday in February:
             name:
               en: Washington's and Lincoln's Birthday
-          # @source https://www.aol.com/article/lifestyle/2017/10/09/here-are-some-of-the-states-and-cities-celebrating-indigenous-peoples-day-instead-of-columbus-day/23237097/
+            id: 71e8b489-2b49-466b-996b-d514821a8cee
           2nd monday in October:
             name:
               en: Columbus Day
             active:
-              - to: "2017-01-01"
-          "2nd monday in October #1":
+              - to: '2017-01-01'
+            id: a0592bd5-94dc-4bff-bbde-0ddc94e0911f
+          '2nd monday in October #1':
             name:
               en: Indigenous Peoples' Day
             active:
-              - from: "2017-01-01"
+              - from: '2017-01-01'
+            id: c5387eab-382e-4523-b559-b3d0637034e9
       MS:
         name: Mississippi
         zones:
@@ -582,9 +655,11 @@ holidays:
           3rd monday in January:
             name:
               en: Martin Luther King's and Robert E. Lee's Birthdays
+            id: ceb4e0fa-d610-4b72-ac65-8b10ff35451f
           monday before 05-01:
             name:
               en: Confederate Memorial Day
+            id: b20f858d-6fd3-4300-94af-87a933ac2755
       MO:
         name: Missouri
         zones:
@@ -593,9 +668,11 @@ holidays:
           02-12:
             name:
               en: Lincoln's Birthday
+            id: 50ba5d2a-de35-4181-8954-4a8f08b0e755
           05-08:
             name:
               en: Truman Day
+            id: a4ef34b3-e871-45fa-9525-d852c7bd82f8
       MT:
         name: Montana
         zones:
@@ -604,13 +681,17 @@ holidays:
           3rd monday in February:
             name:
               en: Lincoln's and Washington's Birthday
+            id: 53d11380-cee5-4f7f-bcdc-14a05e15c95a
           tuesday after 1st monday in November:
             name:
               en: Election Day
+            id: c9daaefc-f43c-4514-ade6-1d168cffe8dd
           12-24:
             _name: 12-24
+            id: 941fee68-85c2-4953-b226-6b42203f55a4
           12-31:
             _name: 12-31
+            id: 68ca497e-5957-495a-828d-ca25987fe090
       NE:
         name: Nebraska
         zones:
@@ -620,9 +701,11 @@ holidays:
           3rd monday in February:
             name:
               en: President's Day
+            id: 6170409e-fce7-4374-80fd-721cd18a069b
           friday before 05-01:
             name:
               en: Arbor Day
+            id: 1f178dca-e911-45f7-a2ce-751a57fd37de
       NV:
         name: Nevada
         zones:
@@ -631,20 +714,24 @@ holidays:
           3rd monday in February:
             name:
               en: Presidents Day
-          2nd monday in October: false
-          # @source https://www.reviewjournal.com/news/2017-legislature/nevada-may-soon-recognize-indigenous-peoples-day/
+            id: ee2a198f-1675-4eff-84a8-dac70a258b7a
+          2nd monday in October:
+            id: c4c78c67-c36b-46f0-b362-8904bc8663a2
           08-09:
             name:
               en: Indigenous Peoples' Day
             active:
-              - from: "2017-01-01"
+              - from: '2017-01-01'
             type: observance
+            id: d92ffdf1-7455-4ab1-bbcf-0ebeb212f045
           friday before 11-01:
             name:
               en: Nevada Day
+            id: 5da18d71-6367-497c-be6b-193f73edbab3
           4th friday in November:
             name:
               en: Family Day
+            id: aaf916ee-523b-46e4-a1c7-ffce80a4d249
       NH:
         name: New Hampshire
         zones:
@@ -653,17 +740,22 @@ holidays:
           3rd monday in January:
             name:
               en: Martin Luther King, Jr./ Civil Rights Day
+            id: 13b9df81-a1e8-46f0-b874-f3883a8df9a8
           3rd monday in February:
             name:
               en: President's Day
+            id: e05fb0d6-cbac-436a-a900-265d12299f61
           2nd monday in October:
             type: observance
+            id: 570daceb-c080-44fc-8d83-fb86ad03b75a
           tuesday after 1st monday in November in even years:
             name:
               en: Election Day
+            id: 11cde66c-b57e-447e-8c1a-8e2327073b81
           friday after 4th thursday in November:
             name:
               en: Day after Thanksgiving
+            id: 54e08c45-df23-426f-a83b-9a94a18897be
       NJ:
         name: New Jersey
         zones:
@@ -672,16 +764,19 @@ holidays:
           02-12:
             name:
               en: Lincoln's Birthday
+            id: 17b965ce-7f5d-4f75-b5e6-8ac211d0aa9f
           3rd monday in February:
             name:
               en: Presidents Day
+            id: 62d029b6-3a45-4e19-b6bc-41a7840c9fee
           easter -2:
             _name: easter -2
+            id: 9463a3e1-aedd-41b8-be6a-f1e22cf4a8c4
           tuesday after 1st monday in November:
             name:
               en: Election Day
+            id: c94a18e7-41b8-4c01-940b-84e77ed1df97
       NM:
-        # @source http://www.rld.state.nm.us/uploads/files/FID%20NEW%20MEXICO%20BANK%20HOLIDAYS%202018.pdf
         name: New Mexico
         zones:
           - America/Denver
@@ -689,15 +784,17 @@ holidays:
           3rd monday in February:
             name:
               en: Presidents' Day
-          # https://www.governor.state.nm.us/2020/10/12/gov-issues-statement-as-new-mexico-celebrates-indigenous-peoples-day/
-          "2nd monday in October #1":
+            id: e98bfe42-3a24-42cc-928e-f6d183717945
+          '2nd monday in October #1':
             name:
               en: Indigenous Peoples' Day
             active:
-              - from: "2019-04-01"
+              - from: '2019-04-01'
+            id: ad73ada9-a910-45fc-a62f-06abc20ee612
           friday after 4th thursday in November:
             name:
               en: Day after Thanksgiving
+            id: b9bf6e4e-6015-4e01-a50a-60debca1c634
       NY:
         name: New York
         zones:
@@ -706,47 +803,55 @@ holidays:
           02-12:
             name:
               en: Lincoln's Birthday
+            id: 963b5ec3-308c-4fdb-a801-78f8d1e71a22
           02-15:
             name:
               en: Susan B. Anthony Day
+            id: f0d2ef09-0b91-419b-863a-97ebe4479032
           tuesday after 1st monday in November:
             name:
               en: Election Day
+            id: 6dbe0e6e-7b77-4245-bb40-842a6d39d340
       NC:
         name: North Carolina
         zones:
           - America/New_York
         days:
-          3rd monday in February: false
-          2nd monday in October: false
+          3rd monday in February:
+            id: 22798fc0-4e87-496a-b3e5-6ebb4593263f
+          2nd monday in October:
+            id: e7ce5830-ec05-4025-a180-cae7e609005d
           easter -2:
             _name: easter -2
+            id: 4252ddea-21b4-44f8-bde1-eee3533101b0
           friday after 4th thursday in November:
             name:
               en: Day after Thanksgiving
+            id: 29510f6e-e3d0-461f-85eb-83c78e4c8943
           12-24 and if friday then previous thursday if saturday,sunday then previous friday:
             substitute: true
             _name: 12-24
+            id: 1347c7f4-32c6-49d7-937a-f4160b5b75a2
       ND:
         name: North Dakota
         zones:
           - America/North_Dakota/Center
           - America/North_Dakota/New_Salem
           - America/North_Dakota/Beulah
-        # All federal holidays
         days:
           3rd monday in February:
             name:
               en: Presidents' Day
+            id: e0f5f0f9-71b0-4bdb-9a33-06d561d47050
       OH:
         name: Ohio
         zones:
           - America/New_York
-        # All federal holidays
         days:
           3rd monday in February:
             name:
               en: Washington-Lincoln Day
+            id: 68dee50b-7382-4be8-8d97-9b7751b71e68
       OK:
         name: Oklahoma
         zones:
@@ -755,18 +860,20 @@ holidays:
           3rd monday in February:
             name:
               en: Presidents' Day
+            id: b2ce56dc-3793-4338-b2c6-43c909f9cdf9
           friday after 4th thursday in November:
             name:
               en: Day after Thanksgiving
+            id: c5fdca18-eb59-4c75-bc58-cbf18ee236bb
       OR:
         name: Oregon
         zones:
           - America/Los_Angeles
-        # All federal holidays
         days:
           3rd monday in February:
             name:
               en: Presidents Day
+            id: c16319ff-fece-4053-b291-0eafe5b79c4b
       PA:
         name: Pennsylvania
         zones:
@@ -775,9 +882,11 @@ holidays:
           3rd monday in February:
             name:
               en: Presidents' Day
+            id: 87fccd99-2465-4dee-962f-076386f9db90
           06-14:
             name:
               en: Flag Day
+            id: a54f5f8b-a507-4866-8c96-eac38261fcd0
       RI:
         name: Rhode Island
         zones:
@@ -786,6 +895,7 @@ holidays:
           2nd monday in August:
             name:
               en: Victory Day
+            id: 4634ea44-5f64-4242-b0b1-4a74a3b010f2
       SC:
         name: South Carolina
         zones:
@@ -794,8 +904,10 @@ holidays:
           05-10:
             name:
               en: Confederate Memorial Day
+            id: 8f7647b7-850d-478d-874f-f0915329e860
           12-26:
             _name: 12-26
+            id: f60cd7fc-d35f-4a8e-9f2f-7ea0ccd2d197
       SD:
         name: South Dakota
         zones:
@@ -805,17 +917,19 @@ holidays:
           3rd monday in February:
             name:
               en: Presidents' Day
-          # @source https://www.argusleader.com/story/davidmontgomery/2014/10/13/native-american-day/17194651/
+            id: 9d304d70-99cf-4d5a-9568-429e5320d442
           2nd monday in October:
             name:
               en: Columbus Day
             active:
-              - to: "2015-01-01"
-          "2nd monday in October #1":
+              - to: '2015-01-01'
+            id: e7f27812-d5d9-4201-80a8-4af2ba1b8c5e
+          '2nd monday in October #1':
             name:
               en: Native American Day
             active:
-              - from: "2015-01-01"
+              - from: '2015-01-01'
+            id: 4890d3dd-67dc-422c-92eb-f051320022be
       TN:
         name: Tennessee
         zones:
@@ -825,13 +939,14 @@ holidays:
           3rd monday in February:
             name:
               en: President's Day
+            id: 04c8ed18-cd82-429c-bdf2-b924e934d3a2
           easter -2:
             _name: easter -2
+            id: cda7203f-dcd4-4ee0-b4a3-1feeba09862d
           12-24:
             _name: 12-24
+            id: ba330ea5-036f-43ea-8a7b-250e72afd7bb
       TX:
-        # @source http://www.hr.sao.state.tx.us/compensation/Holidays2015.pdf
-        # @source http://www.hr.sao.state.tx.us/compensation/Holidays2016_2017.pdf
         name: Texas
         zones:
           - America/Chicago
@@ -842,45 +957,56 @@ holidays:
               en: Confederate Heroes Day
             type: observance
             note: state agencies are partially staffed
+            id: d84fd8b7-aa88-4aa3-8808-1ecba14ebf4a
           3rd monday in February:
             name:
               en: Presidents' Day
+            id: 9b72c6d5-e018-42ca-8942-6cf834e798ea
           03-02:
             name:
               en: Texas Independence Day
             type: observance
             note: state agencies are partially staffed
+            id: 9be0633b-538c-4bf2-baed-ba3756807b47
           03-31:
             name:
               en: Cesar Chavez Day
             type: observance
+            id: 5e9e57d9-fab8-40a3-bb27-cd2d5bce198f
           easter -2:
             _name: easter -2
             type: observance
+            id: 443ae09c-ced2-418f-a6a4-4712b5985f01
           04-21:
             name:
               en: San Jacinto Day
             type: observance
             note: state agencies are partially staffed
+            id: a8414a74-5636-4f95-8a84-3e8c3e46b668
           06-19:
             name:
               en: Emancipation Day In Texas
             type: observance
             note: state agencies are partially staffed
+            id: 1955f50a-1cff-4f9f-b4fb-f9dc3aef2b32
           08-27:
             name:
               en: Lyndon Baines Johnson Day
             type: observance
             note: state agencies are partially staffed
+            id: 57021044-d51d-42f1-aca6-6d34734b60b3
           friday after 4th thursday in November:
             name:
               en: Day after Thanksgiving
+            id: db7c3ff4-99d1-43a9-a3fa-168f2c718de2
           12-24:
             _name: 12-24
+            id: 651f5927-355f-46b7-a579-c733838fe4ca
           12-26:
             _name: 12-26
             name:
               en: Day after Christmas
+            id: 7ac06932-5e58-45fd-b0c6-f0a039d73688
       UT:
         name: Utah
         zones:
@@ -889,9 +1015,11 @@ holidays:
           3rd monday in February:
             name:
               en: Washington and Lincoln Day
+            id: 0aa9e9d1-f9a2-4665-80fc-72392f487748
           07-24:
             name:
               en: Pioneer Day
+            id: 6a5428e3-d8e1-4a05-812f-c95756103af7
       VT:
         name: Vermont
         zones:
@@ -900,23 +1028,27 @@ holidays:
           3rd monday in February:
             name:
               en: Presidents' Day
+            id: 395ef2b3-78ce-42e8-b3ac-ed5484b8d8e2
           1st tuesday in March:
             name:
               en: Town Meeting Day
+            id: 244d97ea-3411-4316-ae73-0ce8a036c953
           3rd monday in August:
             name:
               en: Bennington Battle Day
-          # @source https://www.vpr.org/post/gov-scott-proclaim-oct-9-indigenous-peoples-day-year
+            id: e6936177-d380-4fec-9899-f047c7f4f157
           2nd monday in October:
             name:
               en: Columbus Day
             active:
-              - to: "2017-09-01"
-          "2nd monday in October #1":
+              - to: '2017-09-01'
+            id: 3a9c6fa0-4908-43d4-a97f-ea8dd48bb617
+          '2nd monday in October #1':
             name:
               en: Indigenous Peoples' Day
             active:
-              - from: "2017-09-01"
+              - from: '2017-09-01'
+            id: ce2652b7-a18a-4210-bfef-1de45c12070b
       VA:
         name: Virginia
         zones:
@@ -925,20 +1057,23 @@ holidays:
           3rd monday in February:
             name:
               en: George Washington Day
+            id: efaf1ed5-17a4-4341-ab96-235f5143fdb2
           friday before 3rd monday in January prior to 2021:
             name:
               en: Lee–Jackson Day
+            id: 9071949c-068a-4b7f-857c-626ea295520c
           tuesday after 1st monday in November in even years since 2020:
             name: Election Day
+            id: 60c24ac9-4cc6-4465-8d46-cbb9f97cd5d0
       WA:
         name: Washington
         zones:
           - America/Los_Angeles
-        # All federal holidays
         days:
           3rd monday in February:
             name:
               en: Presidents' Day
+            id: 81ff010f-7ae2-4f78-a9ec-515ae84d6b4a
       WV:
         name: West Virginia
         zones:
@@ -947,15 +1082,19 @@ holidays:
           02-15:
             name:
               en: Susan B. Anthony Day
+            id: fbbd8f3d-e002-49e1-9d61-32e6eb29e1bd
           3rd monday in February:
             name:
               en: President's Day
+            id: 89578e5e-fba3-4ba2-b64e-727c9ae0814d
           06-20:
             name:
               en: West Virginia Day
+            id: 0f635895-e42b-4e04-9420-1ef1ed6b944a
           4th friday in November:
             name:
               en: Lincoln's Day
+            id: 0531060c-baa6-4642-8c2b-0c2864c6c51e
       WI:
         name: Wisconsin
         zones:
@@ -964,18 +1103,21 @@ holidays:
           02-15:
             name:
               en: Susan B. Anthony Day
+            id: b4d39b2e-d948-4dd0-b3e4-bba7b1724c43
           2nd tuesday in September:
             name:
               en: Primary Election Day
+            id: 2b70113a-d2b9-464a-8786-96b6515c8a97
           tuesday after 1st monday in November:
             name:
               en: Election Day
+            id: 4bea0126-a849-4439-93c8-08b8e384b16a
       WY:
         name: Wyoming
         zones:
           - America/Denver
-        # All federal holidays
         days:
           3rd monday in February:
             name:
               en: President's Day
+            id: d91643f9-4ab0-4b78-a7c6-45017d29c70d

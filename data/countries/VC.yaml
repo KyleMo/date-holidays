@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Saint_Vincent_and_the_Grenadines
 holidays:
   VC:
     names:
@@ -12,59 +11,59 @@ holidays:
       01-01 and if Sunday then next Monday:
         substitute: true
         _name: 01-01
+        id: ce865760-1d08-4acd-b420-ac6c697df160
       03-14 and if Sunday then next Monday:
         substitute: true
         name:
           en: National Hero′s Day
+        id: 02a13bb1-089a-4fb0-9623-e48168177b92
       easter -2:
         _name: easter -2
+        id: 11e2603c-bc5d-4acb-8947-a4ff4b249814
       easter:
         _name: easter
         type: observance
+        id: cbf03e6e-a2dc-4bb6-b9cc-df7a63f03c8f
       easter 1:
         _name: easter 1
+        id: d6c48c13-2366-4405-ba50-ed0f53008906
       05-01 and if Sunday then next Monday:
         substitute: true
         _name: 05-01
+        id: 0c472100-2fc7-4e74-bada-6f164a9ee904
       easter 50:
         _name: easter 50
+        id: 6c992fe2-1fc7-4bf4-855c-7c4f2d9a2421
       1st Monday in July:
         name:
           en: Carnival Monday
         disable:
-          - "2021-06-05"
+          - '2021-06-05'
         enable:
-          - "2021-09-06"
+          - '2021-09-06'
+        id: fc3d6ed9-6c3b-4830-b372-14ea483badb2
       Tuesday after 1st Monday in July:
         name:
           en: Carnival Tuesday
         disable:
-          - "2021-06-06"
+          - '2021-06-06'
         enable:
-          - "2021-09-07"
+          - '2021-09-07'
+        id: e481e2c5-0c15-4c48-b886-1d425c01bcb4
       08-01 and if Sunday then next Monday:
         substitute: true
         name:
           en: Emancipation Day
+        id: fab26c44-84a7-4ccd-be5a-b6ad5fdf919d
       10-27 and if Sunday then next Monday:
         substitute: true
         _name: Independence Day
+        id: de04d8cf-49fe-4868-aa56-4bd1099b15cd
       12-25 and if Sunday then next Tuesday:
         substitute: true
         _name: 12-25
+        id: e3a598e7-656b-48d6-b905-e25ebc5be61e
       12-26 and if Sunday then next Monday:
         substitute: true
         _name: 12-26
-    # states:
-    #   '01':
-    #     name: Charlotte
-    #   '02':
-    #     name: Saint Andrew
-    #   '03':
-    #     name: Saint David
-    #   '04':
-    #     name: Saint George
-    #   '05':
-    #     name: Saint Patrick
-    #   '06':
-    #     name: Grenadines
+        id: 5b364384-bac4-427d-af7f-fed8b20b2068

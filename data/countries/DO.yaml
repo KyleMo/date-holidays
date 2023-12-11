@@ -1,7 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_the_Dominican_Republic
-  # @source http://www.ministeriodetrabajo.gob.do/index.php/noticias/item/ministerio-de-trabajo-publica-calendario-de-dias-feriados-del-ano-2016
-  # @source http://docs.republica-dominicana.justia.com/nacionales/leyes/ley-139-97.pdf
   DO:
     names:
       es: República Dominicana
@@ -14,128 +11,45 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 6a5a650e-89f4-41a2-95c0-bc3ce5b1b131
       01-06 if tuesday,wednesday then previous monday if thursday,friday then next monday:
         _name: 01-06
+        id: fe35ff53-beb2-4b5f-821a-223e5004037e
       01-21:
         name:
           es: Nuestra Señora de la Altagracia
           en: Our Lady of Altagracia
+        id: 4a301bae-b125-48a6-ba19-f31ab0241165
       01-26 if tuesday,wednesday then previous monday if thursday,friday then next monday:
         name:
           es: Día de Duarte
           en: Duarte's Birthday
+        id: 9e85bb0b-7e81-43f9-beb6-2e68e79f8177
       02-27:
         _name: Independence Day
+        id: 1b7b9c84-421b-448b-bf96-7fc2c1ce0a4e
       easter -2:
         _name: easter -2
+        id: d238e921-bd51-4dca-a371-bfe04dc88aaa
       05-01 if tuesday,wednesday then previous monday if thursday,friday,sunday then next monday:
         _name: 05-01
+        id: 26a43cfb-0a49-4e97-8c4f-455993877b8e
       easter 60:
         _name: easter 60
+        id: fe67c6a8-644b-4e47-87fa-cc656067d7ba
       08-16:
         name:
           es: Día de la Restauración
           en: Restoration Day
+        id: 87242b73-91d0-4c59-b9ef-6e84807b699b
       09-24:
         name:
           es: Nuestra Señora de las Mercedes
           en: Our Lady of las Mercedes
+        id: ea2d15a4-4597-46ba-8072-a2b3d0f1593b
       11-06 if tuesday,wednesday,thursday,friday,saturday then next monday:
         _name: Constitution Day
+        id: 8141e780-82af-4e30-9587-e023023f7fc7
       12-25:
         _name: 12-25
-    # states:
-    # '33':
-    #   name: Cibao Nordeste
-    #   regions:
-    #     '14':
-    #       name: María Trinidad Sánchez
-    #     '19':
-    #       name: Hermanas Mirabal
-    #     '20':
-    #       name: Samaná
-    #     '06':
-    #       name: Duarte
-    # '34':
-    #   name: Cibao Noroeste
-    #   regions:
-    #     '15':
-    #       name: Monte Cristi
-    #     '26':
-    #       name: Santiago Rodríguez
-    #     '27':
-    #       name: Valverde
-    #     '05':
-    #       name: Dajabón
-    # '35':
-    #   name: Cibao Norte
-    #   regions:
-    #     '18':
-    #       name: Puerto Plata
-    #     '25':
-    #       name: Santiago
-    #     09:
-    #       name: Espaillat
-    # '36':
-    #   name: Cibao Sur
-    #   regions:
-    #     '13':
-    #       name: La Vega
-    #     '24':
-    #       name: Sánchez Ramírez
-    #     '28':
-    #       name: Monseñor Nouel
-    # '37':
-    #   name: El Valle
-    #   regions:
-    #     '22':
-    #       name: San Juan
-    #     '07':
-    #       name: Elías Piña
-    # '38':
-    #   name: Enriquillo
-    #   regions:
-    #     '10':
-    #       name: Independencia
-    #     '16':
-    #       name: Pedernales
-    #     '03':
-    #       name: Baoruco
-    #     '04':
-    #       name: Barahona
-    # '39':
-    #   name: Higüamo
-    #   regions:
-    #     '23':
-    #       name: San Pedro de Macorís
-    #     '29':
-    #       name: Monte Plata
-    #     '30':
-    #       name: Hato Mayor
-    # '40':
-    #   name: Ozama
-    #   regions:
-    #     '32':
-    #       name: Santo Domingo
-    #     '01':
-    #       name: Distrito Nacional
-    # '41':
-    #   name: Valdesia
-    #   regions:
-    #     '17':
-    #       name: Peravia
-    #     '21':
-    #       name: San Cristóbal
-    #     '31':
-    #       name: San José de Ocoa
-    #     '02':
-    #       name: Azua
-    # '42':
-    #   name: Yuma
-    #   regions:
-    #     '11':
-    #       name: La Altagracia
-    #     '12':
-    #       name: La Romana
-    #     08:
-    #       name: El Seibo
+        id: ac064929-af51-42ae-8532-013273257f06

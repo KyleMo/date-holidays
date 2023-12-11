@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Eswatini
 holidays:
   SZ:
     names:
@@ -13,55 +12,58 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 2a197644-c903-4cf7-a19d-1d47257ddfcb
       easter -2:
         _name: easter -2
+        id: a16c0f13-60f0-4cda-ad70-b029bbcadd10
       easter:
         _name: easter
         type: observance
+        id: 2c1b776b-9d51-4777-afb2-c279cac7557e
       easter 1:
         _name: easter 1
+        id: 330e94af-9af4-4c33-9b0a-ded8a4d291e3
       04-19 and if Saturday, Sunday then next Monday:
         substitute: true
         name:
           en: Birthday of King Mswati III
+        id: 87156bed-fc22-47ef-b1a3-c4fc2fb68945
       04-25 and if Saturday, Sunday then next Monday:
         substitute: true
         name:
           en: National Flag Day
+        id: 176fa3cb-a153-465d-945a-5518766cc55c
       05-01 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: 05-01
+        id: d556457a-43f5-4ac6-8b8e-610b3f7a6d5d
       easter 39:
         _name: easter 39
+        id: b4baa0c5-33a4-4bb2-8b98-acbd1c0afce7
       07-22 and if Saturday, Sunday then next Monday:
         substitute: true
         name:
           en: Birthday of the late King Sobhuza
+        id: af7ce6de-6c52-444c-a4e7-e847c3043c0f
       1st Monday in September:
         name:
           ss: Umhlanga Reed Dance
           en: Umhlanga Reed Dance
+        id: 7184b465-aeed-425a-801b-ef82685723ad
       09-06 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: Independence Day
         name:
           ss: Somhlolo Day
+        id: 9026b139-d0aa-4b38-969d-64507a41bc2b
       12-25:
         _name: 12-25
+        id: b9e6c918-03bf-433e-bb86-cb82678df63e
       12-26 and if Sunday then next Monday:
         _name: 12-26
-      # @source https://www.thekingdomofeswatini.com/eswatini-experiences/events/incwala-festival/
+        id: 1f83530d-ece3-4776-8ee1-ccdc2ab49a80
       12-28 P6D:
         name:
           ss: Incwala
           en: Incwala Festival
-
-    # states:
-    #   HH:
-    #     name: Hhohho
-    #   LU:
-    #     name: Lubombo
-    #   MA:
-    #     name: Manzini
-    #   SH:
-    #     name: Shiselweni
+        id: 9023defb-7998-4da7-ab1a-0ca1f99b18b0

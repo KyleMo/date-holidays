@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Albania
   AL:
     names:
       sq: Shqipëri
@@ -14,61 +13,75 @@ holidays:
       01-01 and if sunday then next tuesday:
         _name: 01-01
         substitute: true
+        id: 4b695884-3676-48e2-96ab-d54c3f2e3015
       01-02 and if sunday then next monday:
         name:
           sq: Festa e Vitit të Ri
           en: New Year Holiday
         substitute: true
+        id: f079dbaf-1962-4f04-9772-243a5fa2a825
       03-02:
         name:
           sq: Dita e Besëlidhjes së Lezhës
           en: League of Lezhë day
         type: observance
+        id: 3bd12ac6-b02a-4645-8958-98b0555369c8
       03-07:
         name:
           sq: Dita e Mësuesit
           en: Teacher's Day
         type: observance
+        id: e57a89f7-36bd-48a1-baae-103e72f1af9b
       03-08:
         _name: Mothers Day
         type: observance
+        id: f1a59675-e0f7-4ac0-b09f-2a65dec1ba7c
       03-14 and if sunday then next monday:
         name:
           sq: Dita e Verës
           en: Summer Day
         substitute: true
+        id: fce60d37-220a-418e-8841-ee5663bb382b
       03-22 and if sunday then next monday:
         name:
           sq: Dita e Sulltan Nevruzit
           en: Sultan Nevruz's Day
         substitute: true
+        id: a6cf7524-7a24-48e2-bb84-9656ce530de3
       04-01:
         _name: 04-01
         type: observance
+        id: b1f8e873-9ad0-4e57-a091-3c93c932c923
       easter:
         name:
           sq: Pashkët Katolike
           en: Catholic Easter
+        id: d478d536-8a6c-432a-8faf-e2a71f618801
       easter 1:
         name:
           sq: Pashkët Katolike
           en: Catholic Easter
+        id: 78ef9450-ff85-426c-9fde-ba60f2ed9e71
       orthodox:
         name:
           sq: Pashkët Ortodokse
           en: Orthodox Easter
+        id: 7d2fc286-b1ad-4a11-87cf-03a03dc176e6
       orthodox 1:
         name:
           sq: Pashkët Ortodokse
           en: Orthodox Easter
+        id: e7580fb3-e166-4f54-8060-c7729af4fa94
       05-01 and if sunday then next monday:
         _name: 05-01
         substitute: true
+        id: 32bc2504-6bdc-4746-a5ef-b8d3d6384e99
       06-01:
         name:
           sq: Dita Ndërkombëtare e Fëmijëve
           en: Children's Day
         type: observance
+        id: c0092a80-7334-40b9-b923-515fa5ed3033
       10-19 and if sunday then next monday:
         name:
           sq: Dita e Nënë Terezës
@@ -76,17 +89,21 @@ holidays:
         substitute: true
         active:
           - from: 2004
+        id: c9bdf1d2-4a59-4885-a631-b44b00ab22e6
       11-22:
         name:
           sq: Dita e Alfabetit
           en: Alphabet Day
         type: observance
+        id: 62f522df-4a5f-4841-a947-f6477492ef0f
       11-28 and if sunday then next monday:
         _name: Independence Day
         substitute: true
+        id: 54d506d7-1d94-4afe-bf11-29c9f94ef9c5
       11-29 and if sunday then next monday:
         _name: Liberation Day
         substitute: true
+        id: 6a5dcaa4-a58f-4911-8767-25f36715d5b6
       12-08 and if sunday then next monday:
         name:
           sq: Dita Kombëtare e Rinisë
@@ -94,38 +111,19 @@ holidays:
         substitute: true
         active:
           - from: 2010
+        id: 663266d6-b37c-43ce-a264-d83c4ee81c34
       12-24:
         _name: 12-24
         type: bank
+        id: 7321f665-875b-4aa6-8a11-013fffa61edf
       12-25 and if sunday then next monday:
         _name: 12-25
         substitute: true
+        id: ced2ee25-93d7-4e85-8db8-b1e6f7a086b1
       1 Shawwal:
         _name: 1 Shawwal
+        id: 76c605bf-deba-425c-8ef3-a4231e9c36c4
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
+        id: 5909f015-770c-4abb-9450-29edf9ca4ec8
     regions: {}
-    # '01':
-    #   name: Berat County
-    # '02':
-    #   name: Durrës County
-    # '03':
-    #   name: Elbasan County
-    # '04':
-    #   name: Fier County
-    # '05':
-    #   name: Gjirokastër County
-    # '06':
-    #   name: Korçë County
-    # '07':
-    #   name: Kukës County
-    # '08':
-    #   name: Lezhë County
-    # '09':
-    #   name: Dibër County
-    # '10':
-    #   name: Shkodër County
-    # '11':
-    #   name: Tirana County
-    # '12':
-    #   name: Vlorë County

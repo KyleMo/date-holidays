@@ -1,4 +1,3 @@
-# @source http://www.president.az/pages/7/print
 holidays:
   AZ:
     names:
@@ -16,233 +15,93 @@ holidays:
       01-01 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 01-01
+        id: df15ac22-0619-4400-8e80-97bcb91e8302
       01-02 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 01-01
+        id: 564b6b3d-1fec-4a40-b643-c2f1dff8b87e
       01-20:
         name:
           az: Qara Yanvar
           en: Martyrs' Day
         type: observance
+        id: 74bdc9a8-604f-459f-be27-3f26328e0054
       03-08 and if saturday,sunday then next monday:
         substitute: true
         _name: 03-08
+        id: 6671dbce-52c7-4873-86e1-666066e707b4
       03-20:
         name:
           az: Novruz
           en: Spring Festival
         active:
           - from: 2011
+        id: 3edef43e-171b-4579-bfda-0e8a358c6d3f
       05-09 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Faşizm üzərində qələbə günü
           en: Day of Victory over Fascism
+        id: 5f5ee111-17fb-42e8-b7c1-1d0c4ba0e21f
       05-28 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Respublika günü
           en: Republic Day
+        id: e5e408e8-972f-460e-bdf8-65a105cdeae2
       06-15 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Azərbaycan xalqının Milli Qurtuluş günü
           en: National Salvation Day
+        id: 4ffd27da-5b63-485e-aaf0-4fa2a347422a
       06-26 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Azərbaycan Respublikasının Silahlı Qüvvələri günü
           en: Azerbaijan Armed Forces Day
+        id: 7d907519-867e-4e0f-bc2a-5cffe1b991ed
       10-18 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Dövlət Müstəqilliyi günü
           en: Independence Day
+        id: 6f3c3200-599c-4c92-b81d-af20ee0a2bfb
       11-09 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Dövlət Bayrağı günü
           en: Flag Day
+        id: e024f25e-82fa-4d89-a9c0-a9feb3b6f4b5
       11-12:
         name:
           az: Konstitusiya günü
           en: Constitution Day
+        id: acad4926-084a-433b-a9eb-1d31f301753e
       11-17:
         name:
           az: Milli Dirçəliş günü
           en: National Revival Day
+        id: 6ba82406-1ca2-4311-af17-546e2b133b37
       12-31 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Dünya azərbaycanlıların həmrəyliyi günü
           en: International Solidarity Day of Azerbaijanis
+        id: 5c08b38e-0e19-41ad-b053-e449ffc88d09
       1 Shawwal and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 1 Shawwal
+        id: 4fba5d29-4cc9-485a-aa4b-7f63f25c1871
       2 Shawwal and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 1 Shawwal
+        id: cf7fa16b-4081-4bf6-a6c8-fc39cd179af3
       10 Dhu al-Hijjah and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 10 Dhu al-Hijjah
+        id: 21de9ad7-a489-4d3e-ac79-1aeb058d5499
       11 Dhu al-Hijjah and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 10 Dhu al-Hijjah
-    # states:
-    # ABS:
-    #   name: Absheron
-    # AGA:
-    #   name: Agstafa
-    # AGC:
-    #   name: Aghjabadi
-    # AGM:
-    #   name: Agdam
-    # AGS:
-    #   name: Agdash
-    # AGU:
-    #   name: Agsu
-    # AST:
-    #   name: Astara
-    # BA:
-    #   name: Baku
-    # BAL:
-    #   name: Balakan
-    # BAR:
-    #   name: Barda
-    # BEY:
-    #   name: Beylagan
-    # BIL:
-    #   name: Bilasuvar
-    # CAB:
-    #   name: Jabrayil
-    # CAL:
-    #   name: Jalilabad
-    # DAS:
-    #   name: Dashkasan
-    # FUZ:
-    #   name: Fizuli
-    # GA:
-    #   name: Ganja
-    # GAD:
-    #   name: Gadabay
-    # GOR:
-    #   name: Goranboy
-    # GOY:
-    #   name: Goychay
-    # GYG:
-    #   name: Goygol
-    # HAC:
-    #   name: Hajigabul
-    # IMI:
-    #   name: Imishli
-    # ISM:
-    #   name: Ismailli
-    # KAL:
-    #   name: Kalbajar
-    # KUR:
-    #   name: Kurdamir
-    # LA:
-    #   name: Lankaran
-    # LAC:
-    #   name: Lachin
-    # LAN:
-    #   name: Lankaran District
-    # LER:
-    #   name: Lerik
-    # MAS:
-    #   name: Masally
-    # MI:
-    #   name: Mingachevir
-    # NA:
-    #   name: Naftalan
-    # NEF:
-    #   name: Neftchala
-    # NX:
-    #   name: Nakhchivan AR
-    #   regions:
-    #     BAB:
-    #       name: Babek
-    #     CUL:
-    #       name: Julfa
-    #     KAN:
-    #       name: Kangarli
-    #     NV:
-    #       name: Nakhchivan
-    #     ORD:
-    #       name: Ordubad
-    #     SAD:
-    #       name: Sadarak
-    #     SAH:
-    #       name: Shahbuz
-    #     SAR:
-    #       name: Sharur
-    # OGU:
-    #   name: Oghuz
-    # QAB:
-    #   name: Qabala
-    # QAX:
-    #   name: Qakh
-    # QAZ:
-    #   name: Qazakh
-    # QBA:
-    #   name: Quba
-    # QBI:
-    #   name: Qubadli
-    # QOB:
-    #   name: Gobustan
-    # QUS:
-    #   name: Qusar
-    # SA:
-    #   name: Shaki
-    # SAB:
-    #   name: Sabirabad
-    # SAK:
-    #   name: Shaki District
-    # SAL:
-    #   name: Salyan
-    # SAT:
-    #   name: Saatly
-    # SBN:
-    #   name: Shabran
-    # SIY:
-    #   name: Siazan
-    # SKR:
-    #   name: Shamkir
-    # SM:
-    #   name: Sumqayit
-    # SMI:
-    #   name: Shamakhi
-    # SMX:
-    #   name: Samukh
-    # SR:
-    #   name: Shirvan
-    # SUS:
-    #   name: Shusha
-    # TAR:
-    #   name: Tartar
-    # TOV:
-    #   name: Tovuz
-    # UCA:
-    #   name: Ujar
-    # XA:
-    #   name: Stepanakert
-    # XAC:
-    #   name: Khachmaz
-    # XCI:
-    #   name: Khojali
-    # XIZ:
-    #   name: Khizi
-    # XVD:
-    #   name: Khojavend
-    # YAR:
-    #   name: Yardymli
-    # YE:
-    #   name: Yevlakh
-    # YEV:
-    #   name: Yevlakh District
-    # ZAN:
-    #   name: Zangilan
-    # ZAQ:
-    #   name: Zaqatala
-    # ZAR:
-    #   name: Zardab
+        id: caa63986-29ce-4375-a035-d4a8352fa419

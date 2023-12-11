@@ -1,5 +1,4 @@
 holidays:
-  # @source http://www.trabajo.gob.hn/transparencia/regulacion/decretos-y-acuerdos-1/resoluciones-2011/REGLAMENTO%20INTERNO%20DE%20TRABAJO%20DE%20%20RESUELVA%20DE%20HONDURAS.pdf ARTICULO 24
   HN:
     names:
       es: Honduras
@@ -12,52 +11,68 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: dd6eb426-565a-4f86-ba2d-46005290f922
       03-19:
         _name: Fathers Day
         type: observance
+        id: 500570e6-ae81-4e5a-9dca-0291504ae43a
       easter -3:
         _name: easter -3
+        id: 322cff68-8d98-4aad-b840-e921acbfe2bb
       easter -2:
         _name: easter -2
+        id: 03bddb48-baf1-4dec-a7e8-6382add0ceac
       easter:
         _name: easter
         type: observance
+        id: 6f655158-2447-4373-bf45-a7341161c9fa
       04-14:
         name:
           es: Día de las Américas
+        id: e554a458-998f-4a16-bffb-e3b44f7ce292
       05-01:
         _name: 05-01
+        id: a59b5e55-4c45-4a1a-b9e1-3db895d25d72
       2nd monday in May:
         _name: Mothers Day
         type: observance
+        id: f423583b-4672-467c-a51c-c78b370002e1
       06-11:
         name:
           en: Pupil's Day
           es: Día del Estudiante
         type: observance
+        id: ada650a8-70e3-4173-8ed0-c41931398958
       09-10:
         name:
           en: Children's Day
           es: Día del Niño
         type: observance
+        id: 9b3d9819-872e-45a2-b973-03711d3b276c
       09-15:
         _name: Independence Day
+        id: 3db9ffb5-4406-440b-bf10-69e5146c8763
       09-17:
         name:
           en: Teacher's Day
           es: Día del Maestro
         type: observance
+        id: 1d87e805-f060-4282-b09f-9a701a93a0e8
       10-03:
         name:
           en: Soldier's Day
           es: Día del Soldado
+        id: 09dc64e2-b7aa-40bd-808c-28a2f7df6a55
       10-12:
         name:
           es: Día de la Raza
           en: Columbus Day
+        id: 03b5ed59-1f39-49fb-8e57-a80b20d5c386
       10-21:
         name:
           es: Día de las Fuerzas Armadas
           en: Armed forces Day
+        id: 0c390b19-8332-48c4-947a-584caf51e287
       12-25:
         _name: 12-25
+        id: 97dce83b-7dd8-40f1-9682-c98e6637d24e

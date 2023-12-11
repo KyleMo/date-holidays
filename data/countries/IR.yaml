@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Iran
 holidays:
   IR:
     names:
@@ -9,173 +8,136 @@ holidays:
       - en
     zones:
       - Asia/Tehran
-    dayoff: "Friday"
+    dayoff: Friday
     days:
       1 Farvardin:
         name:
           fa: نوروز
           en: Nowruz
+        id: e48d777b-f716-4206-8964-2f4d518533ac
       2 Farvardin:
         name:
           fa: نوروز
           en: Nowruz
+        id: 98057fb3-225d-47b7-bb67-764a911c4c53
       3 Farvardin:
         name:
           fa: نوروز
           en: Nowruz
+        id: 806cceec-c181-47d4-9366-0b1b54a38779
       4 Farvardin:
         name:
           fa: نوروز
           en: Nowruz
+        id: 6161306d-a2fd-4c35-a7cd-e0e86842fa17
       12 Farvardin:
         name:
           fa: روز جمهوری اسلامی
           en: Islamic Republic Day
+        id: a489df9c-3c98-4840-ba62-83547e7bbe90
       13 Farvardin:
         name:
           fa: سیزده بدر
           en: Sizdah Bedar
+        id: 18ca3792-036f-4e0b-a2f9-807feda308f2
       14 Khordad:
         name:
           fa: رﺣﻠﺖ اﻣﺎم ﺧﻤﯿﻨﯽ
           en: Imam Khomeini's Demise
+        id: 0ad27a72-497a-4611-8d30-0a397d967e74
       15 Khordad:
         name:
           fa: قیام ۱۵ خرداد
           en: Revolt of Khordad 15
+        id: 175f760b-e179-4d8b-964d-f369d7f2346e
       22 Bahman:
         name:
           fa: انقلاب اسلامی پنجاه و هفت
           en: Anniversary of Islamic Revolution
+        id: bcc64692-157c-40dc-bc6d-676d766cd30c
       29 Esfand:
         name:
           fa: ملی شدن صنعت نفت
           en: Nationalization of the Iranian oil industry
+        id: 112b8b84-3cbe-4f11-80a3-440fc3639f23
       9 Muharram:
         name:
           fa: ﺗﺎﺳﻮﻋﺎی ﺣﺴﯿﻨﯽ
           en: Tasoua
+        id: 3c174cc3-1f56-46d3-9cf2-48df5119d2ca
       10 Muharram:
         name:
           fa: ﻋﺎﺷﻮرای ﺣﺴﯿﻨﯽ
           en: Ashoura
+        id: 7c6e1bd1-1f7f-4106-b6f1-44a19b20e834
       20 Safar:
         name:
           fa: اربعین حسینی
           en: Arbaeen-e Hosseini
+        id: 6a6e9732-bb04-4bcd-bb76-b94f6bde9462
       28 Safar:
         name:
           fa: رﺣﻠﺖ ﺣﻀﺮت رﺳﻮل اﮐﺮم صلّی الله علیه وآله و سلّم
           en: Demise of Prophet Muhammad and Imam Hassan (Mujtaba)
+        id: da63486d-8cf3-49f8-bdaf-73740af1cf6a
       30 Safar:
         name:
           fa: ﺷﻬﺎدت ﺣﻀﺮت اﻣﺎم رﺿﺎ ﻋﻠﯿﻪاﻟﺴﻼم
           en: Martyrdom of Imam Reza
+        id: 2c25061a-abe3-4952-bad6-16551fba2615
       8 Rabi al-awwal:
         name:
           fa: شهادت امام حسن عسكری علیه‌السلام
           en: Martyrdom of Imam Hassan
+        id: 4e114488-ba7f-4997-a9ca-bd4a3e83a261
       17 Rabi al-awwal:
         name:
           fa: ولادت حضرت رسول اکرم صلّی الله علیه وآله و سلّم
           en: Birthday of Muhammad Prophet
+        id: 4b41b97f-f2e7-4fd6-9423-0e26ad8099db
       3 Jumada al-thani:
         name:
           fa: ﺷﻬﺎدت ﺣﻀﺮت ﻓﺎﻃﻤﻪ زﻫﺮا ﺳﻼم اﷲ ﻋﻠﯿﻬﺎ
           en: Martyrdom of Fatima-Zahara
+        id: bdc72d71-dd2b-40e7-8a4d-f2e72ad49a8f
       13 Rajab:
         name:
           fa: وﻻدت ﺣﻀﺮت اﻣﺎم ﻋﻠﯽ ﻋﻠﯿﻪ اﻟﺴﻼم
           en: Birthday of Imam Ali
+        id: a7b4e0be-ee17-4c74-bb48-b7de1df08432
       27 Rajab:
         name:
           fa: ﻣﺒﻌﺚ ﺣﻀﺮت رﺳﻮل اﮐﺮم ﺻﻠﯽ اﷲ ﻋﻠﯿﻪ و آﻟﻪ
           en: Mabaas of Muhammad
+        id: ca3ac998-9c96-402c-95b7-b3e05cb6d7c0
       15 Shaban:
         name:
           fa: وﻻدت ﺣﻀﺮت ﻗﺎﺋﻢ ﻋﺠﻞاﷲ ﺗﻌﺎﻟﯽ ﻓﺮﺟﻪ شریف
           en: Birthday of Imam Mahdi
+        id: 80a3b299-9f90-466b-bbf7-2a0cc267fede
       21 Ramadan:
         name:
           fa: ﺷﻬﺎدت ﺣﻀﺮت ﻋﻠﯽ ﻋﻠﯿﻪاﻟﺴﻼم
           en: Martyrdom of Imam Ali
+        id: c77af4f9-0af2-410c-a161-833003ef3f76
       1 Shawwal:
         _name: 1 Shawwal
+        id: 3df298b4-d8ef-4c99-b603-acd4dbb117a1
       2 Shawwal:
         name:
           fa: ﺑﻪ ﻣﻨﺎﺳﺒﺖ ﻋﯿﺪ ﺳﻌﯿﺪ ﻓﻄﺮ
           en: Holyday for Fetr Eeid
+        id: 82c3244d-a74c-49b3-9089-81a2581ad43f
       25 Shawwal:
         name:
           fa: ﺷﻬﺎدت ﺣﻀﺮت اﻣﺎم ﺟﻌﻔﺮ ﺻﺎدق ﻋﻠﯿﻪاﻟﺴﻼم
           en: Martyrdom of Imam Jafar
+        id: b8b9b21a-dc44-4b4d-929e-07cea59e6bad
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
+        id: 583358e2-3873-48ea-8957-af722e5a2af1
       18 Dhu al-Hijjah:
         name:
           fa: ﻋﯿﺪ ﺳﻌﯿﺪ ﻏﺪﯾﺮ ﺧﻢ
           en: Eid al-Ghadeer
-
-    # states:
-    #   '10':
-    #     name: Khuzestan
-    #   '11':
-    #     name: Zanjan
-    #   '12':
-    #     name: Semnan
-    #   '13':
-    #     name: Sistan and Baluchestan
-    #   '14':
-    #     name: Fars
-    #   '15':
-    #     name: Kerman
-    #   '16':
-    #     name: Kurdistan
-    #   '17':
-    #     name: Kermanshah
-    #   '18':
-    #     name: Kohgiluyeh and Boyer-Ahmad
-    #   '19':
-    #     name: Gilan
-    #   '20':
-    #     name: Lorestan
-    #   '21':
-    #     name: Mazandaran
-    #   '22':
-    #     name: Markazi
-    #   '23':
-    #     name: Hormozgan
-    #   '24':
-    #     name: Hamadan
-    #   '25':
-    #     name: Yazd
-    #   '26':
-    #     name: Qom
-    #   '27':
-    #     name: Golestan
-    #   '28':
-    #     name: Qazvin
-    #   '29':
-    #     name: South Khorasan
-    #   '30':
-    #     name: Razavi Khorasan
-    #   '31':
-    #     name: North Khorasan
-    #   '32':
-    #     name: Alborz
-    #   '01':
-    #     name: East Azerbaijan
-    #   '02':
-    #     name: West Azarbaijan
-    #   '03':
-    #     name: Ardabil
-    #   '04':
-    #     name: Isfahan
-    #   '05':
-    #     name: Ilam
-    #   '06':
-    #     name: Bushehr
-    #   '07':
-    #     name: Tehran
-    #   08:
-    #     name: Chaharmahal and Bakhtiari
+        id: e75d190b-5eae-4511-8aaa-f2f97c85c08a

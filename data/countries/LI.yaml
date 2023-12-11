@@ -1,6 +1,4 @@
 holidays:
-  # @attrib https://de.wikipedia.org/wiki/Feiertage_in_Liechtenstein#Gesetzliche_Feiertage
-  # @source http://www.llv.li/files/apo/Feiertage-und-dienstfreie-Tage-LLV.pdf
   LI:
     names:
       de: Lichtenstein
@@ -13,72 +11,97 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 05a4ead8-25f8-4e2b-b331-cfa1965c92c3
       01-02:
         name:
           de: Berchtoldstag
           en: Berchtold Day
         type: bank
+        id: e45f82ee-e571-4646-8689-5afafe48aa10
       01-06:
         _name: 01-06
+        id: c2127589-2353-4049-a5f5-bd0a43ec39b3
       02-02:
         _name: 02-02
         type: observance
+        id: b025854c-a07d-4f8a-a2b4-3299875e1326
       03-19:
         _name: 03-19
         type: observance
+        id: f5ac9a59-0a74-4add-9dcd-92375b6e1d7e
       easter -47:
         _name: easter -47
         type: bank
+        id: 6e1636e1-dd65-40e1-9255-7cfc04424fa7
       easter -2:
         _name: easter -2
+        id: e76b5bc0-a210-4b33-9169-a86799e5623e
       easter:
         _name: easter
         type: observance
+        id: b0600f1e-7435-4491-afcd-7fbb3b6c3242
       easter 1:
         _name: easter 1
+        id: 82bbfc67-8c2c-44c1-ad26-d5e5400a8ec8
       05-01:
         _name: 05-01
+        id: ec8c3218-d767-4eba-8015-93f4be1b409f
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: 5f34ca0f-0ad9-4e7b-85ed-a47d00e371a8
       easter 39:
         _name: easter 39
         name:
           de: Auffahrt
+        id: 1f13e88f-9f57-48d9-a946-1d94d16bf8fc
       easter 40:
         name:
           de: Feiertagsbrücke
+        id: 0bda345b-9be9-46fc-802f-e56ac71fa102
       easter 49:
         _name: easter 49
         type: observance
+        id: e1154d33-5551-4966-99c5-cac5a76e6006
       easter 50:
         _name: easter 50
+        id: 70f58b3c-7f53-4a95-be42-c5caeb294d66
       easter 60:
         _name: easter 60
+        id: 7e70bb3a-aaf5-4b85-9494-b52901ea5ad0
       easter 61:
         name:
           de: Feiertagsbrücke
+        id: 73fced78-3067-4488-9c3d-5cbfaf180141
       08-15:
         name:
           de: Staatsfeiertag
         type: observance
+        id: fa47bab3-87b5-496c-b744-ad35ab4f61cb
       09-08:
         name:
           de: Mariä Geburt
+        id: ebb4ec91-b876-417b-91dd-9aee9c064318
       11-01:
         _name: 11-01
         type: observance
+        id: c561c336-1fa5-4b3e-89fc-579b1fcb90f3
       12-08:
         _name: 12-08
+        id: 5480c505-bb3b-41ac-81ac-4ba3a5cc4cc9
       12-24:
         _name: 12-24
         type: bank
+        id: e19c69a0-6bd9-4559-a83a-ec47503dbc69
       12-25:
         _name: 12-25
+        id: 3804b885-10e0-473a-81f3-75a668e9bbf9
       12-26:
         _name: 12-26
         name:
           de: Stephanstag
+        id: af78a8fb-c153-40ad-86e7-f010e8ddfc72
       12-31:
         _name: 12-31
         type: bank
+        id: 2f0fb68c-a5ab-4998-8aed-539b361bda53

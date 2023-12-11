@@ -1,6 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Costa_Rica
-  # @source http://www.tse.go.cr/pdf/normativa/codigodetrabajo.pdf  ARTICULO 148
   CR:
     names:
       es: Costa Rica
@@ -13,48 +11,45 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: d5fd524e-61b3-4660-b82a-d6fe208f115c
       easter -3:
         _name: easter -3
+        id: 34554653-5d77-4c25-aaa3-3a193d3242cd
       easter -2:
         _name: easter -2
+        id: 67aa3243-fca9-4c65-ac64-e1f9e457f69a
       easter:
         _name: easter
         type: observance
+        id: c68c8a7b-7022-4154-b697-86e3ed86bd54
       04-11:
         name:
           es: Gesta Heroica de Juan Santamaría
+        id: 4430b8fc-1a4b-423d-a9da-db94b17cab99
       05-01:
         _name: 05-01
+        id: 215f43b6-cea1-4e3e-b27d-a1ea17398694
       07-25:
         name:
           en: Guanacaste Day
           es: Anexión del Partido de Nicoya
+        id: af314e2f-9256-4351-a3a8-b0b3c9d1c93e
       08-02:
         name:
           en: Our Lady of Los Ángeles
           es: Día de la Virgen de los Ángeles
+        id: 49575000-f535-4f90-b832-3e873c9c2a8d
       08-15:
         _name: Mothers Day
+        id: 6665f7a7-eb2d-46a7-90d4-e0ebac75f18d
       09-15:
         _name: Independence Day
+        id: fafd00c3-8a72-4a70-984d-9d4d9e877cf8
       10-12 if monday then previous friday:
         name:
           en: Columbus Day
           es: Día de la Raza
+        id: 6d1d4135-1642-43ee-9f74-a8a4fc980d8e
       12-25:
         _name: 12-25
-    # states:
-    # A:
-    #   name: Alajuela
-    # C:
-    #   name: Cartago
-    # G:
-    #   name: Guanacaste
-    # H:
-    #   name: Heredia
-    # L:
-    #   name: Limón
-    # P:
-    #   name: Puntarenas
-    # SJ:
-    #   name: San José
+        id: 2d248379-b56d-4cf3-be23-2d9d0553e6e6

@@ -1,5 +1,3 @@
-# @attrib https://pt.wikipedia.org/wiki/Cabo_Verde#Feriados
-# @source http://www.governo.cv/documents/dia_do_municpio_da_praia.pdf
 holidays:
   CV:
     names:
@@ -13,95 +11,65 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 1d5950b7-3a57-4d20-ba8e-a9d596ac1a33
       01-13:
         name:
           pt: Dia da Democracia
           en: Democracy Day
+        id: 835f26f4-e1f5-4516-a532-60e2fa2d40a7
       01-20:
         name:
           pt: Dia dos Heróis Nacionais
           en: Heroes' Day
+        id: 817bf6a3-7855-4e44-a991-6e656f47872f
       easter -47:
         _name: easter -47
+        id: 25180347-1ff4-41d7-9cb6-af4c973720a6
       easter -46:
         _name: easter -46
+        id: 607ce8cf-674c-419a-ac5b-24d690577054
       easter -2:
         _name: easter -2
+        id: 91af3571-454f-4a51-b27b-61f18703bc3a
       easter:
         _name: easter
         type: observance
+        id: ca872866-a0b1-4030-9ddf-45085ebd999d
       05-01:
         _name: 05-01
+        id: 15759c2f-5b46-4b53-8b71-fe1de7458cba
       06-01:
         name:
           pt: Dia das Crianças
           en: Children's Day
+        id: a862cb7d-0375-4456-ac56-06fb825f2275
       07-05:
         _name: Independence Day
+        id: 159151cd-edf7-4026-af2f-3f6f13016953
       08-15:
         _name: 08-15
         name:
           pt: Dia da Padroeira Nacional
+        id: 9d8620bd-c057-450b-996d-2cd8445987c5
       09-12:
         name:
           pt: Dia Nacional
           en: National Day
+        id: 00666008-fa7b-409e-bfb7-2d58d4f7ad65
       11-01:
         _name: 11-01
+        id: a3c5cde0-af62-4621-8c2a-e5c7efc19657
       12-25:
         _name: 12-25
+        id: 670a73d4-ab28-4646-8ebc-64f101dc3508
     states:
-      # B:
-      #   name: Barlavento Islands
-      #   regions:
-      #     BV:
-      #       name: Boa Vista
-      #     PA:
-      #       name: Paul
-      #     PN:
-      #       name: Porto Novo
-      #     RB:
-      #       name: Ribeira Brava
-      #     RG:
-      #       name: Ribeira Grande
-      #     SL:
-      #       name: Sal
-      #     SV:
-      #       name: São Vicente
-      #     TS:
-      #       name: Tarrafal de São Nicolau
       S:
         name: Sotavento Islands
         regions:
-          # BR:
-          #   name: Brava
-          # CA:
-          #   name: Santa Catarina
-          # CF:
-          #   name: Santa Catarina do Fogo
-          # CR:
-          #   name: Santa Cruz
-          # MA:
-          #   name: Maio
-          # MO:
-          #   name: Mosteiros
           PR:
             name: Praia
             days:
               05-19:
                 name:
                   pt: Dia do Município da Praia
-          # RS:
-          #   name: Ribeira Grande de Santiago
-          # SD:
-          #   name: São Domingos
-          # SF:
-          #   name: São Filipe
-          # SM:
-          #   name: São Miguel
-          # SO:
-          #   name: São Lourenço dos Órgãos
-          # SS:
-          #   name: São Salvador do Mundo
-          # TA:
-          #   name: Tarrafal
+        days: {}

@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Mauritania
 holidays:
   MR:
     names:
@@ -9,54 +8,31 @@ holidays:
       - fr
     zones:
       - Africa/Abidjan
-    dayoff: ""
+    dayoff: ''
     days:
       01-01:
         _name: 01-01
+        id: 5faa14fd-a0e8-4656-bcb1-7a3585ab15cc
       05-01:
         _name: 05-01
+        id: 660a904e-1771-4632-b4ba-7fa53cf24ab0
       05-25:
         name:
           ar: يوم افريقيا
           en: Africa Day
+        id: 0f6f49ca-dc48-43f3-98f4-daf424185800
       11-28:
         _name: Independence Day
+        id: 1adce402-336e-44d3-972c-ec7883ed967b
       1 Muharram:
         _name: 1 Muharram
+        id: 8f2ea423-042e-41a8-ab3e-0d25dd2399fe
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: e780d9d8-afca-494a-bfaa-7922e48410c4
       1 Shawwal:
         _name: 1 Shawwal
+        id: 945aa1b7-194c-4ea9-a2d1-cd1d2745bbc1
       10 Dhu al-Hijjah P3D:
         _name: 10 Dhu al-Hijjah
-    # states:
-    #   '10':
-    #     name: Guidimaka
-    #   '11':
-    #     name: Tiris Zemmour
-    #   '12':
-    #     name: Inchiri
-    #   '13':
-    #     name: Nouakchott Ouest
-    #   '14':
-    #     name: Nouakchott Nord
-    #   '15':
-    #     name: Nouakchott Sud
-    #   '01':
-    #     name: Hodh Ech Chargui
-    #   '02':
-    #     name: Hodh El Gharbi
-    #   '03':
-    #     name: Assaba
-    #   '04':
-    #     name: Gorgol
-    #   '05':
-    #     name: Brakna
-    #   '06':
-    #     name: Trarza
-    #   '07':
-    #     name: Adrar
-    #   08:
-    #     name: Dakhlet Nouadhibou
-    #   09:
-    #     name: Tagant
+        id: 12ed46fc-c214-4b46-82fe-bd165c6cdad3

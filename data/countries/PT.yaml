@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://de.wikipedia.org/wiki/Portugal#Feiertage
   PT:
     names:
       pt: Portugal
@@ -14,45 +13,62 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 7ff092b7-d84f-42f6-8b85-caf63e2cc9ae
       easter -47:
         _name: easter -47
         type: observance
+        id: a3bf0604-d2eb-426c-a53b-6131b161a725
       easter -2:
         _name: easter -2
+        id: 350e0cdd-bf61-497d-a9f0-a52fb55514ac
       easter:
         _name: easter
+        id: 833faee4-bb34-473f-b295-baed53994ecd
       04-25:
         name:
           pt: Dia da Liberdade
           en: Liberty Day
+        id: cd05e1f8-e31c-4164-a057-8740c5fdb4bf
       05-01:
         _name: 05-01
+        id: 93bdfbb0-6609-4575-acfd-6bcabf4d64a7
       1st sunday in May:
         _name: Mothers Day
         type: observance
+        id: 58f3dc59-bfa0-4b4e-b04c-e0acabca2f69
       easter 60:
         _name: easter 60
+        id: d483b3dd-f65e-40a3-a4f1-d6c81b6e16b4
       06-10:
         name:
           pt: Dia de Portugal
           en: Portugal Day
+        id: f386078d-e462-481d-9353-0fd310cbd720
       08-15:
         _name: 08-15
+        id: 74912c31-2c62-49c6-93bb-653a4a8df3df
       10-05:
         name:
           pt: Implantação da República
+        id: 5d2f28f9-5948-4d29-9ef1-857379829827
       11-01:
         _name: 11-01
+        id: e2e2ea60-cff4-482d-b49d-dadfaf993298
       12-01:
         name:
           pt: Restauração da Independência
+        id: a8434b1c-aa46-4089-8ba0-5ce098647b50
       12-08:
         _name: 12-08
+        id: 709c9662-61d3-4e24-bdcf-370967c91636
       12-24:
         _name: 12-24
         type: observance
+        id: 7b123d89-eb03-4cdd-98cf-8cbc82976552
       12-25:
         _name: 12-25
+        id: 37877041-6da3-4fa7-84b3-c6b4a453339c
       12-31:
         _name: 12-31
         type: observance
+        id: f89430bd-70f8-44c7-b644-b5d19af1c224

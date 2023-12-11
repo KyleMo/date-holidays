@@ -1,6 +1,4 @@
 holidays:
-  # @source http://www.ab.gov.ag/detail_page.php?page=4
-  # @source http://www.laws.gov.ag/acts/2005/a2005-8.pdf
   AG:
     names:
       en: Antigua & Barbuda
@@ -16,56 +14,55 @@ holidays:
       01-01 and if sunday then next monday:
         substitute: true
         _name: 01-01
+        id: 510918bd-f225-469a-b358-246c907de016
       easter -2:
         _name: easter -2
+        id: 3257d2ed-221c-461a-954c-e257126b4f2f
       easter:
         _name: easter
         type: observance
+        id: 69ea4719-94c6-40ab-ac96-4dfc9d8663aa
       easter 1:
         _name: easter 1
+        id: 376dcb7d-787c-41be-bde8-326c19ca990e
       05-01:
         _name: 05-01
+        id: 03eb33da-2246-4bcd-97a3-59d506e92494
       easter 49:
         _name: easter 49
         type: observance
+        id: 27f87e19-372e-4391-938f-fd65e1f82110
       easter 50:
         _name: easter 50
+        id: 2f241e96-a0be-481f-b56e-4ae5fb0bb38b
       08-01:
         name:
           en: J'Ouvert Morning
+        id: 1003e718-2c0e-4c56-894d-74f6c5a29bfe
       08-02:
         name:
           en: Last Lap
+        id: 67cd7c67-2909-4aa4-a5fb-31ffc7f44d68
       11-01 if saturday,sunday then next monday:
         _name: Independence Day
+        id: 541b9bab-7ccf-4703-a2cd-469ebb2471ed
       12-09:
         name:
           en: V.C Bird Day
+        id: 63c06b14-3f1a-4ea9-b72a-9b5c0f3e545a
       12-25 and if saturday then next monday if sunday then next tuesday:
         _name: 12-25
         substitute: true
+        id: 14708164-45c5-4e03-a800-58aeec027bd6
       12-26 and if sunday then next monday:
         _name: 12-26
         substitute: true
+        id: 9d3cdd4c-e21b-4005-b048-0ec9867b2b63
     regions:
-      # '3':
-      #   name: Saint George
-      # '4':
-      #   name: Saint John
-      # '5':
-      #   name: Saint Mary
-      # '6':
-      #   name: Saint Paul
-      # '7':
-      #   name: Saint Peter
-      # '8':
-      #   name: Saint Philip
-      "10":
+      '10':
         name: Barbuda
         days:
           easter 47 P4D:
             name:
               en: Caribana
             type: observance
-      # '11':
-      #   name: Redonda

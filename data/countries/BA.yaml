@@ -1,5 +1,3 @@
-# @source http://www.mhrr.gov.ba/PDF/LjudskaPrava/The%20Fourt%20Report%20of%20BH%20on%20implementation%20of%20the%20ESCR.pdf
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Bosnia_and_Herzegovina
 holidays:
   BA:
     names:
@@ -18,82 +16,99 @@ holidays:
       01-01 and if sunday then next tuesday:
         _name: 01-01
         substitute: true
+        id: 9285b5aa-f6ee-4078-a275-090ac0873a28
       01-02 and if sunday then next monday:
         name:
           en: 2nd day of the New Year
           bs: Drugi dan Nove Godine
         substitute: true
+        id: c32ef8e4-8cb7-4454-89a5-76520e3c2072
       05-01 and if sunday then next tuesday:
         _name: 05-01
         substitute: true
+        id: 19aaf9a5-d4fe-43fa-8dca-219928f4e2ea
       05-02 and if sunday then next monday:
         name:
           en: 2nd day of the Labour Day
           bs: Drugi dan Dana rada
         substitute: true
-      # Catholic
-      # note: public holiday in counties and municipalities in which Croats are majority
+        id: 748d2acf-5d4a-4bf4-aa56-6502c40a5be1
       01-06:
         _name: 01-06
+        id: 821899ce-d388-4f45-8143-b1ea78a6fedf
       easter:
         _name: easter
+        id: 9d6211cf-840c-46a2-862a-1d5b2bff3ec1
       easter 1:
         _name: easter 1
+        id: f7be33e9-e28b-437b-9c57-404d09eadf03
       easter 60:
         _name: easter 60
+        id: 720b51e8-4f61-4084-844d-4e7d60db03c5
       08-15:
         _name: 08-15
+        id: 3f911e72-1773-47d8-89e0-534ba7574fdb
       11-01:
         _name: 11-01
+        id: 551b1e93-95b1-4feb-bf64-d80483ff0dd5
       11-02:
         _name: 11-02
+        id: c101c6a2-5369-47db-99d5-a4c57fd34173
       12-25:
         _name: 12-25
+        id: b74cde16-af29-41d7-bec6-1e9992f30b41
       12-26:
         _name: 12-26
-      # Orthodox
-      # public holiday in municipalities in which Serbs are majority
+        id: a152a903-68fa-4bdc-9a2c-942653ae4c89
       julian 01-01:
         _name: julian 01-01
+        id: 2ca20ea7-eed6-4a80-959b-4ba608173fb4
       orthodox:
         _name: orthodox
+        id: a8233db7-a30f-400a-b6b9-f12d2cb0bf72
       julian 08-15:
         _name: 08-15
         note: orthodox
+        id: e4f6f159-a813-4d04-94b7-faf981c4f091
       julian 12-25:
         _name: julian 12-25
-      # Muslim
-      # note: public holiday in counties and municipalities in which Bosniaks are majority
+        id: 3c41278f-b1f6-4864-b376-90a98182528c
       1 Muharram:
         _name: 1 Muharram
+        id: 4e9659cf-bcdc-4eb9-b310-7983b62361aa
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: 3509ec36-3400-4aca-b6de-79b165893dfc
       10 Dhu al-Hijjah P4D:
         _name: 10 Dhu al-Hijjah
+        id: 35c3971f-bc13-4d48-acee-9b3c81f00719
       1 Shawwal P3D:
         _name: 1 Shawwal
+        id: 3f8aa783-08e9-4000-930e-a4745f117511
     states:
       BIH:
         name: Federation of Bosnia and Herzegovina
         days:
           03-01:
             _name: Independence Day
+            id: 585601ad-fe7c-42b9-8780-444cc045afe8
           11-25:
             name:
               en: Statehood Day
               bs: Dan državnosti
+            id: 92b8a8a8-df40-4f62-b1da-7007dd16f5a9
         regions:
           W:
             name: Western Herzegovina
             days:
               11-25: false
-              # This holiday is celebrated in all counties of the Federation of Bosnia and Herzegovina except in the County of Western Herzegovina
       BRC:
         name: Brčko District
         days:
           03-08:
             name:
               en: Day of the Establishment of the District
+            id: 0e9dfac2-77ae-4c20-9984-7eb3fe97ba66
       SRP:
         name: Republika Srpska
         days:
@@ -101,11 +116,16 @@ holidays:
             name:
               en: Republic Day
               bs: Dan Republike
+            id: cd47e976-f52a-4b5b-b0a1-4a64efd1e498
           05-09:
             name:
               en: Victory Day
               bs: Dan pobjede
+            id: 5262604c-164b-4eb5-b9a7-b04955341790
           11-21:
             name:
               en: Dayton Agreement Day
-              bs: Dan uspostave Opšteg okvirnog sporazuma za mir u Bosni i Hercegovini
+              bs: >-
+                Dan uspostave Opšteg okvirnog sporazuma za mir u Bosni i
+                Hercegovini
+            id: 3d2fdec4-d447-4e22-8be0-528dd8ca13ba

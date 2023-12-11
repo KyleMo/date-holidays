@@ -1,148 +1,177 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Norway
-  # @source https://no.wikipedia.org/wiki/Arbeidernes_internasjonale_kampdag
-  # @source https://no.wikipedia.org/wiki/17._mai_(grunnlovsdag)
-  # @source https://no.wikipedia.org/wiki/P%C3%A5skeaften
-  # @source https://www.timeanddate.com/holidays/norway/2023
-  # @attrib https://no.wikipedia.org/wiki/Norges_offisielle_flaggdager
-  # @attrib https://no.wikipedia.org/wiki/Allehelgensaften
-  # @attrib https://no.wikipedia.org/wiki/Advent
-  NO:
+  'NO':
     names:
-      no: Norge
+      'no': Norge
       en: Norway
     dayoff: sunday
     langs:
-      - no
+      - 'no'
     zones:
       - Europe/Oslo
     days:
       01-01:
         _name: 01-01
+        id: e3ea936e-10cf-474b-8d73-3fba1696ba9a
       01-21:
         name:
-          no: H.K.H. prinsesse Ingrid Alexandra
+          'no': H.K.H. prinsesse Ingrid Alexandra
           en: Birthday of Princess Ingrid Alexandra
         type: observance
+        id: 7282dac7-b305-4d81-a6aa-af24045d7686
       02-06:
         name:
-          no: Samefolkets dag
+          'no': Samefolkets dag
           en: Day of the Sami people
         type: observance
+        id: 950b7da6-5af9-44af-ae30-9473ed3c7a48
       2nd sunday in February:
         _name: Mothers Day
         type: observance
+        id: 023a6040-f872-4cc0-a41c-d60b387c691f
       02-14:
         _name: 02-14
         type: observance
+        id: c62fd18e-63ec-4763-b6f2-f9497f509bb7
       02-21:
         name:
-          no: H.M. kong Harald V
+          'no': H.M. kong Harald V
           en: Birthday of King Harald V
         type: observance
+        id: 56614ebd-e3e9-4533-86f2-cf91fb329714
       easter -49:
         name:
-          no: Fastelavn
+          'no': Fastelavn
           en: Carnival
         type: observance
+        id: a9c70ef1-b3cf-4493-9bad-a17003ce0452
       easter -46:
         _name: easter -46
         type: observance
+        id: eaf5f8bd-f026-4dc4-950a-e196499fff06
       03-08:
         _name: 03-08
         type: observance
+        id: 350e4662-a755-4247-baa0-f5e87e65a5fd
       easter -7:
         _name: easter -7
         type: observance
+        id: 8c9635af-2a89-4d0b-891a-b68e914d341d
       easter -3:
         _name: easter -3
+        id: 558c593e-8fbf-4b4f-8cce-cb2550706e29
       easter -2:
         _name: easter -2
+        id: 26ff09bc-8f68-489a-9171-acbf9aeb4908
       easter:
         _name: easter
+        id: 573fe8a5-ca20-41cf-b3f6-841dec2bcbbe
       easter 1:
         _name: easter 1
+        id: 9af5256d-d478-42d4-b940-e1c67fb2885b
       04-01:
         _name: 04-01
         type: observance
+        id: 63a5bcdd-6276-4d95-b22a-a81961712de0
       05-01:
         _name: 05-01
+        id: e6ec6aac-b000-429f-af3c-84d692e24502
       05-08:
         _name: Liberation Day
         type: observance
+        id: 52861c04-3e07-4769-b75d-da4fde07c6ac
       05-17:
         _name: Constitution Day
+        id: 8f55d760-5e3d-4765-9d8f-05bdce7ba041
       easter 39:
         _name: easter 39
+        id: 69748b18-f88b-4d16-88ca-bedb3e20cc09
       easter 49:
         _name: easter 49
+        id: 055bc81a-489a-4b26-8d48-6bdd5801d08e
       easter 50:
         _name: easter 50
+        id: 6dbde9f3-ab22-4803-aaab-65036bb15e2e
       06-07:
         name:
-          no: Unionsoppløsningen
+          'no': Unionsoppløsningen
           en: Union Dissolution Day
         type: observance
+        id: 507b253e-f03b-4a40-a3c1-71dd6305fb55
       06-23:
         name:
-          no: Sankthansaften
+          'no': Sankthansaften
           en: Midsummar Eve
         type: observance
+        id: bca7c6b6-33e3-4c8a-b986-16396b9391d8
       07-04:
         name:
-          no: H.M. dronning Sonja
+          'no': H.M. dronning Sonja
           en: Birthday of Queen Sonja
         type: observance
+        id: 407ea038-9bf8-4144-a9c1-f03542f0c81e
       07-20:
         name:
-          no: H.K.H. kronprins Haakon Magnus
+          'no': H.K.H. kronprins Haakon Magnus
           en: Birthday of Crown Prince Haakon Magnus
         type: observance
+        id: d60141e5-70ce-46a7-a9f8-fa7c75d66fdb
       07-29:
         name:
-          no: Olsok
+          'no': Olsok
           en: Olsok
         type: optional
+        id: 2fe1b715-822a-4dc6-ab79-ade2b1ab7f14
       08-19:
         name:
-          no: H.K.H. kronprinsesse Mette-Marit
+          'no': H.K.H. kronprinsesse Mette-Marit
           en: Birthday of Crown Princess Mette-Marit
         type: observance
+        id: 62ac1c43-f8a4-4722-ad77-6199b2eee71c
       1st sunday in November:
         name:
-          no: Allehelgensaften
+          'no': Allehelgensaften
           en: All Saints' Day
         type: observance
+        id: 2ee105a7-6344-400b-8e32-248bbb13e1cf
       2nd sunday in November:
         _name: Fathers Day
         type: observance
+        id: 92fd3969-d9b1-48d5-ab2c-e406025d4425
       4th sunday before 12-25:
         name:
-          no: Første søndag i advent
+          'no': Første søndag i advent
           en: First Sunday of Advent
         type: observance
+        id: 33597eea-a964-4621-86e4-182f96ebb5db
       3rd sunday before 12-25:
         name:
-          no: Andre søndag i advent
+          'no': Andre søndag i advent
           en: Second Sunday of Advent
         type: observance
+        id: 0528b407-e132-48b6-8359-86a4724f4dae
       2nd sunday before 12-25:
         name:
-          no: Tredje søndag i advent
+          'no': Tredje søndag i advent
           en: Third Sunday of Advent
         type: observance
+        id: 156f1ba9-7efa-4688-9f17-b501d28325a6
       1st sunday before 12-25:
         name:
-          no: Fjerde søndag i advent
+          'no': Fjerde søndag i advent
           en: Fourth Sunday of Advent
         type: observance
+        id: a400a245-5799-431c-a1dc-4902e1d14728
       12-24:
         _name: 12-24
         type: bank
+        id: 82a68772-e698-4c0b-808c-b20ae3df34a0
       12-25:
         _name: 12-25
+        id: c5e3d6c4-68ab-4afe-9e06-832dd36bb01e
       12-26:
         _name: 12-26
-      "12-31 14:00 if sunday then 00:00":
+        id: d517be76-af87-4a81-8682-32ea2e43207f
+      12-31 14:00 if sunday then 00:00:
         _name: 12-31
         type: bank
+        id: 5d2c1a1b-95e5-420b-b120-8b90822b7a66

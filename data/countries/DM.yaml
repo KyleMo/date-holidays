@@ -1,4 +1,3 @@
-# @source www.dominica.gov.dm/about-dominica/public-holidays
 holidays:
   DM:
     names:
@@ -12,60 +11,53 @@ holidays:
       01-01 and if sunday then next monday:
         _name: 01-01
         substitute: true
+        id: fd08eb49-152a-45a7-ae6f-2e0c50861cd0
       easter -48:
         _name: easter -48
         name:
           en: Carnival Monday
+        id: ce3848a1-153b-4cef-a055-d72c134d7913
       easter -47:
         _name: easter -47
         name:
           en: Carnival Tuesday
+        id: 3ba9c5a7-051f-4ea0-b97e-93dfaf40833e
       easter -2:
         _name: easter -2
+        id: 71672d14-57f5-4b79-ba71-7cac5864050f
       easter:
         _name: easter
         type: observance
+        id: 7d033958-ab6f-4f1c-b038-2feae7e059af
       easter 1:
         _name: easter 1
+        id: e9790e01-1fc8-4e93-ab9b-8dd1437fcc21
       05-01:
         _name: 05-01
+        id: e9bb5c22-6834-4074-975c-60fae6017ce6
       easter 49:
         _name: easter 49
         type: observance
+        id: a3746115-d654-42cb-bf09-0808a36fdebb
       easter 50:
         _name: easter 50
+        id: e18edc77-b245-47ed-b685-1f00e15e8bc2
       1st monday in August:
         name:
           en: Emancipation Day
+        id: a1431f54-5d4a-43aa-ab29-15b0abea4b11
       11-03 if sunday then next monday:
         _name: Independence Day
+        id: c1bbd501-77af-44c5-af0f-09b74451e763
       11-04 if sunday then next monday if monday then next tuesday:
         name:
           en: National Day of Community Service
+        id: a2def0b6-646d-4c4a-98ee-08fd974fe6d6
       12-25 and if sunday then next tuesday:
         _name: 12-25
         substitute: true
+        id: 40bbd886-3228-45de-bb1f-063eb41f840a
       12-26 and if sunday then next monday:
         _name: 12-26
         substitute: true
-    # states:
-    # '02':
-    #   name: Saint Andrew
-    # '03':
-    #   name: Saint David
-    # '04':
-    #   name: Saint George
-    # '05':
-    #   name: Saint John
-    # '06':
-    #   name: Saint Joseph
-    # '07':
-    #   name: Saint Luke
-    # '08':
-    #   name: Saint Mark
-    # '09':
-    #   name: Saint Patrick
-    # '10':
-    #   name: Saint Paul
-    # '11':
-    #   name: Saint Peter
+        id: 7fa5b880-fff3-467a-9e3f-4d5dda719587

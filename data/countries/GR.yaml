@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://el.wikipedia.org/wiki/Επίσημες_αργίες_στην_Ελλάδα
   GR:
     names:
       el: Ελλάδα
@@ -12,38 +11,53 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: bfac31c6-10b7-44ca-9df6-5d6d1e2aa996
       01-06:
         _name: 01-06
+        id: b0dcbbc3-531e-4133-824b-84a995fd4bd3
       orthodox -48:
         name:
           el: Καθαρά Δευτέρα
           en: Ash Sunday
+        id: 3becf385-6fab-4233-9c7d-999ff8a29575
       03-25:
         name:
           el: Ευαγγελισμός, Εθνική Εορτή
           en: Annunciation, Anniversary of 1821 Revolution
+        id: 5616dece-ea94-47d6-a4d9-340ddf8b5cfb
       orthodox -2:
         _name: easter -2
+        id: 2657f08d-921e-4544-af47-c559e6131d99
       orthodox:
         _name: easter
+        id: 7872adc7-a61c-4902-bb97-91699c64052c
       orthodox 1:
         _name: easter 1
+        id: 6055da14-4f8b-4283-b903-59aab3064af2
       05-01:
         _name: 05-01
+        id: e6c35be0-e2fd-4057-839e-b93c2145fa4b
       orthodox 49:
         _name: easter 49
+        id: 3bac5e24-8767-4193-99b8-0d41d87bc3cf
       orthodox 50:
         _name: easter 50
+        id: fd9bf4a2-97dc-459d-9be6-a23040aa4a4a
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: e6b8c245-312e-4b2a-8e0f-1c5953f85e06
       08-15:
         _name: 08-15
+        id: 79d5f9d9-3929-413d-a302-d1bf5fe794b3
       10-28:
         _name: National Holiday
         name:
           el: Επέτειος του Όχι
+        id: ea6ebf94-6873-4912-94f0-81ffc6988724
       12-25:
         _name: 12-25
+        id: c02645f5-3f7c-421a-a60b-f4a9e586b8b3
       12-26:
         _name: 12-26
+        id: 9353a0d5-4308-49d6-bf9e-5b84cd03d1a3

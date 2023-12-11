@@ -1,6 +1,4 @@
 holidays:
-  # @attrib https://de.m.wikipedia.org/wiki/Feiertage_in_Belgien
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Belgium
   BE:
     names:
       fr: Belgique
@@ -17,56 +15,74 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: fa7866d0-3b00-455f-906b-905b62cb88d2
       01-06:
         _name: 01-06
         name:
           de: Erscheinung des Herrn
         type: observance
+        id: e043f83a-af2a-42b3-a0bd-fa93d1f5f1ad
       02-14:
         _name: 02-14
         type: observance
+        id: 17352af8-3d69-4c1d-98e3-c8f9aeac0f2c
       easter:
         _name: easter
         type: observance
+        id: 4e7f6f6d-e3c5-4b55-b7a6-d123c08b813b
       easter 1:
         _name: easter 1
+        id: 5ce66dc7-bdd9-4988-8fce-eb2c937613e5
       05-01:
         _name: 05-01
+        id: 785e0d41-e07f-466c-9a93-a1f2935c8a81
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: b1feb5e1-558b-4b5d-a6b9-d91a06de3274
       easter 39:
         _name: easter 39
+        id: cb60f4df-f81a-418f-8a02-793fd61ed001
       easter 49:
         _name: easter 49
         type: observance
+        id: ccd4d91e-1e97-43f0-98e4-03a6f7f97ef0
       easter 50:
         _name: easter 50
+        id: 0b446f3a-1d0e-4fea-bb4c-1e4ce747b091
       07-21:
         _name: National Holiday
+        id: e8c49909-16fc-424e-93f3-16b02fcc7a8f
       08-15:
         _name: 08-15
+        id: 86c0ac04-7bc2-4dd1-b0bc-28596af5d2d7
       11-01:
         _name: 11-01
+        id: 799a811a-fd72-4416-a271-3f33dac61551
       11-02:
         _name: 11-02
         type: observance
+        id: 457af451-14ec-4393-a5ab-fb0740e97a87
       11-11:
         name:
           de: Waffenstillstand
           fr: Armistice
           nl: Wapenstilstand
+        id: 1e0b493b-29a8-45b7-b363-1321f60f61a9
       11-15:
         name:
           nl: Koningsdag
           fr: Fête du Roi
           de: Festtag des Königs
         type: observance
+        id: 74ae855b-d3b4-4afd-9f3f-8b0833437e0a
       12-06:
         _name: 12-06
         type: observance
+        id: 7e5f4de6-e0ad-4fe7-b1ff-b33c02d5db8b
       12-25:
         _name: 12-25
+        id: b548c65d-90f4-41df-9bac-a7aa0278124c
     states:
       BRU:
         name: Bruxelles
@@ -79,6 +95,7 @@ holidays:
               nl: Feest van de Iris
               fr: Fête de l'Iris
             type: observance
+            id: 2cc0a944-3418-4b17-84c6-248e4bc07303
       DE:
         name: Deutschsprachige Gemeinschaft
         langs:
@@ -90,6 +107,7 @@ holidays:
               fr: Jour de la Communauté Germanophone
               nl: Feestdag van de Duitstalige Gemeenschap
             type: observance
+            id: 2e590b45-f486-45c2-b008-66bb566f3f25
       VLG:
         name: Vlaamse Gemeenschap
         langs:
@@ -101,10 +119,12 @@ holidays:
               fr: Fête de la Région wallonne
               nl: Feestdag van de Vlaamse Gemeenschap
             type: observance
+            id: 33a1e672-9669-443d-ab2e-98232508ef0f
           11-02:
             _name: 11-02
             type: observance
             note: day-off for employees of the flemish government
+            id: a293bbd7-6ed1-41c4-be1f-423baacfa1de
           11-15:
             name:
               nl: Koningsdag
@@ -112,21 +132,12 @@ holidays:
               de: Festtag des Königs
             type: observance
             note: day-off for employees of the flemish government
+            id: d9527225-63df-4927-86e4-b7a45ffbec10
           12-26:
             _name: 12-26
             type: observance
             note: day-off for employees of the flemish government
-        # regions:
-        # VAN:
-        #   name: Antwerp
-        # VBR:
-        #   name: Flemish Brabant
-        # VLI:
-        #   name: Limburg
-        # VOV:
-        #   name: East Flanders
-        # VWV:
-        #   name: West Flanders
+            id: e6a71c3f-32e9-4131-93c9-0e5ceb2295db
       WAL:
         name: Communauté française
         langs:
@@ -138,14 +149,4 @@ holidays:
               fr: La fête de la communauté française
               nl: Feestdag van de Franse Gemeenschap
             type: observance
-        # regions:
-        # WBR:
-        #   name: Walloon Brabant
-        # WHT:
-        #   name: Hainaut
-        # WLG:
-        #   name: Liège
-        # WLX:
-        #   name: Luxembourg
-        # WNA:
-        #   name: Namur
+            id: 2ad2f5da-aebe-4203-a8d3-e8529b123126

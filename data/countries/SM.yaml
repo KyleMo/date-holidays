@@ -1,4 +1,3 @@
-# @source http://www.sanmarino.sm/on-line/home/san-marino/feste-nazionali.html
 holidays:
   SM:
     names:
@@ -12,80 +11,80 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 8c449910-7202-4678-a14e-2552f998bbe6
       01-06:
         _name: 01-06
         name:
           it: Epifania
+        id: 02387836-0d10-469b-8bcd-756d36eb5422
       02-05:
         name:
           it: Festa di Sant’Agata
           en: Feast of Saint Agatha
+        id: 8fdc5754-a368-4326-9a46-5ccb8e5373ba
       easter:
         _name: easter
+        id: d304c34e-7f6b-43c5-88c6-161e0e8367fb
       easter 1:
         _name: easter 1
+        id: d2334a41-12f6-4092-a4a5-f6fa354d623a
       03-25:
         name:
           it: Anniversario dell'Arengo
           en: Anniversary of the Arengo
+        id: 16766583-2710-4d7c-8bef-630511f6c044
       04-01:
         name:
           it: Cerimonia di investitura dei Capitani Reggenti
           en: Inauguration Ceremony
+        id: ed39ac4c-071e-4a0e-94d2-3133970c3ea4
       05-01:
         _name: 05-01
+        id: 5a778040-e7ee-4898-8947-b8dff3ed105e
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: 3fa54806-6cee-4dca-93d2-196bbed33580
       easter 60:
         _name: easter 60
+        id: 3db6486e-3d67-46ab-80c7-4d3857a9868f
       07-28:
         name:
           it: Anniversario della caduta del Fascismo e Festa della Libertà
           en: Liberation from Fascism
+        id: 081d4535-c467-4e94-8d78-d19d8b528dc8
       08-15:
         _name: 08-15
+        id: 7950a3e4-3c87-4de1-be68-afb9d6c388c5
       09-03:
         name:
           it: Festa di San Marino e di Fondazione della Repubblica
           en: The Feast of San Marino and the Republic
+        id: f4089c90-be58-45e1-9f7f-6820208b6521
       10-01:
         name:
           it: Cerimonia di investitura dei Capitani Reggenti
+        id: 2b72d802-bd31-4f32-9183-fbcdff1567ee
       11-01:
         _name: 11-01
         name:
           it: Tutti i Santi
+        id: 7498d47e-64ff-46ba-9fe8-fb7e072b5ea0
       11-02:
         name:
           it: Commemorazione dei defunti
           en: Commemoration of the deceased
+        id: 9b9931f1-8b28-47da-9f78-5305d7c5d683
       12-08:
         _name: 12-08
+        id: baf4ee44-ff9c-4ad6-8e69-41cb03487a07
       12-25:
         _name: 12-25
+        id: 0224b6f7-8257-4327-8a84-b1634cbe2f73
       12-26:
         _name: 12-26
+        id: 433bf14a-2007-4c67-abc2-a10f8e06b8cc
       12-31:
         _name: 12-31
         type: optional
-
-    # regions:
-    # '01':
-    #   name: Acquaviva
-    # '02':
-    #   name: Chiesanuova
-    # '03':
-    #   name: Domagnano
-    # '04':
-    #   name: Faetano
-    # '05':
-    #   name: Fiorentino
-    # '06':
-    #   name: Borgo Maggiore
-    # '07':
-    #   name: San Marino
-    # 08:
-    #   name: Montegiardino
-    # 09:
-    #   name: Serravalle
+        id: 8a0559dc-0324-498f-94f7-0fe7d0c0de98

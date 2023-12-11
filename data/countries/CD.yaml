@@ -1,5 +1,4 @@
 holidays:
-  # @source http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/101405/122159/F1802609849/COD-101405.pdf
   CD:
     names:
       fr: République démocratique du Congo
@@ -14,64 +13,51 @@ holidays:
       01-01 and if sunday then next monday:
         substitute: true
         _name: 01-01
+        id: a676dfeb-666a-4299-9ef0-175d1123a2d4
       01-04 and if sunday then next monday:
         substitute: true
         name:
           fr: Martyrs de l'Indépendance
           en: Day of the Martyrs
+        id: 78961102-2a0a-4d98-90de-6ce76522500a
       01-16 and if sunday then next tuesday:
         substitute: true
         name:
           fr: Journée du Héro National Laurent Désiré Kabila
           en: Anniversary of President Laurent Kabila
+        id: 1966da3b-1054-455d-b99f-1240546600ad
       01-17 and if sunday then next monday:
         substitute: true
         name:
           fr: Journée du Héro National Patrice Emery Lumumba
           en: Anniversary of Prime Minister Patrice Emery Lumumba
+        id: 282f2940-f593-40f8-950f-1fc3edcf6862
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
+        id: ea4e59dd-bb5b-4840-a989-7ab86efda966
       05-17 and if sunday then next monday:
         substitute: true
         name:
           fr: Journée de la Révolution et des Forces Armées
           en: Liberation Day
+        id: 0c4b3dfa-6026-44fd-9ad7-19cc16013df5
       06-30 and if sunday then next monday:
         substitute: true
         _name: Independence Day
         name:
           fr: Anniversaire de Indépendance
+        id: 0e9fdc40-f0ef-4ad8-b485-8b4d39cee4c9
       08-01 and if sunday then next monday:
         substitute: true
         name:
           fr: Fête des parents
           en: Parents' Day
+        id: c269ddf0-1b34-4609-bcaf-7b946bf153d5
       12-25 and if sunday then next monday:
         substitute: true
         _name: 12-25
-      "2016-01-15":
+        id: f3114c3f-ae6b-4239-bee5-057aa0d55278
+      '2016-01-15':
         _name: Public Holiday
-    # states:
-    # BC:
-    #   name: Bas-Congo
-    # BN:
-    #   name: Bandundu
-    # EQ:
-    #   name: Équateur
-    # KA:
-    #   name: Katanga
-    # KE:
-    #   name: Kasaï-Oriental
-    # KN:
-    #   name: Kinshasa
-    # KW:
-    #   name: Kasaï-Occidental
-    # MA:
-    #   name: Maniema
-    # NK:
-    #   name: North Kivu
-    # OR:
-    #   name: Orientale
-    # SK:
-    #   name: South Kivu
+        id: 990db274-95f2-4765-9a8e-b4bbc34575cf

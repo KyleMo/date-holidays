@@ -1,7 +1,3 @@
-# @source https://publicholidays.africa/mali/fr/2020-dates/
-# @source http://www.zakweli.com/jours-feries-au-mali/
-# @source https://ml.usembassy.gov/fr/education-culture-fr/le-centre-culturel-americain/jours-feries/
-# @attrib https://fr.wikipedia.org/wiki/Jour_f%C3%A9ri%C3%A9#Mali
 holidays:
   ML:
     names:
@@ -16,49 +12,40 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: e35c934e-bb66-43bc-aae0-1a1dac49a3f4
       01-20:
         name:
           fr: Fête de l'armée
           en: Army Day
+        id: ab3932c1-90c9-46ab-b563-30485a478063
       03-26:
         name:
           fr: Journée des Martyrs
           en: Martyrs' Day
+        id: dfab57d5-f98d-4b10-832f-2cf91776cd5d
       easter 1:
         _name: easter 1
+        id: 5062c789-8077-4d71-8837-96ff008db8de
       05-01:
         _name: 05-01
+        id: 6488f361-b369-4b1d-a985-d874fb2ba396
       12-25:
         _name: 12-25
+        id: 50e22a1a-ee6e-4fb2-af47-7302d697814b
       1 Shawwal:
         _name: 1 Shawwal
+        id: 2fc19dea-751e-4947-b9a4-5c914ac70581
       05-25:
         name: Jour de l'Afrique
+        id: 170bc744-bb16-4f16-a0da-68c19ef9fa58
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
+        id: 222bab72-f95a-4cc0-98c7-c7e2bb3fa941
       09-22:
         _name: Independence Day
         name:
           fr: Fête nationale de l'indépendance
+        id: 1cf5da2a-2aa2-493f-b0a1-adc00b516398
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-
-#    states:
-#      '1':
-#        name: Kayes
-#      '2':
-#        name: Koulikoro
-#      '3':
-#        name: Sikasso
-#      '4':
-#        name: Ségou
-#      '5':
-#        name: Mopti
-#      '6':
-#        name: Tombouctou
-#      '7':
-#        name: Gao
-#      '8':
-#        name: Kidal
-#      BKO:
-#        name: Bamako
+        id: 90697d94-7e88-43fb-83a4-9f49ac91e6f3

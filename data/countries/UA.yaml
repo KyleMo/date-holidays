@@ -1,5 +1,3 @@
-# @source http://ukurier.gov.ua/uk/news/v-ukrayini-zyavivsya-she-odin-vihidnij-14-zhovtnya/
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Ukraine
 holidays:
   UA:
     names:
@@ -18,109 +16,70 @@ holidays:
         name:
           en: New Year
         substitute: true
+        id: ceb72d01-4848-4400-9546-6c0a0e3b8ca7
       01-02 and if saturday, sunday then next monday:
         _name: 01-01
         name:
           en: New Year
         substitute: true
+        id: cf7c661f-3848-4284-ad9d-0057947dbb8e
       julian 12-25 and if saturday, sunday then next monday prior to 2023:
         _name: julian 12-25
         substitute: true
+        id: 187dd044-2c5b-4448-b431-01ab2a7bdb77
       03-08 and if saturday, sunday then next monday:
         _name: 03-08
+        id: a0e99afb-fcef-4c1d-b5ea-b2435195b2a2
       orthodox and if sunday then next monday:
         _name: orthodox
+        id: 1e8710b2-9e0d-45d0-a451-53a71f4e04ae
       orthodox 49 and if sunday then next monday:
         _name: easter 49
+        id: eb39f0d5-d540-428f-896c-785d4176737d
       05-01 and if saturday, sunday then next tuesday:
         _name: 05-01
         substitute: true
+        id: 7d2d39c2-a123-4237-b0b5-1e2b28ed63a3
       05-02 and if saturday, sunday then next monday prior to 2018:
         _name: 05-01
         substitute: true
+        id: 23fbc319-20f9-4176-86b5-dc01a6513d97
       05-09 and if saturday, sunday then next monday:
         name:
           uk: День перемоги над нацизмом у Другій світовій війні
           en: Victory Day
         substitute: true
+        id: 07f7a12d-d8fe-41a2-a3ab-507fb9fe267c
       06-28 and if saturday, sunday then next monday:
         _name: Constitution Day
         substitute: true
+        id: 13c43da2-42ee-473a-abab-cd4a35cf18cf
       07-15 and if saturday, sunday then next monday since 2023:
         name:
           en: Statehood Day
           uk: День Української Державності
+        id: 949364a7-411a-4687-97e0-90542724eb9a
       07-28 and if saturday, sunday then next monday prior to 2023:
         name:
           en: Statehood Day
           uk: День Української Державності
+        id: 1b2074ec-be3f-4404-ba2b-d79e559acefd
       08-24 and if saturday, sunday then next monday:
         _name: Independence Day
         substitute: true
+        id: dbd9102a-1646-459e-9e77-c68b7cdcf96e
       10-14 and if saturday, sunday then next monday since 2015 and prior to 2023:
         name:
           uk: День захисника України
           en: Defenders of Ukraine Day
         substitute: true
+        id: d8b7529d-6d8a-4b19-991c-c35df0459c40
       10-01 and if saturday, sunday then next monday since 2023:
         name:
           uk: День захисників і захисниць України
           en: Defenders of Ukraine Day
         substitute: true
+        id: 98aaf4ed-b2ba-4f75-8638-d5cc733171d4
       12-25 and if saturday, sunday then next monday since 2017:
         _name: 12-25
-    # states:
-    # '05':
-    #   name: Vinnychchyna
-    # '07':
-    #   name: Volyn
-    # '09':
-    #   name: Luhanshchyna
-    # '12':
-    #   name: Dnipropetrovshchyna
-    # '14':
-    #   name: Donechchyna
-    # '18':
-    #   name: Zhytomyrshchyna
-    # '21':
-    #   name: Zakarpattia
-    # '23':
-    #   name: Zaporizhzhya
-    # '26':
-    #   name: Prykarpattia
-    # '30':
-    #   name: Kiev
-    # '32':
-    #   name: Kyivshchyna
-    # '35':
-    #   name: Kirovohradschyna
-    # '40':
-    #   name: Sevastopol
-    # '43':
-    #   name: Crimea
-    # '46':
-    #   name: Lvivshchyna
-    # '48':
-    #   name: Mykolayivschyna
-    # '51':
-    #   name: Odeshchyna
-    # '53':
-    #   name: Poltavshchyna
-    # '56':
-    #   name: Rivnenshchyna
-    # '59':
-    #   name: Sumshchyna
-    # '61':
-    #   name: Ternopilshchyna
-    # '63':
-    #   name: Kharkivshchyna
-    # '65':
-    #   name: Khersonshchyna
-    # '68':
-    #   name: Khmelnychchyna
-    # '71':
-    #   name: Cherkashchyna
-    # '74':
-    #   name: Chernihivshchyna
-    # '77':
-    #   name: Chernivtsi Oblast
+        id: 29920172-1888-4ca9-a546-c1081f233d63

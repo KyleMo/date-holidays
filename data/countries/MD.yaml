@@ -1,6 +1,3 @@
-# @source http://lex.justice.md/index.php?action=view&view=doc&id=306859
-# @source http://www.romania.mfa.md/sarbatori-oficiale/
-# @attrib https://ro.wikipedia.org/wiki/Republica_Moldova
 holidays:
   MD:
     names:
@@ -14,32 +11,42 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 10272243-eb30-41ef-bdd8-270107f811c0
       julian 12-25 P2D:
         _name: julian 12-25
         name:
           ro: Craciun pe Rit Vechi
+        id: f05936ed-eee0-4d0b-8ecf-b3f3280ff893
       03-08:
         _name: 03-08
+        id: e2fc59ad-1e58-4dbe-94fc-c8ee9e483f46
       orthodox:
         _name: easter
+        id: 4cd309c7-a28a-4fbd-9c9f-b206a58d0b87
       orthodox 1:
         _name: easter 1
+        id: b287cc63-5ef5-46c1-b6f4-68c030993d6a
       orthodox 8:
         name:
           ro: Paştele Blăjinilor
           en: Memorial Day
+        id: 6109d2a5-019b-4278-a824-104e108225bc
       05-01:
         _name: 05-01
+        id: b4ecced9-19fa-4c7b-a809-0ad926770f1c
       05-09:
         name:
           ro: Ziua Victoriei
           en: Victory Day
+        id: 000f8370-440f-480e-84f0-66395456d806
       08-27:
         _name: Independence Day
+        id: 39d271fe-e6ab-4bd0-85ee-b02a57aaac5c
       08-31:
         name:
           ro: Limba noastră
           en: National Language Day
+        id: e18edd70-bc74-44fe-a60e-5abb2def97ae
       1st saturday in October P2D:
         name:
           ro: Ziua vinului
@@ -47,22 +54,13 @@ holidays:
         type: observance
         active:
           - from: 2013
-        # @attrib https://ro.wikipedia.org/wiki/Ziua_vinului_(Republica_Moldova)
+        id: 57d5d82c-329e-43f9-b65f-84942b42721f
       12-25:
         _name: 12-25
         name:
           ro: Craciun pe stil Nou
+        id: 6cae9b72-4cfd-4368-877d-7e6fb439f3f2
     states:
-      # AN:
-      #   name: Anenii Noi
-      # BA:
-      #   name: Bălţi
-      # BD:
-      #   name: Bender
-      # BR:
-      #   name: Briceni
-      # BS:
-      #   name: Basarabeasca
       CA:
         name: Cahul
         days:
@@ -70,16 +68,7 @@ holidays:
             name:
               ro: Ziua Cahul
               en: Cahul Day
-      # CL:
-      #   name: Călărași
-      # CM:
-      #   name: Cimișlia
-      # CR:
-      #   name: Criuleni
-      # CS:
-      #   name: Căușeni
-      # CT:
-      #   name: Cantemir
+            id: a86e974d-dd5d-430d-b7f6-97c4a4cff8af
       CU:
         name: Chișinău
         days:
@@ -87,53 +76,4 @@ holidays:
             name:
               ro: Ziua capitalului
               en: Capital's Day
-      # DO:
-      #   name: Dondușeni
-      # DR:
-      #   name: Drochia
-      # DU:
-      #   name: Dubăsari
-      # ED:
-      #   name: Edineț
-      # FA:
-      #   name: Fălești
-      # FL:
-      #   name: Florești
-      # GA:
-      #   name: Gagauzia
-      # GL:
-      #   name: Glodeni
-      # HI:
-      #   name: Hîncești
-      # IA:
-      #   name: Ialoveni
-      # LE:
-      #   name: Leova
-      # NI:
-      #   name: Nisporeni
-      # OC:
-      #   name: Ocniţa
-      # OR:
-      #   name: Orhei
-      # RE:
-      #   name: Rezina
-      # RI:
-      #   name: Rîșcani
-      # SD:
-      #   name: Șoldănești
-      # SI:
-      #   name: Sîngerei
-      # SN:
-      #   name: Transnistria
-      # SO:
-      #   name: Soroca
-      # ST:
-      #   name: Strășeni
-      # SV:
-      #   name: Ştefan Vodă
-      # TA:
-      #   name: Taraclia
-      # TE:
-      #   name: Telenești
-      # UN:
-      #   name: Ungheni
+            id: e5382a49-b405-4539-a0b4-f3dc5db2a784

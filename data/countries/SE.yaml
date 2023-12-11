@@ -1,6 +1,4 @@
 holidays:
-  # @attrib https://de.wikipedia.org/wiki/Feiertage_in_Schweden
-  # @attrib https://sv.wikipedia.org/wiki/Helgdagar_i_Sverige
   SE:
     names:
       sv: Sverige
@@ -13,106 +11,137 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: f33592d2-ff7e-41b7-9c67-9549d8bf76b3
       01-05 12:00:
         name:
           sv: Trettondagsafton
         type: optional
+        id: 66b76741-1287-4970-ab67-b4d48874f365
       01-06:
         _name: 01-06
+        id: 7d6c5183-5fd7-4734-91e4-7da58defeea3
       01-13:
         name:
           sv: Tjugondag Knut
         type: observance
+        id: f246f0bf-7075-4989-aeca-d7be6bca8274
       1st sunday in March:
         name:
           sv: Vasaloppet
         type: observance
+        id: 8e2c7382-0b0a-4f24-ab01-1e7b8eda30bb
       03-25:
         name:
           sv: Marie Bebådelsedag
           lat: Annuntiatio Mariæ
         type: observance
+        id: 00bd63b7-c0ac-4138-a4f5-5053fc1c1575
       04-30 12:00:
         name:
           sv: Valborgsmässoafton
           en: Walpurgis Night
         type: optional
+        id: d7d73cf8-bc72-4dbf-b2b1-5b5957246652
       easter -3:
         _name: easter -3
         type: observance
+        id: ec8fcf12-e022-4215-b662-496ebdc8e50d
       easter -2:
         _name: easter -2
+        id: 2bfb7592-901c-45fc-a6c2-7b14890e6e0f
       easter:
         _name: easter
         type: observance
+        id: 86148a96-51cb-4fcb-92eb-dfd801f6f620
       easter -1:
         _name: easter -1
         type: observance
+        id: 47ca2fd5-a831-444f-ac67-cf0c8ba95180
       easter 1:
         _name: easter 1
+        id: 5594f76b-753a-406c-872b-27f9d8517846
       05-01:
         _name: 05-01
+        id: 49b0f317-777a-4cf9-a69e-c89ec03440c6
       easter 39:
         _name: easter 39
+        id: a98176cf-ed68-4c74-b787-41d781c62c12
       easter 48:
         name:
           sv: Pingstafton
           en: Whitsun Eve
         type: observance
+        id: 9c247009-8e90-4fa1-b744-1cce2547b4d0
       easter 49:
         _name: easter 49
         type: public
+        id: 131b3f7e-7e3d-4f4b-b444-973135eebed9
       easter 50:
         _name: easter 50
         type: observance
+        id: 1f251cf9-84ce-4965-8a91-b2cdfd186814
       sunday before 06-01:
         _name: Mothers Day
         type: observance
+        id: 50351724-d70b-4ce3-a798-ebbb10be2a86
       06-06:
         name:
           sv: Sveriges nationaldag
           en: National Day
+        id: 2b83a904-f6dd-4921-a96c-023eeed650c2
       friday after 06-19:
         name:
           sv: Midsommarafton
           en: Midsummer Eve
           fi: Juhannusaatto
         type: bank
+        id: a39b4612-2638-4d3f-963f-2f57a969ebe4
       saturday after 06-20:
         name:
           sv: Midsommardagen
           en: Midsummer Day
           fi: Juhannuspäivä
+        id: a85fd898-d870-485e-8e79-b2c6d6403803
       friday after 10-30 12:00:
         name:
           sv: Allhelgonaafton
           en: Halloween
         type: optional
+        id: 9cb71fcc-7f18-4936-805e-c6ff646d471f
       saturday after 10-31:
         _name: 11-01
+        id: 263ceafb-27b3-42e3-9a13-77422b256e23
       11-06:
         name:
           sv: Gustav-Adolf-dagen
         type: observance
+        id: e0962693-549a-413b-a792-cb2d4074cd43
       11-11:
         name:
           sv: Mårtensgås
         type: observance
+        id: 5f8e484c-1f16-45c7-8fbf-1121e17ddf91
       12-10:
         name:
           sv: Nobeldagen
         type: observance
+        id: 1b9bec03-ba36-430a-8ee1-08e2fd202f4e
       12-13:
         name:
           sv: Luciadagen
         type: observance
+        id: 2c71950a-9acc-4dd4-b583-fbc192f9c336
       12-24:
         _name: 12-24
         type: bank
+        id: 1cb15e32-eef3-427d-9e66-46a7b1a75be1
       12-25:
         _name: 12-25
+        id: 9d73f345-e8d0-4ee7-94ff-9d264b14f98d
       12-26:
         _name: 12-26
+        id: 29a1756b-b966-4bdb-afb1-6c253c5c1c4d
       12-31:
         _name: 12-31
         type: bank
+        id: 1f2a8c42-1498-48cd-8595-2db8d849215e

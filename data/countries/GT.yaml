@@ -1,7 +1,4 @@
 holidays:
-  # @source http://www.oj.gob.gt/estadisticalaboral/Leyes%20en%20Materia%20de%20Trabajo%20y%20Prevision%20Social/Leyes%20Nacionales%20en%20Materia%20de%20Trabajo%20y%20Prevision%20Social/63298%20DECRETO%20DEL%20CONGRESO%2042-2010%20Ley%20que%20Promueve%20el%20Turismo%20Interno.pdf
-  # @source http://www.oj.gob.gt/es/QueEsOJ/EstructuraOJ/UnidadesAdministrativas/CentroAnalisisDocumentacionJudicial/cds/CDs%20codigos/CODIGO_TRABAJO/codigo.html
-  # Guatemala CODIGO DE TRABAJO Artículo 127.  Son días de asueto con goce de salario
   GT:
     names:
       es: Guatemala
@@ -14,30 +11,43 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 0c0ba3ef-cf82-4624-a9cc-b7cf862d38c9
       easter -3:
         _name: easter -3
+        id: 4e381f36-08ab-40bc-b00c-483ee9046c1b
       easter -2:
         _name: easter -2
+        id: 26b2ceca-168f-4af4-a892-5643b96b86be
       easter -1:
         _name: easter -1
+        id: d4ec7ff7-25e4-48b0-bb47-df35b0c790c0
       easter:
         _name: easter
         type: observance
+        id: 8357be6b-8819-459f-bcdd-66d0a6f48257
       05-01:
         _name: 05-01
+        id: d43817a5-2ba1-4728-ae72-5bcc68d1adff
       06-30 if tuesday then previous monday if wednesday,thursday then next friday:
         name:
           es: Día de las Fuerzas Armadas
           en: Army Day
+        id: db480c5e-c593-4eec-90a4-99433fb898a5
       09-15:
         _name: Independence Day
+        id: f74dfdfe-cb4f-45a1-93c6-969705b49413
       10-20:
         _name: Revolution Day
+        id: e3000610-f1e5-453f-8058-24b5ee9fb900
       11-01:
         _name: 11-01
-      "12-24 12:00":
+        id: 6e6e7dee-4922-41ed-b933-8c3c1d0f7d3f
+      12-24 12:00:
         _name: 12-24
+        id: 731bbdca-3918-40c6-8351-207b99493d67
       12-25:
         _name: 12-25
-      "12-31 12:00":
+        id: 66d78d7c-ca57-4af2-a65d-b25f588bc222
+      12-31 12:00:
         _name: 12-31
+        id: f580a9b3-3800-4024-a7b0-f1799fa3cdf3

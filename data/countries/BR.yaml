@@ -1,6 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Brazil
-  # @attrib https://pt.wikipedia.org/wiki/Feriados_no_Brasil
   BR:
     names:
       pt: Brasil
@@ -28,64 +26,83 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 0b758e69-8ae5-4e63-ba31-fa6d068b3e2f
       04-21:
         name:
           pt: Dia de Tiradentes
           en: Tiradentes' Day
+        id: 29f34f3c-9f58-46a5-879b-52e3f9a0c984
       easter -50 PT110H:
         name:
           pt: Carnaval
           en: Carnival
         type: optional
+        id: f786cefd-5a50-4723-acfe-205dc97cf24d
       easter -2:
         _name: easter -2
+        id: 48537c64-1ecf-4cd2-9a24-a0b727f2c5a5
       easter:
         _name: easter
         type: observance
+        id: 5cbbdf39-3ad4-4d5e-a767-a808c5a98faa
       05-01:
         _name: 05-01
+        id: e4868a2c-98f3-4fe8-b7f0-d13f5951d713
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: e2c8c397-bd26-4a52-829b-0ebc5a493315
       easter 60:
         _name: easter 60
         type: optional
+        id: a929c888-cc45-4e3a-a0ab-907880190fb8
       06-12:
         name:
           pt: Dia dos Namorados
           en: Lovers' Day
         type: observance
+        id: 19b0a651-88ea-45a5-b73c-118191febe67
       2nd sunday in August:
         _name: Fathers Day
         type: observance
+        id: c2cf53ed-ab70-4517-924e-779a9a8ea2a1
       09-07:
         _name: Independence Day
+        id: dfeee13c-a1a0-41df-9b04-2071078c7485
       10-12:
         name:
           pt: Nossa Senhora Aparecida
           en: Our Lady of Aparecida
+        id: 343b408c-26f2-418a-a5bd-4c4227612e99
       1st sunday in October in even years:
         name:
           pt: Dia de Eleição
           en: Election Day
+        id: d39008fe-ba56-4759-90e1-aed667474dab
       1st sunday before 11-01 in even years:
         name:
           pt: Dia de Eleição
           en: Election Day
+        id: 1c3c15f7-cdc3-44db-ac5b-3a659af81b49
       11-02:
         _name: 11-02
+        id: f1a24830-ae6c-4064-940e-074119fb5185
       11-15:
         name:
           pt: Proclamação da República
           en: Republic Day
-      "12-24 14:00":
+        id: 7ff19275-db40-4eb7-8642-8ee04ddf6627
+      12-24 14:00:
         _name: 12-24
         type: optional
+        id: a700fb58-291a-49e9-970d-3a9e7f3099eb
       12-25:
         _name: 12-25
-      "12-31 14:00":
+        id: e78c1d05-fee8-433e-a217-1fe2521e1b20
+      12-31 14:00:
         _name: 12-31
         type: optional
+        id: 9655d5f3-e670-4cc5-a9da-24119c2c4bec
     states:
       AC:
         name: Acre
@@ -96,28 +113,33 @@ holidays:
             name:
               pt: Dia do evangélico
             active:
-              - from: 2004-01-29
+              - from: '2004-01-29T00:00:00.000Z'
+            id: a655b098-bfa2-4ee9-a79a-7d354abd0b44
           03-08:
             name:
               pt: Alusivo ao Dia Internacional da Mulher
             active:
-              - from: 2001-09-14
+              - from: '2001-09-14T00:00:00.000Z'
+            id: 6df21ff2-baf0-4e45-bf97-9cb59300bbaa
           06-15:
             name:
               pt: Aniversário do estado
             active:
-              - from: 1964-09-02
+              - from: '1964-09-02T00:00:00.000Z'
+            id: 766ee901-d7fc-4450-a0c6-bf5a0952decf
           09-05:
             name:
               pt: Dia da Amazônia
             active:
-              - from: 2004-01-05
+              - from: '2004-01-05T00:00:00.000Z'
+            id: ea58de8e-c0d4-4afc-a5a0-ddc633286462
           11-17:
             name:
               pt: Assinatura do Tratado de Petrópolis
             type: optional
             active:
-              - from: 2012-02-21
+              - from: '2012-02-21T00:00:00.000Z'
+            id: 1bf57f8c-005c-4f25-a25d-1b8a95690129
       AL:
         name: Alagoas
         zones:
@@ -127,20 +149,24 @@ holidays:
             name:
               pt: São João
             active:
-              - from: 1993-07-07
+              - from: '1993-07-07T00:00:00.000Z'
+            id: 5bc8334c-f8d3-4c30-905b-701272807006
           06-29:
             name:
               pt: São Pedro
             active:
-              - from: 1993-07-07
+              - from: '1993-07-07T00:00:00.000Z'
+            id: 309d88f7-46a4-40bc-a3ef-40ccb2341607
           09-16:
             name:
               pt: Emancipação política
+            id: faa2e519-6c42-4886-ba88-82b438ada9f0
           11-20:
             name:
               pt: Morte de Zumbi dos Palmares
             active:
-              - from: 1995-08-01
+              - from: '1995-08-01T00:00:00.000Z'
+            id: ab085c6d-e1f0-46d4-aa10-6b2bb2df19f2
       AM:
         name: Amazonas
         zones:
@@ -150,12 +176,14 @@ holidays:
             name:
               pt: Elevação do Amazonas à categoria de província
             active:
-              - from: 1977-12-21
+              - from: '1977-12-21T00:00:00.000Z'
+            id: b0bb3236-8d68-4ec4-aacc-bc710bf142c5
           11-20:
             name:
               pt: Dia da Consciência Negra
             active:
-              - from: 2010-07-08
+              - from: '2010-07-08T00:00:00.000Z'
+            id: b7409059-74e2-48c2-889b-e664d0cf62de
       AP:
         name: Amapá
         zones:
@@ -166,10 +194,12 @@ holidays:
               pt: Dia de São José
             note: Santo padroeiro do Estado do Amapá
             active:
-              - from: 2002-04-16
+              - from: '2002-04-16T00:00:00.000Z'
+            id: d4931a64-b926-4f81-a158-43520354155d
           09-13:
             name:
               pt: Criação do Território Federal
+            id: d2460f83-fe2d-4f65-9355-515450205c16
       BA:
         name: Bahia
         zones:
@@ -178,6 +208,7 @@ holidays:
           07-02:
             name:
               pt: Independência da Bahia
+            id: 59f1119c-6140-410e-9f07-4be0cdc86737
       CE:
         name: Ceará
         zones:
@@ -187,7 +218,8 @@ holidays:
             name:
               pt: Data magna do estado
             active:
-              - from: 2011-12-01
+              - from: '2011-12-01T00:00:00.000Z'
+            id: 85281a35-ceaf-4313-afbe-709345717c7f
       DF:
         name: Distrito Federal
         zones:
@@ -196,20 +228,14 @@ holidays:
           04-21:
             name:
               pt: Fundação de Brasília
+            id: b37f3adc-38fc-4779-8be3-34da8744ca81
           11-30:
             name:
               pt: Dia do Evangélico
             type: public
             active:
-              - from: 1995-12-04
-      # ES:
-      #   name: Espírito Santo
-      #  zones:
-      #    - America/Sao_Paulo
-      # GO:
-      #   name: Goiás
-      #  zones:
-      #    - America/Sao_Paulo
+              - from: '1995-12-04T00:00:00.000Z'
+            id: 62beea45-5fd7-4fe1-9130-b0f378f4390f
       MA:
         name: Maranhão
         zones:
@@ -219,7 +245,8 @@ holidays:
             name:
               pt: Adesão do Maranhão à independência do Brasil
             active:
-              - from: 1964-10-02
+              - from: '1964-10-02T00:00:00.000Z'
+            id: 3e0e8b07-8b16-49fe-a020-37ca62e86bbb
       MG:
         name: Minas Gerais
         zones:
@@ -228,6 +255,7 @@ holidays:
           04-21:
             name:
               pt: Data magna do estado
+            id: bad28f91-6d81-4dbd-9a8c-8e72a5273c00
         regions:
           BH:
             name: Belo Horizonte
@@ -249,7 +277,8 @@ holidays:
             name:
               pt: Criação do estado
             active:
-              - from: 1979-10-29
+              - from: '1979-10-29T00:00:00.000Z'
+            id: cf5c78cc-c677-43fb-bea5-aaaae797eecf
       MT:
         name: Mato Grosso
         zones:
@@ -259,7 +288,8 @@ holidays:
             name:
               pt: Dia da Consciência Negra
             active:
-              - from: 2002-12-27
+              - from: '2002-12-27T00:00:00.000Z'
+            id: 2f3c39fe-08ae-4ba3-b7e7-8b424f0c7566
       PA:
         name: Pará
         zones:
@@ -269,7 +299,8 @@ holidays:
             name:
               pt: Adesão do Grão-Pará à independência do Brasil
             active:
-              - from: 1996-09-10
+              - from: '1996-09-10T00:00:00.000Z'
+            id: a30fac0c-49c7-4064-a086-930d074642a8
       PB:
         name: Paraíba
         zones:
@@ -278,12 +309,14 @@ holidays:
           07-26:
             name:
               pt: Homenagem à memória do ex-presidente João Pessoa
+            id: 801fdcdc-dd80-4c7e-a68f-3961a0ecb90c
           08-05:
             name:
               pt: Nossa Senhora das Neves
             note: Fundação do Estado em 1585 e dia da sua padroeira
             active:
-              - from: 1967-08-30
+              - from: '1967-08-30T00:00:00.000Z'
+            id: 6e90e81a-1707-4319-ad13-afe7da7d2593
       PE:
         name: Pernambuco
         zones:
@@ -293,7 +326,8 @@ holidays:
             name:
               pt: Revolução Pernambucana de 1817
             active:
-              - from: 2009-07-02
+              - from: '2009-07-02T00:00:00.000Z'
+            id: be1f6237-663c-40c5-b19a-a2a5b7f924eb
         regions:
           RE:
             name: Recife
@@ -321,7 +355,8 @@ holidays:
             name:
               pt: Dia do Piauí
             active:
-              - from: 1937-01-01
+              - from: '1937-01-01T00:00:00.000Z'
+            id: 0f7b6fa5-b467-40e6-bff4-5626204cba39
       PR:
         name: Paraná
         zones:
@@ -331,7 +366,8 @@ holidays:
             name:
               pt: Emancipação política do estado do Paraná
             active:
-              - from: 1962-12-18
+              - from: '1962-12-18T00:00:00.000Z'
+            id: 72c58489-dbe3-4998-84b6-51ae30661c83
         regions:
           CU:
             name: Curitiba
@@ -349,22 +385,26 @@ holidays:
             name:
               pt: Carnaval
             active:
-              - from: 2008-05-14
+              - from: '2008-05-14T00:00:00.000Z'
+            id: cf168160-d948-46b7-80d0-c440bd12f9b5
           04-23:
             name:
               pt: Dia de São Jorge
             active:
-              - from: 2008-03-05
+              - from: '2008-03-05T00:00:00.000Z'
+            id: 706a1853-5fda-49cf-a4f5-d56740972fd8
           3rd tuesday in October:
             name:
               pt: Dia do Comércio
             type: observance
             note: feriado para os comerciantes e trabalhadores da construção civil
+            id: 4c8ea4ed-2fd6-4b70-95d6-7e8ae0903ca4
           11-20:
             name:
               pt: Dia da Consciência Negra
             active:
-              - from: 2002-11-11
+              - from: '2002-11-11T00:00:00.000Z'
+            id: c3f0a387-0b62-494e-846a-879a896e7a65
         regions:
           RJ:
             name: Rio de Janeiro
@@ -374,8 +414,7 @@ holidays:
                   pt: Dia de São Sebastião
                 type: public
                 active:
-                  - from: 1988-06-27
-
+                  - from: '1988-06-27T00:00:00.000Z'
       RN:
         name: Rio Grande do Norte
         zones:
@@ -385,7 +424,8 @@ holidays:
             name:
               pt: Mártires de Cunhaú e Uruaçu
             active:
-              - from: 2006-12-06
+              - from: '2006-12-06T00:00:00.000Z'
+            id: 46c03303-ef69-41ef-a8e2-0af7b04c9f1d
       RO:
         name: Rondônia
         zones:
@@ -395,12 +435,14 @@ holidays:
             name:
               pt: Criação do estado
             active:
-              - from: 2010-04-22
+              - from: '2010-04-22T00:00:00.000Z'
+            id: c77ea2a2-c3b3-4974-bb55-248c4b482871
           06-18:
             name:
               pt: Dia do evangélico
             active:
-              - from: 2001-12-20
+              - from: '2001-12-20T00:00:00.000Z'
+            id: af4f6655-c7c1-4d93-9920-84c7236fb315
       RR:
         name: Roraima
         zones:
@@ -409,6 +451,7 @@ holidays:
           10-05:
             name:
               pt: Criação do estado
+            id: ad695d6b-aabd-4a5b-9516-62682a3f2ccb
       RS:
         name: Rio Grande do Sul
         zones:
@@ -417,6 +460,7 @@ holidays:
           09-20:
             name:
               pt: Proclamação da República Rio-Grandense
+            id: 9a2985fb-db7b-4aae-a230-f10b7e0485fc
       SC:
         name: Santa Catarina
         zones:
@@ -426,24 +470,28 @@ holidays:
             name:
               pt: Dia de Santa Catarina
             active:
-              - from: 2004-01-22
-                to: 2005-07-15
+              - from: '2004-01-22T00:00:00.000Z'
+                to: '2005-07-15T00:00:00.000Z'
+            id: b3109a39-1033-4b7a-bced-b27d426864bd
           08-11 if monday,tuesday,wednesday,thursday,friday,saturday then next sunday:
             name:
               pt: Dia de Santa Catarina
             active:
-              - from: 2005-07-15
+              - from: '2005-07-15T00:00:00.000Z'
+            id: a53cd665-5282-403d-a484-ae7e3c695a30
           11-25:
             name:
               pt: Dia de Santa Catarina de Alexandria
             active:
-              - from: 1996-12-26
-                to: 2005-07-15
+              - from: '1996-12-26T00:00:00.000Z'
+                to: '2005-07-15T00:00:00.000Z'
+            id: 6342ef76-253e-4005-9897-65752ce5d705
           11-25 if monday,tuesday,wednesday,thursday,friday,saturday then next sunday:
             name:
               pt: Dia de Santa Catarina de Alexandria
             active:
-              - from: 2005-07-15
+              - from: '2005-07-15T00:00:00.000Z'
+            id: 711f17ff-5f36-4491-a9b0-cef6be405a86
       SE:
         name: Sergipe
         zones:
@@ -452,6 +500,7 @@ holidays:
           07-08:
             name:
               pt: Emancipação política de Sergipe
+            id: 5d7f99b7-0bbf-42d7-800e-eded75cb4cca
       SP:
         name: São Paulo
         zones:
@@ -461,12 +510,14 @@ holidays:
             name:
               pt: Revolução Constitucionalista
             active:
-              - from: 1997-03-05
+              - from: '1997-03-05T00:00:00.000Z'
+            id: f6a06d01-dd5f-4ba0-8a7a-677aacd79002
           11-20:
             name:
               pt: Dia da Consciência Negra
             active:
-              - from: 2023-09-12
+              - from: '2023-09-12T00:00:00.000Z'
+            id: 8c8746fd-f359-4b33-95e4-6310a5e8a319
         regions:
           SP:
             name: São Paulo
@@ -480,7 +531,7 @@ holidays:
                 name:
                   pt: Dia da Consciência Negra
                 active:
-                  - from: 2004-01-07
+                  - from: '2004-01-07T00:00:00.000Z'
       TO:
         name: Tocantins
         zones:
@@ -490,15 +541,18 @@ holidays:
             name:
               pt: Criação do estado
             active:
-              - from: 1989-11-17
+              - from: '1989-11-17T00:00:00.000Z'
+            id: 0849034e-b363-4aad-8652-228fbbd4aad7
           03-18:
             name:
               pt: Autonomia do Estado
             active:
-              - from: 1998-03-17
+              - from: '1998-03-17T00:00:00.000Z'
+            id: 8742974c-6628-436a-9a8b-c824ce0ff808
           09-08:
             name:
               pt: Nossa Senhora da Natividade
             note: Padroeira do Estado
             active:
-              - from: 1993-12-28
+              - from: '1993-12-28T00:00:00.000Z'
+            id: 254389e0-490e-495e-8c87-df978433326b

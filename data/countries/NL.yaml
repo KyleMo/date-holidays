@@ -1,10 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_the_Netherlands
-  # @attrib https://nl.wikipedia.org/wiki/Feestdagen_in_Nederland
-  # @attrib https://nl.wikipedia.org/wiki/Koningsdag_(Nederland)
-  # @source https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/officiele-feestdagen
-  # @source https://www.government.nl/topics/working-hours/question-and-answer/public-holidays-in-the-netherlands
-  # @source https://www.government.nl/topics/school-holidays/question-and-answer/on-which-public-holidays-are-schools-closed-in-the-netherlands
   NL:
     names:
       nl: Nederland
@@ -17,84 +11,102 @@ holidays:
     days:
       01-01:
         _name: 01-01
-      # @source https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/goede-vrijdag-vrije-dag
+        id: 13ed5b99-9bf4-49ce-b478-249f7887312a
       easter -2:
         _name: easter -2
         type: school
+        id: eb1fac7d-7e87-44e7-affa-2a8bf15d1eba
       easter:
         _name: easter
+        id: 0b0926fe-a356-4c2b-a0d6-0c98b6009c07
       easter 1:
         _name: easter 1
-      # @source https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/koningsdag-27-april-vrije-dag
+        id: 6df5da43-183e-4151-873f-951d66488010
       04-27 if sunday then previous saturday since 2014:
         name:
           nl: Koningsdag
           en: King's Day
+        id: 0bf294a4-14ba-4b0b-897c-80895df44990
       04-30 if sunday then next monday since 1949 and prior to 1980:
         name:
           nl: Koninginnedag
           en: Queen's Day
+        id: 04d2bc5d-5be8-41e3-b117-fd13e474e50c
       04-30 if sunday then previous saturday since 1980 and prior to 2014:
         name:
           nl: Koninginnedag
           en: Queen's Day
+        id: 19e9d190-b00e-496f-973d-524009e43ca6
       05-04:
         name:
           nl: Nationale Dodenherdenking
         type: observance
-      # @source https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/bevrijdingsdag-5-mei-vrije-dag
+        id: a8f78c8a-d622-460e-bcd9-ce63b77308f7
       05-05:
         name:
           nl: Bevrijdingsdag
           en: Liberation Day
         type: school
+        id: 12a60961-2bcf-44ee-bae0-f9081861fd45
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-      # @source https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/hemelvaartsdag-vrije-dag
+        id: b1e0db3f-037e-490b-9469-54c25d2ceb5d
       easter 39:
         _name: easter 39
         name:
           nl: Hemelvaartsdag
+        id: f9af38e5-b815-4814-91c5-3735e28b167e
       easter 49:
         _name: easter 49
-      # @source https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/is-tweede-pinksterdag-een-vrije-dag
+        id: 4cd366e7-5437-42b2-9da9-9f65c3cdb2b2
       easter 50:
         _name: easter 50
+        id: e3a7874d-aafb-41ae-b4d6-4fe662a4fb7e
       3rd sunday in June:
         _name: Fathers Day
         type: observance
+        id: 64c775f3-49ff-4121-b940-089990b754fb
       08-31 since 1885 and prior to 1891:
         name:
           nl: Princessedag
           en: Princess Day
+        id: f78aff74-8328-4b96-a094-d5ea6dfa9af3
       08-31 since 1891 and prior to 1949:
         name:
           nl: Koninginnedag
           en: Queen's Day
+        id: bf549843-938f-4183-80c4-7adc1eab70c4
       3rd tuesday in September:
         name:
           nl: Prinsjesdag
           en: Prince's Day
         note: Scholen in Den Haag geven meestal 1 dag vrij
         type: observance
+        id: 89ff7a80-2ae1-4af3-8fcf-a83d7af6a54e
       11-11:
         _name: 11-11
         type: observance
+        id: d77a3f53-1ffd-4173-8e29-42a41d15a483
       12-05:
         name:
           nl: Sinterklaasavond
           en: St Nicholas' Eve
         type: observance
+        id: 3d2af9c1-27a7-4924-aa5d-a8967ce33509
       12-15:
         name:
           nl: Koninkrijksdag
           en: Kingdom Day
         type: observance
+        id: 9341fb27-deb7-4350-895f-c06c1c5506ec
       12-25:
         _name: 12-25
+        id: a6b6f31d-6ed2-4caa-bc9a-54cbe73a530a
       12-26:
         _name: 12-26
+        id: dd736c25-e3f9-4a4e-addb-bbedaaa2b774
       12-31:
         _name: 12-31
         type: bank
+        id: 85c01978-6d4a-4664-abba-624a556c7ab1

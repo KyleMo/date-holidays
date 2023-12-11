@@ -1,7 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Panama
-  # @attrib https://es.wikipedia.org/wiki/Anexo:Festividades_y_celebraciones#Panam.C3.A1
-  # @source http://www.legalinfo-panama.com/legislacion/laboral/codtrabA1.pdf
   PA:
     names:
       es: Panamá
@@ -15,39 +12,51 @@ holidays:
       01-01 and if sunday then next monday:
         substitute: true
         _name: 01-01
+        id: c18fd37d-2177-4572-86a8-9a5965a87a60
       01-09 and if sunday then next monday:
         substitute: true
         name:
           en: Martyrs' Day
           es: Día de los Mártires Caídos en la Gesta Patriótica
+        id: 4657d2f7-32f8-4ff4-b1cd-2e86de1cb3ab
       easter -48:
         _name: easter -48
         type: observance
+        id: c04bbe51-7edf-4c64-8dc7-664b005445d3
       easter -47:
         _name: easter -47
+        id: 939cbf3b-3b3a-44e2-b943-d94c0368c251
       easter -2:
         _name: easter -2
+        id: 797a80ea-fa04-4c0d-a804-31aa9213854f
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
+        id: 161095ee-0b02-4f6e-b196-a13d0a00731b
       07-01 every 5 years since 2014:
         name:
           en: Presidential Inauguration
+        id: e0d538da-1e55-40e2-92fc-707b14bf180c
       11-03 and if sunday then next monday:
         substitute: true
         name:
           en: Separation Day (from Columbia)
           es: Día de la Separación (de Colombia)
+        id: b70967b3-6f5c-417f-b5d3-e2c7329050ea
       11-10 and if sunday then next monday:
         substitute: true
         name:
           es: Primer Grito de Independencia
+        id: 96bdef23-b846-42c1-a842-51feb6f1f8b6
       11-28 and if sunday then next monday:
         substitute: true
         _name: Independence Day
+        id: 4dedaf1f-19ad-4595-831a-b072375065f3
       12-08 and if sunday then next monday:
         substitute: true
         _name: Mothers Day
+        id: ac69b8e0-a074-4bc0-aac9-1489393769fb
       12-25 and if sunday then next monday:
         substitute: true
         _name: 12-25
+        id: 2f0abcdc-4dce-4b4d-a5f5-445c4e215d68

@@ -1,8 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_the_Cook_Islands
-  # @source http://www.cookislands.org.uk/gospelday.html
-  # @source http://www.cookislands.org.uk/calendar
-  # @source https://web.archive.org/web/20090326003301/http://www.stats.gov.ck/NewsEvents/PublicHolidays.pdf
   CK:
     names:
       rar: Kūki 'Āirani
@@ -17,38 +13,48 @@ holidays:
       01-01 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: 01-01
+        id: 36d8beea-89c7-4461-9fc0-06c67ca0545b
       01-02 and if Saturday then next Monday if Monday, Sunday then next Tuesday:
         substitute: true
         name:
           en: Day after New Year's Day
+        id: 3c819ed4-eb52-4405-abf4-e888706dee13
       04-25:
         name:
           en: Anzac Day
+        id: 77f4975e-16b5-4afb-9e80-caeae62cd134
       easter -2:
         _name: easter -2
+        id: ac990620-132a-418b-a74f-742ad46fe11b
       easter 1:
         _name: easter 1
-      1st Monday in June: # #k
+        id: 72070fc5-f20d-4f48-a52f-b6ec98257175
+      1st Monday in June:
         name:
           en: Queen's Birthday
-        # same day as observed in NZ
+        id: b138c87f-a518-4460-b8ad-7b02ea6d14f0
       1st Friday in July:
         name:
           en: Ra o te Ui Ariki (House of Ariki)
           rar: Ra o te Ui Ariki
+        id: 98d70b07-3132-4481-a4c4-a8ba28c689ca
       08-04 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: Constitution Day
+        id: dd95c398-f654-4085-8435-ff4fc2430563
       10-26 and if Saturday, Sunday then next Monday:
         substitute: true
         name:
           en: National Gospel Day
+        id: 618305da-4d57-450e-a048-a54f6fbae346
       12-25 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: 12-25
+        id: f73d8847-c064-4eb0-8698-99b702e56a76
       12-26 and if Saturday then next Monday if Monday, Sunday then next Tuesday:
         substitute: true
         _name: 12-26
+        id: 708ffae0-491d-4a68-80c8-b917d335f463
     states:
       Aitutaki:
         names:
@@ -58,6 +64,7 @@ holidays:
             substitute: true
             name:
               en: Aitutaki Gospel Day
+            id: 724f2dc1-2aff-4913-a2df-5a193184cbb4
       Atiu:
         names:
           en: Atiu
@@ -66,6 +73,7 @@ holidays:
             substitute: true
             name:
               en: Atiu Gospel Day
+            id: 79f632d3-08cf-478c-9544-747adac82ab4
       Mangaia:
         names:
           en: Mangaia
@@ -74,6 +82,7 @@ holidays:
             substitute: true
             name:
               en: Mangaia Gospel Day
+            id: eb0a598d-f605-47a4-9016-da44515616cd
       Manihiki:
         names:
           en: Manihiki
@@ -82,6 +91,7 @@ holidays:
             substitute: true
             name:
               en: Manihiki Gospel Day
+            id: 33c95572-8f28-492d-a0e8-f33eeb12de36
       Mitiaro:
         names:
           en: Mitiaro
@@ -90,6 +100,7 @@ holidays:
             substitute: true
             name:
               en: Mitiaro Gospel Day
+            id: 53ef5052-72f2-4383-b6bb-1532bbff224f
       Palmerston:
         names:
           en: Palmerston
@@ -98,6 +109,7 @@ holidays:
             substitute: true
             name:
               en: Palmerston Gospel Day
+            id: 5af4ab08-40b7-4eea-b3c4-936d404f3f54
       Penrhyn:
         names:
           en: Penrhyn
@@ -106,6 +118,7 @@ holidays:
             substitute: true
             name:
               en: Penrhyn Gospel Day
+            id: 20b0e2b8-9279-48cd-887a-7832b3d040d9
       Pukapuka:
         names:
           en: Pukapuka
@@ -114,6 +127,7 @@ holidays:
             substitute: true
             name:
               en: Pukapuka Gospel Day
+            id: 533e5a5b-0373-4f06-86ff-c06afdad7357
       Rakahanga:
         names:
           en: Rakahanga
@@ -122,6 +136,7 @@ holidays:
             substitute: true
             name:
               en: Rakahanga Gospel Day
+            id: 3fcff378-6e1f-474d-a1c1-790591a40100
       Rarotonga:
         names:
           en: Rarotonga
@@ -130,3 +145,4 @@ holidays:
             substitute: true
             name:
               en: Rarotonga Gospel Day
+            id: c984c59e-304f-4c92-960e-33daa8a1d5bd

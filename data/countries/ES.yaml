@@ -1,11 +1,4 @@
 holidays:
-  # @attrib https://es.m.wikipedia.org/wiki/Calendario_laboral
-  # @source https://www.boe.es/boe/dias/2018/10/20/pdfs/BOE-A-2018-14369.pdf
-  # @source https://www.boe.es/boe/dias/2019/10/11/pdfs/BOE-A-2019-14552.pdf
-  # @source https://www.boe.es/boe/dias/2020/11/02/pdfs/BOE-A-2020-13343.pdf
-  # @source https://www.boe.es/boe/dias/2021/10/21/pdfs/BOE-A-2021-17113.pdf
-  # @source https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17113
-  # buscar: "la relación de fiestas laborales para el año 20xx"
   ES:
     names:
       es: España
@@ -20,74 +13,97 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 1c6d66aa-fafd-4099-9385-4688d4a91413
       substitutes 01-01 if sunday then next monday:
         type: observance
         substitute: true
         _name: 01-01
+        id: e18e5c81-5c6d-46bc-a6a7-7fe65fefbf47
       01-06:
         _name: 01-06
+        id: fbd06068-0a65-4e3f-bb8b-6f849e0af3f1
       substitutes 01-06 if sunday then next monday:
         type: observance
         substitute: true
         _name: 01-06
+        id: e80bde04-2172-4068-8d19-633c725b0455
       03-19:
         _name: 03-19
         type: observance
+        id: 9625be6d-c72b-4f5f-bc80-98ab4c2857f1
       easter -3:
         _name: easter -3
+        id: ed5c9b01-31a2-4299-b367-337d3f061149
       easter -2:
         _name: easter -2
+        id: af556f42-db34-422a-a299-847f55b32f96
       easter:
         _name: easter
         type: observance
+        id: 4628be25-d74d-4a1b-9822-9e14b02ad68b
       05-01:
         _name: 05-01
+        id: 13f9e62b-bfaa-4f7c-bc86-44c726033bfb
       1st sunday in May:
         _name: Mothers Day
         type: observance
+        id: f1c23b3d-8d7d-442f-9ba1-837e88d71939
       easter 49:
         _name: easter 49
         type: observance
+        id: 7517b3b3-cf13-4ce4-be4d-01e5c0f4c99c
       07-25:
         name:
           es: Santiago Apostol
         type: observance
         note: regional
+        id: 448ebba0-7e76-4648-b025-7fbed80a99ec
       08-15:
         _name: 08-15
+        id: 3b0fb38e-2196-48d3-832e-165a1153c7c1
       10-12:
         name:
           es: Fiesta Nacional de España
+        id: 97949546-f74f-44da-8e4e-b85b7d62bca2
       substitutes 10-12 if sunday then next monday:
         substitute: true
         type: observance
         name:
           es: Fiesta Nacional de España
+        id: e114b5d5-edf2-4e72-bce9-1650d8342206
       11-01:
         _name: 11-01
+        id: d64dc3fb-7b06-418e-b234-9dda798f6aa3
       substitutes 11-01 if sunday then next monday:
         substitute: true
         type: observance
         _name: 11-01
+        id: f2270292-9bc8-48ed-ae74-91a653ddf367
       12-06:
         name:
           es: Día de la Constitución Española
+        id: 9a0495d2-6a50-456f-a52b-7134470a9694
       substitutes 12-06 if sunday then next monday:
         type: observance
         substitute: true
         name:
           es: Día de la Constitución Española
+        id: d948995a-357e-4876-8d50-03eb8f7d91cf
       12-08:
         _name: 12-08
+        id: 77507fdf-af36-4c6c-bab6-7bfdbb9335a6
       substitutes 12-08 if sunday then next monday:
         type: observance
         substitute: true
         _name: 12-08
+        id: a1a78350-2f63-4778-8746-9bd2260ac941
       12-25:
         _name: 12-25
+        id: 12369831-5143-4a9d-af8a-20d4a3444cdb
       substitutes 12-25 if sunday then next monday:
         substitute: true
         _name: 12-25
+        id: 962e6dbd-4149-4132-9daf-7bd849c99a68
     states:
       AN:
         name: Andalucía
@@ -95,74 +111,96 @@ holidays:
           02-28:
             name:
               es: Día de Andalucía
+            id: ebe694f3-399b-40bd-915d-a7d727c09757
           substitutes 02-28 if Sunday then next Monday:
             substitute: true
             name:
               es: Día de Andalucía
+            id: b8806e41-3166-4710-a141-e4c734652ba1
           substitutes 05-01 if Sunday then next Monday:
             substitute: true
             _name: 05-01
+            id: c7633d74-46c1-45e4-9075-f7645a5c6da2
           substitutes 08-15 if Sunday then next Monday:
             substitute: true
             _name: 08-15
+            id: 2b1c594c-9442-4c65-b6ee-2a1f6920f4a8
           easter -3:
             _name: easter -3
+            id: bceaeda5-3c3e-4581-a0a4-b463ba354a90
       AR:
         name: Aragón
         days:
           04-23:
             name:
               es: Día de Aragón
+            id: 945a1f09-03b0-4b8c-a0b9-5f305c4f3ecd
           substitutes 04-23 if Sunday then next Monday:
             substitute: true
             name:
               es: Día de Aragón
+            id: 5da7d3ea-80bf-4868-8059-c04c62838c9e
           substitutes 05-01 if Sunday then next Monday:
             substitute: true
             _name: 05-01
+            id: 4f13e8b7-eace-466b-bdac-e3e83bd9357e
           substitutes 08-15 if Sunday then next Monday:
             substitute: true
             _name: 08-15
+            id: 98bb5039-b912-4ffe-8d83-6cedc0d1766e
       AS:
         name: Asturias
         days:
           substitutes 05-01 if Sunday then next Monday:
             substitute: true
             _name: 05-01
+            id: dca49866-823f-4820-ab07-ee0fae565080
           substitutes 08-15 if Sunday then next Monday:
             substitute: true
             _name: 08-15
+            id: 0c9e3a20-f50c-404e-8c6e-3c74e26475b9
           09-08:
             name: Día de Asturias
+            id: 4db6c6f1-5984-4338-9855-37fc81295787
           substitutes 09-08 if Sunday then next Monday:
             substitute: true
             name: Día de Asturias
+            id: 18d19ac6-322f-4dcd-a2c7-1f6b4175cdac
       CB:
         name: Cantabria
         days:
           06-28:
             name: Día de las Instituciones de Cantabria
+            id: a577e63d-e491-4340-b637-08c466029e73
           substitutes 06-28 if Sunday then next Monday:
             name: Día de las Instituciones de Cantabria
+            id: 4a63ffa9-fefc-407f-b1e1-29d18f7fb0f4
           09-15:
             name: La Bien Aparecida
+            id: b82b43a8-f313-45c4-a302-d793582c95dd
           substitutes 09-15 if Sunday then next Monday:
             name: La Bien Aparecida
+            id: a7cc3947-b8c2-4ac4-a03c-f3f65f2959dd
       CE:
         name: Ciudad de Ceuta
         days:
           08-05:
             name: Nuestra Señora de África
+            id: 1a487c76-e84b-4505-ac37-ea87bbfe86ed
           substitutes 08-05 if Sunday then next Monday:
             substitute: true
             name: Nuestra Señora de África
+            id: c494ad47-8633-4681-a6fc-c5a327983c05
           09-02:
             name: Día de Ceuta
+            id: 6920d139-a3fb-497b-a38c-da47ed2a4231
           substitutes 09-02 if Sunday then next Monday:
             substitute: true
             name: Día de Ceuta
+            id: a319aa47-cc2d-4774-b153-865bbd0d600f
           9 Dhu al-Hijjah:
             _name: 9 Dhu al-Hijjah
+            id: 40233a1c-2f46-418f-b600-43e5976414fd
       CL:
         names:
           es: Castilla y León
@@ -170,25 +208,32 @@ holidays:
         days:
           04-23:
             name: Fiesta de Castilla y León
+            id: 755df09d-8c3c-4b4f-a4a3-56d21f58d357
           substitutes 04-23 if Sunday then next Monday:
             substitute: true
             name: Fiesta de Castilla y León
+            id: 70342361-923f-49ee-a31a-5d13efa18723
           substitutes 05-01 if Sunday then next Monday:
             substitute: true
             _name: 05-01
+            id: 8530817e-d107-4fba-8294-dc52957ac8de
           substitutes 08-15 if Sunday then next Monday:
             substitute: true
             _name: 08-15
+            id: 2a60d20c-64fe-496b-a897-e6957f3b73bb
       CM:
         name: Castile-La Mancha
         days:
           05-31 since 2020:
             name: Día de Castilla-La Mancha
+            id: f9af390f-91f9-4fb9-bfed-82c3fad37ef1
           substitutes 05-31 if Sunday then next Monday since 2020:
             substitute: true
             name: Día de Castilla-La Mancha
+            id: 5edd7647-f133-45b0-8f60-c57dde72009f
           easter 60:
             _name: easter 60
+            id: 89de6955-a925-499d-a06f-97fb937b475a
       CN:
         names:
           es: Islas Canarias
@@ -247,7 +292,7 @@ holidays:
               - IC
               - regions
               - TE
-      # @source: https://ajuntament.barcelona.cat/calendarifestius/ca/
+        days: {}
       CT:
         names:
           ca: Catalunya
@@ -258,52 +303,67 @@ holidays:
             name:
               ca: Diada de Catalunya
               es: Dia de Cataluña
+            id: ceaf366d-b52d-4812-a87a-40fdce95c7a4
           06-24:
             name:
               ca: Sant Joan
               es: San Juan
+            id: 6948b030-d4d3-4678-b781-1dca8d3ced20
           easter -3:
             _name: easter -3
             type: observance
+            id: 7ca44d52-86f6-4f6a-9e7f-13e8aab24bf0
           easter 1:
             _name: easter 1
+            id: f723ac03-7a5b-4e7e-b7e7-9a24ea31e0e2
           easter 50:
             _name: easter 50
+            id: 068b5ff1-2ba8-48b5-a157-cf384c32813c
           substitutes 05-01 if Saturday, Sunday then next Monday:
             substitute: true
             _name: 05-01
+            id: f681442a-7014-4b0c-ab52-486a1e0f5f58
           09-24 if sunday then next monday:
             name:
               es: Mare de Déu de la Mercè
+            id: c74a5bf0-24e2-42af-9882-bb8d35fa6247
           12-26:
             name:
               ca: Sant Esteve
               es: San Esteban
             type: observance
+            id: 54ffdf1c-3877-47f0-8cb6-2ba4fa03e83a
       EX:
         name: Extremadura
         days:
           substitutes 05-01 if Sunday then next Monday:
             substitute: true
             _name: 05-01
+            id: 3bbd9a37-6e7d-497a-a4ee-b20a0550eb2b
           09-08:
             name: Día de Extremadura
+            id: 62e8d218-1e47-4797-b88d-87a107923140
           substitutes 09-08 if Sunday then next Monday:
             substitute: true
             name: Día de Extremadura
+            id: c1dedf8e-3229-4ce6-ae9f-74baaa8254b5
       GA:
         name: Galicia
         days:
           05-17:
             name: Día de las Letras Gallegas
+            id: e42ef02b-0d51-4010-b600-72e05d39472e
           substitutes 05-17 if Sunday then next Monday:
             substitute: true
             name: Día de las Letras Gallegas
+            id: 1fa735d4-afbc-4259-ada4-adf090f0d340
           07-25:
             name: Día Nacional de Galicia
+            id: b5f1ca12-a822-4a2f-a858-aadc06812af5
           substitutes 07-25 if Sunday then next Monday:
             substitute: true
             name: Día Nacional de Galicia
+            id: 031265c1-7361-4f8a-8029-32a2efed7038
       IB:
         names:
           es: Illes Balears
@@ -312,52 +372,65 @@ holidays:
           03-01:
             name:
               es: Día de les Illes Balears
+            id: be2376be-0d4f-4a60-a22f-67ffeec6f65d
           substitutes 03-01 if Sunday then next Monday:
             substitute: true
             name:
               es: Día de les Illes Balears
+            id: 890f4be7-f9d9-4212-ba2e-79dbcc015cb0
           easter 1:
             _name: easter 1
+            id: b8b7c222-c707-4ec1-b268-8f4ee0f4078a
           12-26:
             name:
               es: Sant Esteve
             type: observance
+            id: 7967f7a8-d449-40b0-bfbd-44e669213cac
       MC:
         name: Murcia Region
         days:
           substitutes 05-01 if Sunday then next Monday:
             substitute: true
             _name: 05-01
+            id: 3299d580-9977-4789-8f80-a1f8f0e93340
       MD:
         name: Comunidad de Madrid
         days:
           05-02 if Sunday then next Monday:
             name:
               es: Día de la Comunidad de Madrid
+            id: e7cdf7e5-2499-4fa1-bf59-1658d4dc1a74
           substitutes 05-02 if Sunday then next Monday:
             substitute: true
             name:
               es: Día de la Comunidad de Madrid
+            id: 035b8122-8ff3-445a-af4a-75297801f1fa
           05-16:
             name:
               es: San Isidro Labrador
             type: observance
+            id: 5b87d741-3df8-44e6-b581-5a6fa7d6760e
           07-25:
             name: Santiago Apóstol
+            id: 7fc3e6a7-dc04-4ee8-ab6a-8060a21a4cde
           substitutes 07-25 if Sunday then next Monday:
             substitute: true
             name: Santiago Apóstol
+            id: 46eef0a8-9b13-48a5-b385-04b2be406b1c
           11-09 if sunday then next monday:
             name:
               es: Nuestra Señora de la Almudena
             type: observance
+            id: 2abc1e15-9764-486c-92ad-4a808429c1d4
       ML:
         name: Ciudad de Melilla
         days:
           1 Shawwal:
             _name: 1 Shawwal
+            id: f5409ee2-a063-4572-a039-91a67f1299ce
           10 Dhu al-Hijjah:
             _name: 10 Dhu al-Hijjah
+            id: 8815854b-53b5-4f8a-b89b-0b05489a59ee
       NC:
         names:
           es: Comunidad Foral de Navarra
@@ -365,11 +438,14 @@ holidays:
         days:
           easter 1:
             _name: easter 1
+            id: 46211302-7b7d-42a2-8178-fb83537b7131
           07-25:
             name: Santiago Apóstol
+            id: b8e76334-71ea-46ad-a79c-957b842365a3
           substitutes 07-25 if Sunday then next Monday:
             substitute: true
             name: Santiago Apóstol
+            id: 5b9615db-6c16-4c7d-afcb-21f613377941
       PV:
         names:
           es: País Vasco
@@ -377,18 +453,23 @@ holidays:
         days:
           easter 1:
             _name: easter 1
+            id: 922a9520-133c-4e83-a6de-4675c21d821c
           07-25:
             name: Santiago Apóstol
+            id: 420321be-e41c-4a63-b86c-d93a6c309de0
           substitutes 07-25 if Sunday then next Monday:
             substitute: true
             name: Santiago Apóstol
-          "2022-09-06":
+            id: a931661e-6ca3-43c4-8743-ff2b11b37400
+          '2022-09-06':
             name: V Centenario Vuelta al Mundo
+            id: 3a73da06-a16a-4818-a6fd-8649dfe40060
       RI:
         name: La Rioja
         days:
           easter 1:
             _name: easter 1
+            id: 7fb57724-f7d5-4d41-8d86-2dcf558218a6
       VC:
         names:
           es: Comunitat Valenciana
@@ -396,5 +477,7 @@ holidays:
         days:
           03-19:
             _name: 03-19
+            id: 2a114fb5-0cfa-4ccb-9372-e82c57c0978f
           easter 1:
             _name: easter 1
+            id: b1ae7f6d-ff1d-4cae-8ff4-d14fdb63d735

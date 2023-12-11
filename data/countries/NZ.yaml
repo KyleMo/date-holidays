@@ -1,6 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_New_Zealand
-  # @source https://www.govt.nz/browse/work/public-holidays-and-work/public-holidays-and-anniversary-dates
   NZ:
     names:
       en: New Zealand
@@ -16,138 +14,179 @@ holidays:
       01-01 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 01-01
+        id: bc694d00-be99-4acf-b3a2-c79df1a31316
       01-02 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         name:
           en: Day after New Year's Day
+        id: 9d8e806e-5d46-480a-9def-e7fa2bb637af
       02-06 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: Waitangi Day
+        id: 6ec48434-4c03-445e-a16b-8d4cb03dae05
       easter -2:
         _name: easter -2
+        id: a982b7c1-e13f-4dc9-bffd-1d7601bb8127
       easter:
         _name: easter
         type: observance
+        id: c0247c67-43e5-48de-8727-b5ef2dcd34c9
       easter 1:
         _name: easter 1
+        id: 7bcdf20e-a5be-44c5-82a0-4ddb1af0effd
       04-25 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: ANZAC Day
-      # @source https://www.govt.nz/browse/work/public-holidays-and-work/public-holidays-and-anniversary-dates/
+        id: f592f80e-0de9-4027-9917-4dd9c1ff5392
       1st monday in June prior to 2023:
         name:
           en: Queen's Birthday
+        id: b1011edf-afbe-44d6-a6cd-0db5321d7dee
       1st monday in June since 2023:
         name:
           en: King's Birthday
+        id: ef8ae9e9-2461-474b-a6f1-a90538039c39
       4th monday in October:
         _name: 05-01
+        id: f9b4ed53-e380-467c-af60-7f218d3fc76a
       12-25 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 12-25
+        id: 660b28ea-8f60-47a8-8a2f-40903ae9b4b9
       12-26 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 12-26
-      # @source https://www.mbie.govt.nz/assets/matariki-dates-2022-to-2052-matariki-advisory-group.pdf
-      "2022-06-24":
+        id: 1daacf4b-253d-46e8-938f-a9c93fecf132
+      '2022-06-24':
         name:
           en: Matariki
-      "2023-07-14":
+        id: ee9f24ab-5ae6-476c-b1cd-647a52daa75e
+      '2023-07-14':
         name:
           en: Matariki
-      "2024-06-28":
+        id: d14c83c6-5c68-4cd8-ad47-582f0c30ddfb
+      '2024-06-28':
         name:
           en: Matariki
-      "2025-06-20":
+        id: 5f1ab0f7-ad85-4a16-97d2-db49b93a78d4
+      '2025-06-20':
         name:
           en: Matariki
-      "2026-07-10":
+        id: f3c48567-56ce-4dea-8350-eebc3d6372aa
+      '2026-07-10':
         name:
           en: Matariki
-      "2027-06-25":
+        id: 590da69e-67eb-4a7f-b0a9-91179c65671b
+      '2027-06-25':
         name:
           en: Matariki
-      "2028-07-14":
+        id: e334f3d8-8d9e-45ff-86c6-cfcbbf5b67db
+      '2028-07-14':
         name:
           en: Matariki
-      "2029-07-06":
+        id: 31f6c0d9-eba1-44f4-af78-c9e5cbbf93b4
+      '2029-07-06':
         name:
           en: Matariki
-      "2030-06-21":
+        id: 803fc59c-bafa-48a2-b199-e4df5b648796
+      '2030-06-21':
         name:
           en: Matariki
-      "2031-07-11":
+        id: c01081a1-7fd0-48f5-af14-e5db49b2fc81
+      '2031-07-11':
         name:
           en: Matariki
-      "2032-07-02":
+        id: 9714bb78-e29a-4ba9-87b4-2d73c5deafd4
+      '2032-07-02':
         name:
           en: Matariki
-      "2033-06-24":
+        id: 27e2f457-f9d7-4f4d-99e6-9f2103c80f49
+      '2033-06-24':
         name:
           en: Matariki
-      "2034-07-07":
+        id: 52f31846-449b-4974-8e2e-5aa66037ad33
+      '2034-07-07':
         name:
           en: Matariki
-      "2035-06-29":
+        id: 66e92d8a-298d-49d7-b886-17deb2041ee0
+      '2035-06-29':
         name:
           en: Matariki
-      "2036-07-18":
+        id: 128223da-6213-44b0-a8b4-c1239abc92da
+      '2036-07-18':
         name:
           en: Matariki
-      "2037-07-10":
+        id: 34ddd9fd-0633-456d-b958-2e0dec067cb9
+      '2037-07-10':
         name:
           en: Matariki
-      "2038-06-25":
+        id: 3287b2dc-0487-4e77-ae30-426ec57a762a
+      '2038-06-25':
         name:
           en: Matariki
-      "2039-07-15":
+        id: 8332cee4-c5a0-4e45-b505-55c2f106d569
+      '2039-07-15':
         name:
           en: Matariki
-      "2040-07-06":
+        id: 80595b4b-54a5-42d8-89a8-0a5db4cfafc6
+      '2040-07-06':
         name:
           en: Matariki
-      "2041-07-19":
+        id: 119d1905-1398-4825-b4ac-8006a71a631e
+      '2041-07-19':
         name:
           en: Matariki
-      "2042-07-11":
+        id: a4c75b29-c21b-4b41-b3aa-5da4adce5179
+      '2042-07-11':
         name:
           en: Matariki
-      "2043-07-03":
+        id: 0ce6ed8c-a660-4688-b10a-cb4842be928e
+      '2043-07-03':
         name:
           en: Matariki
-      "2044-06-24":
+        id: 753fab5d-61c1-4da3-861a-55489fe90324
+      '2044-06-24':
         name:
           en: Matariki
-      "2045-07-07":
+        id: 0c682749-df52-4b3e-844a-20bf9d8cdff2
+      '2045-07-07':
         name:
           en: Matariki
-      "2046-06-29":
+        id: 41db09b7-4a86-490f-acb0-0c3ee6dab3b9
+      '2046-06-29':
         name:
           en: Matariki
-      "2047-07-19":
+        id: 656ee861-66b1-4e71-a4be-40e7b81b5353
+      '2047-07-19':
         name:
           en: Matariki
-      "2048-07-03":
+        id: f4777924-ce0b-4af9-8f04-5568957434b0
+      '2048-07-03':
         name:
           en: Matariki
-      "2049-06-25":
+        id: 21557e30-571b-4b16-bb57-ba08d9150bfd
+      '2049-06-25':
         name:
           en: Matariki
-      "2050-07-15":
+        id: 742eaa80-4b62-41da-a7d6-dab62bc6a078
+      '2050-07-15':
         name:
           en: Matariki
-      "2051-06-30":
+        id: 68d1dd0b-9554-497b-b41c-640021e34530
+      '2051-06-30':
         name:
           en: Matariki
-      "2052-06-21":
+        id: 76f27633-6496-4eed-a02b-f0ed1eb70062
+      '2052-06-21':
         name:
           en: Matariki
-      # @source https://www.beehive.govt.nz/release/public-holiday-26-september-mark-passing-queen-elizabeth-ii#:~:text=New%20Zealand%20will%20mark%20the,Minister%20Jacinda%20Ardern%20has%20announced.
-      "2022-09-26":
+        id: ed932eb7-b7ea-4195-a763-8d997228944b
+      '2022-09-26':
         name:
           en: National Day of Mourning for Queen Elizabeth II
+        id: 25857e48-2b12-464b-aa57-4c416c8e48e7
     states:
       AUK:
         names:
@@ -157,15 +196,16 @@ holidays:
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+            id: 23ffb93a-1b4f-46f2-b075-e8271d6a1150
       BOP:
         names:
           en: Bay of Plenty
           mi: Te Moana-a-Toi
         days:
-          # Same as in NZ-AUK
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+            id: 8261d6b5-fd98-42d8-b039-3f099ea8ed3d
       CAN:
         names:
           en: Canterbury
@@ -175,8 +215,9 @@ holidays:
             name:
               en: Christchurch Show Day
             note: May differ in parts of North Canterbury
+            id: b25e6f23-a079-4345-9e02-f9fcce7a3079
         regions:
-          Timaru: # South Canterbury
+          Timaru:
             name: Timaru District
             days:
               friday after 2nd tuesday in November: false
@@ -191,40 +232,41 @@ holidays:
           11-30 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+            id: 10fb58a2-7293-447f-b7e5-c645265ad30d
       GIS:
         names:
           en: Gisborne
           mi: Te Tai Rāwhiti
         days:
-          # Same as NZ-AUK
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+            id: a5b9f15f-3a2a-4e00-bc49-e0fec76a8a57
       HKB:
         names:
           en: Hawke's Bay
           mi: Te Matau-a-Māui
         days:
-          # Friday before Labour Day
           friday before 4th monday in October:
             name:
               en: Provincial anniversary day
+            id: db716f4d-bed9-45f4-b3e1-c0b22904ba55
       MBH:
         names:
           en: Marlborough
           mi: Te Tauihu-o-te-waka
         days:
-          # Monday after Labour Day
           5th monday in October:
             name:
               en: Provincial anniversary day
+            id: 73cbc933-f93b-452e-8a85-84511b753064
       MWT:
         name: Manawatu-Wanganui
         days:
-          # Same as in NZ-WGN
           01-22 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+            id: 350b30ec-501d-41a7-a1ca-9a4e764c1838
       NSN:
         names:
           en: Nelson
@@ -233,6 +275,7 @@ holidays:
           02-01 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+            id: 6cc20990-1793-49aa-b592-bfc62e942e0f
       NTL:
         names:
           en: Northland
@@ -241,15 +284,16 @@ holidays:
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+            id: 0c26d6bb-670f-49a6-8baa-50952c0a59ef
       OTA:
         names:
           en: Otago Province
           mi: Ōtākou
         days:
-          # 03-23 if ... then next monday if easter 1 then next Monday"; This will happen in 2285 the next time ;)
           03-23 if Tuesday,Wednesday,Thursday then previous Monday if Friday,Saturday,Sunday then next Monday if is public holiday then next Monday:
             name:
               en: Provincial anniversary day
+            id: 77125031-6530-4d18-ab82-3b3fda7bcd7f
       STL:
         names:
           en: Southland
@@ -258,28 +302,30 @@ holidays:
           easter 2:
             name:
               en: Provincial anniversary day
+            id: b0a7b864-36d2-4bae-9932-bc27d8927bce
       TAS:
         names:
           en: Tasman
           mi: Te Tai-o-Aorere
         days:
-          # Same as NZ-NSN
           02-01 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+            id: 316ab104-ff46-4eef-b15a-9307d64f3e40
       TKI:
         name: Taranaki
         days:
           2nd monday in March:
             name:
               en: Provincial anniversary day
+            id: 5b2c0767-4605-4d60-8d3b-7d5ef0b0328a
       WKO:
         name: Waikato
         days:
-          # Same as NZ-AUK
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+            id: 1a0529e3-5ab7-48c9-afa4-4b8ae6e1d9e9
       WGN:
         names:
           en: Wellington Province
@@ -288,6 +334,7 @@ holidays:
           01-22 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+            id: c7ecd263-9612-4fa8-a2f1-c41c5c3e1935
       WTC:
         names:
           en: Westland
@@ -296,12 +343,12 @@ holidays:
           12-01 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
+            id: 2193e73e-e83d-4fe6-b571-ebf5fee12f4c
         regions:
           Buller:
             name: Buller district
             days:
               12-01 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday: false
-              # Same as NZ-NSN
               02-01 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
                 name:
                   en: Provincial anniversary day

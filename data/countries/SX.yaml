@@ -1,5 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Sint_Maarten
-# @source http://www.sintmaartengov.org/government/VSA/labour/Pages/Public-Holiday-Schedule.aspx
 holidays:
   SX:
     names:
@@ -12,40 +10,55 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 16c0de1c-f96e-474b-97d3-e214429527d1
       easter -2:
         _name: easter -2
+        id: 97849042-09c2-40cf-8524-0e3cac1a55b3
       easter:
         _name: easter
+        id: 60470cdf-28c8-41da-9486-5ffab7dd90df
       easter 1:
         _name: easter 1
+        id: 425ce4e9-6d27-4b92-9235-b36c9666d9cb
       04-27:
         name:
           nl: Koningsdag
           en: King's Day
+        id: fd4daf8f-03de-4c1d-a6df-9deb694a176e
       04-30 if Sunday then next Tuesday prior to 2017:
         name:
           nl: Carnaval
           en: Carnival
+        id: da44f1b7-2dbc-471c-b3a0-f399d78573f6
       04-30 if Saturday then previous Friday if Sunday then next Tuesday since 2017:
         name:
           nl: Carnaval
           en: Carnival
+        id: d9d914bb-a809-4cf3-a46f-010a03d189be
       05-01 if Sunday then next Monday:
         _name: 05-01
+        id: 3704a2f0-6dd2-4eb7-bad7-6062a48f60b9
       easter 39:
         _name: easter 39
+        id: 97a6dc12-c7b8-41fc-96b9-9dba51dce057
       easter 49:
         _name: easter 49
+        id: a64bd6c5-1b4e-417c-a72c-84b66c04f33a
       07-01:
         name:
           nl: Emancipatiedag
           en: Emancipation Day
+        id: 427029b0-e843-47ab-9a98-de9b99fc5175
       10-09:
         _name: Constitution Day
+        id: 0888c9a5-fbf7-4236-9c8a-43233b2d9ccb
       11-11:
         name:
           en: Sint Maarten Day
+        id: db8b0bb3-66bc-4046-aaae-cd6693672dc0
       12-25:
         _name: 12-25
+        id: 53fda195-29a2-48c9-821a-e65aefc82f5e
       12-26:
         _name: 12-26
+        id: c7a94bb0-ea31-4fcd-9cc9-ceec96900dd6

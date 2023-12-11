@@ -1,4 +1,3 @@
-# @attrib https://fr.wikipedia.org/wiki/B%C3%A9nin#F%C3%AAtes_et_jours_f%C3%A9ri%C3%A9s
 holidays:
   BJ:
     names:
@@ -8,65 +7,55 @@ holidays:
       - fr
     zones:
       - Africa/Lagos
-    dayoff: ""
+    dayoff: ''
     days:
       01-01:
         _name: 01-01
+        id: af20a9a4-76e2-416f-b401-69f305c994a6
       01-10:
         name:
           fr: Fête du Vodoun
+        id: a0d6d93a-5a4b-47e5-9fcb-4075cda57ed3
       easter:
         _name: easter
         type: observance
+        id: e4c5aca9-6b06-4576-946e-9ca80fe05d08
       easter 1:
         _name: easter 1
+        id: 68402461-7941-49d4-adcd-42a63f1279fc
       easter 39:
         _name: easter 39
+        id: 743ffaf9-ca6b-4042-ba7f-6fc950e81235
       easter 49:
         _name: easter 49
         type: observance
+        id: 545d06af-1ce9-4a57-b50c-594e576b25c2
       easter 50:
         _name: easter 50
+        id: 8ca3a57e-ddcc-45e2-b9ef-e973686ed6aa
       05-01:
         _name: 05-01
+        id: f1e0019b-cfb9-4b49-a0a6-e8961df07944
       08-01:
         _name: Independence Day
         name:
           fr: Fête Nationale
+        id: 69690576-39fb-4e9d-bb57-2dfbfd0f8316
       08-15:
         _name: 08-15
+        id: 423369d2-8f5d-40cd-98b7-8fe2998ceacd
       11-01:
         _name: 11-01
+        id: ce856b8d-1360-48be-bc57-c481a79582e1
       12-25:
         _name: 12-25
+        id: 25f4d34d-3cc5-4d54-bdbe-a25d4c7cd3eb
       1 Shawwal:
         _name: 1 Shawwal
+        id: ec66e3bf-f37e-4439-aab3-9631ec382917
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
+        id: f30d07b7-ecb2-440c-9255-848fff108451
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-    # states:
-    # AK:
-    #   name: Atakora
-    # AL:
-    #   name: Alibori
-    # AQ:
-    #   name: Atlantique
-    # BO:
-    #   name: Borgou
-    # CO:
-    #   name: Collines
-    # DO:
-    #   name: Donga
-    # KO:
-    #   name: Kouffo
-    # LI:
-    #   name: Littoral
-    # MO:
-    #   name: Mono
-    # OU:
-    #   name: Ouémé
-    # PL:
-    #   name: Plateau
-    # ZO:
-    #   name: Zou
+        id: f69e5e58-ac6c-433d-bf8d-ffb5c8d200fa

@@ -1,5 +1,4 @@
 holidays:
-  # @source https://www.fiji.gov.fj/Media-Centre/News/GOVERNMENT-APPROVES-2021-PUBLIC-HOLIDAYS
   FJ:
     names:
       fj: Matanitu Tugalala o Viti
@@ -13,127 +12,112 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: ce2c2458-7ba7-415f-bcee-8482577ab1f6
       easter -2:
         _name: easter -2
+        id: 38c20440-ccd5-4e83-815a-db570b18ee2b
       easter -1:
         _name: easter -1
+        id: eca2e279-8f35-4e68-88cf-45441780179b
       easter:
         _name: easter
         type: observance
+        id: 0c314b70-8cf4-482b-9272-b25cea10a20f
       easter 1:
         _name: easter 1
+        id: 04d4867d-df2c-4332-a1b9-0e6a1045659d
       09-07:
         _name: Constitution Day
+        id: 57973d4a-a212-4ddf-951c-a119cedb8eee
       10-10 and if Sunday then next Monday:
         substitute: true
         name:
           en: Fiji Day
+        id: 54834b98-dbd7-4df0-8387-5436a2a6a86f
       12-25 if Sunday then next Monday:
         _name: 12-25
+        id: 8206f182-a1f0-4062-aec1-c53b6fb6eb51
       12-26 if Sunday then next Monday if Monday then next Tuesday:
         _name: 12-26
+        id: 7ff2adb5-234b-4f0e-b03d-af70b941683b
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-      # Deepavali if Saturday, Sunday then next Monday
-      "2014-10-22":
+        id: cdbffd19-cab8-4b94-b788-1c19dba73db7
+      '2014-10-22':
         _name: Deepavali
         name:
           en: Diwali
-      "2015-11-10":
+        id: 53389c47-2f18-415b-934a-2e5a13ea0a07
+      '2015-11-10':
         _name: Deepavali
         name:
           en: Diwali
-      "2016-10-29":
+        id: e7a91e71-61d3-49c9-b9bd-f784ae3f1436
+      '2016-10-29':
         _name: Deepavali
         name:
           en: Diwali
-      "2017-10-19":
+        id: 30c4f1b7-eb71-454e-ad9b-55d4fe8eecb0
+      '2017-10-19':
         _name: Deepavali
         name:
           en: Diwali
-      "2018-11-07":
+        id: 71ad1267-d754-4f54-a498-667e490b1744
+      '2018-11-07':
         _name: Deepavali
         name:
           en: Diwali
-      "2019-10-27":
+        id: 51ff58a2-0069-489c-be2b-0251c5bcfb9b
+      '2019-10-27':
         _name: Deepavali
         name:
           en: Diwali
-      "2019-10-28":
+        id: 6406d022-ad50-4512-8ad3-7a8ddb234c2b
+      '2019-10-28':
         substitute: true
         _name: Deepavali
         name:
           en: Diwali
-      "2020-11-14":
+        id: c2ccf673-b76b-49e1-8b9c-3ac9d47f401d
+      '2020-11-14':
         _name: Deepavali
         name:
           en: Diwali
-      "2020-11-16":
+        id: 0aa5ee97-4bab-47c8-8e85-99fe42da5885
+      '2020-11-16':
         substitute: true
         _name: Deepavali
         name:
           en: Diwali
-      "2021-11-04":
+        id: 5a9b4058-287e-4794-9ca3-9d67400e1ca2
+      '2021-11-04':
         _name: Deepavali
         name:
           en: Diwali
-      "2022-10-24":
+        id: 46875934-8276-458a-b7ca-8c64d9c21e13
+      '2022-10-24':
         _name: Deepavali
         name:
           en: Diwali
-      "2023-11-12":
+        id: 0e66bc91-4e76-48f7-8dd3-926fe06322fe
+      '2023-11-12':
         _name: Deepavali
         name:
           en: Diwali
-      "2023-11-13":
+        id: 45ba17df-f3f2-4883-839c-784cdd329948
+      '2023-11-13':
         substitute: true
         _name: Deepavali
         name:
           en: Diwali
-      "2024-11-01":
+        id: 72e91f30-96bf-438a-b6f9-5f0b00919ebf
+      '2024-11-01':
         _name: Deepavali
         name:
           en: Diwali
-      "2025-10-21":
+        id: 649900bc-ea91-418c-bdce-4c0a4091b117
+      '2025-10-21':
         _name: Deepavali
         name:
           en: Diwali
-    # states:
-    #   '01':
-    #     name: Ba
-    #   '02':
-    #     name: Bua
-    #   '03':
-    #     name: Cakaudrove
-    #   '04':
-    #     name: Kadavu
-    #   '05':
-    #     name: Lau
-    #   '06':
-    #     name: Lomaiviti
-    #   '07':
-    #     name: Macuata
-    #   '08':
-    #     name: Nadroga-Navosa
-    #   '09':
-    #     name: Naitasiri
-    #   '10':
-    #     name: Namosi
-    #   '11':
-    #     name: Ra
-    #   '12':
-    #     name: Rewa
-    #   '13':
-    #     name: Serua
-    #   '14':
-    #     name: Tailevu
-    #   C:
-    #     name: Central
-    #   E:
-    #     name: Eastern
-    #   'N':
-    #     name: Northern
-    #   R:
-    #     name: Rotuma
-    #   W:
-    #     name: Western
+        id: c20a44cd-665a-48a4-8532-bb2ff683a17a

@@ -1,6 +1,4 @@
 holidays:
-  # @attrib https://fr.wikipedia.org/wiki/Burundi
-  # @source http://www.burundi.gov.bi/IMG/pdf/decret_211.pdf
   BI:
     names:
       rn: Republika y'Uburundi
@@ -8,7 +6,6 @@ holidays:
       en: Burundi
     dayoff: sunday
     langs:
-      # - rn
       - fr
       - en
     zones:
@@ -16,77 +13,53 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: d00db6c9-a8fb-464f-9c29-f667999967eb
       02-05:
         name:
           fr: Jour de l'Unité
           en: Unity Day
+        id: 17eab626-8528-47da-87ff-c5b2dc7e87c6
       04-06:
         name:
           fr: Jour de Ntaryamira
           en: Ntaryamira Day
+        id: 6e7d5f42-5c98-49e7-b7c1-823133e269aa
       05-01:
         _name: 05-01
+        id: 8363ea63-00de-4d5c-8968-2fe9a637dc75
       easter 39:
         _name: easter 39
+        id: 11c35c3f-ea77-45cb-8ad8-dd2ab6cb20c0
       07-01:
         _name: Independence Day
+        id: 5b409e38-b517-48c4-a688-c269abdf6d91
       08-15:
         _name: 08-15
+        id: af59db6e-7d3c-46df-85b5-3a8accc98c36
       10-13:
         name:
           fr: Jour de Rwagasore
           en: Rwagasore Day
+        id: 4cb8b294-14cd-4769-bb86-8711e1fc637e
       10-21:
         name:
           fr: Jour de Ndadaye
           en: Ndadaye Day
+        id: c2dae79b-d919-46d3-a1e9-9441ab07edde
       11-01:
         _name: 11-01
+        id: 7809adf3-4d58-4d6c-861c-5d887efb0ac4
       12-25:
         _name: 12-25
+        id: db736fdd-7fa4-4b4b-b631-40af4c7d68f5
       1 Shawwal:
         _name: 1 Shawwal
+        id: 1d82e1a5-943b-40ed-8a24-e111141ae833
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-      "2015-07-24":
+        id: 238a2737-9537-4faf-be5c-ae7288400fff
+      '2015-07-24':
         _name: Public Holiday
         name:
           fr: Jour l'élection des Sénateurs
-    # states:
-    # BB:
-    #   name: Bubanza
-    # BL:
-    #   name: Bujumbura Rural
-    # BM:
-    #   name: Bujumbura
-    # BR:
-    #   name: Bururi
-    # CA:
-    #   name: Cankuzo
-    # CI:
-    #   name: Cibitoke
-    # GI:
-    #   name: Gitega
-    # KI:
-    #   name: Kirundo
-    # KR:
-    #   name: Karuzi
-    # KY:
-    #   name: Kayanza
-    # MA:
-    #   name: Makamba
-    # MU:
-    #   name: Muramvya
-    # MW:
-    #   name: Mwaro
-    # MY:
-    #   name: Muyinga
-    # NG:
-    #   name: Ngozi
-    # RM:
-    #   name: Rumonge
-    # RT:
-    #   name: Rutana
-    # RY:
-    #   name: Ruyigi
-    #
+        id: a2ad8349-bffe-4617-9806-e806dd092d88

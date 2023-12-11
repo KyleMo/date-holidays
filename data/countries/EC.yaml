@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Ecuador
   EC:
     names:
       es: Ecuador
@@ -13,54 +12,70 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: e56f205a-0db6-458c-989c-4062c86a06ed
       easter -48:
         name:
           en: Carnival
           es: Carnaval
+        id: 2a0daab4-6dd9-4c54-bc84-a9f0d263b131
       easter -47:
         _name: easter -47
+        id: 542b3e08-22bb-4249-b413-073b32b2029f
       easter -3:
         _name: easter -3
+        id: 11a79ba0-f4db-4702-95c6-7c9d9106934e
       easter -2:
         _name: easter -2
+        id: 61717068-f3a4-41f0-8024-2715a7e3e75d
       easter:
         _name: easter
         type: observance
+        id: adb09001-70cb-43df-b7e1-f93e9c098649
       05-01:
         _name: 05-01
+        id: c593b870-a926-42b5-a793-9b0813dd1f50
       05-24:
         name:
           en: The Battle of Pichincha
           es: Batalla del Pichincha
+        id: a757384f-1d4b-4118-a11a-d5db9f3b8800
       07-24:
         name:
           en: The Birthday of Simón Bolívar
           es: El Natalicio de Simón Bolívar
         type: observance
+        id: 59424aac-c79f-488c-9b6a-bf30a2d3dc97
       08-10:
         name:
           en: Declaration of Independence of Quito
           es: Día del Primer Grito de Independencia de Quito
+        id: a7cea8a4-69a1-4acc-9768-50ac282aa4bc
       09-10:
         name:
           en: Independence of Guayaquil
           es: Independencia de Guayaquil
+        id: a8f8dba0-4ce2-460c-8484-573a5f49bdea
       10-31:
         name:
           en: Flag Day
           es: Dia de La Bandera
         type: observance
+        id: 82ef2300-3406-45fc-9935-bfd68ed12707
       11-02:
         _name: 11-02
+        id: 2adaac2b-cdd5-430e-b000-1b31ba5fa4e8
       11-03:
         name:
           en: Independence of Cuenca
           es: Independencia de Cuenca
+        id: 9a50022b-22d6-4160-a69b-d08853068aa9
       12-25:
         _name: 12-25
+        id: 77817014-a95f-4bcd-b372-dc1ee83ae713
       12-31:
         _name: 12-31
         type: observance
+        id: 633564a8-e8bc-4ad1-906a-a632a736d949
     states:
       P:
         name: Pichincha
@@ -73,49 +88,4 @@ holidays:
                   en: Foundation of Quito
                   es: Aniversario de la fundación de Quito
                 type: observance
-      # A:
-      #   name: Azuay
-      # B:
-      #   name: Bolívar
-      # C:
-      #   name: Carchi
-      # D:
-      #   name: Orellana
-      # E:
-      #   name: Esmeraldas
-      # F:
-      #   name: Cañar
-      # G:
-      #   name: Guayas
-      # H:
-      #   name: Chimborazo
-      # I:
-      #   name: Imbabura
-      # L:
-      #   name: Loja
-      # M:
-      #   name: Manabí
-      # N:
-      #   name: Napo
-      # O:
-      #   name: El Oro
-      # R:
-      #   name: Los Ríos
-      # S:
-      #   name: Morona-Santiago
-      # SD:
-      #   name: Santo Domingo de los Tsáchilas
-      # SE:
-      #   name: Santa Elena
-      # T:
-      #   name: Tungurahua
-      # U:
-      #   name: Sucumbíos
-      # W:
-      #   name: Galápagos
-      # X:
-      #   name: Cotopaxi
-      # Y:
-      #   name: Pastaza
-      # Z:
-      #   name: Zamora-Chinchipe
+        days: {}

@@ -1,6 +1,4 @@
 holidays:
-  # @attrib https://id.wikipedia.org/wiki/Hari_libur_nasional_di_Indonesia
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Indonesia
   ID:
     names:
       en: Indonesia
@@ -12,162 +10,213 @@ holidays:
       - Asia/Pontianak
       - Asia/Makassar
       - Asia/Jayapura
-    dayoff: "sunday"
+    dayoff: sunday
     days:
       01-01:
         _name: 01-01
+        id: 2b8419b5-c9d6-450e-9661-93eb667e727d
       chinese 01-0-01:
         name:
           en: Chinese New Year
           id: Tahun Baru Imlek
+        id: 80826b99-073a-4bcd-a617-58bd09bd17a8
       easter -2:
         _name: easter -2
+        id: 08dc8b24-5e6a-4bc0-a671-506cd4a7319f
       05-01:
         _name: 05-01
+        id: d2370a6c-309f-4c42-a8ee-195fa5628dd2
       easter 39:
         _name: easter 39
+        id: 5ef64861-b91f-4cc4-a506-7a6f66f74c61
       06-01:
         name:
           en: Pancasila Day
           id: Hari Lahir Pancasila
+        id: 4a1c6efa-614c-4af7-b59d-d075a449f1a6
       08-17:
         _name: Independence Day
+        id: 8877605f-d3ae-401d-aba4-b2530367b766
       12-25:
         _name: 12-25
-      # Islamic
+        id: d87ae300-d4b8-4102-8e52-8ffdd3f073e9
       1 Muharram:
         _name: 1 Muharram
+        id: e6545113-b5e2-455d-bba1-c19a157bc594
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: f19f86c8-a64d-4302-9e71-ece1c7132b10
       27 Rajab:
         _name: 27 Rajab
+        id: 9d1820a5-ca43-407c-96c7-b13539dcb32d
       1 Shawwal:
         _name: 1 Shawwal
+        id: 1b4a1155-d660-4c76-9e01-e8aaef3fc807
       2 Shawwal:
         _name: 1 Shawwal
+        id: 3181f12f-d2f4-4738-b852-2910954d8c15
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-      # Nyepi
-      # @attrib https://en.wikipedia.org/wiki/Nyepi
-      "2009-03-26":
+        id: 9026bbdf-3980-4311-9dc7-13d6b09e5e66
+      '2009-03-26':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2010-03-16":
+        id: 9935f1b8-7fe3-4dce-b92a-ca5fb0648d43
+      '2010-03-16':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2011-03-05":
+        id: b1d1327b-97c8-4724-a5a9-c50ef96d10b0
+      '2011-03-05':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2012-03-23":
+        id: f36fff08-847f-470d-b1fc-667b84f6c82a
+      '2012-03-23':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2013-03-12":
+        id: 9c589f24-0f12-4d1f-8f20-ca4a193320c2
+      '2013-03-12':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2014-03-31":
+        id: 457166db-8b37-46c2-9494-407a5e3bdd97
+      '2014-03-31':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2015-03-21":
+        id: cc939f84-0a5d-4c0a-a2fb-6bdee94594f6
+      '2015-03-21':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2016-03-09":
+        id: e8475ddf-4150-467d-a2ed-c6c8316cabfa
+      '2016-03-09':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2017-03-28":
+        id: 32cf1a38-1a26-4604-b683-f00b6140b05b
+      '2017-03-28':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2018-03-17":
+        id: 365e4bf6-5053-4afe-b3f2-79d30b05cc96
+      '2018-03-17':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2019-03-07":
+        id: c1b28d72-58da-409c-b8a9-c12176c4b42e
+      '2019-03-07':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2020-03-25":
+        id: ca56d5c9-ab30-4fd1-81ae-df110c3072aa
+      '2020-03-25':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2021-03-14":
+        id: 0f6ab5b4-2221-4b0f-a46c-deb9454aaa76
+      '2021-03-14':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2022-03-03":
+        id: 566d3488-0e32-4e06-861e-23de9c7e66bc
+      '2022-03-03':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2023-03-22":
+        id: 3403c87e-ac4a-4450-a86e-342501f8fc9f
+      '2023-03-22':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2024-03-11":
+        id: 6db57193-e5c9-4d64-87be-06ab31c819b1
+      '2024-03-11':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2025-03-29":
+        id: cdf3e4c0-29df-4a4c-b21d-d716e1a74a41
+      '2025-03-29':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      "2026-03-19":
+        id: 94404c67-ae11-4f02-b896-b1de0dbb9e8a
+      '2026-03-19':
         name:
           en: Nyepi
           id: Hari Raya Nyepi
-      # Vesak
-      # @attrib https://en.wikipedia.org/wiki/Vesak#Dates_of_observance
-      "2001-05-07":
+        id: 45d19601-bd43-45dd-a72b-1ac607131fff
+      '2001-05-07':
         _name: Vesak
-      "2002-05-26":
+        id: edb5134a-0e51-4222-9a08-dc26e5086587
+      '2002-05-26':
         _name: Vesak
-      "2003-05-16":
+        id: ca31919b-fb24-4e85-86a0-1b8ad7419ad6
+      '2003-05-16':
         _name: Vesak
-      "2004-06-03":
+        id: 7ae9cbba-b32d-4145-852e-5931c16a8ee9
+      '2004-06-03':
         _name: Vesak
-      "2005-05-24":
+        id: 438a9612-69a0-4ec6-8f61-c4a21a423a3d
+      '2005-05-24':
         _name: Vesak
-      "2006-05-13":
+        id: 521d696e-2af0-4b4e-a23a-de74ea4ca957
+      '2006-05-13':
         _name: Vesak
-      "2007-06-01":
+        id: 7fe0c2c2-0283-44d5-8fdf-8da39a3d1b32
+      '2007-06-01':
         _name: Vesak
-      "2008-05-20":
+        id: 4409b072-de10-43a7-85b2-b354d7e74d46
+      '2008-05-20':
         _name: Vesak
-      "2009-05-09":
+        id: e460a5fc-4fbd-405c-b11e-435fe1aca9d6
+      '2009-05-09':
         _name: Vesak
-      "2010-05-28":
+        id: f6859734-c246-4aa7-9a05-d210212e65fa
+      '2010-05-28':
         _name: Vesak
-      "2011-05-17":
+        id: d35b111b-4b57-4ba4-92a0-7da0e1520a48
+      '2011-05-17':
         _name: Vesak
-      "2012-05-06":
+        id: 89c82373-5d58-4abf-9383-dce2eafb9e0b
+      '2012-05-06':
         _name: Vesak
-      "2013-05-25":
+        id: 299fe223-fd6b-4847-9b41-64a5bd57f4da
+      '2013-05-25':
         _name: Vesak
-      "2014-05-15":
+        id: c98341e0-8755-4485-a53b-0abfae92cb66
+      '2014-05-15':
         _name: Vesak
-      "2015-06-02":
+        id: 4db917df-d963-4409-999b-6b8f44053294
+      '2015-06-02':
         _name: Vesak
-      "2016-05-22":
+        id: 1517cc1e-49e1-4b27-8584-c7a34bc03b92
+      '2016-05-22':
         _name: Vesak
-      "2017-05-11":
+        id: fbd01b1e-f03c-4481-bcca-8ebdc2e20447
+      '2017-05-11':
         _name: Vesak
-      "2018-05-29":
+        id: a3499b23-28c8-489a-a02a-d97818af9097
+      '2018-05-29':
         _name: Vesak
-      "2019-05-19":
+        id: c69fec05-6b38-4ab0-bb54-b77e71cdcd58
+      '2019-05-19':
         _name: Vesak
-      "2020-05-07":
+        id: 9753c164-5ec5-4d79-b7b1-fc49d2b61ec1
+      '2020-05-07':
         _name: Vesak
-      "2021-05-26":
+        id: ce2e92db-0318-4db2-ac35-7d4c77419824
+      '2021-05-26':
         _name: Vesak
-      "2022-05-16":
+        id: 955cbbee-7006-412b-8a66-f2a0464abb11
+      '2022-05-16':
         _name: Vesak
-      "2023-05-06":
+        id: aa032d71-c83c-4640-94b4-eaa3b01702fd
+      '2023-05-06':
         _name: Vesak
-      "2024-05-23":
+        id: 7b59b1e7-0aa7-4b42-9ca5-43dab14f3183
+      '2024-05-23':
         _name: Vesak
+        id: 124ff76f-d8c1-4bbb-b3a5-fc21a62df686

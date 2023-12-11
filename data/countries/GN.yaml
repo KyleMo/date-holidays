@@ -1,9 +1,3 @@
-# @source https://gn.usembassy.gov/fr/holiday-calendar-fr/
-# @source https://publicholidays.africa/guinea/fr/2020-dates/
-# @source https://www.ilo.org/dyn/natlex/docs/SERIAL/22289/22600/F1945683402/GIN-22289.pdf
-# @source http://www.zakweli.com/jours-feries-en-guinee/
-# @attrib https://fr.wikipedia.org/wiki/Guin%C3%A9e#Jours_f%C3%A9ri%C3%A9s
-
 holidays:
   GN:
     names:
@@ -17,120 +11,41 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: c636c74d-03aa-45ea-bf20-3439e52aac99
       easter 1:
         _name: easter 1
+        id: b0e37078-61b1-45c5-936e-3f367f83e0ce
       04-03:
         name:
           fr: Fête Nationale de la deuxième République
           en: National Holiday
+        id: 363f26d6-6cf7-417b-bcb6-368d1fcea502
       05-01:
         _name: 05-01
+        id: 124cff4f-fa9c-4774-8162-69bc7f92c406
       05-25:
         name:
           fr: Anniversaire de l'Organisation de l'unité africaine (OUA)
           en: Africa Day
+        id: 761f0db5-8ac3-495a-aae6-2ac02b2b5f6e
       27 Ramadan:
         _name: 27 Ramadan
+        id: e1cb66a7-2ef6-41df-bf39-d36af8a60785
       1 Shawwal:
         _name: 1 Shawwal
+        id: 059d40e4-17a2-460f-a5b3-3a7393ee333f
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
+        id: 307f78cf-3231-46c4-9617-ef9f8a2cbe44
       08-15:
         _name: 08-15
+        id: ff1e5c06-e8ce-4417-9726-83feeb6459b8
       10-02:
         _name: Independence Day
+        id: 9eaa28b3-3625-4e2a-ac49-69d0406dfb65
       12-25:
         _name: 12-25
+        id: 946052fd-96e8-45a2-8d6e-eb6d1aa74397
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-
-#    states:
-#      B:
-#        name: Boké Region
-#        regions:
-#          BF:
-#            name: Boffa
-#          BK:
-#            name: Boké
-#          FR:
-#            name: Fria
-#          GA:
-#            name: Gaoual
-#          KN:
-#            name: Koundara
-#      C:
-#        name: Conakry
-#      D:
-#        name: Kindia Region
-#        regions:
-#          CO:
-#            name: Coyah
-#          DU:
-#            name: Dubréka
-#          FO:
-#            name: Forécariah
-#          KD:
-#            name: Kindia
-#          TE:
-#            name: Télimélé
-#      F:
-#        name: Faranah Region
-#        regions:
-#          DB:
-#            name: Dabola
-#          DI:
-#            name: Dinguiraye
-#          FA:
-#            name: Faranah
-#          KS:
-#            name: Kissidougou
-#      K:
-#        name: Kankan Region
-#        regions:
-#          KA:
-#            name: Kankan
-#          KE:
-#            name: Kérouané
-#          KO:
-#            name: Kouroussa
-#          MD:
-#            name: Mandiana
-#          SI:
-#            name: Siguiri
-#      L:
-#        name: Labé Region
-#        regions:
-#          KB:
-#            name: Koubia
-#          LA:
-#            name: Labé
-#          LE:
-#            name: Lélouma
-#          ML:
-#            name: Mali
-#          TO:
-#            name: Tougué
-#      M:
-#        name: Mamou Region
-#        regions:
-#          DL:
-#            name: Dalaba
-#          MM:
-#            name: Mamou
-#          PI:
-#            name: Pita
-#      'N':
-#        name: Nzérékoré Region
-#        regions:
-#          BE:
-#            name: Beyla
-#          GU:
-#            name: Guéckédou
-#          LO:
-#            name: Lola
-#          MC:
-#            name: Macenta
-#          NZ:
-#            name: Nzérékoré
-#          YO:
-#            name: Yomou
+        id: f5b1c242-881c-4c6f-96c7-b612336a1fec

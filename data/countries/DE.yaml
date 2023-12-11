@@ -1,4 +1,3 @@
-# @attrib https://de.m.wikipedia.org/wiki/Feiertage_in_Deutschland
 holidays:
   DE:
     names:
@@ -12,164 +11,212 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: a94b9d26-431e-447a-90e3-c8020ca5f7c8
       02-14:
         _name: 02-14
         type: observance
+        id: f59b76e5-b3b3-4470-9788-a17ee2dbf4e2
       easter -52:
         name:
           de: Weiberfastnacht
           en: Women's Carnival Day
         type: observance
+        id: acc30274-375f-48c9-a39f-83136d2cc116
       easter -48:
         name:
           de: Rosenmontag
           en: Shrove Monday
         type: observance
-      "easter -47 14:00":
+        id: ee2250e2-a788-4a6d-b776-690be2111eb8
+      easter -47 14:00:
         _name: easter -47
         type: observance
+        id: 5968109d-7f16-47f5-bfa8-02a6b18f85cd
       easter -46:
         _name: easter -46
         type: observance
+        id: 8a82be0a-18ac-444b-aeca-9bd7fbe4bdc7
       easter -3:
         _name: easter -3
         type: observance
+        id: a855ea2a-240f-4b73-88c7-f12009194855
       easter -2:
         _name: easter -2
+        id: 31b9ca81-5b7f-48d5-90f9-0d857e1d6d83
       easter:
         _name: easter
         type: observance
+        id: 6b64229a-9c7a-41ef-a3b9-21a509b375ab
       easter 1:
         _name: easter 1
+        id: af4e4483-2030-4fa2-a98e-cb9e1c0bdc0b
       05-01:
         _name: 05-01
         name:
           de: Maifeiertag
+        id: 7b2059b4-d61e-402c-bbca-301337a4ac70
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: 5d03edee-8bc0-49cd-9e72-d194da6d91a1
       easter 39:
         _name: easter 39
+        id: fdfc9ed8-7e78-41fc-b45b-9166d49abc24
       easter 49:
         _name: easter 49
         type: observance
+        id: dcf8940b-3a2b-4b92-a432-9e2f4809f389
       easter 50:
         _name: easter 50
+        id: 03954f5c-6178-4238-8c38-0c8d5c6705d4
       10-03:
         _name: National Holiday
         name:
           de: Tag der Deutschen Einheit
+        id: 9a7ca913-b54b-44c9-9c19-0a914a4983a6
       11-01:
         _name: 11-01
         type: observance
+        id: 4c4f3cfe-8ea4-420d-9300-0aa960fea143
       11-02:
         _name: 11-02
         type: observance
+        id: 45509def-902e-4b78-bc68-20f16cbb3d87
       11-11:
         _name: 11-11
         type: observance
+        id: a61e2ab9-1f4f-4dfd-832f-a02f96bed5d1
       wednesday before 11-23:
         _name: Buß- und Bettag
         type: observance
+        id: 91944d1c-78a6-4373-aefc-e5666eac5796
       6th sunday before 12-25:
         name:
           de: Volkstrauertag
           en: Memorial Day
         type: observance
+        id: 1cf30c64-7444-48ab-97bc-6f76eabb6d38
       5th sunday before 12-25:
         name:
           de: Totensonntag
         type: observance
+        id: 0d84e5d9-b9e6-4fc5-bdc5-95b1d70c6264
       4th sunday before 12-25:
         name:
           de: 1. Advent
         type: observance
+        id: ca4174a3-9639-4dfe-a6ca-a5cb17eab8b1
       3th sunday before 12-25:
         name:
           de: 2. Advent
         type: observance
+        id: cf692e0a-4012-45b6-8430-19171cdc164a
       2nd sunday before 12-25:
         name:
           de: 3. Advent
         type: observance
+        id: 04b7b7e1-d453-4101-92df-2f4fffa9d291
       1st sunday before 12-25:
         name:
           de: 4. Advent
         type: observance
-      "12-24 14:00 if sunday then 00:00":
+        id: 6eb3d632-e914-4295-bd80-9f76e1cdb26f
+      12-24 14:00 if sunday then 00:00:
         _name: 12-24
         type: bank
+        id: ad659583-7dae-4ef4-88e9-3a17cf925580
       12-25:
         _name: 12-25
         name:
           de: 1. Weihnachtstag
+        id: 6a2439fc-2f0e-4963-bef4-1f00f024f112
       12-26:
         _name: 12-26
-      "12-31 14:00 if sunday then 00:00":
+        id: 640c748a-42b6-45a3-8643-a105347d027f
+      12-31 14:00 if sunday then 00:00:
         _name: 12-31
         type: bank
-      "2017-10-31":
+        id: c9e27406-705f-4389-b243-b5f210bd6e14
+      '2017-10-31':
         _name: Reformation Day
+        id: 517a1483-12fc-47da-89d1-e0292ce8f2f3
     states:
       BB:
         name: Brandenburg
         days:
           easter:
             _name: easter
+            id: 9ffaf3e3-1b62-403d-ad36-ea2d5fc4e194
           easter 49:
             _name: easter 49
+            id: 01d17133-1283-40f2-b8dd-1b579141f9eb
           10-31:
             _name: Reformation Day
+            id: 79c6757e-9b4f-417a-8c65-bf473c72e3b4
       BE:
         name: Berlin
         days:
           03-08:
             _name: 03-08
             active:
-              - from: 2019-01-01
+              - from: '2019-01-01T00:00:00.000Z'
+            id: 94ebe124-d100-41fc-aa42-ea62ede5f66d
           easter:
             _name: easter
             type: observance
+            id: 9b0342be-1873-465e-9537-31c7716d444d
           easter 49:
             _name: easter 49
             type: observance
-          # @source: https://archiv.berliner-zeitung.de/berlin/parlamentsbeschluss-der-8--maerz-ist-nun-offiziell-ein-berliner-feiertag-31927822
-          "2020-05-08":
+            id: 24ef61b7-3656-402f-94fc-7bb399d4cf16
+          '2020-05-08':
             name:
               de: Tag der Befreiung (75. Jahrestag)
               en: Liberation Day (75th Anniversary)
+            id: 753eeae2-fe02-4739-bc1a-43d85920ae82
       BW:
         name: Baden-Württemberg
         days:
           01-06:
             _name: 01-06
+            id: 34d2e42a-cdde-444b-bc6a-332e44c9845a
           easter -3:
             _name: easter -3
             type: school
+            id: bc0e1eb5-c598-4d96-a5f0-a154af783e17
           easter 60:
             _name: easter 60
+            id: 32a24e2f-f75e-47ef-b148-a1b05dae45c0
           10-31:
             _name: Reformation Day
             type: school
+            id: f5e4eb49-3cfa-428e-bfe2-7897fed91566
           11-01:
             _name: 11-01
+            id: 8584912d-bad2-44f0-a21b-7ad2b2cc2caf
       BY:
         name: Bayern
         days:
           01-06:
             _name: 01-06
+            id: b72d08c3-2909-4401-bfbf-7138dabdea29
           02-02:
             _name: 02-02
             type: observance
+            id: e45f77c2-c696-4013-a205-600b8c936952
           easter 60:
             _name: easter 60
+            id: c5d8d58d-f6ae-4ed0-ba1d-9fbc3d57e3a1
           08-15:
             _name: 08-15
+            id: 7c08a3a8-000f-4c52-ac45-77851ad35b53
           11-01:
             _name: 11-01
+            id: 20b4e1b4-6933-4bd4-b615-bc50d8a82df2
           wednesday before 11-23:
             _name: Buß- und Bettag
             type: school
+            id: 67319bf3-1007-4055-b3d9-931d5bc9b294
         regions:
           A:
             name: Stadt Augsburg
@@ -192,79 +239,96 @@ holidays:
           10-31:
             _name: Reformation Day
             active:
-              - from: 2018-01-01
+              - from: '2018-01-01T00:00:00.000Z'
+            id: d1165c03-dcfb-4c7f-b209-8234892fb065
       HE:
-        # @source http://www.rv.hessenrecht.hessen.de/cgi-bin/lexsoft/capi/hessen.cgi/export_pdf?docid=169523,1&hideVersionDate=1&shortTitleFileName=1&showVersionInfo=1&displayConfig=0&exportLawlist=1&customFooter=Hessische%20Gesetze%20und%20Verwaltungsvorschriften%20in%20Zusammenarbeit%20mit%20Wolters%20Kluwer%20Deutschland%20GmbH&at=1&pid=UAN_nv_3470
         name: Hessen
         days:
           easter:
             _name: easter
+            id: 40d675bf-2d57-44ad-9af7-54526e12339d
           easter 49:
             _name: easter 49
+            id: 22bbe408-3844-4ddb-af24-8ec18f0833d0
           easter 60:
             _name: easter 60
+            id: 9dcb7aef-3721-4894-9767-f0905c96d8d1
       HH:
         name: Hansestadt Hamburg
         days:
           10-31:
             _name: Reformation Day
             active:
-              - from: 2018-01-01
+              - from: '2018-01-01T00:00:00.000Z'
+            id: 406e1e22-98ff-4952-a22c-efc8e011ac7c
       MV:
         name: Mecklenburg Vorpommern
         days:
-          # @source https://www.dokumentation.landtag-mv.de/parldok/dokument/52063/viertes_gesetz_zur_aenderung_des_feiertagsgesetzes_mecklenburg_vorpommern.pdf
           03-08 since 2023:
             _name: 03-08
+            id: a774009e-a486-4eff-8b4a-84efca497178
           10-31:
             _name: Reformation Day
+            id: ac64682c-da9e-434d-9b29-2ff7bb260d4e
       NI:
         name: Niedersachsen
         days:
           10-31:
             _name: Reformation Day
             active:
-              - from: 2018-01-01
+              - from: '2018-01-01T00:00:00.000Z'
+            id: 8e697252-731a-40d9-b3f3-18284195f770
       NW:
         name: Nordrhein-Westfalen
         days:
           easter 60:
             _name: easter 60
+            id: 1c98a387-8f46-480c-b2da-0e415e1f1cec
           11-01:
             _name: 11-01
+            id: 4a9062b1-3720-4fbd-9365-80228e83135c
       RP:
         name: Rheinland-Pfalz
         days:
           easter 60:
             _name: easter 60
+            id: 4e3c7022-c897-4e0b-b11c-67bd0936f6e3
           11-01:
             _name: 11-01
+            id: a915f630-05e9-43e5-9254-2323385116c6
       SH:
         name: Schleswig-Holstein
         days:
           10-31:
             _name: Reformation Day
             active:
-              - from: 2018-01-01
+              - from: '2018-01-01T00:00:00.000Z'
+            id: c6ff3971-5cc2-46da-8861-98580ed47582
       SL:
         name: Saarland
         days:
           easter 60:
             _name: easter 60
+            id: 957b8f0c-5331-410b-9806-4066522b5606
           08-15:
             _name: 08-15
+            id: 72f4ba9d-e426-4e2b-97a7-4197920a1567
           11-01:
             _name: 11-01
+            id: c98ccde0-851d-4f11-8185-476faeff5843
       SN:
         name: Sachsen
         days:
           easter 60:
             _name: easter 60
             type: observance
+            id: 11c6b140-8239-4bae-85e6-506d217cca0d
           10-31:
             _name: Reformation Day
+            id: 4b247ce5-b637-4712-af8a-e4079e341836
           wednesday before 11-23:
             _name: Buß- und Bettag
+            id: d59deb0c-b7c4-4090-91c6-0d132377c794
         regions:
           BZ:
             name: Landkreis Bautzen
@@ -272,29 +336,40 @@ holidays:
               easter 60:
                 _name: easter 60
                 type: public
-                note: Bautzen (nur in den Ortsteilen Bolbritz und Salzenforst), Crostwitz, Göda (nur im Ortsteil Prischwitz), Großdubrau (nur im Ortsteil Sdier), Hoyerswerda (nur im Ortsteil Dörgenhausen), Königswartha (nicht im Ortsteil Wartha), Nebelschütz, Neschwitz (nur in den Ortsteilen Neschwitz und Saritsch), Panschwitz-Kuckau, Puschwitz, Räckelwitz, Radibor, Ralbitz-Rosenthal und Wittichenau.
+                note: >-
+                  Bautzen (nur in den Ortsteilen Bolbritz und Salzenforst),
+                  Crostwitz, Göda (nur im Ortsteil Prischwitz), Großdubrau (nur
+                  im Ortsteil Sdier), Hoyerswerda (nur im Ortsteil
+                  Dörgenhausen), Königswartha (nicht im Ortsteil Wartha),
+                  Nebelschütz, Neschwitz (nur in den Ortsteilen Neschwitz und
+                  Saritsch), Panschwitz-Kuckau, Puschwitz, Räckelwitz, Radibor,
+                  Ralbitz-Rosenthal und Wittichenau.
       ST:
         name: Sachsen-Anhalt
         days:
           01-06:
             _name: 01-06
+            id: 4987fd32-432d-4c2c-a2d5-83d03829115a
           10-31:
             _name: Reformation Day
+            id: 4af0a07e-7692-40e4-bb17-16a4699025c2
       TH:
         name: Thüringen
         days:
           easter 60:
             _name: easter 60
             type: observance
+            id: 86263d0d-10ae-4995-a337-6169392e0530
           09-20:
-            # @source https://www.thueringer-landtag.de/service/presse/pressemitteilungen/weltkindertag-am-20-september-wird-gesetzlicher-feiertag/
             name:
               de: Weltkindertag
               en: International Children's Day
             active:
               - from: 2019
+            id: c3b623e3-9ccb-47fc-bd12-a3c3bc88cd4b
           10-31:
             _name: Reformation Day
+            id: 55cc6ae0-c730-4c04-8e0f-fc3e0ea20c6d
         regions:
           EIC:
             name: Landkreis Eichfeld
@@ -308,12 +383,16 @@ holidays:
               easter 60:
                 _name: easter 60
                 type: public
-                note: In Anrode (nur in den Ortsteilen Bickenriede und Zella), Dünwald (nur in den Ortsteilen Beberstedt und Hüpstedt), Rodeberg (nur im Ortsteil Struth), Südeichsfeld
-
+                note: >-
+                  In Anrode (nur in den Ortsteilen Bickenriede und Zella),
+                  Dünwald (nur in den Ortsteilen Beberstedt und Hüpstedt),
+                  Rodeberg (nur im Ortsteil Struth), Südeichsfeld
           WAK:
             name: Wartburgkreis
             days:
               easter 60:
                 _name: easter 60
                 type: public
-                note: In Brunnhartshausen (nur in den Ortsteilen Föhlritz und Steinberg), Buttlar, Geisa, Schleid, Zella/Rhön
+                note: >-
+                  In Brunnhartshausen (nur in den Ortsteilen Föhlritz und
+                  Steinberg), Buttlar, Geisa, Schleid, Zella/Rhön

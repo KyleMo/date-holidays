@@ -1,6 +1,4 @@
 holidays:
-  # @source https://publicholidays.com.my/2022-dates/
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Malaysia
   MY:
     names:
       en: Malaysia
@@ -13,585 +11,768 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: d1bdb620-bce4-465d-a779-62f55a37a36f
       substitutes 01-01 if Sunday then next Monday:
         substitute: true
         _name: 01-01
+        id: 381b2d98-c53c-46ea-848d-afcdc55284c5
       chinese 01-0-01:
         name:
           en: Chinese New Year
           ms: Tahun Baru Cina
+        id: 0cdb8864-c188-4158-91a6-0348b4d064cc
       chinese 01-0-02:
         name:
           en: Chinese New Year
           ms: Tahun Baru Cina
+        id: 7b5bc814-f62c-47ca-afa3-e664446236d0
       substitutes chinese 01-0-01 if Sunday then next Monday:
         substitute: true
         name:
           en: Chinese New Year
           ms: Tahun Baru Cina
+        id: 30fd8bcf-4505-43cc-b537-691575fe69eb
       substitutes chinese 01-0-02 if Sunday then next Monday:
         substitute: true
         name:
           en: Chinese New Year
           ms: Tahun Baru Cina
+        id: 4803f985-974c-48ba-87cf-5599f72bec3e
       05-01:
         _name: 05-01
+        id: e0888020-ab8e-4006-8793-2fe0cc337901
       substitutes 05-01 if Sunday then next Monday:
         substitute: true
         _name: 05-01
+        id: ebf8910e-e2a1-426b-9128-ce12cdd7d110
       1st Monday in June:
         name:
           en: Yang di-Pertuan Agong's Birthday
           ms: Hari Keputeraan Yang di-Pertuan Agong
+        id: 8ceb44e0-7df5-46de-a718-50fd1cfdb59e
       08-31:
         _name: Independence Day
+        id: d7fe51ee-0e6c-4bb4-a69d-819d7fdb8aaf
       substitutes 08-31 if Sunday then next Monday:
         substitute: true
         _name: Independence Day
+        id: d439a168-a963-4a21-a507-ad30d7d5dddb
       09-16:
         name:
           en: Malaysia Day
           ms: Hari Malaysia
+        id: b93c656c-6fe9-47ab-a095-2c0cd71decb7
       substitutes 09-16 if Sunday then next Monday:
         substitute: true
         name:
           en: Malaysia Day
           ms: Hari Malaysia
+        id: c2a534b1-4eda-4097-9c27-09d5d1c9f551
       12-25:
         _name: 12-25
+        id: ce775599-3b1f-47de-a013-870dca387f61
       substitutes 12-25 if Sunday then next Monday:
         substitute: true
         _name: 12-25
-      # Islamic
+        id: daf48e93-d915-4b19-b35f-2f90dcd33ee2
       17 Ramadan:
         _name: 17 Ramadan
         disable:
-          - "2022-04-18"
+          - '2022-04-18'
         enable:
-          - "2022-04-19"
+          - '2022-04-19'
+        id: 465e44a7-2af6-4b15-878c-842ad3b7f76b
       1 Shawwal:
         _name: 1 Shawwal
         disable:
-          - "2022-05-02"
+          - '2022-05-02'
         enable:
-          - "2022-05-03"
+          - '2022-05-03'
+        id: 2ed5ea1a-82c2-4f29-ac47-aa7f86d943ff
       2 Shawwal:
         _name: 1 Shawwal
         disable:
-          - "2022-05-03"
+          - '2022-05-03'
         enable:
-          - "2022-05-04"
+          - '2022-05-04'
+        id: 2ad954dd-0d88-4236-b01a-b49dcb49a5b9
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         disable:
-          - "2022-07-09"
+          - '2022-07-09'
         enable:
-          - "2022-07-10"
+          - '2022-07-10'
+        id: 63a17a03-5bfb-4162-9987-8efb03a95039
       1 Muharram:
         _name: 1 Muharram
+        id: 6ad7d716-74ac-4deb-83c9-1b4fa2fcc6ac
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
         disable:
-          - "2022-10-08"
+          - '2022-10-08'
         enable:
-          - "2022-10-09"
-      # Vesak
-      # @source https://www.drikpanchang.com/festivals/buddha-purnima/buddha-purnima-date-time.html?year=2021
-      # @attrib https://en.wikipedia.org/wiki/Vesak
-      "2010-05-28":
+          - '2022-10-09'
+        id: f2b2cd1b-ed5e-429d-8d42-2f1fd773d12d
+      '2010-05-28':
         _name: Vesak
-      "2011-05-17":
+        id: 2ad3bb4c-4162-49f6-9762-44a4d5c38a16
+      '2011-05-17':
         _name: Vesak
-      "2012-05-06":
+        id: b95cbab1-4874-42bf-ab0e-cac47629a37b
+      '2012-05-06':
         _name: Vesak
-      "2013-05-25":
+        id: 691fef77-2591-45c7-9b25-5728caee8226
+      '2013-05-25':
         _name: Vesak
-      "2014-05-15":
+        id: ecee8f09-7974-4772-afc9-6a68f512854b
+      '2014-05-15':
         _name: Vesak
-      "2015-06-02":
+        id: 200fc7ff-0fbb-4948-8cac-0f4b72c8a252
+      '2015-06-02':
         _name: Vesak
-      "2016-05-22":
+        id: 2fd1b447-1c05-496a-af2a-bb434ec23a7e
+      '2016-05-22':
         _name: Vesak
-      "2017-05-10":
+        id: 315aa95e-3b97-47b4-88ca-750eea4988e1
+      '2017-05-10':
         _name: Vesak
-      "2018-05-29":
+        id: ae97e155-bd64-4758-a694-aa43fd2004ff
+      '2018-05-29':
         _name: Vesak
-      "2019-05-19":
+        id: 2a1cdf60-e31c-49d3-b237-7987a8a73967
+      '2019-05-19':
         _name: Vesak
-      "2020-05-07":
+        id: 54058274-4cd5-4d4a-bbe4-6e5de8a5cb12
+      '2020-05-07':
         _name: Vesak
-      "2021-05-26":
+        id: 1ed28834-3d45-47ee-aec3-48fa25abd312
+      '2021-05-26':
         _name: Vesak
-      "2022-05-15":
+        id: 363c05f4-bf41-4d9e-bcc9-e5e769dc583c
+      '2022-05-15':
         _name: Vesak
-      "2022-05-16":
+        id: 2fc401f6-7b25-48a5-8720-1f4274f52fd6
+      '2022-05-16':
         substitute: true
         _name: Vesak
-      "2023-05-04":
+        id: a1a08018-0454-4db5-82a3-1147e8b2a2a5
+      '2023-05-04':
         _name: Vesak
-      "2024-05-22":
+        id: b3207639-ff8b-4ceb-98d0-c30bbd549efb
+      '2024-05-22':
         _name: Vesak
-      "2025-05-12":
+        id: f904ef76-65e5-46ab-9749-5f6faf464940
+      '2025-05-12':
         _name: Vesak
-      "2026-05-31":
+        id: 6df3f432-6a51-4ca2-89cf-035b4e1c18a6
+      '2026-05-31':
         _name: Vesak
-      # Deepavali
-      "2016-10-29":
+        id: cb0a64ba-1714-47b6-85af-0dfc3911467c
+      '2016-10-29':
         _name: Deepavali
-      "2017-10-18":
+        id: a4caf0d8-6255-4718-859c-0e963373a530
+      '2017-10-18':
         _name: Deepavali
-      "2018-11-06":
+        id: ec703ef2-6a6f-4e0d-87e3-3dc50d64917b
+      '2018-11-06':
         _name: Deepavali
-      "2019-10-27":
+        id: a80e5933-d49d-4ce0-905a-f0076a26fc2b
+      '2019-10-27':
         _name: Deepavali
-      "2019-10-28":
+        id: 87fd4c15-ce8a-43e8-aa46-a70ddcc8e004
+      '2019-10-28':
         substitute: true
         _name: Deepavali
-      "2020-11-14":
+        id: 6d888512-2ebb-4a53-802a-5791be2b093a
+      '2020-11-14':
         _name: Deepavali
-      "2021-11-04":
+        id: 5c22ea13-8f7e-4834-8134-d1483f5f6067
+      '2021-11-04':
         _name: Deepavali
-      "2022-10-24":
+        id: 9dd06eb0-5ec8-4d8e-8a34-20ff244b0ef6
+      '2022-10-24':
         _name: Deepavali
-      "2023-11-12":
+        id: 1da486d0-211d-46f6-866b-f267cff48b29
+      '2023-11-12':
         _name: Deepavali
-      "2023-11-13":
+        id: 8ee45a1d-5f46-4002-9556-97c18b934b9d
+      '2023-11-13':
         substitute: true
         _name: Deepavali
-      "2024-10-31":
+        id: d542e7a2-42a9-46a2-9bf4-e93ef935b961
+      '2024-10-31':
         _name: Deepavali
-      "2025-10-20":
+        id: 3f8205d9-36e9-4f63-ae49-c9755dd95d95
+      '2025-10-20':
         _name: Deepavali
-      "2026-11-09":
+        id: 22e40dec-aa3f-4d6f-9d91-4bf2e504fa0b
+      '2026-11-09':
         _name: Deepavali
-      "2027-10-28":
+        id: 40c96b6d-227c-4e63-a70b-46fc28650b6b
+      '2027-10-28':
         _name: Deepavali
-      "2028-11-15":
+        id: faa14fee-2a30-4ba7-b8f3-549ccab79fcc
+      '2028-11-15':
         _name: Deepavali
-      "2029-11-05":
+        id: e7ceb082-ba16-46b2-99b6-44f08d8a82b3
+      '2029-11-05':
         _name: Deepavali
-      "2030-10-25":
+        id: 01f43ad7-4fd3-4113-bf7d-d460cad0f5f8
+      '2030-10-25':
         _name: Deepavali
+        id: 9363a00a-5144-4084-9345-12ed89211a1c
     states:
-      "01":
-        name: Johor
-        days:
-          01-01: false
-          03-23:
-            name:
-              en: Sultan of Johor's Birthday
-              ms: Hari Keputeraan Sultan Johor
-          # Islamic
-          1 Ramadan:
-            _name: 1 Ramadan
-          17 Ramadan: false
-          6 Safar:
-            name:
-              en: Hari Hol of Sultan Iskandar of Johor
-              ms: Hari Hol Almarhum Sultan Iskandar
-          # Thaipusam
-          # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016
-          "2016-01-24":
-            _name: Thaipusam
-          "2017-02-10":
-            _name: Thaipusam
-          "2018-01-31":
-            _name: Thaipusam
-          "2019-01-21":
-            _name: Thaipusam
-          "2020-02-08":
-            _name: Thaipusam
-          "2021-01-28":
-            _name: Thaipusam
-          "2022-01-18":
-            _name: Thaipusam
-          "2023-02-05":
-            _name: Thaipusam
-          "2024-01-25":
-            _name: Thaipusam
-          "2025-02-11":
-            _name: Thaipusam
-          "2026-02-01":
-            _name: Thaipusam
-      "02":
-        name: Kedah
-        days:
-          01-01: false
-          3rd Sunday in June:
-            name:
-              en: Sultan of Kedah's Birthday
-              ms: Hari Keputeraan Sultan Kedah
-          # Islamic
-          27 Rajab:
-            _name: 27 Rajab
-          1 Ramadan:
-            _name: 1 Ramadan
-          17 Ramadan: false
-          11 Dhu al-Hijjah:
-            _name: 10 Dhu al-Hijjah
-          # Thaipusam
-          # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016
-          "2016-01-24":
-            _name: Thaipusam
-          "2017-02-10":
-            _name: Thaipusam
-          "2018-01-31":
-            _name: Thaipusam
-          "2019-01-21":
-            _name: Thaipusam
-          "2020-02-08":
-            _name: Thaipusam
-          "2021-01-28":
-            _name: Thaipusam
-          "2022-01-18":
-            _name: Thaipusam
-          "2023-02-05":
-            _name: Thaipusam
-          "2024-01-25":
-            _name: Thaipusam
-          "2025-02-11":
-            _name: Thaipusam
-          "2026-02-01":
-            _name: Thaipusam
-      "03":
-        name: Kelantan
-        days:
-          01-01: false
-          11 Dhu al-Hijjah:
-            _name: 10 Dhu al-Hijjah
-          11-11:
-            name:
-              en: Sultan of Kelantan's Birthday
-              ms: Hari Keputeraan Sultan Kelantan
-          11-12:
-            name:
-              en: Sultan of Kelantan's Birthday
-              ms: Hari Keputeraan Sultan Kelantan
-      "04":
-        name: Malacca
-        days:
-          04-15:
-            name:
-              en: Declaration of Malacca City as Historical City
-              ms: Hari Perisytiharan Bandar Melaka sebagai Bandaraya Bersejarah
-          08-24:
-            name:
-              en: Melaka State Governor's Birthday
-              ms: Hari Jadi Yang di-Pertua Negeri Melaka
-          # Islamic
-          1 Ramadan:
-            _name: 1 Ramadan
-          17 Ramadan: false
-      "05":
-        name: Negeri Sembilan
-        days:
-          01-14:
-            name:
-              en: Yang di-Pertuan Besar of Negeri Sembilan's Birthday
-              ms: Hari Keputeraan Yang di-Pertuan Besar Negeri Sembilan
-          # Islamic
-          27 Rajab:
-            _name: 27 Rajab
-          17 Ramadan: false
-          # Thaipusam
-          # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016
-          "2016-01-24":
-            _name: Thaipusam
-          "2017-02-10":
-            _name: Thaipusam
-          "2018-01-31":
-            _name: Thaipusam
-          "2019-01-21":
-            _name: Thaipusam
-          "2020-02-08":
-            _name: Thaipusam
-          "2021-01-28":
-            _name: Thaipusam
-          "2022-01-18":
-            _name: Thaipusam
-          "2023-02-05":
-            _name: Thaipusam
-          "2024-01-25":
-            _name: Thaipusam
-          "2025-02-11":
-            _name: Thaipusam
-          "2026-02-01":
-            _name: Thaipusam
-      "06":
-        name: Pahang
-        days:
-          05-22:
-            name:
-              en: Hari Hol of Pahang
-              ms: Hari Hol Pahang
-          07-30:
-            name:
-              en: Sultan of Pahang's Birthday
-              ms: Hari Keputeraan Sultan Pahang
-      "07":
-        name: Penang
-        days:
-          07-07:
-            name:
-              en: Declaration of George Town as World Heritage Site
-              id: Hari Ulang Tahun Perisytiharan Tapak Warisan Dunia
-          2nd Saturday in July:
-            name:
-              en: Penang State Governor's Birthday
-              ms: Hari Jadi Yang di-Pertua Negeri Pulau Pinang
-          # Thaipusam
-          # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016
-          "2016-01-24":
-            _name: Thaipusam
-          "2017-02-10":
-            _name: Thaipusam
-          "2018-01-31":
-            _name: Thaipusam
-          "2019-01-21":
-            _name: Thaipusam
-          "2020-02-08":
-            _name: Thaipusam
-          "2021-01-28":
-            _name: Thaipusam
-          "2022-01-18":
-            _name: Thaipusam
-          "2023-02-05":
-            _name: Thaipusam
-          "2024-01-25":
-            _name: Thaipusam
-          "2025-02-11":
-            _name: Thaipusam
-          "2026-02-01":
-            _name: Thaipusam
-      "08":
-        name: Perak
-        days:
-          1st Friday in November:
-            name:
-              en: Sultan of Perak's Birthday
-              ms: Hari Keputeraan Sultan Perak
-          # Thaipusam
-          # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016
-          "2016-01-24":
-            _name: Thaipusam
-          "2017-02-10":
-            _name: Thaipusam
-          "2018-01-31":
-            _name: Thaipusam
-          "2019-01-21":
-            _name: Thaipusam
-          "2020-02-08":
-            _name: Thaipusam
-          "2021-01-28":
-            _name: Thaipusam
-          "2022-01-18":
-            _name: Thaipusam
-          "2023-02-05":
-            _name: Thaipusam
-          "2024-01-25":
-            _name: Thaipusam
-          "2025-02-11":
-            _name: Thaipusam
-          "2026-02-01":
-            _name: Thaipusam
-      "09":
-        name: Perlis
-        days:
-          01-01: false
-          07-17:
-            name:
-              en: Raja of Perlis's Birthday
-              id: Hari Keputeraan Raja Perlis
-          # Islamic
-          27 Rajab:
-            _name: 27 Rajab
-          11 Dhu al-Hijjah:
-            _name: 10 Dhu al-Hijjah
-      "10":
+      '10':
         name: Selangor
         days:
           12-11:
             name:
               en: Sultan of Selangor's Birthday
               id: Hari Keputeraan Sultan Selangor
-          # Thaipusam
-          # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016
-          "2016-01-24":
+            id: ebb0f427-3f48-475a-adaf-416f23928695
+          '2016-01-24':
             _name: Thaipusam
-          "2017-02-10":
+            id: 88448e68-6b0d-42ff-ac75-2ed4a331710d
+          '2017-02-10':
             _name: Thaipusam
-          "2018-01-31":
+            id: 7c29ffc7-e14d-4bb8-ad20-5335e2da0bb7
+          '2018-01-31':
             _name: Thaipusam
-          "2019-01-21":
+            id: f1cd50bd-0b84-4d52-bba9-7490501ff3a2
+          '2019-01-21':
             _name: Thaipusam
-          "2020-02-08":
+            id: d1b769f6-3b68-47fe-aa08-0743ff13e2ec
+          '2020-02-08':
             _name: Thaipusam
-          "2021-01-28":
+            id: d574ec03-0893-45b4-8e8c-1400d1d93457
+          '2021-01-28':
             _name: Thaipusam
-          "2022-01-18":
+            id: 32c5da97-6d19-40d3-8231-350fc2770595
+          '2022-01-18':
             _name: Thaipusam
-          "2023-02-05":
+            id: 37a6d59f-f014-45b4-be78-ad16a20372aa
+          '2023-02-05':
             _name: Thaipusam
-          "2024-01-25":
+            id: f54abfc5-0da6-4c2d-9d65-60b3f56bf34d
+          '2024-01-25':
             _name: Thaipusam
-          "2025-02-11":
+            id: 8e355292-c6e9-4bfc-910a-382ba59e5d9c
+          '2025-02-11':
             _name: Thaipusam
-          "2026-02-01":
+            id: fe1746b7-5c46-4bf8-b67e-599f009023ff
+          '2026-02-01':
             _name: Thaipusam
-      "11":
+            id: d64af14e-0b0a-4506-98f9-56f405b8bbb5
+      '11':
         name: Terengganu
         days:
-          01-01: false
+          01-01:
+            id: abf8116b-deb6-416d-942c-78361dd564dc
           03-04:
             name:
               en: Anniversary of Installation of the Sultan of Terengganu
               ms: Hari Ulang Tahun Pertabalan Sultan Terengganu
+            id: 21786cac-c88e-42ad-a395-01e43bb8d5df
           04-26:
             name:
               en: Sultan of Terengganu's Birthday
               ms: Hari Keputeraan Sultan Terengganu
-          # Islamic
+            id: 447b20a4-4de2-4fc4-b68e-d00ca439d655
           27 Rajab:
             _name: 27 Rajab
+            id: 82177da5-1b43-4e13-8a4a-f27acbb26cf3
           9 Dhu al-Hijjah:
             _name: 9 Dhu al-Hijjah
+            id: 8095c05b-bce6-4b40-90fb-347e01a4d1ac
           11 Dhu al-Hijjah:
             _name: 10 Dhu al-Hijjah
-      "12":
+            id: 5eee67c6-0d98-4a09-80cc-b36885cf346f
+      '12':
         name: Sabah
         days:
           easter -2:
             _name: easter -2
+            id: f2243cd0-caba-4c74-bb69-1929cdb204fc
           05-30:
             name:
               en: Tadau Kaamatan
               ms: Pesta Kaamatan
+            id: bfb19b83-a8ae-4b08-8778-8190a16335b8
           05-31:
             name:
               en: Tadau Kaamatan
               ms: Pesta Kaamatan
+            id: 278171c3-6d1d-4961-ba68-681e09d67c7f
           1st Saturday in October:
             name:
               en: Sabah State Governor's Birthday
               ms: Hari Jadi Yang di-Pertua Negeri Sabah
+            id: 8b1d0c80-8ead-452e-944c-6dfc58c2478d
           12-24:
             _name: 12-24
-          # Islamic
-          17 Ramadan: false
-      "13":
+            id: 6aed4061-c968-427c-9948-d13573c1b290
+          17 Ramadan:
+            id: 6a903c78-f4cc-40be-9320-80b4c0812cb2
+      '13':
         name: Sarawak
         days:
-          # Deepavali not applied
-          "2016-10-29": false
-          "2017-10-18": false
-          "2018-11-06": false
-          "2019-10-27": false
-          "2020-11-14": false
-          "2021-11-04": false
-          "2022-10-24": false
-          "2023-11-13": false
-          "2024-10-31": false
-          "2025-10-20": false
-          "2026-11-09": false
-          "2027-10-28": false
-          "2028-11-15": false
-          "2029-11-05": false
-          "2030-10-25": false
-          # State holidays
+          '2016-10-29':
+            id: cebec506-8f1d-49c9-8910-f8fb21a0d9c3
+          '2017-10-18':
+            id: 4e15f223-1bfd-453d-97c7-14d9c4a89e55
+          '2018-11-06':
+            id: 9e3c566e-fd79-4fcb-b52b-28157800f80c
+          '2019-10-27':
+            id: 10bc069d-d5a7-4071-b2e0-5cf378e62713
+          '2020-11-14':
+            id: aed79e33-0b48-41ec-998b-3cf936d5b74a
+          '2021-11-04':
+            id: 2919332f-0307-4019-89b3-6f870477af5d
+          '2022-10-24':
+            id: 95eef2b0-b969-4828-8524-033417b51340
+          '2023-11-13':
+            id: dc741bb7-5a54-421a-bdff-2449ab862ed2
+          '2024-10-31':
+            id: 80e7999d-dc5b-49a8-8d4d-a00bc66f7ca5
+          '2025-10-20':
+            id: f03e0459-2bb3-4c2e-bd6b-2bb43943b345
+          '2026-11-09':
+            id: 3d5383de-4d8f-444e-8926-5dcba2d5e34b
+          '2027-10-28':
+            id: fb02f803-08e7-4aba-b620-02fad4799b36
+          '2028-11-15':
+            id: 143a7a3c-e424-4f0a-bf3c-99ad9d3eff27
+          '2029-11-05':
+            id: fb97fd92-e755-45dc-adff-f50ee0c6653e
+          '2030-10-25':
+            id: 1a77e9ef-92c2-4bac-adf8-4388cf37c5f5
           easter -2:
             _name: easter -2
+            id: c5e2f2c7-6a4b-4a03-945a-2ede36838e62
           06-01:
             name:
               en: Gawai Dayak
               ms: Perayaan Hari Gawai Dayak
+            id: 754b5c71-cabb-4316-93f3-02bdfcf02fa0
           06-02:
             name:
               en: Gawai Dayak
               ms: Perayaan Hari Gawai Dayak
+            id: f64e6dd9-a7bf-4111-bff5-1c938119a7ca
           07-22:
             name:
               en: Sarawak Independence Day
               ms: Hari Kemerdekaan Sarawak
+            id: 9e2757c2-787d-421d-9db0-3b85079f86e6
           2nd Saturday in October:
             name:
               en: Sarawak State Governor's Birthday
               ms: Hari Jadi Yang di-Pertua Negeri Sarawak
-          # Islamic
-          17 Ramadan: false
-      "14":
+            id: 0605ff2f-5f9d-4557-83e7-76e0e66acc8b
+          17 Ramadan:
+            id: 04781f33-02fa-4cce-b7e0-1ccd7f4a4e02
+      '14':
         name: Kuala Lumpur
         days:
           02-01:
             name:
               en: Federal Territory Day
               ms: Hari Wilayah Persekutuan
-          # Thaipusam
-          # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016
-          "2016-01-24":
+            id: cbda4b93-4298-40b6-a36b-77e71b02560e
+          '2016-01-24':
             _name: Thaipusam
-          "2017-02-10":
+            id: eb90272e-f881-426e-8e0f-a87567350972
+          '2017-02-10':
             _name: Thaipusam
-          "2018-01-31":
+            id: 69aa0c5b-110e-43dd-9197-a27f7019aefe
+          '2018-01-31':
             _name: Thaipusam
-          "2019-01-21":
+            id: 5a40faa1-bb11-4b9b-acdf-f6d0e353d685
+          '2019-01-21':
             _name: Thaipusam
-          "2020-02-08":
+            id: 91a4f4b8-f7f5-4175-8229-e316e08edc33
+          '2020-02-08':
             _name: Thaipusam
-          "2021-01-28":
+            id: cd0763c2-71aa-48b1-ac3b-a72696bba8da
+          '2021-01-28':
             _name: Thaipusam
-          "2022-01-18":
+            id: bf1472bb-afb3-4376-ad51-3e1a81da1a99
+          '2022-01-18':
             _name: Thaipusam
-          "2023-02-05":
+            id: 27dc7bc5-dd47-4a2e-92b0-b7014839c517
+          '2023-02-05':
             _name: Thaipusam
-          "2024-01-25":
+            id: 57dafcae-2885-46e4-bb1b-5d38a5b8f38a
+          '2024-01-25':
             _name: Thaipusam
-          "2025-02-11":
+            id: 374393a8-c4a8-4337-8269-0c41b6eb1f1a
+          '2025-02-11':
             _name: Thaipusam
-          "2026-02-01":
+            id: 6fdcd536-54bf-4bd2-9fee-1b6455a5b804
+          '2026-02-01':
             _name: Thaipusam
-      "15":
+            id: e68ca1d6-d550-4301-9456-4faefe51c3c7
+      '15':
         name: Labuan
         days:
           02-01:
             name:
               en: Federal Territory Day
               ms: Hari Wilayah Persekutuan
+            id: 46f1bd5f-7f7a-4e95-a8cc-0caa3009c61c
           05-30:
             name:
               en: Tadau Kaamatan
               ms: Pesta Kaamatan
+            id: e9c5f767-2e8d-4325-a1d0-be78cc3345b8
           05-31:
             name:
               en: Tadau Kaamatan
               ms: Pesta Kaamatan
-      "16":
+            id: 8cfdd53e-9d2f-498e-9179-6faebf2d8da0
+      '16':
         name: Putrajaya
         days:
           02-01:
             name:
               en: Federal Territory Day
               ms: Hari Wilayah Persekutuan
-          # Thaipusam
-          # @source https://www.drikpanchang.com/festivals/thaipusam/tamil-thaipusam-date.html?year=2016
-          "2016-01-24":
+            id: 65430a17-adb4-4070-b2f7-ac5b875281f4
+          '2016-01-24':
             _name: Thaipusam
-          "2017-02-10":
+            id: 8a56ca65-f538-482a-bc5b-d8e3073b51ae
+          '2017-02-10':
             _name: Thaipusam
-          "2018-01-31":
+            id: a6dcc296-81df-46e2-b726-c558627c6826
+          '2018-01-31':
             _name: Thaipusam
-          "2019-01-21":
+            id: 60cd3439-8da3-47d5-9536-758df3948a08
+          '2019-01-21':
             _name: Thaipusam
-          "2020-02-08":
+            id: 3afe0d7e-07e1-45e4-9c20-84cfb80e428f
+          '2020-02-08':
             _name: Thaipusam
-          "2021-01-28":
+            id: d5d99fc4-b480-4aa4-b445-9b17c76eb79f
+          '2021-01-28':
             _name: Thaipusam
-          "2022-01-18":
+            id: e7c3d8bd-0e8d-458a-aabc-b69a08bd385d
+          '2022-01-18':
             _name: Thaipusam
-          "2023-02-05":
+            id: 388c401a-a047-4171-b442-4aaf9fe9682f
+          '2023-02-05':
             _name: Thaipusam
-          "2024-01-25":
+            id: 036f650e-a119-4898-85f0-ea30eff6d529
+          '2024-01-25':
             _name: Thaipusam
-          "2025-02-11":
+            id: 13a7405c-a006-47d7-8cd1-e8cd389c704c
+          '2025-02-11':
             _name: Thaipusam
-          "2026-02-01":
+            id: 254cfb2c-677d-45da-adb2-9eab96b2a1d1
+          '2026-02-01':
             _name: Thaipusam
+            id: 8f900c70-57bd-4e40-92d4-a00055102ae4
+      '01':
+        name: Johor
+        days:
+          01-01:
+            id: 6c6ca081-a73f-4f2e-bfab-dde8becc6317
+          03-23:
+            name:
+              en: Sultan of Johor's Birthday
+              ms: Hari Keputeraan Sultan Johor
+            id: 427598b0-0c38-4698-bc7d-277aaf4fe135
+          1 Ramadan:
+            _name: 1 Ramadan
+            id: 4ba58411-c6e0-425e-84eb-45e163ebb254
+          17 Ramadan:
+            id: 9b8da418-a591-41a7-9e7c-966011aedfbd
+          6 Safar:
+            name:
+              en: Hari Hol of Sultan Iskandar of Johor
+              ms: Hari Hol Almarhum Sultan Iskandar
+            id: d6fe9693-6cb9-4e77-9999-f8839b6ab0c4
+          '2016-01-24':
+            _name: Thaipusam
+            id: ebcdd528-1fed-4ec2-ad53-35eb08484182
+          '2017-02-10':
+            _name: Thaipusam
+            id: 12933cad-7f12-4346-bade-4264710c3eac
+          '2018-01-31':
+            _name: Thaipusam
+            id: 3901423c-addf-444d-b6f2-8faa3b1ac3e1
+          '2019-01-21':
+            _name: Thaipusam
+            id: b4622a68-a823-45c0-b310-e602cf6ae7b6
+          '2020-02-08':
+            _name: Thaipusam
+            id: d81a69cc-894d-4e3d-a25f-787b3fef1bb4
+          '2021-01-28':
+            _name: Thaipusam
+            id: 606f4f72-5787-49c7-aee8-a8df6cef9d43
+          '2022-01-18':
+            _name: Thaipusam
+            id: f7d753ee-1177-40f5-b2e4-b2f05b5c61a7
+          '2023-02-05':
+            _name: Thaipusam
+            id: 29374b15-1e4c-4eb4-a155-520b3236ba84
+          '2024-01-25':
+            _name: Thaipusam
+            id: 186da91d-b9c8-4faf-a5ac-c0562b978c8f
+          '2025-02-11':
+            _name: Thaipusam
+            id: bb9c79ec-caa5-4408-a658-48205aba5f39
+          '2026-02-01':
+            _name: Thaipusam
+            id: f5b949d9-03a5-4622-aa7b-2ca27798a19b
+      '02':
+        name: Kedah
+        days:
+          01-01:
+            id: 59f9f01b-f7bd-4f96-943f-3fab09013b17
+          3rd Sunday in June:
+            name:
+              en: Sultan of Kedah's Birthday
+              ms: Hari Keputeraan Sultan Kedah
+            id: c96c142a-0430-4ace-b6bc-019f0101a181
+          27 Rajab:
+            _name: 27 Rajab
+            id: c2f03540-671b-4170-9295-d87f00e5bcff
+          1 Ramadan:
+            _name: 1 Ramadan
+            id: 9e04b9a3-4d21-463c-b99b-5da2d47a789c
+          17 Ramadan:
+            id: f4ab215c-88f4-40cc-8da6-82f7ca0da81a
+          11 Dhu al-Hijjah:
+            _name: 10 Dhu al-Hijjah
+            id: e1f8e715-e4aa-4dc5-b1cc-404faa06c712
+          '2016-01-24':
+            _name: Thaipusam
+            id: af7ce0f7-3283-4962-bff3-98f4a5fe152d
+          '2017-02-10':
+            _name: Thaipusam
+            id: 2aa3be54-79e2-4510-8994-d09ddcc996d6
+          '2018-01-31':
+            _name: Thaipusam
+            id: 6b793902-a422-40b9-803f-bec834135ef9
+          '2019-01-21':
+            _name: Thaipusam
+            id: 96431c15-38ed-4608-838c-282a70801659
+          '2020-02-08':
+            _name: Thaipusam
+            id: c12e8b14-e3d2-4fb7-a109-ebd6d82445c5
+          '2021-01-28':
+            _name: Thaipusam
+            id: 101b21c9-c7d7-4f73-9951-6375e0227a95
+          '2022-01-18':
+            _name: Thaipusam
+            id: c3b98e41-b87d-4b40-b27e-ae4de5cb8010
+          '2023-02-05':
+            _name: Thaipusam
+            id: 4504a9d1-cba9-4ef4-b8a3-ff565a60328f
+          '2024-01-25':
+            _name: Thaipusam
+            id: c34c31a4-904e-4d51-9dd3-a93f52fee9b2
+          '2025-02-11':
+            _name: Thaipusam
+            id: 390c554b-8474-448d-b25b-c51273e9c6c4
+          '2026-02-01':
+            _name: Thaipusam
+            id: 7953bda3-7b46-44a8-9622-673c69c75c27
+      '03':
+        name: Kelantan
+        days:
+          01-01:
+            id: b1f0f789-e7b6-4c3e-91c4-240b8914e150
+          11 Dhu al-Hijjah:
+            _name: 10 Dhu al-Hijjah
+            id: ab0ff63a-5747-4403-be8f-8dc618caa68e
+          11-11:
+            name:
+              en: Sultan of Kelantan's Birthday
+              ms: Hari Keputeraan Sultan Kelantan
+            id: 518c3e0c-31b1-4604-91be-7ef0ee7ac446
+          11-12:
+            name:
+              en: Sultan of Kelantan's Birthday
+              ms: Hari Keputeraan Sultan Kelantan
+            id: e9a9eb36-f9f5-404f-bdf2-bbe4f5e15bb6
+      '04':
+        name: Malacca
+        days:
+          04-15:
+            name:
+              en: Declaration of Malacca City as Historical City
+              ms: Hari Perisytiharan Bandar Melaka sebagai Bandaraya Bersejarah
+            id: 5f15e191-ef62-4a57-84e6-9017377b944d
+          08-24:
+            name:
+              en: Melaka State Governor's Birthday
+              ms: Hari Jadi Yang di-Pertua Negeri Melaka
+            id: 9951b289-3039-41d1-9f42-650b8747ec0b
+          1 Ramadan:
+            _name: 1 Ramadan
+            id: de32093a-ea82-4f57-a0eb-1cf73ab109a0
+          17 Ramadan:
+            id: 45994518-3e91-4fcd-b7c7-d86cc08da273
+      '05':
+        name: Negeri Sembilan
+        days:
+          01-14:
+            name:
+              en: Yang di-Pertuan Besar of Negeri Sembilan's Birthday
+              ms: Hari Keputeraan Yang di-Pertuan Besar Negeri Sembilan
+            id: 676b195d-fa78-48b3-9ebd-78720661dce9
+          27 Rajab:
+            _name: 27 Rajab
+            id: f49fbcfc-5174-4f7a-bc6c-c3fa656e7c42
+          17 Ramadan:
+            id: 113e8b71-683d-48ce-8ba3-d624fc569eb1
+          '2016-01-24':
+            _name: Thaipusam
+            id: cd860f60-4ea0-45c0-a518-a037d766fb29
+          '2017-02-10':
+            _name: Thaipusam
+            id: f3084cbf-56df-4e28-9ae2-a408c454c5f3
+          '2018-01-31':
+            _name: Thaipusam
+            id: 93e0196a-e37b-4367-a680-d74bca9b2953
+          '2019-01-21':
+            _name: Thaipusam
+            id: f04d6311-6333-4cd3-8509-ff724eba1a56
+          '2020-02-08':
+            _name: Thaipusam
+            id: c111b6c6-aaa8-44a3-b742-5197d5859646
+          '2021-01-28':
+            _name: Thaipusam
+            id: 27df11e9-bca3-4ede-992e-7285c535074b
+          '2022-01-18':
+            _name: Thaipusam
+            id: b80bc619-1706-404b-a9d8-f0aea428df11
+          '2023-02-05':
+            _name: Thaipusam
+            id: 61a84a92-fba0-4ce2-a814-5af2a7884d1a
+          '2024-01-25':
+            _name: Thaipusam
+            id: 74b19edd-053e-49b5-943e-1dada3b4f73a
+          '2025-02-11':
+            _name: Thaipusam
+            id: 17760358-bfea-4734-912b-ae25a6fbc01a
+          '2026-02-01':
+            _name: Thaipusam
+            id: c765c4e9-cf32-4d0c-8589-7452883bdfbb
+      '06':
+        name: Pahang
+        days:
+          05-22:
+            name:
+              en: Hari Hol of Pahang
+              ms: Hari Hol Pahang
+            id: 7273b020-9249-461b-948b-defa7b69dc8b
+          07-30:
+            name:
+              en: Sultan of Pahang's Birthday
+              ms: Hari Keputeraan Sultan Pahang
+            id: 4318e9c1-e489-4475-a67a-e81524eabc60
+      '07':
+        name: Penang
+        days:
+          07-07:
+            name:
+              en: Declaration of George Town as World Heritage Site
+              id: Hari Ulang Tahun Perisytiharan Tapak Warisan Dunia
+            id: a88654c2-9e18-4e5d-836f-00065f1d0acb
+          2nd Saturday in July:
+            name:
+              en: Penang State Governor's Birthday
+              ms: Hari Jadi Yang di-Pertua Negeri Pulau Pinang
+            id: e9d69b5e-b996-4c8d-957e-3c8843ec2f8a
+          '2016-01-24':
+            _name: Thaipusam
+            id: ec41859c-4410-4d09-883b-4ee34ad7ad42
+          '2017-02-10':
+            _name: Thaipusam
+            id: f6d37ab9-8923-4795-ac9f-681f1bbdd7c3
+          '2018-01-31':
+            _name: Thaipusam
+            id: 9c688913-a90b-45a4-b0e5-e6da599ef2e5
+          '2019-01-21':
+            _name: Thaipusam
+            id: 9a5c936a-1491-471c-8b8f-bda18296973b
+          '2020-02-08':
+            _name: Thaipusam
+            id: 41a58744-1647-4500-b1d8-8b0c8df35b96
+          '2021-01-28':
+            _name: Thaipusam
+            id: 3592b486-bb39-412c-814d-ba4d921e1ef5
+          '2022-01-18':
+            _name: Thaipusam
+            id: 0b30e93b-b3dd-49ab-98ea-697728e65fac
+          '2023-02-05':
+            _name: Thaipusam
+            id: 22321f0d-140c-4e4c-bac2-2ec6baa8aab0
+          '2024-01-25':
+            _name: Thaipusam
+            id: 2b0426de-30aa-45c3-b682-f1bdd5c0cda9
+          '2025-02-11':
+            _name: Thaipusam
+            id: 56ef6ac8-1a83-4b8e-ad1c-43599f31a992
+          '2026-02-01':
+            _name: Thaipusam
+            id: d27eecac-6673-4474-a693-c4604d819e1b
+      '08':
+        name: Perak
+        days:
+          1st Friday in November:
+            name:
+              en: Sultan of Perak's Birthday
+              ms: Hari Keputeraan Sultan Perak
+            id: 4c7ff51f-cc8a-47f8-a361-94e403db0326
+          '2016-01-24':
+            _name: Thaipusam
+            id: 64afd12f-f307-43d1-a982-be388cedd174
+          '2017-02-10':
+            _name: Thaipusam
+            id: 1720c8c2-395b-4199-be13-e5cf7dc5b180
+          '2018-01-31':
+            _name: Thaipusam
+            id: 269f8083-ac77-47f7-a29e-a93f68062db7
+          '2019-01-21':
+            _name: Thaipusam
+            id: 2c1cb82b-aa54-4386-ac3b-bd043fb02b8f
+          '2020-02-08':
+            _name: Thaipusam
+            id: f25cc751-5024-4b7e-b3d1-1f0e2e1de555
+          '2021-01-28':
+            _name: Thaipusam
+            id: 414976cd-71a2-4524-8da5-862cd64830d3
+          '2022-01-18':
+            _name: Thaipusam
+            id: 8a6fb924-4806-4ed5-980a-fabad8e25271
+          '2023-02-05':
+            _name: Thaipusam
+            id: fc3e63c2-7956-413b-94f0-5d6c354de6b7
+          '2024-01-25':
+            _name: Thaipusam
+            id: 17d84ab0-8992-491f-89ba-d833178c9841
+          '2025-02-11':
+            _name: Thaipusam
+            id: 05798330-feab-4b02-be0a-c44302996c92
+          '2026-02-01':
+            _name: Thaipusam
+            id: c76e48de-ec17-4e90-9de8-2c09845d4125
+      '09':
+        name: Perlis
+        days:
+          01-01:
+            id: 93476ee5-29cb-451b-99dc-eff6bf9642bc
+          07-17:
+            name:
+              en: Raja of Perlis's Birthday
+              id: Hari Keputeraan Raja Perlis
+            id: a99ecdc0-3516-44e1-bb74-3217032c7ac1
+          27 Rajab:
+            _name: 27 Rajab
+            id: c78eddd8-f2b5-4496-86b9-fc2e9bad98c0
+          11 Dhu al-Hijjah:
+            _name: 10 Dhu al-Hijjah
+            id: 1f320a31-d239-4963-974e-a8daf64e055a

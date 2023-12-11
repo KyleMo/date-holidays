@@ -1,7 +1,4 @@
 holidays:
-  # @source http://www.parlamento.gub.uy/leyes/AccesoTextoLey.asp?Ley=14977
-  # @source http://www.parlamento.gub.uy/leyes/AccesoTextoLey.asp?Ley=16805
-  # @source http://www.parlamento.gub.uy/leyes/AccesoTextoLey.asp?Ley=17414
   UY:
     names:
       es: Uruguay
@@ -14,63 +11,82 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 80f9fc92-82d0-4c7b-8b1b-bed5a47f1f89
       01-06:
         _name: 01-06
         type: observance
+        id: 7c4dd8c6-250e-46c5-811d-a08feaa72527
       easter -48:
         name:
           en: Carnival
           es: Carnaval
         type: observance
+        id: 8c05699c-8a66-43bf-ad08-a70a2dcae17c
       easter -47:
         _name: easter -47
         type: observance
+        id: 540c41ab-b44a-413a-80a2-fd6577aea9ca
       easter -6 P5D:
         name:
           en: Tourism Week
           es: Semana de Turismo
         type: observance
+        id: 755268b0-cb0d-47b8-bca2-2195102172cb
       easter -3:
         _name: easter -3
+        id: d7bd4bce-c279-4163-95e6-d62b317e59de
       easter -2:
         _name: easter -2
+        id: 187172b5-44f9-4b14-8acf-7bc343af7ea7
       easter:
         _name: easter
         type: observance
+        id: f090c49a-d8ab-4662-873e-a0deca38c5e5
       04-19 if tuesday,wednesday then previous monday if thursday,friday then next monday:
         name:
           en: Landing of the 33 Orientals
           es: Desembarco de los 33 Orientales
         type: observance
+        id: 0148b048-2532-4104-b5d2-6a0a14150059
       05-01:
         _name: 05-01
+        id: 5535f9d6-a4c2-4b5e-967e-8212a39f1130
       05-18 if tuesday,wednesday then previous monday if thursday,friday then next monday:
         name:
           en: Battle of Las Piedras
           es: Batalla de las Piedras
         type: observance
+        id: 5b627fc6-1eb5-4ebb-922f-057acadbb65c
       06-19:
         name:
           en: Birthday of José Gervasio Artigas and Never Again Day
           es: Natalicio de Artigas y Día del Nunca Más
         type: observance
+        id: 98d091c0-c980-421a-9560-326e280482e4
       07-18:
         _name: Constitution Day
+        id: 829805df-9ee0-40cc-a635-41bf79b86069
       08-25:
         _name: Independence Day
+        id: 86c70e0a-6347-479d-8901-e988b809a09c
       10-12 if tuesday,wednesday then previous monday if thursday,friday then next monday:
         name:
           en: Columbus Day
           es: Día de la Raza
         type: observance
+        id: 9705f4e7-6366-4cd7-b220-a5bd1870852e
       11-02:
         _name: 11-02
         type: observance
+        id: 9a05c82f-9640-46ac-ab23-0660eaf3aa0d
       12-24:
         _name: 12-24
         type: observance
+        id: 891a6ad9-0483-483f-b5b7-4563ab687227
       12-25:
         _name: 12-25
+        id: aae9d983-2277-4256-89ae-c9ac7f1b4c74
       12-31:
         _name: 12-31
         type: observance
+        id: d84e6210-b6a8-4f3b-a033-d0cb9c822c40

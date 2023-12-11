@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Vatican_City
 holidays:
   VA:
     names:
@@ -15,50 +14,64 @@ holidays:
         name:
           en: Solemnity of Mary, Mother of God
           it: Maria Santissima Madre di Dio
+        id: 4bcd29f3-183c-486b-a57e-e061205ff354
       01-06:
         name:
           en: Epiphany
           it: Epifania del Signore
+        id: d5e637e6-6091-46a5-b71f-52fd543d7abb
       02-11:
         name:
           en: Anniversary of the foundation of Vatican City
           it: Anniversario della istituzione dello Stato della Città del Vaticano
+        id: 8f7ff4d4-f06c-4326-a465-c8454cf9ce31
       03-19:
         _name: 03-19
+        id: 6bb3d047-802e-4e6f-ae7d-3b28a798bccb
       easter 1:
         _name: easter 1
+        id: 462bdcbd-7067-43f6-bc31-d83d6c80c331
       easter 39:
         _name: easter 39
         active:
           - to: 2009
+        id: d2ee5ba6-eea0-4242-822c-cf01ed58c155
       easter 60:
         _name: easter 60
         active:
           - to: 2009
+        id: a2022382-d2e9-4e79-9891-bef64d0f0c23
       05-01:
         _name: 05-01
         name:
           en: Saint Joseph the Worker
           it: San Giuseppe lavoratore
+        id: 5e5ca0db-f527-4a36-b28c-7a56bfd65513
       06-29:
         _name: 06-29
+        id: 1f1b8c76-36ca-4051-81d2-095f9a134da9
       08-15:
         _name: 08-15
         name:
           it: Assunzione di Maria in Cielo
+        id: ef5481aa-10fe-49bf-a5ef-aad101b5fd31
       09-08:
         name:
           en: Nativity of Mary
           it: Festa della natività della madonna
+        id: 932c306b-a217-4eed-9ca1-159c72f95a39
       11-01:
         _name: 11-01
+        id: 20c82d9b-86ad-4571-8074-28bcc04dac69
       12-08:
         _name: 12-08
+        id: 229f3fb0-541f-414a-88ca-7dc6233a2b1b
       12-25:
         _name: 12-25
+        id: 2ad7f781-8356-40e9-b0ce-c07a768cf0fe
       12-26:
         _name: 12-26
-
+        id: b0d31e13-e88a-443c-a1de-3dfb54a16b5b
       10-16:
         name:
           en: Anniversary of the election of Pope John Paul II
@@ -66,6 +79,7 @@ holidays:
         active:
           - from: 1978
             to: 2005
+        id: f66232e6-53cd-44f6-8a8b-4a34e6e7758b
       11-04:
         name:
           en: Saint Charles Borromeo - Name day of the Holy Father
@@ -74,7 +88,7 @@ holidays:
         active:
           - from: 1978
             to: 2005
-
+        id: c8f70f48-7b3a-4475-b7f2-60fa2b678300
       04-19:
         name:
           en: Anniversary of the election of Pope Benedict XVI
@@ -82,7 +96,8 @@ holidays:
         active:
           - from: 2005
             to: 2013
-      "03-19#1":
+        id: e17874a2-5ebf-401e-bbfe-f0353a13ff6e
+      03-19#1:
         name:
           en: Saint Joseph - Name day of the Holy Father
           it: San Giuseppe - Onomastico del Santo Padre
@@ -90,13 +105,14 @@ holidays:
         active:
           - from: 2005
             to: 2013
-
+        id: 0494b7c7-76cf-48fb-a1b4-ed459deda6b8
       03-13:
         name:
           en: Anniversary of the election of Pope Francis
           it: Anniversario dell'Elezione del Santo Padre
         active:
           - from: 2013
+        id: 85ce406d-7093-4e30-a392-9e8bd7fdc8db
       04-23:
         name:
           en: Saint George - Name day of the Holy Father
@@ -104,3 +120,4 @@ holidays:
         note: Name day of Pope Francis (Jorge Mario Bergoglio)
         active:
           - from: 2013
+        id: 6e011cf6-30e9-4433-b06c-54b248dcc86f

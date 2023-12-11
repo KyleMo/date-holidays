@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Faroe_Islands#Public_holidays
 holidays:
   FO:
     names:
@@ -14,38 +13,49 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: b2c203cc-654c-48f3-9534-01c9be7514bc
       easter -3:
         _name: easter -3
+        id: 3f2b386f-b99e-4755-95bf-4cfb523c6633
       easter -2:
         _name: easter -2
+        id: 861a2c74-bee4-42b3-9f95-7e8c545564cd
       easter:
         _name: easter
+        id: 457edc32-ecc2-4a08-9b27-af8e3092c610
       easter 1:
         _name: easter 1
+        id: 30260577-4eb4-47d0-83a8-0ec6ba941c22
       04-24:
         name:
           fo: Flaggdagur
           da: Flagdag
           en: Flag Day
-      # 4th Friday after Easter
+        id: 42865209-0229-41a1-b755-424110d42240
       easter 26:
         name:
           fo: Dýri biðidagur
           en: Great Prayer Day
+        id: 8b7ad8b1-26ed-4be2-bf31-1913b67833fb
       easter 39:
         _name: easter 39
+        id: 0d560e7b-c0cb-4bea-97b1-f4a22981abfb
       easter 49:
         _name: easter 49
+        id: 1c3c2d32-d4d9-4d72-b0b9-6f37df604da9
       easter 50:
         _name: easter 50
+        id: 3671bf05-3348-419c-981e-86cd4189b86b
       06-05 12:00 if sunday then 00:00:
         _name: Constitution Day
+        id: 671d6c63-94fb-4278-b65d-c77915f6dec6
       07-28 12:00 if sunday then 00:00:
         name:
           da: Sankt Olavsaften
           en: St.Olav's Eve
         note: half-day holiday for some workers' unions
         type: observance
+        id: 3eea769f-2888-4a6b-ada7-6cb20be0b765
       07-29:
         name:
           fo: Ólavsøka
@@ -53,11 +63,16 @@ holidays:
           en: St.Olav's Day
         note: full holiday for most workers' unions
         type: observance
+        id: 23c6bab7-b44c-4227-9245-cb4676819e31
       12-24:
         _name: 12-24
+        id: 3f29192a-d4a1-4b10-8c45-b2e71b5756eb
       12-25:
         _name: 12-25
+        id: 052abcfb-2c30-4b31-81c9-c8ea06ba93d0
       12-26:
         _name: 12-26
+        id: 74b26586-527f-4a5d-a216-8deb08f3b4bb
       12-31 12:00 if sunday then 00:00:
         _name: 12-31
+        id: dc9f43a7-d713-4d10-95da-9de3d16c2cbe

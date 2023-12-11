@@ -1,8 +1,4 @@
 holidays:
-  # @attrib https://de.m.wikipedia.org/wiki/Kanada#Feiertage
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Canada
-  # @source http://manpages.ubuntu.com/manpages/wily/man3/DateTime::TimeZone::Catalog.3pm.html
-  # @source https://educaloi.qc.ca/en/capsules/public-holidays/
   CA:
     names:
       en: Canada
@@ -42,65 +38,82 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 7d711fbb-1bf4-4460-a969-af129abbd870
       02-02:
         name:
           en: Groundhog Day
           fr: Jour de la marmotte
         type: observance
+        id: 42d586f2-2d70-4e0f-8116-08ee2b7c85df
       02-14:
         _name: 02-14
         type: observance
+        id: 60933168-8280-45a9-ac85-690d6e14f67d
       03-17:
         name:
           en: St. Patrick’s Day
           fr: Fête de la Saint-Patrick
         type: observance
+        id: 7cac4c66-3614-4ec6-b8b4-f3e9ab291760
       easter -2:
         _name: easter -2
+        id: 1817d3e1-7878-472e-a008-3affe9b7c76d
       easter:
         _name: easter
+        id: ddf2656f-c411-448a-a89f-98fbfde28ca0
       2nd sunday after 05-01:
         _name: Mothers Day
         type: observance
+        id: e6dabde2-a831-4b7b-b0ff-26a9d4d707aa
       monday before 05-25:
         name:
           en: Victoria Day
           fr: Fête de la Reine
+        id: 7e940ac6-2c77-40b0-b1e8-027856a3c0ba
       3rd sunday after 06-01:
         _name: Fathers Day
         type: observance
+        id: dc6f71ed-7022-458a-b08b-d6d2087a339d
       07-01:
         name:
           en: Canada Day
           fr: Fête du Canada
+        id: 3dd4b7bf-18f3-4b28-9791-560138d1b434
       monday after 08-01:
         name:
           en: Civic Holiday
           fr: Premier lundi d’août
+        id: 3c8582da-30a3-4225-ad33-1a2a8afa815b
       1st monday in September:
         _name: 05-01
-      # https://www.canada.ca/en/canadian-heritage/campaigns/national-day-truth-reconciliation.html
+        id: c1896a0f-561f-48cc-8627-2e8223aab0aa
       09-30 since 2021:
         name:
           en: National Day for Truth and Reconciliation
           fr: Journée nationale de la vérité et de la réconciliation
+        id: 0e74e144-df76-4833-8aa5-c8615fa2d6fb
       2nd monday after 10-01:
         name:
           en: Thanksgiving
           fr: Action de grâce
+        id: 17c0641c-20c6-47f9-b126-635ded688164
       10-31 18:00:
         name:
           en: Halloween
           fr: l'Halloween
         type: observance
+        id: 942170d1-b069-4c3a-9149-27e08a6fa86a
       11-11:
         name:
           en: Remembrance Day
           fr: Jour du Souvenir
+        id: 0a59e3f3-e585-4a29-be81-86869fc59f1d
       12-25:
         _name: 12-25
+        id: d0bfda23-fc19-4d12-9353-e76a8e07c281
       12-26:
         _name: 12-26
+        id: 8eebdb49-8fee-4bb6-95d8-3f49d1a53da9
     states:
       AB:
         name: Alberta
@@ -111,14 +124,17 @@ holidays:
             name:
               en: Family Day
               fr: Fête de la famille
+            id: d6285cd9-6149-42cf-892d-fe240f828761
           easter 1:
             _name: easter 1
             type: optional
+            id: 10c6f464-dc86-4242-aada-e8a2e27ccb2a
           monday after 08-01:
             name:
               en: Heritage Day
               fr: Fête du patrimoine
             type: optional
+            id: 179e0db3-d348-46d8-a56e-071bf5164077
       BC:
         name: British Columbia
         zones:
@@ -133,14 +149,14 @@ holidays:
               fr: Fête de la famille
             active:
               - to: 2019
-          # @source https://news.gov.bc.ca/releases/2018PREM0018-000188
-          # @source https://globalnews.ca/news/4017192/b-c-s-family-day-moved-3rd-week-february-2019/
+            id: 227be913-b3cc-4bcc-8f97-5061e5dd9af9
           3rd monday after 02-01:
             name:
               en: Family Day
               fr: Fête de la famille
             active:
               - from: 2019
+            id: 56feb412-04f7-49f6-b3a6-81913aa4a019
       MB:
         name: Manitoba
         zones:
@@ -150,6 +166,7 @@ holidays:
             name:
               en: Louis Riel Day
               fr: Journée Louis Riel
+            id: 5ba12984-db10-4b6a-910c-617c3628dee0
       NB:
         name: New Brunswick
         zones:
@@ -159,6 +176,7 @@ holidays:
             name:
               en: New Brunswick Day
               fr: Jour de Nouveau Brunswick
+            id: ace0c2c0-a89b-4acb-8f36-22ad2d643bdf
       NL:
         name: Newfoundland and Labrador
         zones:
@@ -170,25 +188,30 @@ holidays:
               en: Saint Patrick's Day
               fr: Jour de la Saint-Patrick
             type: optional
+            id: 49a68132-ad57-43cf-af2f-9636ad611423
           04-23:
             name:
               en: Saint George's Day
               fr: Jour de St. George
             type: optional
+            id: edcf5b81-c793-4083-b1bb-b97a0ae69c5c
           06-24:
             name:
               en: Discovery Day
               fr: Journée découverte
             type: optional
+            id: bfc7620c-78c7-4f46-ac5b-0872e6069706
           07-12:
             name:
               en: Orangemen's Day
               fr: Fête des orangistes
             type: optional
+            id: c383429b-3ddc-4ada-a28c-1a5b9a73a30a
           11-11:
             name:
               en: Armistice Day
               fr: Jour de l'Armistice
+            id: 6b21d69a-6603-4192-8c18-4e62e0a29b9c
       NS:
         name: Nova Scotia
         zones:
@@ -199,10 +222,12 @@ holidays:
             name:
               en: Heritage Day
               fr: Fête du Patrimoine
+            id: c16eb142-bc44-47c9-b9a2-91c22f19b20b
           monday after 08-01:
             name:
               en: Natal Day
               fr: Jour de la Fondation
+            id: 53ea576e-be9e-4de5-b587-190b0bc71da0
       NT:
         name: Northwest Territories
         zones:
@@ -213,6 +238,7 @@ holidays:
             name:
               en: National Indigenous Peoples Day
               fr: Journée nationale des Autochthones
+            id: 774e7480-e601-4702-8ba2-a6e765ac9a54
       NU:
         name: Nunavut
         zones:
@@ -227,7 +253,8 @@ holidays:
             name:
               en: Nunavut Day
             type: bank
-      ON:
+            id: 8ce2c629-143e-4253-a8ef-d24d17f82628
+      'ON':
         name: Ontario
         zones:
           - America/Toronto
@@ -241,8 +268,10 @@ holidays:
             name:
               en: Family Day
               fr: Fête de la famille
+            id: 8d5c169c-1d32-43fd-bcc2-526d9de0b4d8
           easter 1:
             _name: easter 1
+            id: 08428e57-aa98-4454-a125-fb7ea66fb2a7
       PE:
         name: Prince Edward Island
         days:
@@ -250,14 +279,16 @@ holidays:
             name:
               en: Islander Day
               fr: Fête des Insulaires
+            id: cfbd27d4-bac6-4440-8d0f-66797e3dc76a
           easter 1:
             _name: easter 1
             type: optional
+            id: d9694b47-3142-40f4-886c-a3a33d5ac0b6
           3rd friday after 08-01:
             name:
               en: Gold Cup Parade Day
-              fr: "Défilé de la Coupe d'or"
-      # @source https://www.cnesst.gouv.qc.ca/en/working-conditions/leave/statutory-holidays/statutory-holidays
+              fr: Défilé de la Coupe d'or
+            id: e3385db9-5912-464f-b71b-4e5f5895b56f
       QC:
         name: Quebec
         zones:
@@ -268,18 +299,23 @@ holidays:
           easter -2:
             _name: easter -2
             note: Either Good Friday or Easter Monday, at the employer’s option
+            id: 848985f3-9422-4a08-8d7e-10fd8531a2c7
           easter 1:
             _name: easter 1
             note: Either Good Friday or Easter Monday, at the employer’s option
+            id: fa764ea9-6d98-4f24-8da5-b658d6a6b599
           monday before 05-25:
             name:
               en: National Patriots' Day
               fr: Journée nationale des patriotes
+            id: b299559f-8583-4ba5-a311-dff9b7cc45c5
           06-24:
             name:
               en: National Holiday
               fr: Fête nationale du Québec
-          monday after 08-01: false
+            id: ef26b35a-59c7-4606-9166-c58e21bb7faa
+          monday after 08-01:
+            id: 7ffbadc6-9358-4db7-a2dc-7091195c9f34
       SK:
         name: Saskatchewan
         zones:
@@ -291,9 +327,11 @@ holidays:
             name:
               en: Family Day
               fr: Fête de la famille
+            id: cf6470ba-2641-4757-9c11-6004e1677f21
           3rd monday after 08-01:
             name:
               en: Saskatchewan Day
+            id: e3beb772-b975-491d-8db9-07c536f4c128
       YT:
         name: Yukon
         zones:
@@ -302,7 +340,9 @@ holidays:
         days:
           easter 1:
             _name: easter 1
+            id: 6b5b0978-4105-438a-88aa-9734cd80cc1b
           3rd monday after 08-01:
             name:
               en: Discovery Day
               fr: Jour de la Découverte
+            id: 259cf193-a60b-42e1-a8a5-4aca7fca0076

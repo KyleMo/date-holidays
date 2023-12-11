@@ -1,7 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Equatorial_Guinea
-  # @attrib https://es.wikipedia.org/wiki/Guinea_Ecuatorial
-  # @source https://leydeguinea.files.wordpress.com/2014/08/013_boletin-oficial-del-estado-2.pdf
   GQ:
     names:
       es: República de Guinea Ecuatorial
@@ -22,32 +19,42 @@ holidays:
       01-01 and if sunday then next monday:
         substitute: true
         _name: 01-01
+        id: c38f95a1-73d8-40ac-b161-47c45b2e7eca
       easter -2:
         _name: easter -2
+        id: 50cbdeb5-e736-4841-bf9e-de2479389ee5
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
+        id: ab4a3fd3-41a9-4a54-b11e-9d20cc75f0f0
       easter 60:
         _name: easter 60
+        id: 9101a39a-c7b2-4468-a94c-22a349886a75
       06-05 and if sunday then next monday:
         substitute: true
         name:
           es: Natalicio de Teodoro Obiang
           en: President's Day
+        id: b568e230-e2c5-446b-9dad-8be7ae85f0b8
       08-03 and if sunday then next monday:
         substitute: true
         name:
           es: Día del Golpe de Libertad
           en: Armed Forces Day
+        id: dac3cbbb-a258-4ebd-a3b0-1a04d95ff716
       08-15 and if sunday then next monday:
         substitute: true
         _name: Constitution Day
+        id: 43b10809-979b-401a-9d4d-d0c7f29f48d9
       10-12 and if sunday then next monday:
         substitute: true
         _name: Independence Day
+        id: 64e88175-ba88-4ace-9e65-02bb110eec06
       12-08 and if sunday then next monday:
         substitute: true
         _name: 12-08
+        id: c9360162-206c-4941-8118-6a7c1213b791
       12-25 and if sunday then next monday:
         substitute: true
         _name: 12-25
+        id: 93f51711-e649-4bef-8b3c-06a3e0b8edf7

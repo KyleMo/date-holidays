@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Andorra
   AD:
     names:
       ca: Andorra
@@ -14,57 +13,65 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 44ded85f-da75-40a3-a9e6-496b8fca4db6
       01-06:
         _name: 01-06
+        id: 64a9a22d-1aa7-42cb-bada-d9ba509f7dbf
       03-14:
         _name: Constitution Day
+        id: cd8be2ac-7341-4740-bd2e-4351438c56d1
       05-01:
         _name: 05-01
+        id: 5a70fe60-fda6-4c6a-9e1e-260b6ca119e2
       08-15:
         _name: 08-15
+        id: a6a341bd-5e56-4cc9-8024-e49cc39a7111
       09-08:
         name:
           en: Our Lady of Meritxell
           es: Nuestra Sra. De Meritxell
           ca: Mare de Déu de Meritxell
+        id: d6e635ac-12da-4902-b2c7-9ce4873319e6
       11-01:
         _name: 11-01
+        id: dc9138fc-abaa-4bc5-9cde-eec8a79e9124
       12-08:
         _name: 12-08
+        id: 7d5ddfdc-f2cc-4c4c-922d-e813083eee7a
       12-24:
         type: bank
         _name: 12-24
+        id: 0bfa3b65-267b-4b8c-b54e-35eeb656cbcd
       12-25:
         _name: 12-25
+        id: 57785240-9a20-469d-becb-d78b6e663011
       12-26:
         _name: 12-26
+        id: 92e67fec-d48f-4f89-acc7-198f8bef83d4
       easter -47:
         _name: easter -47
-      "easter -3 14:00":
+        id: 58dfe47b-6950-4b2a-b5ca-c5dc4c82df61
+      easter -3 14:00:
         type: bank
         _name: easter -3
+        id: 87825c95-29dd-496b-8b94-0fdc08934d8c
       easter -2:
         _name: easter -2
+        id: 9be8364c-223b-4ecc-b61d-b1af05214b46
       easter:
         _name: easter
+        id: dd11bb4e-c686-4e33-b4a2-d224b77c8bdb
       easter 1:
         _name: easter 1
+        id: 2b7a6636-d73e-41a8-a366-b1383a2d17ee
       easter 49:
         _name: easter 49
+        id: 1ec1d4bf-7f8c-4f7b-be81-9b74f3e622d1
       easter 50:
         _name: easter 50
+        id: 2d6c521c-d1bf-4c79-83c9-08b66f7a9cf1
     regions:
-      # '02':
-      #   name: Canillo
-      # '03':
-      #   name: Encamp
-      # '04':
-      #   name: La Massana
-      # '05':
-      #   name: Ordino
-      # '06':
-      #   name: Sant Julià de Lòria
-      "07":
+      '07':
         name: Andorra la Vella
         days:
           1st saturday in August P3D:

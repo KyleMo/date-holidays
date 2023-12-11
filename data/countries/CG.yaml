@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://fr.wikipedia.org/wiki/R%C3%A9publique_du_Congo
   CG:
     names:
       fr: République du Congo
@@ -13,50 +12,36 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 49a38ba8-7ff2-40ba-b096-9fc92c309462
       easter 1:
         _name: easter 1
+        id: c482b423-0ab5-446f-bdca-4c7f7b7f1d01
       05-01:
         _name: 05-01
+        id: e854a726-0477-4fda-8807-467d23f9ff12
       easter 39:
         _name: easter 39
+        id: 65bc2667-1f4f-412c-a9df-833ef64b495c
       easter 49:
         _name: easter 49
+        id: 00e849c8-4153-4325-92e8-a560ed5fddde
       easter 50:
         _name: easter 50
+        id: f8d7c91e-4e51-4fe7-a771-4665a2834cea
       06-10:
         name:
           fr: Fête de la commémoration de la conférence nationale souveraine
+        id: 56ff68d8-f094-459f-9c99-0eeb3ece3335
       08-15:
         _name: 08-15
+        id: bc995060-72a4-453d-ac0f-7207ef800bc8
       11-01:
         _name: 11-01
+        id: 7509be4d-b1a4-45a0-92a7-63399db93f74
       11-28:
         name:
           fr: Journée nationale de la République
+        id: 1c8f3f8f-24b7-4d66-9679-2f846b1023af
       12-25:
         _name: 12-25
-    # states:
-    # '2':
-    #   name: Lékoumou
-    # '5':
-    #   name: Kouilou
-    # '7':
-    #   name: Likouala
-    # '8':
-    #   name: Cuvette
-    # '9':
-    #   name: Niari
-    # '11':
-    #   name: Bouenza
-    # '12':
-    #   name: Pool
-    # '13':
-    #   name: Sangha
-    # '14':
-    #   name: Plateaux
-    # '15':
-    #   name: Cuvette-Ouest
-    # '16':
-    #   name: Pointe-Noire
-    # BZV:
-    #   name: Brazzaville
+        id: 2ff3656e-6ee4-4477-850b-78b3271366b8

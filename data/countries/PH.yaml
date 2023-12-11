@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_the_Philippines
 holidays:
   PH:
     names:
@@ -12,107 +11,124 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 01ad8c94-ddd2-4e26-ae3f-3d34b17c17a8
       01-23:
         type: observance
         name:
           en: First Philippine Republic Day
           fil: Araw ng Unang Republika ng Pilipinas
+        id: 680aab65-6639-4018-9db0-319012968e2b
       chinese 01-0-01:
         type: optional
         name:
           en: Chinese New Year
           fil: Bagong Taon ng mga Tsino
+        id: 0d34c8bc-44d5-4ed0-a750-a79eb7212ff0
       02-02:
         type: observance
         _name: Constitution Day
+        id: 1997c59f-3e54-4d5e-88ee-c259f4ccc9b3
       chinese 01-0-15:
         type: observance
         name:
           en: Lantern Festival
           fil: Piyesta ng mga Parol Tsino
+        id: 1d6c28c8-5ee9-4c7c-8978-9419690e2d38
       02-25:
         name:
           en: EDSA Revolution Anniversary
           fil: Anibersaryo ng Rebolusyon sa EDSA
         type: optional
         note: Non-working Day
+        id: f8d6c1ef-d793-4765-acdf-e97a62843403
       easter -3:
         _name: easter -3
+        id: d987e956-d5fd-420f-9d7b-49a8e23a7462
       easter -2:
         _name: easter -2
+        id: 2147eb3a-a403-40c4-9fc5-76b4d835c26c
       easter -1:
         _name: easter -1
         type: optional
         note: Non-working Day
+        id: 09ec0b07-f53e-4734-ae5b-44d57167d635
       easter:
         _name: easter
+        id: 7843c7bf-235a-4439-95a6-cd86079e980d
       04-09:
         name:
           en: Day of Valor
           fil: Araw ng Kagitingan
+        id: 73d70a3a-5766-438e-9e43-f43680cf241d
       04-27:
         type: observance
         name:
           en: Lapu-Lapu Day
           fil: Araw ni Lapu-Lapu
+        id: 2b06a292-6030-4f94-833c-3109bbb9d66d
       05-01:
         _name: 05-01
         name:
           en: Labour Day
           fil: Araw ng mga Manggagawa
-      # TODO - Rule missing - day in May of the full moon:
-      #   type: observance
-      #   name:
-      #     en: Vesak Day
-      #     fil: Araw ng Bisyak
+        id: fb17aafb-0892-42b2-8f16-ba6cf2786986
       06-12:
         _name: Independence Day
+        id: b595ebd7-cc25-4e99-9686-dcb8463548f5
       06-19:
         type: observance
         name:
           en: José Rizal's birthday
           fil: Araw ng Kapanganakan ni José Rizal
         active:
-          - from: 1961-01-01
+          - from: '1961-01-01T00:00:00.000Z'
         disable:
-          - "2011-06-19"
-      "2011-06-19":
-        # Monday, June 20, 2011 was declared a special non-working holiday by President Benigno Aquino III for Rizal's 150th birth anniversary as requested by the National Historical Commission of the Philippines.
+          - '2011-06-19'
+        id: b26bd7f7-4ae2-464a-8fab-815de6adb038
+      '2011-06-19':
         name:
           en: José Rizal's birthday
           fil: Araw ng Kapanganakan ni José Rizal
+        id: bfcb3a14-f2e7-4168-a7fa-c110c4aef5ba
       07-27:
         type: observance
         name:
           en: Iglesia ni Cristo Day
           fil: Araw ng Iglesia ni Cristo
+        id: f027b2f3-fb81-4865-adb3-75121f604ebe
       08-21:
         name:
           en: Ninoy Aquino Day
           fil: Araw ng Kabayanihan ni Ninoy Aquino
         type: optional
         note: Non-working Day
+        id: 76f04639-db7c-4f2c-8949-0c76a0560f73
       1st monday before September:
         name:
           en: National Heroes' Day
           fil: Araw ng mga Bayani
+        id: bb238fdb-b47b-495f-8936-0d94e9f0104b
       chinese 08-0-15:
         type: observance
         name:
           en: Mid-Autumn Festival
           fil: Piyestang Zhōngqiū Jié
+        id: 52b15e31-50df-4c23-bbd6-f55ffcf82d53
       11-01:
         _name: 11-01
         type: optional
         note: Non-working Day
+        id: 59cb3c15-20dd-4272-9830-bc54ed82d094
       11-02:
         _name: 11-02
         type: optional
         note: Non-working Day
+        id: fd4d9072-bf59-44c2-8fd0-fd096bbc814d
       11-30:
         name:
           en: Bonifacio Day
           fil: Araw ng Kapanganakan ni Bonifacio
+        id: 9937a7a3-541e-4e9f-9db9-b52006a3a816
       12-08:
         _name: 12-08
         name:
@@ -120,240 +136,36 @@ holidays:
           fil: Pagdiriwang ng Kalinis-linisang Paglilihi sa Mahal na Birheng Maria
         type: optional
         note: Non-working Day
+        id: fbf215bd-9caf-4985-b7e8-41b68537ce52
       12-24:
         _name: 12-24
         type: optional
         note: Non-working Day
+        id: d24b55cd-99fa-4b3b-ae91-43257c50c528
       12-25:
         _name: 12-25
+        id: b59e10e9-1a6f-4298-a543-cd1e7bcbcae2
       12-30:
         name:
           en: Rizal Day
           fil: Paggunita sa Kamatayan ni Dr. Jose Rizal
+        id: c77a24c7-cb2b-46bc-befa-05ddf5aaacce
       12-31:
         _name: 12-31
         type: optional
         note: Non-working Day
+        id: 2c38c417-666c-46ff-8507-3e1fd140b4dd
       1 Muharram:
         type: observance
         _name: 1 Muharram
+        id: ed475e4f-bea7-4680-bbb7-36960fb26edf
       12 Rabi al-awwal:
         type: observance
         _name: 12 Rabi al-awwal
+        id: 5765c2c4-532f-4cf3-a937-06f77679c760
       1 Shawwal:
         _name: 1 Shawwal
+        id: 7f60ead0-7b8e-46d5-bc71-d9f1eeeae13d
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-    # states:
-    #   '10':
-    #     name: Northern Mindanao
-    #     regions:
-    #       BUK:
-    #         name: Bukidnon
-    #       CAM:
-    #         name: Camiguin
-    #       MSC:
-    #         name: Misamis Occidental
-    #       MSR:
-    #         name: Misamis Oriental
-    #   '11':
-    #     name: Davao
-    #     regions:
-    #       COM:
-    #         name: Compostela Valley
-    #       DAO:
-    #         name: Davao Oriental
-    #       DAS:
-    #         name: Davao del Sur
-    #       DAV:
-    #         name: Davao del Norte
-    #       DVO:
-    #         name: Davao Occidental
-    #       SAR:
-    #         name: Sarangani
-    #       SCO:
-    #         name: South Cotabato
-    #   '12':
-    #     name: Soccsksargen
-    #     regions:
-    #       LAN:
-    #         name: Lanao del Norte
-    #       NCO:
-    #         name: Cotabato
-    #       SUK:
-    #         name: Sultan Kudarat
-    #   '13':
-    #     name: Caraga
-    #     regions:
-    #       AGN:
-    #         name: Agusan del Norte
-    #       AGS:
-    #         name: Agusan del Sur
-    #       DIN:
-    #         name: Dinagat Islands
-    #       SUN:
-    #         name: Surigao del Norte
-    #       SUR:
-    #         name: Surigao del Sur
-    #   '14':
-    #     name: Muslim Mindanao
-    #     regions:
-    #       LAS:
-    #         name: Lanao del Sur
-    #       MAG:
-    #         name: Maguindanao
-    #       SLU:
-    #         name: Sulu
-    #       TAW:
-    #         name: Tawi-Tawi
-    #   '15':
-    #     name: Cordillera Administrative
-    #     regions:
-    #       ABR:
-    #         name: Abra
-    #       APA:
-    #         name: Apayao
-    #       BEN:
-    #         name: Benguet
-    #       IFU:
-    #         name: Ifugao
-    #       KAL:
-    #         name: Kalinga
-    #       MOU:
-    #         name: Mountain
-    #   '40':
-    #     name: Calabarzon
-    #     regions:
-    #       BTG:
-    #         name: Batangas
-    #       CAV:
-    #         name: Cavite
-    #       LAG:
-    #         name: Laguna
-    #       QUE:
-    #         name: Quezon
-    #       RIZ:
-    #         name: Rizal
-    #   '41':
-    #     name: Mimaropa
-    #     regions:
-    #       MAD:
-    #         name: Marinduque
-    #       MDC:
-    #         name: Occidental Mindoro
-    #       MDR:
-    #         name: Oriental Mindoro
-    #       PLW:
-    #         name: Palawan
-    #       ROM:
-    #         name: Romblon
-    #   '00':
-    #     name: Metro Manila
-    #   '01':
-    #     name: Ilocos
-    #     regions:
-    #       ILN:
-    #         name: Ilocos Norte
-    #       ILS:
-    #         name: Ilocos Sur
-    #       LUN:
-    #         name: La Union
-    #       PAN:
-    #         name: Pangasinan
-    #   '02':
-    #     name: Cagayan Valley
-    #     regions:
-    #       BTN:
-    #         name: Batanes
-    #       CAG:
-    #         name: Cagayan
-    #       ISA:
-    #         name: Isabela
-    #       NUV:
-    #         name: Nueva Vizcaya
-    #       QUI:
-    #         name: Quirino
-    #   '03':
-    #     name: Central Luzon
-    #     regions:
-    #       AUR:
-    #         name: Aurora
-    #       BAN:
-    #         name: Bataan
-    #       BUL:
-    #         name: Bulacan
-    #       NUE:
-    #         name: Nueva Ecija
-    #       PAM:
-    #         name: Pampanga
-    #       TAR:
-    #         name: Tarlac
-    #       ZMB:
-    #         name: Zambales
-    #   '05':
-    #     name: Bicol
-    #     regions:
-    #       ALB:
-    #         name: Albay
-    #       CAN:
-    #         name: Camarines Norte
-    #       CAS:
-    #         name: Camarines Sur
-    #       CAT:
-    #         name: Catanduanes
-    #       MAS:
-    #         name: Masbate
-    #       SOR:
-    #         name: Sorsogon
-    #   '06':
-    #     name: Western Visayas
-    #     regions:
-    #       AKL:
-    #         name: Aklan
-    #       ANT:
-    #         name: Antique
-    #       CAP:
-    #         name: Capiz
-    #       GUI:
-    #         name: Guimaras
-    #       ILI:
-    #         name: Iloilo
-    #       NEC:
-    #         name: Negros Occidental
-    #   '07':
-    #     name: Central Visayas
-    #     regions:
-    #       BOH:
-    #         name: Bohol
-    #       CEB:
-    #         name: Cebu
-    #       NER:
-    #         name: Negros Oriental
-    #       SIG:
-    #         name: Siquijor
-    #   08:
-    #     name: Eastern Visayas
-    #     regions:
-    #       BIL:
-    #         name: Biliran
-    #       EAS:
-    #         name: Eastern Samar
-    #       LEY:
-    #         name: Leyte
-    #       NSA:
-    #         name: Northern Samar
-    #       SLE:
-    #         name: Southern Leyte
-    #       WSA:
-    #         name: Samar
-    #   09:
-    #     name: Zamboanga Peninsula
-    #     regions:
-    #       BAS:
-    #         name: Basilan
-    #       ZAN:
-    #         name: Zamboanga del Norte
-    #       ZAS:
-    #         name: Zamboanga del Sur
-    #       ZSI:
-    #         name: Zamboanga Sibugay
+        id: 9a226ade-588c-42c7-a0d0-88cc00328b1d

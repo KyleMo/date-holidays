@@ -1,7 +1,3 @@
-# @Source https://www.joursferies.fr/pays/tunisie.php
-# @Source https://destination-tunis.fr/informations-utiles/les-jours-feries-en-tunisie
-# @attrib https://fr.wikipedia.org/wiki/F%C3%AAtes_et_jours_f%C3%A9ri%C3%A9s_en_Tunisie
-
 holidays:
   TN:
     names:
@@ -17,87 +13,49 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 77d0803a-ff0a-4080-841e-75d12f815192
       01-14:
         name:
           fr: Fête de la Révolution et de la Jeunesse
-          ar: "عيد الثورة و الشباب"
+          ar: عيد الثورة و الشباب
+        id: dd68ff8b-d4ef-44d8-b700-e66d528b70cc
       03-20:
         name:
           fr: Fête de l'indépendance
-          ar: "عيد الإستقلال"
+          ar: عيد الإستقلال
+        id: 47671763-7832-4bdd-9e37-a1fc2f68b50e
       04-09:
         name:
           fr: Journée des Martyrs
-          ar: "عيد الشهداء"
+          ar: عيد الشهداء
+        id: ab2ff766-8f77-4586-9521-d60440edfc8a
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: 741ffecc-1c87-4eb8-929d-ba7fa9ad430e
       1 Muharram:
         _name: 1 Muharram
+        id: 4522b238-f6e0-4c62-9835-aa480f72bb90
       1 Shawwal:
         _name: 1 Shawwal
+        id: c8dd36ed-2614-441a-a5d7-4bceee8937bb
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
+        id: b4a401c2-1adb-4b3e-84c7-41fa23fff427
       05-01:
         _name: 05-01
+        id: 36fbece7-7e47-498e-a874-6b9f2c2ae139
       07-25:
         name:
           fr: Fête de la République
-          ar: "عيد الجمهورية"
+          ar: عيد الجمهورية
+        id: 571e726a-ce38-4bd1-ac2a-a7e999274c69
       08-13:
         name:
           fr: Fête de la Femme et de la Famille
-          ar: "عيد المرأة"
+          ar: عيد المرأة
+        id: b2695e2e-8a09-446b-9a2e-1288c8766fdc
       10-15:
         name:
           fr: Fête de l'Évacuation
-          ar: "عيد الجلاء"
-
-#    states:
-#      '11':
-#        name: Tunis
-#      '12':
-#        name: Ariana
-#      '13':
-#        name: Ben Arous
-#      '14':
-#        name: Manouba
-#      '21':
-#        name: Nabeul
-#      '22':
-#        name: Zaghouan
-#      '23':
-#        name: Bizerte
-#      '31':
-#        name: Béja
-#      '32':
-#        name: Jendouba
-#      '33':
-#        name: Kef
-#      '34':
-#        name: Siliana
-#      '41':
-#        name: Kairouan
-#      '42':
-#        name: Kasserine
-#      '43':
-#        name: Sidi Bouzid
-#      '51':
-#        name: Sousse
-#      '52':
-#        name: Monastir
-#      '53':
-#        name: Mahdia
-#      '61':
-#        name: Sfax
-#      '71':
-#        name: Gafsa
-#      '72':
-#        name: Tozeur
-#      '73':
-#        name: Kebili
-#      '81':
-#        name: Gabès
-#      '82':
-#        name: Medenine
-#      '83':
-#        name: Tataouine
+          ar: عيد الجلاء
+        id: a83daed0-a3ab-40db-8e13-34724dc25c47

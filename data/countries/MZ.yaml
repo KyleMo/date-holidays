@@ -1,7 +1,4 @@
 holidays:
-  # @attrib https://pt.wikipedia.org/wiki/Mo%C3%A7ambique#Feriados
-  # @source http://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_127550.pdf
-  # LEI DO TRABALHO Artigo 96.3 Feriados obrigatórios
   MZ:
     names:
       pt: Moçambique
@@ -16,58 +13,77 @@ holidays:
         _name: 01-01
         name:
           pt: Dia da Fraternidade universal
+        id: 255c022f-a54f-4d60-8e3a-dfb3a10830b7
       substitutes 01-01 if sunday then next monday:
         _name: Public Holiday
+        id: 2961c850-510a-4952-ac43-11b979d8bfa3
       02-03:
         name:
           pt: Dia dos heróis moçambicanos
           en: Heroes’ Day
+        id: 33d08db4-c0a6-4215-95cf-924fed02a37a
       substitutes 02-03 if sunday then next monday:
         _name: Public Holiday
+        id: 1bab5f38-af52-48a5-bb98-7d3a3506d22a
       04-07:
         name:
           pt: Dia da Mulher Moçambicana
           en: Women’s Day
+        id: 1c36e796-8717-461f-9ffb-b30ac08cdb14
       substitutes 04-07 if sunday then next monday:
         _name: Public Holiday
+        id: 21b033ad-1c71-4118-8efc-439fd5af1eaa
       05-01:
         _name: 05-01
         name:
           pt: Dia Internacional dos Trabalhadores
           en: Workers' Day
+        id: 13dd1b9b-5dab-4aa4-b1ed-f5f6ca3e9e42
       substitutes 05-01 if sunday then next monday:
         _name: Public Holiday
+        id: e8039cb3-3118-421b-b174-5bd2380aecdf
       1st sunday in May:
         _name: Mothers Day
         type: observance
+        id: 700dee49-5379-40b3-8456-c1db4f5e4816
       06-25:
         _name: Independence Day
         name:
           pt: Dia da Independência Nacional
+        id: b7431878-8fd5-4ef4-bb38-419e16b8e72e
       substitutes 06-25 if sunday then next monday:
         _name: Public Holiday
+        id: b1075a5c-1536-4398-9077-a12683bed392
       09-07:
         name:
           pt: Dia da Vitória
           en: Lusaka Peace Agreement
+        id: 65610078-d6a5-4d10-9442-dc8b1003ec28
       substitutes 09-07 if sunday then next monday:
         _name: Public Holiday
+        id: f9aeb1ed-e8bf-4561-a6ee-2fbbee91cc1b
       09-25:
         name:
           pt: Dia das Forças Armadas de Libertação Nacional
           en: Defense Force’s Day
+        id: fafb7cc2-c308-4aa9-9c1e-ea57cd358c1d
       substitutes 09-25 if sunday then next monday:
         _name: Public Holiday
+        id: 9a3f2552-aa49-4f06-8854-2e2bf44bd6cb
       10-04:
         name:
           pt: Dia da Paz e Reconciliação
           en: Peace and Reconciliation Day
+        id: efac798f-b14a-48ff-954e-48824f8cdbfa
       substitutes 10-04 if sunday then next monday:
         _name: Public Holiday
+        id: 4d614e2e-85b3-44d9-b696-af3d7ab90f35
       12-25:
         _name: 12-25
         name:
           pt: Dia da Família
           en: Family Day
+        id: 38f4d0dc-fdbc-4a11-bf3a-cbd04a8ede0c
       substitutes 12-25 if sunday then next monday:
         _name: Public Holiday
+        id: d2451272-e36a-4818-98ec-b2e19ff85945

@@ -1,4 +1,3 @@
-# @source https://labour.gov.bb/Holidays
 holidays:
   BB:
     names:
@@ -11,62 +10,55 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 68cc23fd-f2e4-4f8d-a809-5444231c9db3
       01-21:
         name:
           en: Errol Barrow Day
+        id: e8aed76c-eb5d-4d52-b4a8-c70170d11576
       easter -2:
         _name: easter -2
+        id: fc33cffb-57a8-4ddf-b56c-fd0d1a266c8f
       easter:
         _name: easter
         type: observance
+        id: 6bb92b24-bb40-4e93-92c1-0e41f6b8fedd
       easter 1:
         _name: easter 1
+        id: 0b082bfd-1791-40f2-91ea-f0b8c91c4c5d
       04-28:
         name:
           en: National Heroes Day
+        id: 939b19e8-664a-49e1-b677-d4b8e1faccc5
       05-01 if sunday then next monday:
         name:
           en: May Day
+        id: 05473e0f-f571-4207-8209-705bf5cdf383
       easter 49:
         _name: easter 49
+        id: 7fcfae47-737f-4281-92e6-134d24597164
       easter 50:
         _name: easter 50
+        id: 3b784720-ed5e-4e85-b09c-690c1aa7afd5
       08-01:
         name:
           en: Emancipation Day
+        id: 96ca6bc2-4df4-4785-931f-570dcd7ea2b4
       1st monday in August:
         name:
           en: Kadooment Day
+        id: 93090a9b-c33f-40ff-90f7-672ab0e34b85
       11-30:
         _name: Independence Day
+        id: 6aaab91d-a737-4b18-a539-80a9cf44b7ea
       12-25:
         _name: 12-25
+        id: 9a4a2b9b-c53e-4df9-9339-f8d4d74f594d
       substitutes 12-25 if sunday then next tuesday:
         _name: Public Holiday
+        id: adb2bb1f-3d6c-4cff-b82c-c6700f714513
       12-26:
         _name: 12-26
+        id: d9d46754-f3e7-4757-bfed-0ec5a87e2ed2
       substitutes 12-26 if sunday then next monday:
         _name: Public Holiday
-    # regions:
-    # '10':
-    #   name: Saint Philip
-    # '11':
-    #   name: Saint Thomas
-    # '01':
-    #   name: Christ Church
-    # '02':
-    #   name: Saint Andrew
-    # '03':
-    #   name: Saint George
-    # '04':
-    #   name: Saint James
-    # '05':
-    #   name: Saint John
-    # '06':
-    #   name: Saint Joseph
-    # '07':
-    #   name: Saint Lucy
-    # 08:
-    #   name: Saint Michael
-    # 09:
-    #   name: Saint Peter
+        id: 11576561-9a47-4828-bf63-7ac5b457976a

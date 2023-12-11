@@ -1,6 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Zambia
-  # @source http://www.parliament.gov.zm/sites/default/files/documents/acts/Public%20Holidays%20Act.pdf
   ZM:
     names:
       en: Zambia
@@ -13,39 +11,52 @@ holidays:
       01-01 and if sunday then next monday:
         substitute: true
         _name: 01-01
+        id: 11d117ec-6326-4eb8-9d92-ca1c11e04615
       03-09:
         name:
           en: Women’s Day
+        id: 0d8d3f5d-ab48-4320-aa89-03dda45eef6b
       03-12 and if sunday then next monday:
         substitute: true
         name:
           en: Youth Day
+        id: f166378a-ad3b-4e82-b729-bcedecb870ad
       easter -2:
         _name: easter -2
+        id: 755bc535-e89a-4d7d-a2a5-99dc2ff19846
       easter 1:
         _name: easter 1
+        id: fda75ca7-25ef-420d-856d-fdc1514e5d97
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
+        id: 62e73b66-209c-43d5-9572-a20ba462bebd
       05-25 and if sunday then next monday:
         substitute: true
         name:
           en: African Freedom Day
+        id: 4b992cd1-5333-4d6f-967f-a43d0b84d2c7
       1st monday in July:
         name:
           en: Heroes' Day
+        id: 57812d85-e223-4798-876a-4658a068d111
       tuesday after 1st monday in July:
         name:
           en: Unity Day
+        id: 7cb9d7db-f1e0-4eeb-8817-0dbc4aecdc9f
       1st monday in August:
         name:
           en: Farmers' Day
-      "2015-10-18":
+        id: e04830d8-1313-4e58-acf4-212fbaf7b7f0
+      '2015-10-18':
         name:
           en: National day of Prayers
+        id: 8fea89d7-dc6f-4cd3-bfdc-4fee1eecf5ed
       10-24 and if sunday then next monday:
         substitute: true
         _name: Independence Day
+        id: 95cf8e11-7049-49e4-bd1b-2dba4c737083
       12-25 and if sunday then next monday:
         substitute: true
         _name: 12-25
+        id: b2ea10e7-551f-424b-96d4-681bab93eb76

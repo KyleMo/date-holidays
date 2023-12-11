@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_the_Gambia
 holidays:
   GM:
     names:
@@ -7,56 +6,57 @@ holidays:
       - en
     zones:
       - Africa/Abidjan
-    dayoff: ""
+    dayoff: ''
     days:
       01-01:
         _name: 01-01
+        id: b948b0fb-015e-4164-b401-f6ee016ce2d8
       02-18:
         _name: Independence Day
+        id: 7ae666cd-8696-4d9e-93a2-788ed78b3618
       easter -2:
         _name: easter -2
+        id: a3da6d27-21cd-4dcf-aadd-887f1d9830a7
       easter:
         _name: easter
         type: observance
+        id: 332c8eb2-4e21-4188-88cc-0edcddafd308
       easter 1:
         _name: easter 1
+        id: 481b9697-6142-4ddd-b52c-62fe62367b08
       05-01:
         _name: 05-01
+        id: b8359579-8c77-40f2-a352-b3de8d05b7ce
       05-25:
         name:
           en: Africa Day
+        id: cf2e29ed-45fe-4620-a8c6-8a03d50ce3eb
       07-22:
         name:
           en: Revolution Day
+        id: e8d062fe-c1c8-4ff5-8c78-897e777ce9b8
       08-15:
         _name: 08-15
+        id: 74899bdf-c222-4ac7-991c-639ae2a9fb44
       12-25:
         _name: 12-25
+        id: ea76a4bd-73fd-495e-a4d0-17768ce42ae7
       10 Muharram:
         _name: 10 Muharram
+        id: 235f0181-ddb6-48b7-8863-c52f0944912c
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: ed30128e-178d-4195-983f-74e2dfdd9b16
       23 Ramadan:
         _name: 23 Ramadan
+        id: d6c36b2f-39cc-4ad1-b28a-926be838fc1f
       1 Shawwal:
         _name: 1 Shawwal
         name:
           en: Korité
+        id: b4a8beaf-fd52-4d7d-9b66-781a6e96b019
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         name:
           en: Tabaski
-
-    # states:
-    #   B:
-    #     name: Banjul
-    #   L:
-    #     name: Lower River Division
-    #   M:
-    #     name: Central River Division
-    #   'N':
-    #     name: North Bank Division
-    #   U:
-    #     name: Upper River Division
-    #   W:
-    #     name: West Coast Division
+        id: d85c0ba6-f15a-42f3-8abe-c4e19b92fe94

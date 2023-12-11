@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Croatia
   HR:
     names:
       hr: Hrvatska
@@ -12,133 +11,170 @@ holidays:
       01-01:
         _name: 01-01
         type: public
+        id: aac7621d-d578-45ad-be3f-0750e2f82186
       01-06:
         _name: 01-06
         type: public
+        id: 64352a17-759e-4b2b-9eb5-6089420012a0
       easter -47:
         _name: easter -47
         type: observance
+        id: 0ddd6d11-3423-4b9a-928d-d6ea63fd89fe
       easter:
         _name: easter
         type: public
+        id: 792f77c5-4b58-49ce-9fa9-4f8d4b59aa24
       easter 1:
         _name: easter 1
         type: public
+        id: ae65c487-433b-4065-9973-8f0788face29
       easter 60:
         _name: easter 60
         type: public
+        id: 0fae36ed-754c-4eed-9adb-4586107d4242
       03-08:
         _name: 03-08
         type: observance
+        id: eb81f4d9-4b6f-4d7e-b982-9e4b2fdfe2d1
       05-01:
         _name: 05-01
         type: public
+        id: fce866e7-c428-405f-920d-9e43c2c888f6
       05-30:
         name:
           hr: Dan državnosti
           en: National Day
         type: public
         active:
-          - from: "2020-01-01"
+          - from: '2020-01-01'
+        id: 823bc9da-2749-4622-852d-cd787c6e7ba3
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: b6224d94-e10c-478a-b724-b266aef3ec98
       06-22:
         name:
           hr: Dan antifašističke borbe
           en: Anti-Fascist Struggle Day
         type: public
-      "06-25 #1":
+        id: 75e718bb-5b48-4a76-bf0b-d81a0db4feea
+      '06-25 #1':
         name:
           hr: Dan državnosti
           en: Statehood Day
         type: public
         active:
-          - to: "2020-01-01"
+          - to: '2020-01-01'
+        id: 52259381-21b2-4512-b353-0a1d6d71d56a
       06-25:
         name:
           hr: Dan neovisnosti
           en: Independence Day
         type: observance
         active:
-          - from: "2020-01-01"
+          - from: '2020-01-01'
+        id: 42cbb934-0ba8-4e50-8a8e-ee7630e0ba61
       08-05:
         name:
           hr: Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja
-          en: Victory and Homeland Thanksgiving Day and the Day of Croatian defenders
+          en: >-
+            Victory and Homeland Thanksgiving Day and the Day of Croatian
+            defenders
         type: public
+        id: bab7a286-f1d9-4f39-a454-f03dd186fcc3
       08-15:
         _name: 08-15
         type: public
-      "10-08 #1":
+        id: f2c1947f-ee14-4b4f-9b83-4439cb94e795
+      '10-08 #1':
         name:
           hr: Dan neovisnosti
           en: Independence Day
         type: public
         active:
-          - to: "2020-01-01"
+          - to: '2020-01-01'
+        id: 53cb1909-9ebd-4afa-a067-68f688a70d6f
       10-08:
         name:
           hr: Dan Hrvatskoga sabora
           en: Day of the Croatian Parliament
         type: observence
         active:
-          - from: "2020-01-01"
+          - from: '2020-01-01'
+        id: dc9f33da-cb5e-434c-87a2-c6411de91c53
       11-01:
         _name: 11-01
         type: public
-      "11-18 #1":
+        id: 2d11af12-fbe9-41f9-8385-8c68edf14076
+      '11-18 #1':
         name:
           hr: Dan sjećanja na žrtvu Vukovara i Škabrnje
           en: Remembrance Day
         type: observance
         active:
-          - to: "2020-01-01"
+          - to: '2020-01-01'
+        id: ab2b94d2-d3fa-4c2a-b251-19f449f83de1
       11-18:
         name:
-          hr: Dan sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje
+          hr: >-
+            Dan sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu
+            Vukovara i Škabrnje
           en: Remembrance Day
         type: public
         active:
-          - from: "2020-01-01"
+          - from: '2020-01-01'
+        id: c62eb531-c110-4d5c-9963-6d05f2fa180d
       12-25:
         _name: 12-25
         type: public
+        id: d2863957-5063-4737-8fdd-8541bc84fd1e
       12-26:
         _name: 12-26
         type: public
-      # Religius holidays
-      # optional holidays for religious minorities
+        id: c88d5afc-9471-46f2-a63d-6f2a4f687e4b
       orthodox:
         _name: orthodox
         type: optional
-        note: Orthodox believers (legally defined as Christians who follow the Julian Calender)
+        note: >-
+          Orthodox believers (legally defined as Christians who follow the
+          Julian Calender)
+        id: c4392971-12fd-435b-a1c6-12db63390e3d
       orthodox 1:
         _name: orthodox 1
         type: optional
-        note: Orthodox believers (legally defined as Christians who follow the Julian Calender)
+        note: >-
+          Orthodox believers (legally defined as Christians who follow the
+          Julian Calender)
+        id: 610d67bb-151e-4696-87b6-ecfcf893eec5
       julian 12-25:
         _name: julian 12-25
         type: optional
-        note: Orthodox believers (legally defined as Christians who follow the Julian Calender)
+        note: >-
+          Orthodox believers (legally defined as Christians who follow the
+          Julian Calender)
+        id: 20deb716-e896-45bb-9ce4-a93bf8133d99
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         type: optional
         note: Muslim believers
+        id: 8ea93fa9-040f-41e6-8dfb-a5acd2f58bad
       1 Shawwal:
         _name: 1 Shawwal
         type: optional
         note: Muslim believers
+        id: 7e47b2e9-4d65-4f0b-94d0-edcc3244bd02
       1 Tishrei:
         _name: 10 Tishrei
         type: optional
         note: Jewish believers
+        id: e0d5b3e3-525a-4000-8b66-13c6a3af4933
       10 Tishrei:
         _name: 10 Tishrei
         type: optional
         note: Jewish believers
+        id: a17a24ff-85ea-4db4-b923-64276f84f614
     regions:
-      "17":
+      '17':
         name: Split-Dalmatia
         days:
           05-07:
@@ -146,7 +182,7 @@ holidays:
               hr: Sveti Duje
               en: Saint Domnius
             type: optional
-      "19":
+      '19':
         name: Dubrovnik-Neretva
         days:
           02-03:

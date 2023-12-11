@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe
 holidays:
   ST:
     names:
@@ -14,37 +13,40 @@ holidays:
       01-01 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         _name: 01-01
+        id: e4dd730c-511c-4865-add2-df4be967c112
       02-03 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         name:
           en: Martyrs' Day
           pt: Dia dos Mártires
+        id: fc027605-b778-4dfc-bcfa-724062ffb008
       05-01 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         _name: 05-01
+        id: 6c52c85a-d5a2-4e99-88c6-14117bc059d5
       07-12 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         _name: Independence Day
+        id: 3f659870-3aa6-4fb8-9503-a00eb68a0c0f
       09-06 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         name:
           en: Armed Forces Day
           pt: Dia das Forças Armadas
+        id: 47cfb8ce-cd00-48ed-9e47-5466a6089d2e
       09-30 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         name:
           en: Agricultural Reform Day
           pt: Dia da Reforma Agrária
+        id: 7e30362b-7175-4483-82dd-5afe263770d3
       12-21 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         name:
           en: São Tomé Day
           pt: Dia de São Tomé
+        id: d3594386-368b-4321-b6df-9ce9b8534e05
       12-25 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         _name: 12-25
-    # states:
-    #   P:
-    #     name: Príncipe
-    #   S:
-    #     name: São Tomé
+        id: 120301eb-009b-43cf-82f7-a42d78d5db08

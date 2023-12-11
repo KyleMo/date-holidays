@@ -1,4 +1,3 @@
-# @source https://www.rks-gov.net/sq-AL/vegeza/Pages/FestatZyrtare.aspx
 holidays:
   XK:
     names:
@@ -14,23 +13,34 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 459505a3-6139-4702-aa21-20c47dd690b6
       julian 12-25:
         _name: julian 12-25
+        id: b7c07722-2bdb-41f9-ab0f-2bbe907b852b
       02-17:
         _name: Independence Day
+        id: 568e3d90-e094-4e8b-b8bc-00949ba81b10
       04-09:
         _name: Constitution Day
+        id: ec3917ba-4d5a-450a-a1e3-fafa8333d825
       easter:
         _name: easter
+        id: e4eb4d74-df50-4910-92ed-de426c329270
       orthodox:
         _name: orthodox
+        id: 0f1defd1-a845-41af-82ac-c4fca71573f8
       05-01:
         _name: 05-01
+        id: 96c4c661-d432-44f5-b80c-b5915216970d
       05-09:
         _name: 05-09
+        id: f7df3f88-9d09-4c8e-831f-77221ecaf132
       12-25:
         _name: 12-25
+        id: 32340845-6e17-4b15-9e86-a7e943b03e06
       1 Shawwal:
         _name: 1 Shawwal
+        id: 35893fb1-79c7-4147-8744-da89637db792
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
+        id: 12b3a009-e6bb-4582-afc9-531926bdc480

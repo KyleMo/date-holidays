@@ -1,7 +1,4 @@
 holidays:
-  # @attrib https://de.wikipedia.org/wiki/Feiertage_in_Rum%C3%A4nien
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Romania
-  # @source http://www.dreptonline.ro/legislatie/codul_muncii.php
   RO:
     names:
       ro: Romania
@@ -14,60 +11,80 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: f04ea09e-ed7b-4810-a5a5-5621e366a5f3
       01-24:
         name:
           ro: Ziua Unirii
           en: Unification Day
+        id: db60ad84-c3a0-4822-a69f-82bebd24289d
       03-08:
         name:
           ro: Ziua Mamei
         type: observance
+        id: 86422c9a-5874-471d-b0a6-614023554d23
       orthodox -2:
         _name: easter -2
+        id: 20b8c783-6e3f-4f9c-a3d2-045db22bc560
       orthodox:
         _name: easter
+        id: be31e396-7849-48a1-b813-76b258f5081b
       orthodox 1:
         _name: easter 1
+        id: d58aee47-ff39-4409-abcf-f4d511de7734
       05-01:
         _name: 05-01
+        id: fffe9c36-0582-4605-a377-06f6d3d872c5
       orthodox 39:
         _name: easter 39
         type: observance
+        id: 99b6efaa-9e86-4916-9cb9-5109ce61b642
       orthodox 49:
         _name: easter 49
+        id: 212e5464-5854-42d1-b7cc-4810739456b5
       orthodox 50:
         _name: easter 50
+        id: 28953558-02db-479e-bef5-12e2cde1bf19
       1st sunday in May:
         _name: Mothers Day
         type: observance
+        id: 8e09d91d-a39a-4a96-825a-4f7a78d94161
       06-01:
         name:
           ro: Ziua Copilului
           en: Children's Day
+        id: 22098d99-0a4a-4818-a10a-da95b51b9c85
       06-26:
         name:
           ro: Ziua drapelului national
           en: Flag Day
         type: observance
+        id: 20e2dc0c-c5df-4f9e-a47e-422d3f7f32ae
       07-29:
         name:
           ro: Ziua Imnului național
           en: National Anthem Day
         type: observance
+        id: e9479b0e-2b8b-46f1-a393-b76ac3296573
       08-15:
         _name: 08-15
+        id: 292f9dbc-69be-4613-888c-1f0e15a5eb2e
       11-30:
         name:
           ro: Sfântul Andrei
           en: St Andrew's Day
+        id: 37f1ad38-c8f4-462d-9bb0-63cb984f6ba5
       12-01:
         name:
           ro: Ziua națională, Ziua Marii Uniri
           en: National holiday
+        id: 2a621521-ae61-4fb3-85e5-7168012251bb
       12-08:
         _name: Constitution Day
         type: observance
+        id: bc643266-c367-4040-be6b-53b927919463
       12-25:
         _name: 12-25
+        id: fbcd4286-1b4a-4f06-99be-1dd0da55d6c4
       12-26:
         _name: 12-26
+        id: 424a887f-76ba-47d2-bd6f-1ce9d001e110

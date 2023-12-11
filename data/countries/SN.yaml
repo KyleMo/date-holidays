@@ -1,8 +1,3 @@
-# @source https://www.joursferies.fr/pays/senegal.php
-# @source https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/97260/115332/F792726416/SEN-97260.pdf
-# @source https://www.au-senegal.com/les-fetes-et-jours-feries,056.html
-# @source https://lepetitjournal.com/dakar/les-jours-feries-au-senegal-en-2021-295473
-# @source https://www.seneweb.com/news/Societe/ce-que-dit-la-loi-sur-les-jours-feries_n_113705.html
 holidays:
   SN:
     names:
@@ -18,59 +13,43 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 1c7fc91d-d7b8-4ca4-83ab-84be53f06078
       04-04:
         _name: National Holiday
+        id: da64239b-2fb8-4203-9438-2bbe5c3f892e
       05-01:
         _name: 05-01
+        id: a454e3ca-445a-4969-a6a9-bd7c50b88fe7
       08-15:
         _name: 08-15
+        id: 87178c82-ca56-4f34-8e34-70a7c13a361d
       11-01:
         _name: 11-01
+        id: 91569175-82e8-4f8c-8991-38380370f35b
       12-25:
         _name: 12-25
+        id: 47b7d32a-9230-4c88-83d4-7dd103445529
       easter 1:
         _name: easter 1
+        id: f3a32822-c2a7-4840-9e12-762cf94cd270
       easter 39:
         _name: easter 39
+        id: 701526ea-b7fa-42ee-bf6f-bea4f36b61af
       easter 50:
         _name: easter 50
+        id: 5156e63d-1e31-4b45-8aa8-d14588c02716
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: fc70cd29-6d7d-4be8-99e5-11105002ae2d
       1 Shawwal and if sunday then next monday:
         _name: 1 Shawwal
+        id: 7f3a5ba0-52de-4a01-8fee-34268c5434b2
       10 Dhu al-Hijjah and if sunday then next monday:
         _name: 10 Dhu al-Hijjah
+        id: 1a4270ca-8424-4edb-acd1-79d70c967344
       10 Muharram:
         _name: 10 Muharram
+        id: 3baf79e3-da08-4d04-88f9-01f3c331d6e8
       18 Safar:
         name: Magal de Touba
-
-#    states:
-#      DB:
-#        name: Diourbel
-#      DK:
-#        name: Dakar
-#      FK:
-#        name: Fatick
-#      KA:
-#        name: Kaffrine
-#      KD:
-#        name: Kolda
-#      KE:
-#        name: Kédougou
-#      KL:
-#        name: Kaolack
-#      LG:
-#        name: Louga
-#      MT:
-#        name: Matam
-#      SE:
-#        name: Sédhiou
-#      SL:
-#        name: Saint-Louis
-#      TC:
-#        name: Tambacounda
-#      TH:
-#        name: Thiès
-#      ZG:
-#        name: Ziguinchor
+        id: c2ea3ef1-8087-44f4-89e6-4c9b8fee5fd3

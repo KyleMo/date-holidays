@@ -1,10 +1,4 @@
-# @source https://agoramada.com/t/jours-feries-a-madagascar-pour-2021/737
-# @source https://www.comptoir.fr/guide/madagascar/quand-partir-a-madagascar/les-jours-feries-a-madagascar/4594
-# @source https://publicholidays.africa/madagascar/fr/2021-dates/
-# @source https://www.madagascar-services.com/blog/post/2021/03/26/les-jours-feries-de-2021-a-madagascar
-# @source https://www.joursferies.fr/pays/madagascar.php
 holidays:
-  # @attrib https://fr.wikipedia.org/wiki/Madagascar
   MG:
     names:
       mg: Repoblikan'i Madagasikara
@@ -20,46 +14,61 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 3c904b24-2bf9-4e9f-aca4-f71efe2dd9b8
       03-08:
         name:
           mg: Andro iraisam-pirenena ho an'ny vehivavy
           fr: Journée internationale de la femme
           en: International Women's Day
         note: only for women
+        id: ba7e8ea7-709d-4464-b090-18c4e6223faf
       03-29:
         name:
           mg: Martioran'ny tolona tamin'ny 1947
           fr: Commémoration des martyrs de l'insurrection de 1947.
           en: Martyrs' Day
+        id: b3318c7d-b5fd-40b5-884a-c5335fb0344e
       easter:
         _name: easter
+        id: 8a15bcb9-6874-4bff-b24d-5e068ae92ac6
       easter 1:
         _name: easter 1
+        id: 9c9e820a-7bef-4c91-bc62-f88d494f2c79
       05-01:
         _name: 05-01
+        id: 81e8fd57-6ad5-4b34-bd05-a1f292abfcb6
       05-25:
         name:
           mg: Andron'i Afrika
           fr: Jour de l'Afrique
           en: Africa Day
+        id: 22f4899b-9def-473b-99e8-05c8a56c1d57
       easter 39:
         _name: easter 39
+        id: b435ce9a-20c6-4c1a-9ff7-b148b989e6f4
       easter 50:
         _name: easter 50
+        id: e2ae7fed-b116-4f90-b95b-2b9812a483d5
       06-26:
         _name: Independence Day
         name:
           mg: Fetim-pirenena
           fr: Fête Nationale
+        id: b9c52e40-fc79-41cb-a676-dab743bf9396
       08-15:
         _name: 08-15
+        id: 53f706c1-beb9-46cd-a74a-72e3d4ecc6de
       11-01:
         _name: 11-01
+        id: 5bbcd841-cf70-443d-8dae-45943be98d4f
       12-25:
         _name: 12-25
+        id: bceac2ce-01bd-47f7-82c8-2e73702c9037
       1 Shawwal:
         _name: 1 Shawwal
         note: For Muslim
+        id: 2362ae3f-8c89-4dc4-bb76-c9577fc7bba7
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         note: For Muslim
+        id: 6b0168c9-82f2-42d4-a517-24527ebc0b83

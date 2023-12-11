@@ -1,5 +1,4 @@
 holidays:
-  # @source http://www.gov.gd/holiday_events.html
   GD:
     names:
       en: Grenada
@@ -11,68 +10,72 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 80a691e4-5cf0-40ca-ba12-666e29007bc8
       02-07:
         _name: Independence Day
+        id: 641bd7dd-2234-4558-a92e-169dd1e94713
       easter -2:
         _name: easter -2
+        id: 72ca3dc7-86c7-4cb9-ac83-cb71ace2f2c9
       easter:
         _name: easter
         type: observance
+        id: 91d807e7-1251-48c1-b1df-602ff1962e5f
       easter 1:
         _name: easter 1
+        id: e19bb459-6ee1-40d3-ae21-88ba640209ce
       04-24 P3D:
         name:
           en: Carriacou Maroon and String Band Music Festival
         type: observance
+        id: f175c594-c335-4e9c-b5d6-57d60fec1154
       05-01:
         _name: 05-01
+        id: 5a6fd1d4-aa2c-45a1-a73f-582837fa7aa9
       easter 49:
         _name: easter 49
         type: observance
+        id: 06500aea-80e9-4d87-9b22-9cf0e1b786ee
       easter 50:
         _name: easter 50
+        id: 3c594530-9895-4926-a65d-158dc6478162
       easter 60:
         _name: easter 60
+        id: 4431f55e-2562-424c-95e7-e884f665a859
       1st monday in August:
         name:
           en: Emancipation Day
+        id: c82781b3-a642-4714-a758-ff96e81b3f78
       2nd monday in August:
         name:
           en: Carnival Monday
+        id: c2bb4021-e298-4612-b478-1db1d009891f
       tuesday after 2nd monday in August:
         name:
           en: Carnival Tuesday
+        id: 371cf9d2-18ab-4564-a5a7-5ff9ae30867a
       09-01:
         name:
           en: Kirani Day
         type: observance
+        id: 7d9cc6e3-5147-408d-9c85-cb17433b01e5
       10-15 P5D:
         name:
           en: Aunty Tek Spice Word Festival
         type: observance
+        id: 85ec9819-6b07-45b1-85b9-aca71a005de0
       10-25:
         name:
           en: Thanksgiving Day
+        id: dc8225d9-e69d-4bd0-bcab-0e6b28c17710
       12-04 P3D:
         name:
           en: Camerhogne Folk Festival
         type: observance
+        id: b649ac2e-89c1-479c-978b-1eb72ed8fde8
       12-25:
         _name: 12-25
+        id: 0a412b52-bef3-4ef2-85cd-21f4a7c04170
       12-26:
         _name: 12-26
-    # regions:
-    # '01':
-    #   name: Saint Andrew
-    # '02':
-    #   name: Saint David
-    # '03':
-    #   name: Saint George
-    # '04':
-    #   name: Saint John
-    # '05':
-    #   name: Saint Mark
-    # '06':
-    #   name: Saint Patrick
-    # '10':
-    #   name: Carriacou and Petite Martinique
+        id: 50b6aa85-e760-41c8-846d-172c13068122

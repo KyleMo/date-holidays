@@ -1,6 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Namibia
-  # @source http://www.gov.na/holidays
   NA:
     names:
       en: Namibia
@@ -12,52 +10,73 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 04787db9-d23f-4eae-862b-5600cd6efb2d
       substitutes 01-01 if sunday then next monday:
         name: Public Holiday
+        id: e0166b90-721b-45c9-bde4-b22dcbe85e12
       03-21:
         _name: Independence Day
+        id: 2b618f5a-ac12-4a9e-852e-89fff9021372
       substitutes 03-21 if sunday then next monday:
         name: Public Holiday
+        id: 0b8835bc-8637-4bc7-be39-306434975411
       easter -2:
         _name: easter -2
+        id: e6b8a02d-de19-459f-af1f-2514a2bd99c1
       easter:
         _name: easter
         type: observance
+        id: a8ea176c-cb8f-4d58-930c-8f6462c392e2
       easter 1:
         _name: easter 1
+        id: ecd1d4de-4c82-4f9c-9d84-35aa61c85138
       05-01:
         _name: 05-01
         name:
           en: Workers Day
+        id: 8d62b2da-22d8-4b9b-bce7-cbeb8f95d3d2
       substitutes 05-01 if sunday then next monday:
         name: Public Holiday
+        id: dc5b5903-c7e0-4a60-9d53-6631fc2bff18
       05-04:
         name:
           en: Cassinga Day
+        id: 4e9c9ab3-2689-4a87-ae77-9e3a057fbd4b
       substitutes 05-04 if sunday then next monday:
         name: Public Holiday
+        id: 1c6f29cf-7fc7-4954-8f20-4f16bba0955f
       easter 39:
         _name: easter 39
+        id: 7442054d-c31d-4dc2-856a-8af84e98cb6c
       05-25:
         name:
           en: Africa Day
+        id: 2172d6d3-0c9f-443a-baf8-fa19eb96db76
       substitutes 05-25 if sunday then next monday:
         name: Public Holiday
+        id: 284930aa-2f2d-4c63-b568-68442b46d2aa
       08-26:
         name:
           en: Heroes' Day
+        id: b2c43d10-3aaf-4dce-b8b1-26b6eb27ff8b
       substitutes 08-26 if sunday then next monday:
         name: Public Holiday
+        id: 78802d56-6235-45e9-b14e-cb49f8518ca3
       12-10:
         name:
           en: Human Rights Day
+        id: fe263d18-1a3b-4bbd-8ee1-c18de2c5c0bd
       substitutes 12-10 if sunday then next monday:
         name: Public Holiday
+        id: b0c91b3b-95c5-4f0f-83ea-9f36a142cc6a
       12-25:
         _name: 12-25
+        id: f47278a1-53b9-44a5-9290-74f27a3eff69
       12-26:
         _name: 12-26
         name:
           en: Day of Goodwill
+        id: 36d5730c-4c82-4e77-8023-c6ab5029bf2e
       substitutes 12-26 if sunday then next monday:
         name: Public Holiday
+        id: 5218ec65-75b7-42e3-8806-abc2bf7f87aa

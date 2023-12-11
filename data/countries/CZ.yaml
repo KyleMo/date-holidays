@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_the_Czech_Republic
   CZ:
     names:
       cz: Česká republika
@@ -13,281 +12,74 @@ holidays:
         _name: 01-01
         name:
           cz: Nový rok a Den obnovy samostatného českého státu
+        id: 2d88e2de-def1-402a-98b1-07dc60c53ac1
       easter -4:
         name:
           cz: Škaredá středa
           en: Ugly Wednesday
         type: observance
+        id: 76ee432d-55f9-4974-bcad-dc711a3065ef
       easter -3:
         _name: easter -3
         type: observance
+        id: 8af9afd2-894c-45a3-894d-2a529f0bc3e0
       easter -2:
         _name: easter -2
+        id: 8d9bcfa3-f120-4514-ae3c-777b1af3b21f
       easter -1:
         _name: easter -1
         type: observance
+        id: 5dd18899-64d2-4bfb-90ec-38a33c05dde7
       easter:
         _name: easter
         type: observance
+        id: 8c57d5f4-a1f7-411e-a924-96f2b2bb05c6
       easter 1:
         _name: easter 1
+        id: 0aa77512-730f-43d3-a118-16b82ed8b34f
       05-01:
         _name: 05-01
+        id: b8d5fa1c-7e90-4ff4-88d2-9c80dd15e17d
       05-08:
         name:
           cz: Den vítězství
           en: Liberation Day
+        id: c643e85d-9777-4579-b247-bde8aed8a1aa
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: 2b171e1a-e91d-4c24-986a-9265fc28d82b
       07-05:
         name:
           cz: Den slovanských věrozvěstů Cyrila a Metoděje
           en: Saints Cyril and Methodius Day
+        id: 249e5954-8e5b-494e-b90d-90e7937b1d44
       07-06:
         name:
           cz: Den upálení mistra Jana Husa
           en: Jan Hus Day
+        id: f35039af-6700-4f42-82ca-847dc49c99cd
       09-28:
         name:
           cz: Den české státnosti
           en: St. Wenceslas Day (Czech Statehood Day)
+        id: 47246335-0c40-4bf1-a8ee-b7ba338e60eb
       10-28:
         name:
           cz: Den vzniku samostatného československého státu
           en: Independent Czechoslovak State Day
+        id: 46111c4a-3834-47ff-8de6-c4449cf04456
       11-17:
         name:
           cz: Den boje za svobodu a demokracii
           en: Struggle for Freedom and Democracy Day
+        id: 9537fb1e-1656-4d7e-ab3a-8eceb7c337ae
       12-24:
         _name: 12-24
+        id: bdcb320a-ab9b-4843-9370-7f09732a34b4
       12-25:
         _name: 12-25
+        id: d9288efc-1a68-4f3a-a217-ea0ab8c68b55
       12-26:
         _name: 12-26
-    # states:
-    # JC:
-    #   name: South Bohemia
-    #   regions:
-    #     '311':
-    #       name: České Budějovice
-    #     '312':
-    #       name: Český Krumlov
-    #     '313':
-    #       name: Jindřichův Hradec
-    #     '314':
-    #       name: Písek
-    #     '315':
-    #       name: Prachatice
-    #     '316':
-    #       name: Strakonice
-    #     '317':
-    #       name: Tábor
-    # JM:
-    #   name: South Moravia
-    #   regions:
-    #     '621':
-    #       name: Blansko
-    #     '622':
-    #       name: Brno
-    #     '623':
-    #       name: Brno-venkov
-    #     '624':
-    #       name: Břeclav
-    #     '625':
-    #       name: Hodonín
-    #     '626':
-    #       name: Vyškov
-    #     '627':
-    #       name: Znojmo
-    # KA:
-    #   name: Karlovy Vary Region
-    #   regions:
-    #     '411':
-    #       name: Cheb
-    #     '412':
-    #       name: Karlovy Vary
-    #     '413':
-    #       name: Sokolov
-    # KR:
-    #   name: Hradec Králové Region
-    #   regions:
-    #     '521':
-    #       name: Hradec Králové
-    #     '522':
-    #       name: Jičín
-    #     '523':
-    #       name: Náchod
-    #     '524':
-    #       name: Rychnov nad Kněžnou
-    #     '525':
-    #       name: Trutnov
-    # LI:
-    #   name: Liberec Region
-    #   regions:
-    #     '511':
-    #       name: Česká Lípa
-    #     '512':
-    #       name: Jablonec nad Nisou
-    #     '513':
-    #       name: Liberec
-    #     '514':
-    #       name: Semily
-    # MO:
-    #   name: Moravian-Silesia
-    #   regions:
-    #     '801':
-    #       name: Bruntál
-    #     '802':
-    #       name: Frýdek-Místek
-    #     '803':
-    #       name: Karviná
-    #     '804':
-    #       name: Nový Jičín
-    #     '805':
-    #       name: Opava
-    #     '806':
-    #       name: Ostrava
-    # OL:
-    #   name: Olomouc Region
-    #   regions:
-    #     '711':
-    #       name: Jeseník
-    #     '712':
-    #       name: Olomouc
-    #     '713':
-    #       name: Prostějov
-    #     '714':
-    #       name: Přerov
-    #     '715':
-    #       name: Šumperk
-    # PA:
-    #   name: Pardubice Region
-    #   regions:
-    #     '531':
-    #       name: Chrudim
-    #     '532':
-    #       name: Pardubice
-    #     '533':
-    #       name: Svitavy
-    #     '534':
-    #       name: Ústí nad Orlicí
-    # PL:
-    #   name: Plzeň Region
-    #   regions:
-    #     '321':
-    #       name: Domažlice
-    #     '322':
-    #       name: Klatovy
-    #     '323':
-    #       name: Plzeň
-    #     '324':
-    #       name: Plzeň-South
-    #     '325':
-    #       name: Plzeň-North
-    #     '326':
-    #       name: Rokycany
-    #     '327':
-    #       name: Tachov
-    # PR:
-    #   name: Prague
-    #   regions:
-    #     '101':
-    #       name: Prague 1
-    #     '102':
-    #       name: Prague 2
-    #     '103':
-    #       name: Prague 3
-    #     '104':
-    #       name: Prague 4
-    #     '105':
-    #       name: Prague 5
-    #     '106':
-    #       name: Prague 6
-    #     '107':
-    #       name: Prague 7
-    #     '108':
-    #       name: Prague 8
-    #     '109':
-    #       name: Prague 9
-    #     10A:
-    #       name: Prague 10
-    #     10B:
-    #       name: Prague 11
-    #     10C:
-    #       name: Prague 12
-    #     10D:
-    #       name: Prague 13
-    #     10E:
-    #       name: Prague 14
-    #     10F:
-    #       name: Prague 15
-    # ST:
-    #   name: Central Bohemia
-    #   regions:
-    #     '201':
-    #       name: Benešov
-    #     '202':
-    #       name: Beroun
-    #     '203':
-    #       name: Kladno
-    #     '204':
-    #       name: Kolín
-    #     '205':
-    #       name: Kutná Hora
-    #     '206':
-    #       name: Mělník
-    #     '207':
-    #       name: Mladá Boleslav
-    #     '208':
-    #       name: Nymburk
-    #     '209':
-    #       name: Prague-East
-    #     20A:
-    #       name: Prague-West
-    #     20B:
-    #       name: Příbram
-    #     20C:
-    #       name: Rakovník
-    # US:
-    #   name: Ústí nad Labem Region
-    #   regions:
-    #     '421':
-    #       name: Děčín
-    #     '422':
-    #       name: Chomutov
-    #     '423':
-    #       name: Litoměřice
-    #     '424':
-    #       name: Louny
-    #     '425':
-    #       name: Most
-    #     '426':
-    #       name: Teplice
-    #     '427':
-    #       name: Ústí nad Labem
-    # VY:
-    #   name: Vysočina
-    #   regions:
-    #     '611':
-    #       name: Havlíčkův Brod
-    #     '612':
-    #       name: Jihlava
-    #     '613':
-    #       name: Pelhřimov
-    #     '614':
-    #       name: Třebíč
-    #     '615':
-    #       name: Žďár nad Sázavou
-    # ZL:
-    #   name: Zlín Region
-    #   regions:
-    #     '721':
-    #       name: Kroměříž
-    #     '722':
-    #       name: Uherské Hradiště
-    #     '723':
-    #       name: Vsetín
-    #     '724':
-    #       name: Zlín
+        id: ab3a1f8f-1a44-40fd-a229-ca89f739d45c

@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)
   GE:
     names:
       ge: საქართველო
@@ -12,57 +11,74 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 7edbfa2c-98e5-41ba-b30c-8e5738bc5a9e
       01-02:
         name:
           ge: ბედობა
           en: Bedoba
+        id: fbe80778-5fce-49a0-94dc-6c6e3b31f5d0
       01-07:
         name:
           ge: შობა
           en: Orthodox Christmas
+        id: 9b351303-453b-4541-a560-c631edccab89
       01-19:
         name:
           ge: ნათლისღება
           en: Orthodox Epiphany
+        id: 9b3a0344-74ce-4941-b353-399a88ed6d7c
       03-03:
         name:
           ge: დედის დღე
           en: Mother's Day
+        id: 7d095045-ae52-4d1e-96c0-a7768943a398
       03-08:
         _name: 03-08
+        id: 0d8d4088-a7a2-4453-ad18-710f4b7f5c8a
       04-09:
         name:
           ge: ეროვნული ერთიანობის დღე
           en: National Unity Day
+        id: e848afc1-ee2e-4387-bb41-be3d4802119e
       orthodox -2:
         _name: easter -2
+        id: cab9ceda-5453-4ce2-8fd8-857b8a3d8a3d
       orthodox -1:
         _name: easter -1
+        id: 57b67c3b-9d5c-4abe-8ce3-b9d4c2ed7213
       orthodox:
         _name: easter
+        id: 56e35faf-57ab-4fe0-a518-0cccc64ea559
       orthodox 1:
         _name: easter 1
+        id: 00d822a2-2413-410e-a042-e18c4ee8a806
       05-09:
         name:
           ge: ფაშიზმზე გამარჯვების დღე
           en: Victory Day
+        id: 941e6d80-1ec8-4389-8588-37e4dac1d81e
       05-12:
         name:
           ge: წმინდა ანდრია პირველწოდებულის ხსენების დღე
           en: Saint Andrew the First-Called Day
+        id: 8fde6de6-a63d-4876-8687-4557ea005440
       05-26:
         name:
           ge: დამოუკიდებლობის დღე
           en: Independence Day
+        id: 001b6ff9-daa4-45bc-b93d-d5be4cc828a2
       08-28:
         name:
           ge: მარიამობა
           en: Saint Mary's Day
+        id: 3708ad89-1bdf-482d-93ca-a57e3b9c20c6
       10-14:
         name:
           ge: სვეტიცხოვლობა
           en: Svetitskhovloba
+        id: 3ace130a-0d41-4080-87be-2e9bd0263a9f
       11-23:
         name:
           ge: გიორგობა
           en: Saint George's Day
+        id: 3a07f835-bdfd-429c-ad80-e9bedfd62f01

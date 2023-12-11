@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Sierra_Leone
 holidays:
   SL:
     names:
@@ -12,47 +11,49 @@ holidays:
       01-01 and if Sunday then next Monday:
         substitute: true
         _name: 01-01
+        id: ec58940a-342d-4aab-9dda-1f41d9b7a24a
       02-18 and if Sunday then next Monday:
         substitute: true
         name:
           en: Armed Forces Day
+        id: 67fd0421-ea5a-4073-85c8-9200430b6b4e
       03-08 and if Sunday then next Monday:
         substitute: true
         _name: 03-08
+        id: 56a217cb-65ae-4261-918d-ef7a4ba1904c
       04-27 and if Sunday then next Monday:
         substitute: true
         _name: Independence Day
+        id: 284eba29-4c86-4b74-ad5a-63e7012f5f5e
       easter -2:
         _name: easter -2
+        id: 6ae4f346-6268-44ef-aa40-927510d5356c
       easter 1:
         _name: easter 1
+        id: cc6e0092-0d66-4032-8fbb-81c815ad9c03
       1 Shawwal and if Sunday then next Monday:
         substitute: true
         _name: 1 Shawwal
         name:
           en: Korité
+        id: f77a1948-7278-49d7-8ba8-905790b1693f
       10 Dhu al-Hijjah and if Sunday then next Monday:
         substitute: true
         _name: 10 Dhu al-Hijjah
         name:
           en: Tabaski
+        id: e624c5e7-7c08-484e-9343-d292ae910489
       12 Rabi al-awwal and if Sunday then next Monday:
         substitute: true
         _name: 12 Rabi al-awwal
         name:
           en: Mawlid
+        id: aa410166-02a9-4a86-835e-7260aceb4261
       12-25 and if Sunday then next Tuesday:
         substitute: true
         _name: 12-25
+        id: 4cead9f2-7c4b-4647-a46e-5d67b4d0eac0
       12-26 and if Sunday then next Monday:
         substitute: true
         _name: 12-26
-    # states:
-    # E:
-    #   name: Eastern
-    # 'N':
-    #   name: Northern
-    # S:
-    #   name: Southern
-    # W:
-    #   name: Western Area
+        id: de3b7445-2763-4619-a401-f4f6b468c5f9

@@ -1,4 +1,3 @@
-# @source http://www.sparhallen.ax/oppettider
 holidays:
   AX:
     names:
@@ -12,48 +11,65 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 8b94a93e-4cb3-4b48-9a66-7db52a201ed7
       01-06:
         _name: 01-06
+        id: 6d2c914a-7d2a-4b24-b9c9-2b89f81c415c
       03-30:
         name:
           sv: Ålands demilitariseringsdag
           en: Demilitarization Day
+        id: ad9ed55f-29d7-474c-afe6-092195090a8c
       easter -2:
         _name: easter -2
+        id: 37c842d1-8e6a-4f90-868f-8ff868c3435e
       easter:
         _name: easter
         type: observance
+        id: 6af5eccc-9f39-4673-80d2-660887e38cef
       easter 1:
         _name: easter 1
+        id: fa4bbe5b-41ef-4994-bae5-7105d1f9660c
       05-01:
         _name: 05-01
+        id: 31eb7217-29aa-40ac-854c-176234dae6a4
       easter 39:
         _name: easter 39
+        id: 493f233a-7044-458e-a188-b0a00f30809d
       easter 49:
         _name: easter 49
         type: observance
+        id: d88fd6ec-425d-4693-89f8-323eaf68d024
       06-09:
         name:
           sv: Självstyrelsedagen
           en: Autonomy Day
+        id: 6d5ecbc3-1014-4bf2-9d3e-d1a1ed8e8770
       friday after 06-19:
         name:
           sv: Midsommarafton
           en: Midsummer Eve
         type: bank
+        id: 9a0a161b-c38b-448d-855e-fbb4b8099d7f
       saturday after 06-20:
         name:
           sv: Midsommardagen
           en: Midsummer Day
+        id: 29a2ba5a-7128-4bb4-9711-0b9afe8c10b4
       12-06:
         _name: Independence Day
+        id: 10791b5e-e54f-4175-9978-1d59d9e562ee
       12-24 12:00:
         _name: 12-24
         type: bank
+        id: 206a8b8e-d355-44bb-a06e-4f6b91be76ac
       12-25:
         _name: 12-25
+        id: 60ee9e44-e222-40aa-81b3-d9b2d4a5329f
       12-26:
         _name: 12-26
+        id: fc92c245-4c49-4d4a-a896-11660edd5723
       12-31 12:00:
         _name: 12-31
         type: bank
+        id: 6a40fd36-8445-460b-a85f-7a7cb7d63703

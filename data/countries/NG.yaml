@@ -1,5 +1,3 @@
-# @source https://thenigerianinfo.com/national-public-holidays-in-nigeria/
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Nigeria
 holidays:
   NG:
     names:
@@ -12,129 +10,71 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 2054e90b-2d90-4b21-a704-50262944b2bf
       05-01 and if Saturday then next Monday:
         substitute: true
         _name: 05-01
         name:
           en: Worker's Day
+        id: b73082e5-96f7-4fc3-8535-848465feb4ab
       05-27:
         name:
           en: Children's Day
           type: school
+        id: ad585671-8b41-4ac1-8ba6-9be0dce1068f
       05-29 prior to 2018:
         name:
           en: Democracy Day
+        id: 9069c022-82ee-4a70-87c4-bed884cb36b8
       06-12 prior to 2018:
         name:
           en: M.K.O Abiola Day
+        id: b4c16c32-096e-443c-bb8c-66f912ff67e4
       06-12 and if Saturday then next Monday since 2018:
         substitute: true
         name:
           en: Democracy Day
+        id: 139a3455-f7c5-471d-bcdb-6c6a8bdb385f
       10-01:
         _name: Independence Day
+        id: bcf03ba2-7104-4e52-8f20-30ab9589e573
       11-01 since 2020:
-        # @source: https://allafrica.com/stories/202009030012.html
         name:
           en: National Youth Day
+        id: 28df5008-7dfd-4f8c-89e4-587f9b9399a3
       12-31:
         _name: 12-31
         type: observance
+        id: 8740c1de-15af-485f-8c64-bfd26b525bb8
       easter -2:
         _name: easter -2
+        id: fe721ce3-5604-48cf-bba0-c1249e18c490
       easter:
         _name: easter
         type: observance
+        id: b2638e4f-8eaa-426a-9e07-63463a25f6b8
       easter 1:
         _name: easter 1
+        id: 0a142716-8afc-4035-8f81-3caa98cf3b71
       12-25:
         _name: 12-25
+        id: 1f9749b4-be4b-41e5-8ad0-db861f182d44
       12-26:
         _name: 12-26
+        id: 525b9317-e21e-41f3-85d7-47c8c2f36411
       1 Muharram:
         _name: 1 Muharram
+        id: b459a2a4-baf1-41ce-8d32-d4a6ca49add3
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: 1a7f041c-2788-4744-aed5-a0ee1520e253
       1 Shawwal P2D:
         _name: 1 Shawwal
         name:
           en: Id el Fitr
+        id: 2bd9ddaa-1f24-4974-8dc6-a3093ee0dca2
       10 Dhu al-Hijjah P2D:
         _name: 10 Dhu al-Hijjah
         name:
           en: Id el Kabir
-    # states:
-    #   AB:
-    #     name: Abia
-    #   AD:
-    #     name: Adamawa
-    #   AK:
-    #     name: Akwa Ibom
-    #   AN:
-    #     name: Anambra
-    #   BA:
-    #     name: Bauchi
-    #   BE:
-    #     name: Benue
-    #   BO:
-    #     name: Borno
-    #   BY:
-    #     name: Bayelsa
-    #   CR:
-    #     name: Cross River
-    #   DE:
-    #     name: Delta
-    #   EB:
-    #     name: Ebonyi
-    #   ED:
-    #     name: Edo
-    #   EK:
-    #     name: Ekiti
-    #   EN:
-    #     name: Enugu
-    #   FC:
-    #     name: Federal Capital Territory
-    #   GO:
-    #     name: Gombe
-    #   IM:
-    #     name: Imo
-    #   JI:
-    #     name: Jigawa
-    #   KD:
-    #     name: Kaduna
-    #   KE:
-    #     name: Kebbi
-    #   KN:
-    #     name: Kano
-    #   KO:
-    #     name: Kogi
-    #   KT:
-    #     name: Katsina
-    #   KW:
-    #     name: Kwara
-    #   LA:
-    #     name: Lagos
-    #   NA:
-    #     name: Nasarawa
-    #   NI:
-    #     name: Niger
-    #   OG:
-    #     name: Ogun
-    #   'ON':
-    #     name: Ondo
-    #   OS:
-    #     name: Osun
-    #   OY:
-    #     name: Oyo
-    #   PL:
-    #     name: Plateau
-    #   RI:
-    #     name: Rivers
-    #   SO:
-    #     name: Sokoto
-    #   TA:
-    #     name: Taraba
-    #   YO:
-    #     name: Yobe
-    #   ZA:
-    #     name: Zamfara
+        id: 134a99e3-5a59-4498-804e-4658eb5f108f

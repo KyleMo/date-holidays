@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://pt.wikipedia.org/wiki/Feriados_em_Angola
   AO:
     names:
       pt: Angola
@@ -12,74 +11,50 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 9d0e4efe-8ef7-4750-9552-723e6e27bc9f
       02-04:
         name:
           pt: Dia do Início da Luta Armada de Libertação Nacional
           en: Liberation Day
+        id: 6c789772-ed7b-4f81-8e7f-3809c9af09e6
       easter -47:
         _name: easter -47
+        id: 88301ca9-bd8d-4a85-9b3b-1a2f93f42d80
       03-08:
         name:
           pt: Dia Internacional da Mulher
           en: International Woman's Day
+        id: 69436fc2-1a68-459e-9798-2a45e3de9a33
       easter -2:
         _name: easter -2
+        id: a947c8f5-e0da-4e46-921a-f785cb49b2c3
       easter:
         _name: easter
         type: observance
+        id: 2ee753c4-3e79-455d-9d5b-29002feeecde
       04-04:
         name:
           pt: Dia da Paz
           en: Peace Day
+        id: ed91faa3-7805-4f98-bdb0-e9453a70b6ce
       05-01:
         _name: 05-01
+        id: 13164fa9-f63e-4124-8346-d3ea0d5488fb
       1st sunday in May:
         _name: Mothers Day
         type: observance
+        id: 08dc3249-d1bd-4ca8-bef1-49b7131fba37
       09-17:
         name:
           pt: Fundador da Nação e Dia dos Heróis Nacionais
           en: National Hero Day
+        id: 40314158-7f75-40f8-addd-593993559206
       11-02:
         _name: 11-02
+        id: 93796742-fe01-46cd-9fb3-1290c3ea212a
       11-11:
         _name: Independence Day
+        id: f006cb4b-68e2-4f41-8915-5db6ae6126c3
       12-25:
         _name: 12-25
-    # states:
-    #   BGO:
-    #     name: Bengo
-    #   BGU:
-    #     name: Benguela
-    #   BIE:
-    #     name: Bié
-    #   CAB:
-    #     name: Cabinda
-    #   CCU:
-    #     name: Cuando Cubango
-    #   CNN:
-    #     name: Cunene
-    #   CNO:
-    #     name: Cuanza Norte
-    #   CUS:
-    #     name: Cuanza Sul
-    #   HUA:
-    #     name: Huambo
-    #   HUI:
-    #     name: Huíla
-    #   LNO:
-    #     name: Lunda Norte
-    #   LSU:
-    #     name: Lunda Sul
-    #   LUA:
-    #     name: Luanda
-    #   MAL:
-    #     name: Malanje
-    #   MOX:
-    #     name: Moxico
-    #   NAM:
-    #     name: Namibe
-    #   UIG:
-    #     name: Uíge
-    #   ZAI:
-    #     name: Zaire
+        id: 336d1586-4eb5-4f80-92dc-283af2e78fa8

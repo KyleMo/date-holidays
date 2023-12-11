@@ -1,6 +1,4 @@
 holidays:
-  # @attrib https://da.wikipedia.org/wiki/Danske_helligdage
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Denmark
   DK:
     names:
       da: Danmark
@@ -12,56 +10,61 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: ce2f4517-5a6a-491f-8925-4e70c3bc269d
       easter -48:
         name:
           da: Fastelavn
         type: observance
+        id: ecfa2a4f-2cd9-4d97-89be-b866b1e9579b
       easter -3:
         _name: easter -3
+        id: 59de3097-fc2a-4162-a557-5b9809f0a365
       easter -2:
         _name: easter -2
+        id: 40524673-ca2d-4669-b0a0-eff45f4d5fa9
       easter:
         _name: easter
+        id: 418fd5f6-2dae-48b1-9992-630b38454916
       easter 1:
         _name: easter 1
+        id: b2aea689-6e4e-48eb-8914-9d2d7853d3bf
       easter 26 prior to 2024:
         name:
           da: Store Bededag
           en: Prayer Day
           de: Buß- und Bettag
+        id: 9802e804-2a5d-4558-887e-56bb36744508
       easter 39:
         _name: easter 39
+        id: 48c207e1-7bf5-4282-89b7-97b4c18cf3eb
       05-01:
         _name: 05-01
         type: observance
         note: Full holiday for blue collar workers
+        id: 612296da-fdb5-496a-a2ad-833e7ba27159
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: cdaf3a9a-8e66-43a9-91b2-32f18a897fcf
       06-05:
         _name: Constitution Day
         type: observance
         note: Shops are closed
+        id: 7deff32a-03ae-4c7c-a51f-2bfcfb30c506
       easter 49:
         _name: easter 49
+        id: 7390ae70-7943-4d3b-8db1-1109b0dbf858
       easter 50:
         _name: easter 50
+        id: 6aac28fd-e266-4b2c-91d2-d3b32949e134
       12-24:
         _name: 12-24
         type: observance
         note: Shops are closed
+        id: 1eb79322-3271-4c4b-bbbd-1f14b654f712
       12-25:
         _name: 12-25
+        id: bf1d654c-c502-4c92-9292-53f6da81588d
       12-26:
         _name: 12-26
-    # states:
-    # '81':
-    #   name: Northern Denmark
-    # '82':
-    #   name: Central Denmark
-    # '83':
-    #   name: Southern Denmark
-    # '84':
-    #   name: Capital Region
-    # '85':
-    #   name: Zealand
+        id: 428f2815-02ba-47fc-bd29-74dc933aa734

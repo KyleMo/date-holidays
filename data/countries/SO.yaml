@@ -1,11 +1,10 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Somalia
   SO:
     names:
       so: Jamhuuriyadda Federaalka Soomaaliya
       ar: جمهورية الصومال الفدرالية
       en: Somalia
-    dayoff: "?"
+    dayoff: '?'
     langs:
       - so
       - ar
@@ -15,58 +14,75 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: ffdc5751-2b23-40ef-9e61-349c0156abdf
       05-01:
         _name: 05-01
+        id: 4e3dfd3a-8d14-4304-bd67-39caad6bda75
       06-26:
         name:
           ar: استقلال الصومال البريطاني
           en: Independence of British Somaliland
+        id: 5e98e6cb-a4cc-491d-b9c0-dbb572fb5abb
       07-01:
         _name: Independence Day
+        id: 168b9cb2-b6fb-4950-bb82-ade922e2f7f7
       10 Muharram:
         _name: 10 Muharram
+        id: 98208c02-047e-47f4-9505-3361e4b8430c
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: ad392e1c-76e1-4032-9999-67e84440d365
       1 Shawwal:
         _name: 1 Shawwal
+        id: d20c1b43-fe1f-43dd-9591-a2c1608a129b
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
+        id: af6824bf-f0a1-4d30-ba3f-e69684d415db
     states:
-      # Somaliland
       AW:
         name: Awdal
         days:
-          01-01: false
+          01-01:
+            id: 8d15b8ba-19dc-4c71-b4aa-873908da74dc
           05-18 P2D:
             name:
               en: Restoration of Somaliland Sovereignty
-          07-01: false
+            id: 928f91d8-1fef-4093-be38-b8614c1c5ab6
+          07-01:
+            id: ac8f39b3-a518-482f-a042-5349553104a0
           1 Muharram:
             _name: 1 Muharram
-          10 Muharram: false
+            id: a3f9f9b0-6e89-40aa-a467-efccaff01c9e
+          10 Muharram:
+            id: 874e66a1-7a59-4cd3-bd71-584268b0dc2f
           27 Rajab:
             _name: 27 Rajab
+            id: 112ed4da-1b41-4759-8c61-d9abaf07665a
       SA:
         name: Sanaag
         _days:
           - SO
           - states
           - AW
+        days: {}
       SO:
         name: Sool
         _days:
           - SO
           - states
           - AW
+        days: {}
       TO:
         name: Togdheer
         _days:
           - SO
           - states
           - AW
+        days: {}
       WO:
         name: Woqooyi Galbeed
         _days:
           - SO
           - states
           - AW
+        days: {}

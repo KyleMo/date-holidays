@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Belarus
 holidays:
   BY:
     names:
@@ -13,57 +12,52 @@ holidays:
     days:
       01-01:
         _name: 01-01
-      # Orthodox christmas
+        id: 03a63c13-053d-4556-b203-3f7afa8fa58f
       julian 12-25:
         _name: 12-25
         name:
           be: Каляды праваслаўныя
+        id: 0c55a0a7-1b66-46e5-99ae-5061cb9f2d53
       easter:
         _name: easter
         name:
           be: Вялiкдзень каталiцкi
         type: observance
+        id: f48a832f-8be0-481a-b568-e24091292bc7
       orthodox:
         name:
           en: Orthodox Easter
           be: Вялiкдзень праваслаўны
         type: observance
+        id: e1b49c3c-3365-496d-b626-97310c0a3f52
       orthodox +9:
         name:
           en: Commemoration Day
           be: Радунiца
+        id: a63894a4-bcf8-482c-ba5a-8b738ef0ee8c
       03-08:
         _name: 03-08
+        id: 1fdd65fd-6382-43a6-b748-09caaddf7a0c
       05-01:
         _name: 05-01
+        id: e78d87a9-1c54-4757-b54a-5d12229a22fe
       05-09:
         name:
           en: Victory Day
           be: Дзень Перамогi
+        id: 7f2ea482-ec59-4998-9533-e9b30e7e4e11
       07-03:
         _name: Independence Day
         active:
           - from: 1996
+        id: 95282112-d8f8-4b73-9ee4-74f567b3e692
       11-07:
         name:
           en: October Revolution Day
           be: Дзень Кастрычніцкай рэвалюцыі
+        id: d3536c82-983d-4c5a-b6e8-1534fec44b7c
       12-25:
         _name: 12-25
         name:
           be: Каляды каталiцкiя
-    # states:
-    # BR:
-    #   name: Brest
-    # HM:
-    #   name: Minsk
-    # HO:
-    #   name: Homel
-    # HR:
-    #   name: Hrodna
-    # MA:
-    #   name: Magileu
-    # MI:
-    #   name: Minsk Region
-    # VI:
-    #   name: Vitebsk
+        id: 5206d64c-a88c-4049-b873-f80116e9e9a8

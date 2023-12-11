@@ -1,5 +1,4 @@
 holidays:
-  # @source www.parliament.am/legislation.php?sel=show&ID=1274&lang=arm
   AM:
     names:
       hy: Հայաստան
@@ -12,108 +11,93 @@ holidays:
     days:
       12-31:
         _name: 12-31
+        id: d09bce39-f379-4b45-9c1c-abccdcd7179d
       01-01 P2D:
         _name: 01-01
+        id: 1141d1c2-fe45-44ea-8233-0da40c1d0931
       01-03 P3D:
         name:
           en: Pre-Christmas holidays
           hy: Նախածննդյան տոներ
+        id: ad47e3aa-49c0-48fb-852f-09ed032e26cb
       01-06:
         _name: 12-25
+        id: e753044a-8138-4762-8e1e-a05f0fbc9fbe
       01-28:
         name:
           en: Army Day
           hy: Բանակի օր
+        id: 7c89690c-f970-4e24-91cd-710693d265c1
       02-21:
         name:
           en: Mother Language Day
           hy: Մայրենի լեզվի օր
         type: observance
-      # 8th Thursday before Easter
+        id: 1931dadb-1f29-4a9b-9ece-1955a471eaef
       easter -52:
         name:
           en: St. Vartan the good work and the duty days
           hy: Սուրբ Վարդանանց տոն՝ բարի գործի եւ ազգային տուրքի օր
         type: observance
+        id: cc1a6b14-158b-4a89-b73a-49c9c1396159
       03-08:
         _name: 03-08
+        id: 5a776338-7857-46a0-9fdd-918449023776
       04-07:
         name:
           en: Motherhood and Beauty Day
           hy: Մայրության, գեղեցկության եւ սիրո տոն
         type: observance
+        id: 54bfd6dc-6781-407c-818f-5a57584607d5
       04-24:
         _name: Mothers Day
+        id: 2e9bfe2c-5ad1-4aa8-b297-5e002ab42f5e
       05-01:
         _name: 05-01
+        id: 53ae7df4-4c12-44a0-900f-56276e761f96
       05-08:
         name:
           en: Yerkrapah Day
           hy: Երկրապահի օր
         type: observance
+        id: ba60956d-0405-46b0-8287-a7b67b311072
       05-09:
         name:
           en: Victory and Peace Day
           hy: Հաղթանակի եւ Խաղաղության տոն
+        id: 469421a7-f239-4207-9a04-c01bf6481671
       05-28:
         name:
           en: Republic Day
           hy: Հանրապետության օր
+        id: 85937505-6a00-4652-8924-e272927650cc
       06-01:
         name:
           en: The day of protection of children rights
           hy: Երեխաների իրավունքների պաշտպանության օր
         type: observance
+        id: d2a869c7-dd92-42d1-b0c6-c90fd06752a3
       07-05:
         _name: Constitution Day
+        id: bfd8ecd3-b5f0-4e15-b282-26f56e42e6d4
       09-01:
         name:
           en: Knowledge, Literacy and Education Day
           hy: Գիտելիքի, գրի եւ դպրության օր
         type: observance
+        id: 4206e784-24af-45cc-bc0b-a2e0058a94ae
       09-21:
         _name: Independence Day
+        id: 5e297202-fb66-4faf-8704-0f4fb1b9f43f
       2nd saturday in October:
         name:
           en: Translator's Day
           hy: Թարգմանչաց տոն
         type: observance
+        id: fd2e1aa1-1f7f-4a26-88e7-524e4a688ac1
       12-07:
         name:
           en: Earthquake Remembrance Day
           hy: Երկրաշարժի զոհերի հիշատակի օր
         type: observance
-    # states:
-    #   AG:
-    #     names:
-    #       en: Aragatsotn
-    #   AR:
-    #     names:
-    #       en: Ararat
-    #   AV:
-    #     names:
-    #       en: Armavir
-    #   ER:
-    #     names:
-    #       en: Yerevan
-    #   GR:
-    #     names:
-    #       en: Gegharkunik
-    #   KT:
-    #     names:
-    #       en: Kotayk
-    #   LO:
-    #     names:
-    #       en: Lori
-    #   SH:
-    #     names:
-    #       en: Shirak
-    #   SU:
-    #     names:
-    #       en: Syunik
-    #   TV:
-    #     names:
-    #       en: Tavush
-    #   VD:
-    #     names:
-    #       en: Vayots Dzor
+        id: 3ba0a112-11ea-4104-8af7-2a178f3e4117

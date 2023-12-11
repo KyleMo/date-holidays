@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Serbia
 holidays:
   RS:
     names:
@@ -12,153 +11,105 @@ holidays:
     days:
       01-01 if sunday then next tuesday:
         _name: 01-01
+        id: 4ffa2924-4f56-4582-836e-6c99c206e60b
       01-02 if sunday then next monday:
         _name: 01-01
+        id: 93b95a25-1685-4f03-a373-51f25a2e5df7
       julian 12-25:
         _name: julian 12-25
+        id: fa0a6438-7f39-445b-9c5f-cb9920907cfc
       02-15 if sunday then next tuesday:
         name:
           sr: Дан државности Србије
           en: Statehood Day
+        id: 243a1d20-aa37-48b1-b0ff-a8eb5acedea9
       02-16 if sunday then next monday:
         name:
           sr: Дан државности Србије
           en: Statehood Day
+        id: 6f31075e-a33f-495f-bc0f-1b1f60c748b7
       orthodox -2:
         _name: orthodox -2
+        id: e6646e0a-9ba7-4d0e-aacb-d316469a8dda
       orthodox:
         _name: orthodox
+        id: 5f522238-1792-40b0-b247-ac57537a3243
       orthodox 1:
         _name: orthodox 1
+        id: 1d7923ea-1960-4015-bb73-ddbd355afe03
       05-01 if sunday then next tuesday:
         _name: 05-01
+        id: 732b29ca-4728-488b-a9d5-6c1c0acaa8d8
       05-02 if sunday then next monday:
         _name: 05-01
+        id: 65625177-9fd1-42a6-b2ef-811215db0dcf
       11-11 if sunday then next monday:
         name:
           sr: Дан примирја
           en: Armistice Day
-
+        id: f85a65ae-0047-43c9-82f3-2fd0c5569970
       easter -2:
         _name: easter -2
         type: optional
         note: Catholic believers
+        id: 018143d0-daa1-487e-a87c-35b8f5ebc777
       easter:
         _name: easter
         type: optional
         note: Catholic believers
+        id: 9432a98f-8546-4c96-92fe-b159038ac574
       easter 1:
         _name: easter 1
         type: optional
         note: Catholic believers
+        id: 3bafab6e-d2cd-4cbb-bb5a-bc4c4b065116
       12-25:
         _name: 12-25
         type: optional
         note: Catholic believers
-
+        id: d0973682-4167-4975-a501-d1980e5aadee
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         type: optional
         note: Muslim believers
+        id: fe79ab91-a55b-4db3-9df8-eb735e2dd33a
       1 Shawwal:
         _name: 1 Shawwal
         type: optional
         note: Muslim believers
-
+        id: 9cf46685-4222-4f28-921c-7bca5d8ddc92
       10 Tishrei:
         _name: 10 Tishrei
         type: optional
         note: Jewish believers
-
+        id: 0bee91c4-4c52-48ea-a613-60a21b965cd7
       julian 01-14:
         name:
           sr: Свети Сава
           en: Saint Sava Day
         type: observance
+        id: b203fa67-bdfa-4194-aa5e-65f2e52c49ec
       04-22:
         name:
           sr: Дан сећања на жртве холокауста
           en: Holocaust Remembrance Day
         type: observance
+        id: aab7a18a-1b35-48ec-b841-66fc71613a55
       05-09:
         name:
           sr: Дан победе
           en: Victory Day
         type: observance
+        id: 1820018d-4745-4e38-926a-872e138bef4e
       julian 06-15:
         name:
           sr: Видовдан
           en: Saint Vitus Day
         type: observance
+        id: 2b170a93-2aa3-44c5-8359-cfef972ce335
       10-21:
         name:
           sr: Дан сећања на српске жртве у Другом светском рату
           en: World War II Serbian Victims Remembrance Day
         type: observance
-    # states:
-    # '10':
-    #   name: Podunavlje
-    # '11':
-    #   name: Braničevo
-    # '12':
-    #   name: Šumadija
-    # '13':
-    #   name: Pomoravlje
-    # '14':
-    #   name: Bor
-    # '15':
-    #   name: Zaječar
-    # '16':
-    #   name: Zlatibor
-    # '17':
-    #   name: Moravica
-    # '18':
-    #   name: Raška
-    # '19':
-    #   name: Rasina
-    # '20':
-    #   name: Nišava
-    # '21':
-    #   name: Toplica
-    # '22':
-    #   name: Pirot
-    # '23':
-    #   name: Jablanica
-    # '24':
-    #   name: Pčinja
-    # '00':
-    #   name: Beograd
-    # 08:
-    #   name: Mačva
-    # 09:
-    #   name: Kolubara
-    # KM:
-    #   name: Kosovo-Metohija
-    #   regions:
-    #     '25':
-    #       name: Kosovo
-    #     '26':
-    #       name: Peć
-    #     '27':
-    #       name: Prizren
-    #     '28':
-    #       name: Kosovska Mitrovica
-    #     '29':
-    #       name: Kosovo-Pomoravlje
-    # VO:
-    #   name: Vojvodina
-    #   regions:
-    #     '01':
-    #       name: North Bačka
-    #     '02':
-    #       name: Central Banat
-    #     '03':
-    #       name: North Banat
-    #     '04':
-    #       name: South Banat
-    #     '05':
-    #       name: West Bačka
-    #     '06':
-    #       name: South Bačka
-    #     '07':
-    #       name: Srem
+        id: f4500610-2f71-4010-93be-2f2d8792533e

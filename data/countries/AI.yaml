@@ -1,5 +1,4 @@
 holidays:
-  # @source http://www.gov.ai/holiday.php
   AI:
     names:
       en: Anguilla
@@ -14,43 +13,59 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 6ceb94f7-acb6-4166-8f16-983902327f74
       03-02:
         name:
           en: James Ronald Webster Day
+        id: 385de038-72da-46ed-a67a-f6417eb3fd6b
       easter -2:
         _name: easter -2
+        id: 43275625-d16f-4cba-80b1-4830bc3fd12b
       easter:
         _name: easter
         type: observance
+        id: fa7e0f62-40ae-4d18-a539-9afdbfc6595c
       easter 1:
         _name: easter 1
+        id: 1ef6d678-a9ac-4eec-9e8b-22d163a94d28
       05-01:
         _name: 05-01
+        id: 3e5c9c9c-74e2-46fe-9a92-06b56cb61d1f
       05-30:
         name:
           en: Anguilla Day
+        id: 1d0c0e0a-0b4f-4e58-b3d4-92cd0d445324
       easter 49:
         _name: easter 49
         type: observance
+        id: 4f51a2d3-8743-40af-9eb1-24d33a75b0cf
       easter 50:
         _name: easter 50
+        id: 41504082-f601-46d5-8f61-0b557f1986ec
       2nd monday in June:
         name:
           en: Celebration of the Birthday of Her Majesty the Queen
+        id: fb9d540f-aea6-4adc-ae85-658826765ff9
       1st monday in August:
         name:
           en: August Monday
+        id: d6fc86c9-7b13-4fd3-a026-3f335458188b
       1st thursday in August:
         name:
           en: August Thursday
+        id: 70f4edad-d02b-47c4-a4de-faf2cdb9034f
       1st friday in August:
         _name: Constitution Day
+        id: 0f4e5fc3-4fb6-4b50-9a75-c1f767276ec9
       12-19:
         name:
           en: National Heroes and Heroines Day
+        id: ee8b9935-f6a2-4ca4-8278-d91140f2c8a7
       12-25 and if saturday then next monday if sunday then next tuesday:
         _name: 12-25
         substitute: true
+        id: 2a91d5a7-41cd-46b2-9432-478d5550dc3c
       12-26 and if sunday then next monday:
         _name: 12-26
         substitute: true
+        id: 4e2d1bd4-6cfc-4d40-b7af-715e42065408

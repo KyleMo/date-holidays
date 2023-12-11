@@ -1,6 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Ethiopia
-  # @source http://holidays.ertale.com/
   ET:
     names:
       am: ኢትዮጵያ
@@ -14,66 +12,59 @@ holidays:
     days:
       01-06 in non-leap years:
         _name: 12-25
+        id: 8e027c8d-462f-4e35-b87f-b0b1b781ba00
       01-07 in leap years:
         _name: 12-25
+        id: 6459970f-be0a-44f5-b00b-82feaf39ebd3
       01-19:
         _name: 01-06
+        id: 84b2a1f2-ff4c-4a24-8414-f75e8f2ad7d6
       03-02:
         name:
           am: የዓድዋ ድል በዓል
           en: Victory at Adwa Day
+        id: 0c1d40bb-84b6-4b9d-b13a-1b1ff17f5b10
       03-28:
         name:
           am: የቀይ ሽብር መታሰቢያ ቀን
           en: Day of Lament
+        id: cada6ce1-187e-41ee-b8c9-c199b4d0d626
       orthodox -2:
         _name: easter -2
+        id: 23c857f8-e658-420b-9353-47c89dc62bd9
       orthodox:
         _name: easter
+        id: ce914541-1cc7-4a5e-a61d-fc67afbb9707
       05-28:
         name:
           am: ደርግ የወደቀበት ቀን
           en: Derg Downfall Day
+        id: 3ba94d8b-9109-4d35-9bd5-ba7667e46800
       09-11 in non-leap years:
         _name: 01-01
+        id: bae579e5-370b-443a-8940-97d75a9d36e4
       09-12 in leap years:
         _name: 01-01
+        id: 0770d1b2-cf53-4dde-8f62-ecbffeeee5cb
       09-27 in non-leap years:
         name:
           am: ብርሐነ-መስቀል
           en: Finding of the True Cross
+        id: faf0f924-750f-42ce-b44b-d538c87d34a9
       09-28 in leap years:
         name:
           am: ብርሐነ-መስቀል
           en: Finding of the True Cross
+        id: 49639190-e026-474d-bbb0-33a31caf2484
       1 Ramadan:
         _name: 1 Ramadan
+        id: de97c523-354f-4c6b-89c2-e0aebe194109
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: 04ee54a7-b8f9-4fdb-8d81-cc6e90034bf9
       1 Shawwal:
         _name: 1 Shawwal
+        id: 31751069-14eb-4ddc-b125-0a1999605151
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-    # states:
-    # AA:
-    #   name: Addis Ababa
-    # AF:
-    #   name: Afar
-    # AM:
-    #   name: Amhara
-    # BE:
-    #   name: Benishangul-Gumuz
-    # DD:
-    #   name: Dire Dawa
-    # GA:
-    #   name: Gambela
-    # HA:
-    #   name: Harari
-    # OR:
-    #   name: Oromia
-    # SN:
-    #   name: 'Southern Nations, Nationalities, and Peoples'
-    # SO:
-    #   name: Somali
-    # TI:
-    #   name: Tigray
+        id: 379ca752-c4ee-4f86-806d-7b920aaa73ab

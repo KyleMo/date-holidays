@@ -1,5 +1,3 @@
-# Curaçao Officiële vrije dagen
-# @source https://loketdigital.gobiernu.cw/Loket/prodcat/products/getProductDetailsAction.do?id=437
 holidays:
   CW:
     names:
@@ -16,47 +14,62 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: f1d4897e-85e6-48c0-ae66-9a6b15c45561
       easter -48:
         _name: easter -48
         name:
           en: Carnival Monday
+        id: 5fa04ba0-235d-4643-baf5-7123c898b98e
       easter -2:
         _name: easter -2
+        id: 4e5fdfbf-0101-4d8d-8be9-0aa0e626a51d
       easter:
         _name: easter
         type: observance
+        id: 940f2de3-0452-4d85-9c93-301456b0bcdc
       easter 1:
         _name: easter 1
+        id: e457a172-4ca6-4e70-9e11-935ac3f6814c
       04-27:
         name:
           pap: Aña di Rey
           nl: Koningsdag
           en: Kings Day
+        id: ef19a2da-7d15-4670-81ef-0092719783cb
       05-01 if sunday then next monday:
         _name: 05-01
+        id: 43da252b-dd4d-456c-a5a1-b1b2d8ec787d
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: 929ff07d-1f12-499d-80fc-1460314de3f0
       1st sunday in June:
         _name: Fathers Day
         type: observance
+        id: 7b57303e-115f-471d-88dc-12c1b2d05d2f
       easter 39:
         _name: easter 39
         name:
           nl: Hemelvaartsdag
+        id: 3a908a25-1921-4753-86c8-e650d0a1d273
       07-02:
         name:
           nl: Dag van het volkslied en de Vlag
           pap: Dia di Himno i Bandera
           en: Flag Day
+        id: 4a943c17-f6f5-4a66-b33b-e2d557651738
       10-10:
         name:
           nl: Dag van het land Curaçao
           pap: Pais Kòrsou
           en: Curaçao Day
+        id: a12f7c9e-8922-46e1-9ac8-bd8e9dce01f7
       12-25:
         _name: 12-25
+        id: a64cae27-a27f-454b-bfa9-4034bf955eb7
       12-26:
         _name: 12-26
+        id: a97c724f-4e6d-41c3-844d-0cd1d3800895
       12-31 12:00:
         _name: 12-31
+        id: 91c439ab-5c42-4787-a205-17d9519e30df

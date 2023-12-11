@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://de.wikipedia.org/wiki/Feiertage_in_Polen
   PL:
     names:
       pl: Polska
@@ -12,34 +11,48 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 865b5991-4c3c-441c-894d-5a3e2990c5a8
       01-06:
         _name: 01-06
+        id: b2dd1a79-79f4-4059-b0dc-71875d7c51ac
       easter:
         _name: easter
+        id: 2a8f260e-f839-4e5d-9cc1-ef0944953b2d
       easter 1:
         _name: easter 1
+        id: c67d23ec-28f8-481a-ba6a-3df1264667c0
       05-01:
         _name: 05-01
         name:
           pl: Święto Państwowe; Święto Pracy
+        id: fb425d88-5f81-4b5d-bbf5-607a0d8be4dd
       05-03:
         name:
           pl: Święto Narodowe Trzeciego Maja
           en: Constitution Day
+        id: 0c6aaec4-a3f1-43af-a23d-dc38f2104873
       05-26:
         _name: Mothers Day
         type: observance
+        id: 69763daf-1e7a-4c49-a410-3481adade2d9
       easter 49:
         _name: easter 49
+        id: b6f127fb-b02f-4a11-83e1-2eb140ab3d92
       easter 60:
         _name: easter 60
+        id: 518c3551-1d41-4ae9-91db-256406c8454f
       08-15:
         _name: 08-15
+        id: a5e845f9-58d6-48de-b649-887f2cbada19
       11-01:
         _name: 11-01
+        id: b0beb236-2483-4a69-a325-87b5ae6265ee
       11-11:
         _name: Independence Day
+        id: 22652b4d-c0df-4ec2-8467-d48be56d9a22
       12-25:
         _name: 12-25
+        id: 73ddf0fd-27ad-4234-bae8-32ff25623b3d
       12-26:
         _name: 12-26
+        id: d18a8a5d-6747-4447-87cd-72a6f32187d5

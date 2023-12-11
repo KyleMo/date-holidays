@@ -1,4 +1,3 @@
-# @source http://www.mtsp.gov.mk/WBStorage/Files/zakon_praznici.pdf
 holidays:
   MK:
     names:
@@ -13,275 +12,155 @@ holidays:
       01-01 and if sunday then next monday:
         substitute: true
         _name: 01-01
+        id: fe20f653-0c79-46b0-8925-962b47844bf9
       julian 12-25 and if sunday then next monday:
         substitute: true
         _name: julian 12-25
+        id: c496777b-8cdd-457d-bb4b-09c48a859801
       orthodox:
         _name: orthodox
+        id: 087a4dff-58da-4b08-8a1b-ebeea03cf27a
       orthodox 1:
         _name: orthodox 1
+        id: 48d58630-de90-4035-83fc-e14ee6406275
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
+        id: 16f586cf-e16c-470a-900c-55a56c9452ed
       05-24 and if sunday then next monday:
         substitute: true
         name:
           mk: Св. Кирил и Методиј
           en: Saints Cyril and Methodius Day
+        id: 4eef3ff5-5dfe-403c-88ad-6cceb2d62fa9
       08-02 and if sunday then next monday:
         substitute: true
         name:
           mk: Ден на Републиката
           en: Day of the Republic
+        id: e2302e9d-10ea-4b14-92b0-acfafbf1a9e2
       09-08 and if sunday then next monday:
         substitute: true
         _name: Independence Day
+        id: cb20501a-1c0f-43cf-9bc7-eade3fbc7912
       10-11 and if sunday then next monday:
         substitute: true
         name:
           mk: Ден на востанието
           en: Revolution Day
+        id: c61bb927-7e8e-4464-b8af-4789b38828c1
       10-23 and if sunday then next monday:
         substitute: true
         name:
           mk: Ден на македонската револуционерна борба
           en: Day of the Macedonian Revolutionary Struggle
+        id: ecff9cda-5ea4-4eed-b177-4fea2d2262b4
       12-08 and if sunday then next monday:
         substitute: true
         name:
           mk: Св. Климент Охридски
           en: Saint Clement of Ohrid Day
+        id: bda19ba5-ba38-401c-9de2-130e8ef30009
       1 Shawwal and if sunday then next monday:
         substitute: true
         _name: 1 Shawwal
-
+        id: dbb18997-7a3b-4520-a0f9-e63f3b767dc4
       julian 12-24:
         _name: julian 12-24
         type: optional
         note: Orthodox believers
+        id: 3ebb26c7-5a4a-4459-af4b-598717f96fa7
       julian 01-06:
         _name: 01-06
         type: optional
         note: Orthodox believers
+        id: 7c0885f8-0812-4093-a23c-9fccb336e8f5
       orthodox -2:
         _name: orthodox -2
         type: optional
         note: Orthodox believers
+        id: 3a78216f-c762-4a4c-b353-00ba913b4345
       orthodox 47:
         name:
           mk: петок пред Духовден
           en: Friday before Pentecost
         type: optional
         note: Orthodox believers
+        id: a37f5c32-1faa-49c8-ba91-40b76f18afee
       orthodox 49:
         _name: easter 49
         type: optional
         note: Orthodox believers
+        id: 763cd92b-0a59-4aa3-802f-59a455aeaa8e
       julian 08-15:
         _name: 08-15
         type: optional
         note: Orthodox believers
-
+        id: 816fdf4e-6fec-4aa9-8c8e-c4f1b1fd7c22
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         type: optional
         note: Muslim believers
-
+        id: ada7ffe5-f849-4381-b593-aabe2874640b
       10 Tishrei:
         _name: 10 Tishrei
         type: optional
         note: Jewish believers
-
+        id: aeb0ab28-5068-4313-961d-3e306ad1b69f
       easter 1:
         _name: easter 1
         type: optional
         note: Catholic believers
+        id: d922a22d-b173-4e5a-978d-6b3293c97efb
       11-01:
         _name: 11-01
         type: optional
         note: Catholic believers
+        id: dfcf2c93-b157-412a-8898-e01fa6b1535a
       12-25:
         _name: 12-25
         type: optional
         note: Catholic believers
-
+        id: f2888485-b837-4e5c-b7f6-97c55648eb8a
       11-22:
         name:
           mk: Ден на Албанската азбука
           en: Day of the Albanian Alphabet
         type: optional
         note: For members of the Albanian community
+        id: 77375d2f-fa70-47a4-b2c8-50a055f771d0
       12-21:
         name:
           mk: Ден на настава на турски јазик
           en: Turkish Language Day
         type: optional
         note: For members of the the Turkish community
+        id: aec6e107-9192-4f90-8fdf-ecb158a7ab4c
       01-27:
         name:
           mk: Свети Сава
           en: St. Sava
         type: optional
         note: For members of the Serbian community
+        id: 37fff3cb-4234-423c-bc98-32efad72dda8
       04-08:
         name:
           mk: Меѓународен ден на Ромите
           en: International Roma Day
         type: optional
         note: For members of the the Roma community
+        id: feb02e29-2a7e-47ef-9bbc-ef952564980f
       05-23:
         name:
           mk: Национален ден на Властите
           en: National Day of Authorities
         type: optional
         note: For members of the Vlach community
+        id: f24f6236-66fe-47f6-adc1-4fdb6d3bda08
       09-28:
         name:
           mk: Меѓународен ден на Бошњаците
           en: International Day of Bosniaks
         type: optional
         note: For Members of the Bosniak community.
-
-    # states:
-    # '02':
-    #   name: Aračinovo
-    # '03':
-    #   name: Berovo
-    # '04':
-    #   name: Bitola
-    # '05':
-    #   name: Bogdanci
-    # '06':
-    #   name: Bogovinje
-    # '07':
-    #   name: Bosilovo
-    # '08':
-    #   name: Brvenica
-    # '10':
-    #   name: Valandovo
-    # '11':
-    #   name: Vasilevo
-    # '12':
-    #   name: Vevčani
-    # '13':
-    #   name: Veles
-    # '14':
-    #   name: Vinica
-    # '16':
-    #   name: Vrapčište
-    # '18':
-    #   name: Gevgelija
-    # '19':
-    #   name: Gostivar
-    # '20':
-    #   name: Gradsko
-    # '21':
-    #   name: Debar
-    # '22':
-    #   name: Debarca
-    # '23':
-    #   name: Delčevo
-    # '24':
-    #   name: Demir Kapija
-    # '25':
-    #   name: Demir Hisar
-    # '26':
-    #   name: Dojran
-    # '27':
-    #   name: Dolneni
-    # '30':
-    #   name: Želino
-    # '32':
-    #   name: Zelenikovo
-    # '33':
-    #   name: Zrnovci
-    # '34':
-    #   name: Ilinden
-    # '35':
-    #   name: Jegunovce
-    # '36':
-    #   name: Kavadarci
-    # '37':
-    #   name: Karbinci
-    # '40':
-    #   name: Kičevo
-    # '41':
-    #   name: Konče
-    # '42':
-    #   name: Kočani
-    # '43':
-    #   name: Kratovo
-    # '44':
-    #   name: Kriva Palanka
-    # '45':
-    #   name: Krivogaštani
-    # '46':
-    #   name: Kruševo
-    # '47':
-    #   name: Kumanovo
-    # '48':
-    #   name: Lipkovo
-    # '49':
-    #   name: Lozovo
-    # '50':
-    #   name: Mavrovo and Rostuša
-    # '51':
-    #   name: Makedonska Kamenica
-    # '52':
-    #   name: Makedonski Brod
-    # '53':
-    #   name: Mogila
-    # '54':
-    #   name: Negotino
-    # '55':
-    #   name: Novaci
-    # '56':
-    #   name: Novo Selo
-    # '58':
-    #   name: Ohrid
-    # '59':
-    #   name: Petrovec
-    # '60':
-    #   name: Pehčevo
-    # '61':
-    #   name: Plasnica
-    # '62':
-    #   name: Prilep
-    # '63':
-    #   name: Probištip
-    # '64':
-    #   name: Radoviš
-    # '65':
-    #   name: Rankovce
-    # '66':
-    #   name: Resen
-    # '67':
-    #   name: Rosoman
-    # '69':
-    #   name: Sveti Nikole
-    # '70':
-    #   name: Sopište
-    # '71':
-    #   name: Staro Nagoričane
-    # '72':
-    #   name: Struga
-    # '73':
-    #   name: Strumica
-    # '74':
-    #   name: Studeničani
-    # '75':
-    #   name: Tearce
-    # '76':
-    #   name: Tetovo
-    # '78':
-    #   name: Centar Župa
-    # '80':
-    #   name: Čaška
-    # '81':
-    #   name: Češinovo-Obleševo
-    # '82':
-    #   name: Čučer-Sandevo
-    # '83':
-    #   name: Štip
-    # '85':
-    #   name: Skopje
+        id: 93aa1dec-73b2-4ed1-8b90-3304b32d1730

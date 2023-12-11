@@ -1,7 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_South_Africa
-  # @source http://www.gov.za/about-sa/public-holidays
-  # @source http://www.info.gov.za/acts/1994/a36-94.pdf
   ZA:
     names:
       en: South Africa
@@ -13,80 +10,102 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 4bb7de21-c0c0-4b0a-ad93-3e3fceea9734
       substitutes 01-01 if sunday then next monday:
         name:
           en: Public Holiday
+        id: 73ac6973-3481-4df6-ac28-1ef8e3b6dfd6
       03-21:
         name:
           en: Human Rights Day
+        id: 94d3434f-5979-437c-ab04-d4c142ccc300
       substitutes 03-21 if sunday then next monday:
         name:
           en: Public Holiday
+        id: 931f36f3-8549-4d87-9ede-ea78a34ea46f
       easter -2:
         _name: easter -2
+        id: e7718820-b28b-4a37-bb72-fde50a1a0785
       easter:
         _name: easter
         type: observance
+        id: 975f0507-fea8-4a7c-8914-3668b3846504
       easter 1:
         _name: easter 1
         name:
           en: Family Day
+        id: 77f10957-5337-4623-907b-0d072772765b
       04-27:
         name:
           en: Freedom Day
+        id: ed3f3405-72d9-4520-9b64-ed10eaf576fa
       substitutes 04-27 if sunday then next monday:
         name:
           en: Public Holiday
+        id: a309c514-0288-4b0a-aaae-955cde32e8ea
       05-01:
         _name: 05-01
         name:
           en: Workers' Day
+        id: e5aea07e-b977-4a46-bf23-162a5c6ec5bb
       substitutes 05-01 if sunday then next monday:
         name:
           en: Public Holiday
+        id: 992d02a1-f31a-45a9-833a-af6a930893c0
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: ee278bb4-6087-4609-87d0-8bc8d4a31551
       06-16:
         name:
           en: Youth Day
+        id: a7b2dc6e-0606-4f22-b416-fa57ecf2d387
       substitutes 06-16 if sunday then next monday:
         name:
           en: Public Holiday
+        id: f02b4636-224a-46e3-b5cd-8df760b45c47
       3rd sunday in June:
         _name: Fathers Day
         type: observance
+        id: ffcf3aa9-0508-4af1-a29e-8a9a9c159232
       08-09:
         name:
           en: National Women's Day
+        id: 1d2d096e-2f2d-463c-aa7d-2837be2ec2ec
       substitutes 08-09 if sunday then next monday:
         name:
           en: Public Holiday
+        id: ab57cbb3-1fd7-4ad0-a0bf-ecb6551dd66f
       07-18:
         name:
           en: Nelson Mandela Day
         type: observance
+        id: f4922431-3fae-47d3-b78b-0d65d81c32f2
       09-24:
         name:
           en: Heritage Day
+        id: edd02fc6-6865-4d90-adea-e12978310e22
       substitutes 09-24 if sunday then next monday:
         name:
           en: Public Holiday
+        id: 8617b4c3-0874-4bff-aba5-8bc078e025d0
       12-16:
         name:
           en: Day of Reconciliation
+        id: c8c61666-cd2a-4669-bb3c-dc56a2f6eae1
       substitutes 12-16 if sunday then next monday:
         name:
           en: Public Holiday
+        id: bb1751ca-66fe-43a6-aadc-1f2165c2ab56
       12-25:
         _name: 12-25
-      # substitutes 12-25 if sunday then next monday:
-      #  substitute: true
-      #  _name: 12-25
+        id: 980572b6-4231-4b38-a7fe-34226a3a5a90
       12-26:
         _name: 12-26
         name:
           en: Day of Goodwill
+        id: c2b7812f-4ced-49f6-ad5e-ca74735657c9
       substitutes 12-26 if sunday then next monday:
         name:
           en: Public Holiday
+        id: e3aa6efb-6595-440e-907a-a58cf4d2085c

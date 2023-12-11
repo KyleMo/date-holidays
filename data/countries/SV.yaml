@@ -1,6 +1,4 @@
 holidays:
-  # @source http://www.tusalario.org/elsalvador/Portada/derechos-laborales/vacaciones/trabajo-en-feriado-y-dias-de-descanso
-  # @source http://www.asamblea.gob.sv/eparlamento/indice-legislativo/buscador-de-documentos-legislativos/ley-de-asuetos-vacaciones-y-licencias-de-los-empleados-publicos/archivo_documento_legislativo
   SV:
     names:
       es: El Salvador
@@ -14,51 +12,67 @@ holidays:
       01-01:
         _name: 01-01
         type: observance
+        id: 4e0a2242-fd09-4a50-8370-dd660a001b53
       01-16:
         name:
           es: Firma de los Acuerdos de Paz
         type: observance
+        id: 96efb7d0-2635-414a-bbe2-d02f40ce490a
       03-08:
         name:
           es: Día de la Mujer
         type: observance
+        id: 812af7aa-5617-449e-a32c-b4edab66a960
       easter -3:
         _name: easter -3
+        id: 08ab5932-524a-46d4-b297-b17b70757f46
       easter -2:
         _name: easter -2
+        id: 60041423-1716-4605-a7ab-f1e2cd91b9c5
       easter -1:
         _name: easter -1
+        id: fd87e783-42d1-4204-96fb-ddc4ece6cd7c
       easter:
         _name: easter
         type: observance
+        id: 8fddebef-0d90-4b70-92ee-e9a69ec03aeb
       05-01:
         _name: 05-01
+        id: 12be727a-2d4e-464f-bbfa-54a142bfa9a7
       05-07:
         name:
           en: Soldier's Day
           es: Día del Soldado
         type: observance
+        id: 93c89742-685e-45ae-a542-3e7d7a8e3a8a
       05-10:
         _name: Mothers Day
         type: optional
         note: Public Offices only
+        id: 2c664c2b-9998-4a03-9025-21b25f4d8cf8
       06-17:
         _name: Fathers Day
         type: observance
+        id: 8fbc8383-49ac-4495-84f7-a04a60f5f02c
       06-22:
         name:
           es: Día del Maestro
         type: optional
         note: Dayoff for teachers only
+        id: ea28eb28-331d-4ada-98b3-f7e2bf77f0a4
       08-06:
         name:
           es: Celebración del Divino Salvador del Mundo
+        id: 787bc086-7133-4f69-898d-f77320081c21
       09-15:
         _name: Independence Day
+        id: cc66a819-e6a5-40eb-bb59-0065d9e15ca6
       11-02:
         _name: 11-02
+        id: aa009553-37d7-4189-a3bf-03d1e911cd55
       12-25:
         _name: 12-25
+        id: aac70748-d3b9-4465-9caf-9d79d969b248
     regions:
       SS:
         name: San Salvador

@@ -1,5 +1,4 @@
 holidays:
-  # @source https://en.wikipedia.org/wiki/Public_holidays_in_Saint_Helena,_Ascension_and_Tristan_da_Cunha
   SH:
     names:
       en: St. Helena
@@ -7,56 +6,73 @@ holidays:
       - en
     zones:
       - Africa/Abidjan
-    dayoff: "sunday"
+    dayoff: sunday
     days:
       01-01:
         _name: 01-01
+        id: 8919e4bd-eac0-47bd-aac0-532e2c8694f3
       substitutes 01-01 if sunday then next monday:
         substitute: true
         _name: 01-01
+        id: 35c67a32-d793-4a8d-bd00-bfa31e9217fe
       substitutes 01-01 if saturday then next monday:
         substitute: true
         _name: 01-01
+        id: d32acd23-acdf-49fa-b6d1-2593e0acb232
       easter -2:
         _name: easter -2
+        id: cac44f21-ac89-4637-a009-a4b83c72895f
       easter:
         _name: easter
         type: observance
+        id: f651a65d-2498-46e8-8d14-0b70d15232f8
       easter 1:
         _name: easter 1
+        id: 8062c808-0b4b-4533-afa2-2245d9ba824f
       3rd monday in April:
         name:
           en: Queen's Birthday
+        id: ffb52ecf-80f9-46e1-8f3e-b01cdaa0e465
       05-21:
         name:
           en: Saint Helena Day
+        id: 3aa7422c-b022-4b53-ab1c-e446a6ae7a63
       easter 50:
         _name: easter 50
+        id: 15cbc415-6b6d-4d12-a9bc-a710e8d1127b
       monday before 09-01:
         name:
           en: August Bank Holiday
+        id: 74238fc2-c705-4eea-a38d-036b6de70d2e
       12-25:
         _name: 12-25
+        id: 25432527-4a79-49b1-a803-6563a6bd3230
       substitutes 12-25 if saturday then next tuesday:
         substitute: true
         _name: 12-25
+        id: 0ad64f34-2e0e-4f01-b08f-1232a34a933c
       substitutes 12-25 if sunday then next tuesday:
         substitute: true
         _name: 12-25
+        id: d6eae39f-e561-4678-85df-d531a267c87e
       12-26:
         _name: 12-26
+        id: c27a347d-ea4c-4c28-ac6f-6b7ad2667b60
       substitutes 12-26 if saturday then next monday:
         substitute: true
         _name: 12-26
+        id: da398268-8424-4f75-b1f2-34494bc0325a
       substitutes 12-26 if sunday then next monday:
         substitute: true
         _name: 12-26
+        id: f3ab5d4d-4612-41b4-b800-402d324d7386
     states:
       AC:
         name: Ascension Island
         days:
           easter 39:
             _name: easter 39
+            id: 532c66ee-98fc-4269-9bc9-e8061a710868
       HL:
         name: Saint Helena
         days: {}
@@ -65,29 +81,38 @@ holidays:
         days:
           easter 39:
             _name: easter 39
-          # @source http://www.tristandc.com/newsratting.php
-          "2012-04-23":
+            id: c107da27-d06a-4854-8713-de4d741558ad
+          '2012-04-23':
             name:
               en: Ratting Day
-          "2013-05-03":
+            id: 40758993-2265-4a5a-8fdf-f5bd17ed8c43
+          '2013-05-03':
             name:
               en: Ratting Day
-          "2014-05-02":
+            id: 2d77da2b-add7-42a2-9887-e30c25056f0d
+          '2014-05-02':
             name:
               en: Ratting Day
-          "2015-05-16":
+            id: 05262475-a064-4084-bfc9-480e7a8a4e23
+          '2015-05-16':
             name:
               en: Ratting Day
-          "2016-04-30":
+            id: 407f763d-33d9-4e6e-a9b6-3fccd7273738
+          '2016-04-30':
             name:
               en: Ratting Day
-          "2017-05-26":
+            id: 580b2daf-91a2-486a-bb03-a9c398dc72b0
+          '2017-05-26':
             name:
               en: Ratting Day
-          "2018-06-02":
+            id: 331c44a2-2c2a-4ee7-a4a1-6e71a3ed6bbd
+          '2018-06-02':
             name:
               en: Ratting Day
+            id: a093b845-0839-445d-89bb-2fb1ca03c4fe
           08-14:
             name:
               en: Anniversary Day
-          monday before 09-01: false
+            id: 4402030f-5404-4612-aa94-8a6aa0464216
+          monday before 09-01:
+            id: ccaa8e27-6b7b-4f30-8c0c-349c50bc6037

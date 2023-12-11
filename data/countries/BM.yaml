@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Bermuda
 holidays:
   BM:
     names:
@@ -11,48 +10,62 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 51434d54-1a59-4303-a3d1-9a21c16b249e
       substitutes 01-01 if saturday, sunday then next monday:
         _name: 01-01
         substitute: true
         type: bank
         note: Goverment offices close
+        id: 953f0ce1-8abe-4305-a5bf-21e6b1239660
       easter -2:
         _name: easter -2
+        id: 4a449805-b21a-47eb-be64-fa00e9fcf320
       friday before 06-01:
         name:
           en: Bermuda Day
+        id: 83524482-a2e0-41a3-b673-b0479995b929
       3nd monday in June:
         name:
           en: National Heroes Day
+        id: 99071c28-a9dd-4dcf-94f7-88df678c8fff
       thursday before 08-04:
         name:
           en: Emancipation Day
+        id: 3c7c277e-bef1-443f-a1e6-6af95c36133e
       friday before 08-05:
         name:
           en: Somers' Day
+        id: 6cd59fc7-f0da-4819-9d9e-e02e926f6ef6
       monday after 09-01:
         name:
           en: Labour Day
+        id: 84515af7-dc9e-4d40-ae98-761aa1a5e6da
       11-11:
         name:
           en: Remembrance Day
+        id: 27b731de-b2f6-4119-adf7-a7b2e4fea6bf
       substitutes 11-11 if saturday, sunday then next monday:
         name:
           en: Remembrance Day
         substitute: true
         type: bank
         note: Goverment offices close
+        id: 7473fce8-61fe-4b7c-a125-cc73a7a180f9
       12-25:
         _name: 12-25
+        id: 3b71c528-4653-421e-877e-1f6944d0f511
       substitutes 12-25 if saturday then next monday if sunday then next tuesday:
         _name: 12-25
         substitute: true
         type: bank
         note: Goverment offices close
+        id: 79b9584b-be51-4373-8c93-e0abcde9d39c
       12-26:
         _name: 12-26
+        id: 23f0b304-ed3f-49f2-814b-87bd47f42e56
       substitutes 12-26 if saturday then next monday if sunday then next tuesday:
         _name: 12-26
         substitute: true
         type: bank
         note: Goverment offices close
+        id: f6c74511-8100-49ad-a6dd-e625d99061c0

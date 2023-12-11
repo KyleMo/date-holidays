@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Libya
 holidays:
   LY:
     names:
@@ -8,73 +7,37 @@ holidays:
       - ar
     zones:
       - Africa/Tripoli
-    dayoff: ""
+    dayoff: ''
     days:
       02-17:
         _name: Revolution Day
+        id: 74cf6597-1a92-4bce-abb2-8e7bc17d74be
       05-01:
         _name: 05-01
+        id: 6f42897f-cd08-4ec5-843d-a360614240d8
       09-16:
         name:
           ar: يوم الشهداء
           en: Martyrs' Day
+        id: b9aac8ec-c955-489e-8f70-614f9070b98d
       10-23:
         _name: Liberation Day
+        id: 1320c686-0b62-40c4-8fb9-10a9798e324d
       12-24:
         _name: Independence Day
+        id: cf329bab-abf8-4b16-915f-ea902d2c01a1
       1 Muharram:
         _name: 1 Muharram
+        id: f255f648-0cd2-42a1-a8e9-71de12dfcb7a
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: 07a1827d-8561-42d1-a1ff-4b520d88eeff
       1 Shawwal P3D:
         _name: 1 Shawwal
+        id: bda05677-5440-4cba-baec-54e352365384
       9 Dhu al-Hijjah:
         _name: 9 Dhu al-Hijjah
+        id: 3ae7e2c3-8710-426e-9560-62853d9779f2
       10 Dhu al-Hijjah P3D:
         _name: 10 Dhu al-Hijjah
-
-    # states:
-    #   BA:
-    #     name: Benghazi
-    #   BU:
-    #     name: Butnan
-    #   DR:
-    #     name: Derna
-    #   GT:
-    #     name: Ghat
-    #   JA:
-    #     name: Jabal al Akhdar
-    #   JG:
-    #     name: Jabal al Gharbi
-    #   JI:
-    #     name: Jafara
-    #   JU:
-    #     name: Jufra
-    #   KF:
-    #     name: Kufra
-    #   MB:
-    #     name: Murqub
-    #   MI:
-    #     name: Misrata
-    #   MJ:
-    #     name: Marj
-    #   MQ:
-    #     name: Murzuq
-    #   NL:
-    #     name: Nalut
-    #   NQ:
-    #     name: Nuqat al Khams
-    #   SB:
-    #     name: Sabha
-    #   SR:
-    #     name: Sirte
-    #   TB:
-    #     name: Tripoli
-    #   WA:
-    #     name: Al Wahat
-    #   WD:
-    #     name: Wadi al Hayaa
-    #   WS:
-    #     name: Wadi al Shatii
-    #   ZA:
-    #     name: Zawiya
+        id: a6cc3cec-308f-4fe6-8822-7a07c017cc81

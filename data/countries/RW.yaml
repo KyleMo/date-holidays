@@ -1,6 +1,4 @@
 holidays:
-  # @source http://www.gov.rw/home/official_holidays/
-  # @attrib https://fr.wikipedia.org/wiki/Jours_f%C3%A9ri%C3%A9s_au_Rwanda
   RW:
     names:
       en: Rwanda
@@ -16,39 +14,54 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 528f76d4-c0cf-4481-9fa4-3b70959b1f27
       01-02:
         _name: Public Holiday
+        id: 157fceb5-d896-436e-95f6-2f584b12c1b3
       02-01:
         name:
           en: Heroes Day
+        id: 7eda1bf6-0a9a-4bc7-80f0-c4a8e40e7ed8
       easter -2:
         _name: easter -2
+        id: 3b39ebee-59dd-4923-a06b-568956f2c7a1
       04-07:
         name:
           fr: Jour de Mémorial du Génocide
           en: Genocide Memorial Day
+        id: 39a577fd-147e-4012-8fda-84f64e2e4064
       05-01:
         _name: 05-01
+        id: 47b759b3-7162-43d0-9d27-5d685ffc07c9
       07-01:
         _name: Independence Day
+        id: 8025a0b2-3364-4c7f-9842-dcb8a4fafd59
       07-04:
         name:
           fr: Jour de la Libération
           en: Liberation Day
+        id: 197df119-258d-4b84-afb9-132661faca26
       08-15:
         _name: 08-15
+        id: 5b49b2f4-1648-436f-8a37-adc7a470ae03
       1st friday in August:
         name:
           rw: Umuganura
           fr: Journée nationale de récolte
           en: National Harvest Day
+        id: 67dc9dcc-a43d-4831-b43a-bb9f266752ec
       12-25:
         _name: 12-25
+        id: 0df8580a-f681-4639-b067-3a59a694b936
       12-26:
         _name: 12-26
+        id: 8602cea6-7f73-40d3-9196-2c02aa9bfebc
       easter 1:
         _name: easter 1
+        id: af95ee3e-b94d-45b7-96fb-ac79a45a390b
       1 Shawwal:
         _name: 1 Shawwal
+        id: 4cc2b8be-a255-47d6-817f-8cc8ce7b3993
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
+        id: eda5c1ad-a884-4e74-8109-35850e196dcf

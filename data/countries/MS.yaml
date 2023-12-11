@@ -1,5 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Montserrat
-# @source http://agc.gov.ms/wp-content/uploads/2011/10/Act-No.-3-of-2017-Public-Holidays-Amendment-Act-20171.pdf
 holidays:
   MS:
     names:
@@ -13,32 +11,43 @@ holidays:
       01-01 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 01-01
+        id: 167bac58-ad40-42f3-972e-72332ba4a807
       03-17 and if Saturday, Sunday then next Monday:
         substitute: true
         name:
           en: Saint Patrick's Day
+        id: f7ee5a1b-c49b-40a2-9fd2-710f210a423a
       easter -2:
         _name: easter -2
+        id: da84108b-5ef7-404a-9af0-a09fa2c78240
       easter 1:
         _name: easter 1
+        id: 2de57815-7998-4819-bbcc-d4d45121da6d
       1st Monday in May:
         _name: 05-01
+        id: 0bcef3f2-8295-4a43-a1be-8b61f1e2675a
       easter 50:
         _name: easter 50
+        id: aa5cac11-5386-443d-94a0-43f64da833d0
       2nd Monday after 06-02:
         name:
           en: Queen's Birthday Celebration
+        id: 9767ca1e-5847-42e6-ae77-ce0b480000ba
       08-01 if Saturday, Sunday then next Monday:
         name:
           en: Emancipation Day
+        id: b9392c04-3957-42c7-b2fd-8756f254b6bb
       12-25 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-25
+        id: 21402917-62d5-4cd4-bea9-25b33270fcac
       12-26 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-26
+        id: aedaa1cd-ace6-4814-af35-66999ae95102
       12-31 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-31
         name:
           en: Festival Day
+        id: d65048b9-8eee-4e42-b650-bafdf2676aed

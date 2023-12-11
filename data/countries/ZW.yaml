@@ -8,46 +8,56 @@ holidays:
       en: Zimbabwe
     dayoff: sunday
     langs:
-      # - sn
-      # - nd
-      # - xh
-      # - kck
       - en
     zones:
       - Africa/Maputo
     days:
       01-01:
         _name: 01-01
+        id: 9a5237d8-3d63-4888-8bfa-2e0ff40e262a
       easter -2:
         _name: easter -2
+        id: cc9ed6df-aacb-4122-93fe-365ee8ba4458
       easter:
         _name: easter
         type: observance
+        id: cca201e5-111a-40f9-bc1d-5c5af4f66d00
       easter 1:
         _name: easter 1
+        id: bbc7374f-ee6e-4d34-bf7d-ecc031b3e615
       04-18:
         _name: Independence Day
+        id: 373617be-cb30-4db1-97fa-002e70138ded
       05-01:
         _name: 05-01
+        id: 32b87347-6e89-4a82-b25b-e53266f17e2e
       05-25:
         name:
           en: Africa Day
+        id: 7115825e-3144-4f15-8803-88bc6169c9ab
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: f07e8984-fa24-4bbd-a9e4-59ef0636a606
       3rd sunday in June:
         _name: Fathers Day
         type: observance
+        id: 8384c80e-2461-457b-a657-c59e4392a1bd
       2nd monday in August:
         name:
           en: Heroes' Day
+        id: 53e2d858-beec-4fa7-a100-beca9cd1681f
       2nd tuesday in August:
         name:
           en: Defence Forces Day
+        id: 18e07886-b53e-4e06-9623-88a1659b0c71
       12-22:
         name:
           en: Unity Day
+        id: 60c522b1-191f-4696-b7b6-6be998056b74
       12-25:
         _name: 12-25
+        id: 5bd554b8-c95c-46fe-9489-eb17272e42af
       12-26:
         _name: 12-26
+        id: fb4ce840-c816-472b-a23a-3e0feac95150

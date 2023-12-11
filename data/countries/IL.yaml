@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Israel
   IL:
     names:
       he: מְדִינַת יִשְׂרָאֵל
@@ -14,191 +13,224 @@ holidays:
         name:
           he: ראש השנה
           en: Rosh Hashanah (Yom Teruah)
+        id: 243051d6-880a-4ee0-8a47-b0c7caa48e37
       2 Tishrei:
         name:
           he: ראש השנה יום 2
           en: Rosh Hashanah (Day 2)
+        id: a8240358-9604-430b-8c46-fb7d18da94f9
       3 Tishrei if Saturday then next Sunday:
         name:
           he: צום גדליה
           en: Fast of Gedaliah (Tzom Gedalya)
         type: observance
+        id: 0173e0df-4ccd-41ef-b0b9-287f2cc92834
       10 Tishrei:
         name:
           he: יום כיפור
           en: Day of Atonement (Yom Kippur)
+        id: bf4f33d8-b1b2-4ad9-928b-61a3250cc613
       15 Tishrei:
         name:
           he: סוכות
           en: Feast of Tabernacles (Sukkot)
+        id: 918b6584-8afe-49bb-a7a8-6d8e14946f04
       16 Tishrei P6D:
         name:
           he: חול המועד סוכות
           en: The week of Sukkot
         type: school
         note: Collective paid leave in many businesses and government offices
+        id: e58ac191-8e00-4807-9cdd-fdfff4f10626
       22 Tishrei:
         name:
           he: שמחת תורה/שמיני עצרת
           en: Simchat Torah/ Shmini Atzeret
+        id: 13121ae4-fc0e-48a9-820e-5032ef622b2d
       12 Cheshvan if Friday,Saturday then previous Thursday since 1997:
         name:
           he: יום רבין
           en: Rabin Day
         type: observance
         note: National remembrance day, business as usual
+        id: da624143-bee6-41e2-b3d0-ed4bcc0f91d5
       29 Cheshvan:
         name:
           he: סיגד
           en: Sigd
         type: observance
         note: Festival of the Ethiopian Jews, optional paid leave, business as usual
+        id: 735a2c06-3b3f-47bc-863a-bd2b5ad1d750
       6 Kislev if Saturday then next Sunday:
         name:
           en: Ben-Gurion Day
           he: יום בן-גוריון
         type: observance
         note: Day marked by the Knesset
+        id: 59f1909e-fbbf-4d6c-a8b3-fabce8b9cb36
       25 Kislev P8D:
         name:
           en: Hanukkah
           he: חנוכה
         type: school
+        id: 4fbcdd6d-c565-414d-b566-e556b5723899
       10 Tevet:
         name:
           en: Tenth of Tevet
           he: צום עשרה בטבת
         type: observance
+        id: 920a1d54-aa8e-4fc0-ac85-97225183a181
       15 Shvat:
         name:
           en: Tu Bishvat (Arbor Day)
           he: ט"ו בשבט
         type: observance
+        id: 7528c92e-cc5f-473e-b61a-441819fcfee5
       13 AdarII if Saturday then previous Thursday:
         name:
           en: Fast of Esther
           he: תענית אסתר
         type: school
+        id: f3bd8a1e-bb7a-4b2d-94e2-136339ab933b
       14 AdarII P2D:
         name:
           en: Purim
           he: פורים
         type: school
         note: optional paid leave
+        id: 0044bd48-2837-47fd-a029-f0987a4ba7c0
       10 Nisan:
         name:
           en: Aliyah Day
           he: יום העלייה
         type: observance
         note: Official holiday, business as usual
+        id: de49dc29-5d8b-4312-9c71-aeef055c8b2d
       15 Nisan:
         name:
           en: Passover (Pesach)
           he: פסח
+        id: 7e058eca-d738-4f5c-87aa-80c409e06f42
       16 Nisan P5D:
         name:
           en: Passover (intermediate days)
           he: חול המועד פסח
         type: school
-        note: School holiday, collective paid leave in many businesses and government offices
+        note: >-
+          School holiday, collective paid leave in many businesses and
+          government offices
+        id: 4c0813ea-9747-47a4-b1c5-087892673f8d
       21 Nisan:
         name:
           en: Mimouna, Seventh day of Passover
           he: מימונה, שביעי של פסח
+        id: a7a8aa85-e011-49da-9b3e-124d6fcac239
       27 Nisan if Friday then previous Thursday if Sunday then next Monday:
         name:
           en: Holocaust Remembrance Day (Yom HaShoah)
           he: יום הזיכרון לשואה ולגבורה
         type: observance
-        note: National remembrance day, business as usual except places of public entertainment
+        note: >-
+          National remembrance day, business as usual except places of public
+          entertainment
+        id: ba780e8e-4362-4448-9090-743c0d6f582d
       05-09:
         name:
           en: Victory in Europe Day
           he: יום הניצחון על גרמניה הנאצית
         type: observance
+        id: 42b01705-08e4-4b30-981a-95e41675506b
       4 Iyyar if Thursday,Friday then previous Wednesday if Sunday then next Monday:
         name:
-          en: Fallen Soldiers and Victims of Terrorism Remembrance Day (Yom HaZikaron)
+          en: >-
+            Fallen Soldiers and Victims of Terrorism Remembrance Day (Yom
+            HaZikaron)
           he: יום הזיכרון לחללי מערכות ישראל ונפגעי פעולות האיבה
         type: observance
-        note: National remembrance day, business as usual except places of public entertainment
+        note: >-
+          National remembrance day, business as usual except places of public
+          entertainment
+        id: 86f7dc5f-7380-41c0-9fa6-a1acaa5befc8
       5 Iyyar if Friday,Saturday then previous Thursday if Monday then next Tuesday:
         name:
           en: Independence Day (Yom HaAtzmaut)
           he: יום העצמאות
+        id: d0f1802b-e09d-4544-90d9-257f8ecb9e87
       10 Iyyar if Saturday then next Sunday since 2004:
         name:
           en: Herzl Day
           he: יום הרצל
         type: observance
         note: Day marked by the Knesset
+        id: 7bf7914e-f000-42e3-af4b-15ce64b27315
       18 Iyyar:
         name:
           en: Lag BaOmer
           he: ל"ג בעומר
         type: school
+        id: 55300e45-3882-49bf-8bc2-cf8658ea23de
       28 Iyyar:
         name:
           en: Jerusalem Day (Yom Yerushalayim)
           he: יום ירושלים
         type: observance
         note: Optional paid leave
+        id: 5ccb6d04-5b3b-4554-8581-fc51e8514da2
       6 Sivan:
         name:
           en: Shavuot (Feast of Weeks)
           he: שבועות
+        id: 82c0bb55-e9be-4ef9-a2d9-633e37ae51bd
       17 Tamuz if Saturday then next Sunday:
         name:
           en: Seventeenth of Tamuz, fast
           he: שבעה עשר בתמוז
         type: observance
+        id: bee0a8d5-377b-42f0-99c9-75b672092876
       29 Tamuz if Saturday then next Sunday:
         name:
           en: Jabotinsky Day
           he: יום ז'בוטינסקי
         type: observance
         note: Day marked by the Knesset
+        id: 47ffc3a7-750d-4dec-8a8f-cc7c2c6ed324
       9 Av if Saturday then next Sunday:
         name:
           en: Tisha B'Av, fast
           he: תשעה באב
         type: observance
-        note: Optional paid leave, business as usual except places of public entertainment
+        note: >-
+          Optional paid leave, business as usual except places of public
+          entertainment
+        id: ea20da5e-fe41-464b-a998-42a9cd8d6761
       15 Av:
         name:
           en: Tu B'Av (Fifteenth of Av)
           he: ט"ו באב
         type: observance
-      "2015-03-17":
+        id: f4687516-c7db-4597-9db7-dc3bcd90135d
+      '2015-03-17':
         name:
           en: Election Day
           he: יום הבחירות
-      "2019-04-09":
+        id: f63cff26-4947-4b5b-b1f7-bf93e87efa3c
+      '2019-04-09':
         name:
           en: Election Day
           he: יום הבחירות
-      "2019-09-17":
+        id: 188cd5b8-5a05-4982-a30e-68c7a0159967
+      '2019-09-17':
         name:
           en: Election Day
           he: יום הבחירות
-      "2020-03-02":
+        id: 98005cd5-ab2c-47d0-bb21-a899acaae077
+      '2020-03-02':
         name:
           en: Election Day
           he: יום הבחירות
-      "2021-03-23":
+        id: 17f68870-70a5-4e37-9959-ec5b1af6b7ed
+      '2021-03-23':
         name:
           en: Election Day
           he: יום הבחירות
-    # states:
-    #   D:
-    #     name: Southern District
-    #   HA:
-    #     name: Haifa District
-    #   JM:
-    #     name: Jerusalem
-    #   M:
-    #     name: Central District
-    #   TA:
-    #     name: Tel Aviv District
-    #   Z:
-    #     name: Northern District
+        id: 55b85774-7a2a-4ab9-995d-a13e3bf79e5e

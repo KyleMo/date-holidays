@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Slovenia
 holidays:
   SI:
     names:
@@ -12,52 +11,64 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 6e802541-b369-4fb3-a80b-2cd34bdaa2f7
       01-02:
         _name: 01-01
         active:
           - to: 1955
           - from: 2017
+        id: f0fe3331-b2e1-4a09-a245-327b890cb6ea
       02-08:
         name:
           en: Prešeren Day, the Slovenian Cultural Holiday
           sl: Prešernov dan, slovenski kulturni praznik
         active:
           - from: 1991
+        id: 4ad781b2-0406-4a75-afd6-fdcdd04d0411
       03-08:
         _name: 03-08
         type: observance
+        id: 62682a5b-1ae9-43c9-afcb-4d34fdb4dd35
       04-23:
         name:
           sl: Jurjevanje
           en: St. George's Day
         type: observance
+        id: 9a4ab761-03c0-4ce3-8ffa-c88657fa1793
       easter -49:
         name:
           sl: Pust
           en: Carnival
         type: observance
+        id: 0199e672-d2b8-443a-882a-0ae9c175512c
       easter:
         _name: easter
+        id: bb098ebb-fff8-4625-a72c-6d8cd295e934
       easter 1:
         _name: easter 1
+        id: 041043e2-abd5-43ab-aa34-788fc7b81a27
       04-27:
         name:
           sl: Dan upora proti okupatorju
           en: Day of Uprising Against Occupation
+        id: f4ed347d-9e87-4ad5-851f-fc90d1e98286
       05-01:
         _name: 05-01
         name:
           en: Labour Day
         active:
           - from: 1949
+        id: d6072847-12a6-45df-a84f-eab2081f7b0b
       05-02:
         _name: 05-01
         name:
           en: Labour Day
         active:
           - from: 1949
+        id: 58616c25-f69d-4fcf-a9d9-3a67f8c63498
       easter 49:
         _name: easter 49
+        id: 9791a7c2-3eb5-4d8c-af9a-cc5bfaba9ab9
       06-08:
         name:
           sl: Dan Primoža Trubarja
@@ -65,16 +76,19 @@ holidays:
         type: observance
         active:
           - from: 2010
+        id: 248354a1-d009-4b23-ba6f-68131079dc56
       06-25:
         name:
           sl: Dan državnosti
           en: Statehood Day
         active:
           - from: 1991
+        id: 86335e82-d584-47e3-a5a0-b433f19220c1
       08-15:
         _name: 08-15
         active:
           - from: 1992
+        id: 27e05a4d-a373-48dd-872b-aa495d000419
       08-17:
         name:
           sl: Združitev prekmurskih Slovencev z matičnim narodom
@@ -82,6 +96,7 @@ holidays:
         type: observance
         active:
           - from: 2006
+        id: 9e0c0c99-9426-4811-801f-29cdf2f52eb8
       09-15:
         name:
           sl: Vrnitev Primorske k matični domovini
@@ -89,6 +104,7 @@ holidays:
         type: observance
         active:
           - from: 2005
+        id: 25757efa-da27-4dd5-bbdf-95e24740253c
       09-23:
         name:
           sl: Dan slovenskega športa
@@ -96,6 +112,7 @@ holidays:
         type: observance
         active:
           - from: 2020
+        id: 3d814019-c771-4c47-81cd-697bfb297ec8
       10-25:
         name:
           sl: Dan suverenosti
@@ -103,19 +120,23 @@ holidays:
         type: observance
         active:
           - from: 2015
+        id: a5611854-a2d2-4a40-8ecb-1be4c084d4af
       10-31:
         name:
           sl: Dan reformacije
           en: Reformation Day
+        id: 4fc725a6-073c-4f97-823d-7428ec8c33e0
       11-01:
         name:
           sl: Dan spomina na mrtve
           en: Day of Remembrance for the Dead
+        id: 72dded37-6e6b-4f24-bfe3-c59f3713a85d
       11-11:
         name:
           sl: Martinovanje
           en: St. Martin's Day
         type: observance
+        id: c3c0c9af-b726-42ab-b2e8-a656842299d0
       11-23:
         name:
           sl: Dan Rudolfa Maistra
@@ -123,440 +144,21 @@ holidays:
         type: observance
         active:
           - from: 2015
+        id: 337832da-20df-45fe-b186-65a40840240d
       12-06:
         name:
           sl: Miklavž
           en: Saint Nicholas Day
         type: observance
+        id: a5dc493d-131a-45d4-9695-8b55ea23729a
       12-25:
         _name: 12-25
         active:
           - to: 1953
           - from: 1991
+        id: 1d4889f2-d547-4bb0-82dd-820b69e72527
       12-26:
         name:
           sl: Dan samostojnosti in enotnosti
           en: Independence and Unity Day
-    # regions:
-    # '001':
-    #   name: Ajdovščina
-    # '002':
-    #   name: Beltinci
-    # '003':
-    #   name: Bled
-    # '004':
-    #   name: Bohinj
-    # '005':
-    #   name: Borovnica
-    # '006':
-    #   name: Bovec
-    # '007':
-    #   name: Brda
-    # '008':
-    #   name: Brezovica
-    # '009':
-    #   name: Brežice
-    # '010':
-    #   name: Tišina
-    # '011':
-    #   name: Celje
-    # '012':
-    #   name: Cerklje na Gorenjskem
-    # '013':
-    #   name: Cerknica
-    # '014':
-    #   name: Cerkno
-    # '015':
-    #   name: Črenšovci
-    # '016':
-    #   name: Črna na Koroškem
-    # '017':
-    #   name: Črnomelj
-    # '018':
-    #   name: Destrnik
-    # '019':
-    #   name: Divača
-    # '020':
-    #   name: Dobrepolje
-    # '021':
-    #   name: Dobrova–Polhov Gradec
-    # '022':
-    #   name: Dol pri Ljubljani
-    # '023':
-    #   name: Domžale
-    # '024':
-    #   name: Dornava
-    # '025':
-    #   name: Dravograd
-    # '026':
-    #   name: Duplek
-    # '027':
-    #   name: Gorenja Vas–Poljane
-    # '028':
-    #   name: Gorišnica
-    # '029':
-    #   name: Gornja Radgona
-    # '030':
-    #   name: Gornji Grad
-    # '031':
-    #   name: Gornji Petrovci
-    # '032':
-    #   name: Grosuplje
-    # '033':
-    #   name: Šalovci
-    # '034':
-    #   name: Hrastnik
-    # '035':
-    #   name: Hrpelje–Kozina
-    # '036':
-    #   name: Idrija
-    # '037':
-    #   name: Ig
-    # '038':
-    #   name: Ilirska Bistrica
-    # '039':
-    #   name: Ivančna Gorica
-    # '040':
-    #   name: Izola
-    # '041':
-    #   name: Jesenice
-    # '042':
-    #   name: Juršinci
-    # '043':
-    #   name: Kamnik
-    # '044':
-    #   name: Kanal
-    # '045':
-    #   name: Kidričevo
-    # '046':
-    #   name: Kobarid
-    # '047':
-    #   name: Kobilje
-    # '048':
-    #   name: Kočevje
-    # '049':
-    #   name: Komen
-    # '050':
-    #   name: Koper
-    # '051':
-    #   name: Kozje
-    # '052':
-    #   name: Kranj
-    # '053':
-    #   name: Kranjska Gora
-    # '054':
-    #   name: Krško
-    # '055':
-    #   name: Kungota
-    # '056':
-    #   name: Kuzma
-    # '057':
-    #   name: Laško
-    # '058':
-    #   name: Lenart
-    # '059':
-    #   name: Lendava
-    # '060':
-    #   name: Litija
-    # '061':
-    #   name: Ljubljana
-    # '062':
-    #   name: Ljubno
-    # '063':
-    #   name: Ljutomer
-    # '064':
-    #   name: Logatec
-    # '065':
-    #   name: Loška Dolina
-    # '066':
-    #   name: Loški Potok
-    # '067':
-    #   name: Luče
-    # '068':
-    #   name: Lukovica
-    # '069':
-    #   name: Majšperk
-    # '070':
-    #   name: Maribor
-    # '071':
-    #   name: Medvode
-    # '072':
-    #   name: Mengeš
-    # '073':
-    #   name: Metlika
-    # '074':
-    #   name: Mežica
-    # '075':
-    #   name: Miren–Kostanjevica
-    # '076':
-    #   name: Mislinja
-    # '077':
-    #   name: Moravče
-    # '078':
-    #   name: Moravske Toplice
-    # '079':
-    #   name: Mozirje
-    # '080':
-    #   name: Murska Sobota
-    # '081':
-    #   name: Muta
-    # '082':
-    #   name: Naklo
-    # '083':
-    #   name: Nazarje
-    # '084':
-    #   name: Nova Gorica
-    # '085':
-    #   name: Novo Mesto
-    # '086':
-    #   name: Odranci
-    # '087':
-    #   name: Ormož
-    # '088':
-    #   name: Osilnica
-    # '089':
-    #   name: Pesnica
-    # '090':
-    #   name: Piran
-    # '091':
-    #   name: Pivka
-    # '092':
-    #   name: Podčetrtek
-    # '093':
-    #   name: Podvelka
-    # '094':
-    #   name: Postojna
-    # '095':
-    #   name: Preddvor
-    # '096':
-    #   name: Ptuj
-    # '097':
-    #   name: Puconci
-    # '098':
-    #   name: Rače–Fram
-    # '099':
-    #   name: Radeče
-    # '100':
-    #   name: Radenci
-    # '101':
-    #   name: Radlje ob Dravi
-    # '102':
-    #   name: Radovljica
-    # '103':
-    #   name: Ravne na Koroškem
-    # '104':
-    #   name: Ribnica
-    # '105':
-    #   name: Rogašovci
-    # '106':
-    #   name: Rogaška Slatina
-    # '107':
-    #   name: Rogatec
-    # '108':
-    #   name: Ruše
-    # '109':
-    #   name: Semič
-    # '110':
-    #   name: Sevnica
-    # '111':
-    #   name: Sežana
-    # '112':
-    #   name: Slovenj Gradec
-    # '113':
-    #   name: Slovenska Bistrica
-    # '114':
-    #   name: Slovenske Konjice
-    # '115':
-    #   name: Starše
-    # '116':
-    #   name: Sveti Jurij
-    # '117':
-    #   name: Šenčur
-    # '118':
-    #   name: Šentilj
-    # '119':
-    #   name: Šentjernej
-    # '120':
-    #   name: Šentjur
-    # '121':
-    #   name: Škocjan
-    # '122':
-    #   name: Škofja Loka
-    # '123':
-    #   name: Škofljica
-    # '124':
-    #   name: Šmarje pri Jelšah
-    # '125':
-    #   name: Šmartno ob Paki
-    # '126':
-    #   name: Šoštanj
-    # '127':
-    #   name: Štore
-    # '128':
-    #   name: Tolmin
-    # '129':
-    #   name: Trbovlje
-    # '130':
-    #   name: Trebnje
-    # '131':
-    #   name: Tržič
-    # '132':
-    #   name: Turnišče
-    # '133':
-    #   name: Velenje
-    # '134':
-    #   name: Velike Lašče
-    # '135':
-    #   name: Videm
-    # '136':
-    #   name: Vipava
-    # '137':
-    #   name: Vitanje
-    # '138':
-    #   name: Vodice
-    # '139':
-    #   name: Vojnik
-    # '140':
-    #   name: Vrhnika
-    # '141':
-    #   name: Vuzenica
-    # '142':
-    #   name: Zagorje ob Savi
-    # '143':
-    #   name: Zavrč
-    # '144':
-    #   name: Zreče
-    # '146':
-    #   name: Železniki
-    # '147':
-    #   name: Žiri
-    # '148':
-    #   name: Benedikt
-    # '149':
-    #   name: Bistrica ob Sotli
-    # '150':
-    #   name: Bloke
-    # '151':
-    #   name: Braslovče
-    # '152':
-    #   name: Cankova
-    # '153':
-    #   name: Cerkvenjak
-    # '154':
-    #   name: Dobje
-    # '155':
-    #   name: Dobrna
-    # '156':
-    #   name: Dobrovnik
-    # '157':
-    #   name: Dolenjske Toplice
-    # '158':
-    #   name: Grad
-    # '159':
-    #   name: Hajdina
-    # '160':
-    #   name: Hoče–Slivnica
-    # '161':
-    #   name: Hodoš
-    # '162':
-    #   name: Horjul
-    # '163':
-    #   name: Jezersko
-    # '164':
-    #   name: Komenda
-    # '165':
-    #   name: Kostel
-    # '166':
-    #   name: Križevci
-    # '167':
-    #   name: Lovrenc na Pohorju
-    # '168':
-    #   name: Markovci
-    # '169':
-    #   name: Miklavž na Dravskem Polju
-    # '170':
-    #   name: Mirna Peč
-    # '171':
-    #   name: Oplotnica
-    # '172':
-    #   name: Podlehnik
-    # '173':
-    #   name: Polzela
-    # '174':
-    #   name: Prebold
-    # '175':
-    #   name: Prevalje
-    # '176':
-    #   name: Razkrižje
-    # '177':
-    #   name: Ribnica na Pohorju
-    # '178':
-    #   name: Selnica ob Dravi
-    # '179':
-    #   name: Sodražica
-    # '180':
-    #   name: Solčava
-    # '181':
-    #   name: Sveta Ana
-    # '182':
-    #   name: Sveti Andraž v Slovenskih Goricah
-    # '183':
-    #   name: Šempeter–Vrtojba
-    # '184':
-    #   name: Tabor
-    # '185':
-    #   name: Trnovska Vas
-    # '186':
-    #   name: Trzin
-    # '187':
-    #   name: Velika Polana
-    # '188':
-    #   name: Veržej
-    # '189':
-    #   name: Vransko
-    # '190':
-    #   name: Žalec
-    # '191':
-    #   name: Žetale
-    # '192':
-    #   name: Žirovnica
-    # '193':
-    #   name: Žužemberk
-    # '194':
-    #   name: Šmartno pri Litiji
-    # '195':
-    #   name: Apače
-    # '196':
-    #   name: Cirkulane
-    # '197':
-    #   name: Kostanjevica na Krki
-    # '198':
-    #   name: Makole
-    # '199':
-    #   name: Mokronog–Trebelno
-    # '200':
-    #   name: Poljčane
-    # '201':
-    #   name: Renče–Vogrsko
-    # '202':
-    #   name: Središče ob Dravi
-    # '203':
-    #   name: Straža
-    # '204':
-    #   name: Sveta Trojica v Slovenskih Goricah
-    # '205':
-    #   name: Sveti Tomaž
-    # '206':
-    #   name: Šmarješke Toplice
-    # '207':
-    #   name: Gorje
-    # '208':
-    #   name: Log–Dragomer
-    # '209':
-    #   name: Rečica ob Savinji
-    # '210':
-    #   name: Sveti Jurij v Slovenskih Goricah
-    # '211':
-    #   name: Šentrupert
-    # '212':
-    #   name: Mirna
+        id: 7230fd55-2d7e-4433-a0c7-cfd2b3f1d5be

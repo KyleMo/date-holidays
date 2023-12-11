@@ -1,7 +1,3 @@
-# @source https://psc.gov.vu/index.php/fr/jours-feries
-# @source https://www.jours-feries.com/country/Vanuatu_184.htm
-# @source http://joursferies-fr.blogspot.com/2019/02/jours-feries-vanuatu.html
-# @source https://www.vfsc.vu/wp-content/uploads/2021/01/Public-Holidays-2021.pdf
 holidays:
   VU:
     names:
@@ -17,48 +13,52 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 482e9ec7-b353-47ea-8af6-2fe9a91183b2
       02-21:
         name: Mémoire du père de l'indépendance Rév. Dr. W.H. Lini
+        id: 58046bc1-5a5e-4b35-885d-332b2ec70eae
       02-22:
         _name: Public Holiday
+        id: 5d1632b4-6bca-4485-a85e-f013506c85b6
       03-05:
         name: Fête des chefs coutumiers
+        id: f535c80a-caf2-45c9-9886-6539eb4b4be8
       easter -2:
         _name: easter -2
+        id: 84fbfa01-468e-401b-8aea-c4d9ea6eed13
       easter 1:
         _name: easter 1
+        id: ca988f89-1414-4aa9-9407-fa7e6fd7a76e
       05-01:
         _name: 05-01
+        id: 45492c2e-60d3-4dc8-9a3d-a07c9e33111f
       easter 39:
         _name: easter 39
+        id: d4b96032-d606-48ed-adb0-938786957e8c
       07-24:
         name: Journée Mondiale des Enfants
+        id: 8d822561-c5a5-48a5-9dc8-4883b6073970
       07-30:
         _name: Independence Day
+        id: ca5ac512-b0cc-4410-9c15-7a99fbf3ac80
       08-15:
         _name: 08-15
+        id: cba6bbe8-f64c-413d-aec7-e9fa97cb24f9
       08-16:
         _name: Public Holiday
+        id: 01d79ade-c455-4035-be62-4642fb160418
       10-05:
         _name: Constitution Day
+        id: bf2f12ad-ca26-4dae-b44d-c036e5374718
       10-29:
         name: Jour de l'Unité
+        id: 6242dfbb-3bd4-4d5a-81e5-570cd9f68aec
       12-25:
         _name: 12-25
+        id: 300a2c2e-cc65-418e-8d9a-c9a756bee077
       12-26:
         name: Fête de Famille
+        id: 93397411-161f-40c9-8265-c61a26e1628a
       12-27:
         _name: Public Holiday
-#    states:
-#      MAP:
-#        name: Malampa
-#      PAM:
-#        name: Penama
-#      SAM:
-#        name: Sanma
-#      SEE:
-#        name: Shefa
-#      TAE:
-#        name: Tafea
-#      TOB:
-#        name: Torba
+        id: f0f7b38d-10bc-4fcd-8c7f-0fc636bd3d98

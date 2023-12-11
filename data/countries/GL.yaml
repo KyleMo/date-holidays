@@ -1,5 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Greenland
-# translations from https://oqaasileriffik.gl/
 holidays:
   GL:
     names:
@@ -18,44 +16,49 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 5e4d66d2-648b-4767-bd6a-be60a65418cf
       01-06:
         _name: 01-06
+        id: f82b49a2-b651-4ef4-9811-f796d360c79e
       easter -3:
         _name: easter -3
+        id: faba04da-6761-4350-9467-e1aab81d441f
       easter -2:
         _name: easter -2
+        id: c75a4d17-e732-47a4-a296-dc4c37f6d941
       easter:
         _name: easter
+        id: 79a55230-eaae-4d31-9b84-88288771e825
       easter 1:
         _name: easter 1
+        id: 759adf9b-f6d6-4aa2-ab5d-30b222d2b976
       easter 26:
         name:
           kl: tussiarfissuaq
           da: Store Bededag
           en: Prayer Day
+        id: e511ee7d-a72a-4927-8809-c11d7a332fae
       easter 39:
         _name: easter 39
+        id: 128268d1-d66e-4d01-9236-7949435410fc
       06-21:
         name:
           kl: ullortuneq
           da: Nationaldag
           en: National Day
+        id: dff6dc32-ffa1-47d6-8f8e-8a3c0e4da78f
       easter 49:
         _name: easter 49
+        id: c09745e1-213c-4b17-b794-7f113e01e37e
       easter 50:
         _name: easter 50
+        id: 6448905d-8d80-4b26-961f-c51925a06621
       12-24:
         _name: 12-24
+        id: 6c49aa79-3578-46fc-b665-03e07162687d
       12-25:
         _name: 12-25
+        id: 5d94ac43-cf92-475f-bc3d-691ee9d2b5dd
       12-26:
         _name: 12-26
-    # states:
-    # KU:
-    #   name: Kujalleq
-    # QA:
-    #   name: Qaasuitsup
-    # QE:
-    #   name: Qeqqata
-    # SM:
-    #   name: Sermersooq
+        id: 420042ae-bc61-4bae-9fee-08776876ffce

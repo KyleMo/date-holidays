@@ -1,6 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Singapore
-# @source https://www.mom.gov.sg/newsroom/press-releases/2022/0408-public-holidays-for-2023
-
 holidays:
   SG:
     names:
@@ -13,213 +10,264 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: bc5388df-7375-4d90-b256-b45c4df8cacf
       substitutes 01-01 if sunday then next monday:
         substitute: true
         _name: 01-01
+        id: c2082f58-41e8-47c2-83e3-582c899d2039
       chinese 01-0-01:
         name:
           en: Chinese New Year
+        id: 250fb31f-9638-4cea-8d31-15f38fa1ee0d
       chinese 01-0-02:
         name:
           en: Chinese New Year
+        id: a192a225-18ec-4adf-9090-c57729b4b4c9
       substitutes chinese 01-0-01 if sunday then next tuesday:
         substitute: true
         name:
           en: Chinese New Year
+        id: 1e962be1-3c95-41bd-9e5a-d458ceae2d5c
       substitutes chinese 01-0-02 if sunday then next monday:
         substitute: true
         name:
           en: Chinese New Year
+        id: 4f12691d-a540-475e-8a15-a731c897aabd
       easter -2:
         _name: easter -2
+        id: 54db1e31-7b95-4647-910f-5289f5d39431
       05-01:
         _name: 05-01
+        id: f1513899-ed08-4958-9804-6c46efde7174
       substitutes 05-01 if sunday then next monday:
         substitute: true
         _name: 05-01
+        id: f6342344-a289-4f9e-85bd-2a85afdf6e29
       08-09:
         name:
           en: National Day
+        id: 4df380f2-8eae-4824-b713-1b616e52e54a
       substitutes 08-09 if sunday then next monday:
         substitute: true
         name:
           en: National Day
+        id: 4fc38c24-331c-420f-a434-c98234eaf41e
       12-25:
         _name: 12-25
+        id: 3ad18e33-b4ca-427b-a41e-746a55e0d940
       substitutes 12-25 if sunday then next monday:
         substitute: true
         _name: 12-25
+        id: 0575c5c1-5961-4171-a961-3caa3d7ec278
       1 Shawwal:
         _name: 1 Shawwal
         name:
           en: Hari Raya Puasa
-        # Revision from SG gov
-        # @source https://www.humanresourcesonline.net/singapore-s-revised-public-holiday-list-for-2022-new-dates-for-hari-raya-puasa-and-haji
         disable:
-          - "2022-05-02"
-          - "2023-04-21"
+          - '2022-05-02'
+          - '2023-04-21'
         enable:
-          - "2022-05-03"
-          - "2023-04-22"
+          - '2022-05-03'
+          - '2023-04-22'
+        id: 25625431-9d23-4b9a-82c7-a43eff8817a6
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         name:
           en: Hari Raya Haji
-        # Revision from SG gov
-        # @source https://www.humanresourcesonline.net/singapore-s-revised-public-holiday-list-for-2022-new-dates-for-hari-raya-puasa-and-haji
         disable:
-          - "2022-07-09"
-          - "2023-06-28"
+          - '2022-07-09'
+          - '2023-06-28'
         enable:
-          - "2022-07-10"
-          - "2023-06-29"
-      # @attrib https://en.wikipedia.org/wiki/Vesak
-      # date if sunday then next monday
-      "2001-05-07":
+          - '2022-07-10'
+          - '2023-06-29'
+        id: 28d54190-76e5-42e2-a5f8-b272d91fbb3b
+      '2001-05-07':
         _name: Vesak
-      "2002-05-27":
+        id: 205be75b-b0f0-4309-a662-66c55e9dab1b
+      '2002-05-27':
         _name: Vesak
-      "2003-05-15":
+        id: 08498457-1499-48a9-bd52-964dfbdd6da2
+      '2003-05-15':
         _name: Vesak
-      "2004-06-02":
+        id: 2ce3c7c7-dfe5-4701-a123-07eeb862c7e8
+      '2004-06-02':
         _name: Vesak
-      "2005-05-23":
+        id: 5e1bae96-3ceb-430a-b3e5-014fc531734d
+      '2005-05-23':
         _name: Vesak
-      "2006-05-12":
+        id: c83151e0-e763-4f5a-a6d5-d26401d362a9
+      '2006-05-12':
         _name: Vesak
-      "2007-05-31":
+        id: 9a32b434-0307-4ecf-bc1b-6ed2afe16f3a
+      '2007-05-31':
         _name: Vesak
-      "2008-05-19":
+        id: cb09af01-471c-42cb-b8b4-58b2cd13209e
+      '2008-05-19':
         _name: Vesak
-      "2009-05-09":
+        id: f27354c9-f99e-4e50-a4d2-e2eea512f763
+      '2009-05-09':
         _name: Vesak
-      "2010-05-28":
+        id: 6030baa7-d40e-43d9-ace2-72ce57aac008
+      '2010-05-28':
         _name: Vesak
-      "2011-05-17":
+        id: 37c4944a-b066-43d3-bcf2-dbad19fc1781
+      '2011-05-17':
         _name: Vesak
-      "2012-05-05":
+        id: fff15c44-59ef-4fdd-a679-2c9dc3c4c2c6
+      '2012-05-05':
         _name: Vesak
-      "2013-05-24":
+        id: 4b969534-c519-455f-92b5-0fb57a241ad6
+      '2013-05-24':
         _name: Vesak
-      "2014-05-13":
+        id: 62c006ce-6e51-411f-b50b-90cf1e1075dd
+      '2014-05-13':
         _name: Vesak
-      "2015-06-01":
+        id: a67f9436-a0c5-40d6-a0a9-53381163f064
+      '2015-06-01':
         _name: Vesak
-      "2016-05-21":
+        id: ec246f10-9c1f-40a2-ba06-9f0a6bca0ddf
+      '2016-05-21':
         _name: Vesak
-      "2017-05-10":
+        id: e00126cb-ce92-4d24-9a82-41a778ee52a9
+      '2017-05-10':
         _name: Vesak
-      "2018-05-29":
+        id: e6cc7da4-5637-431e-8a96-ee6a29d07f2b
+      '2018-05-29':
         _name: Vesak
-      "2019-05-19":
+        id: 115eb65e-d7e4-49a3-b3a3-7c2ba6967fc2
+      '2019-05-19':
         _name: Vesak
-      "2019-05-20":
+        id: ce039fd5-89cd-4046-b606-ee1b95f7e762
+      '2019-05-20':
         substitute: true
         _name: Vesak
-      "2020-05-07":
+        id: 1cc61aa9-a990-4b52-813b-70b5e1001c87
+      '2020-05-07':
         _name: Vesak
-      "2021-05-26":
+        id: ef22b50a-9a0c-41f1-99c4-db557c28a3bb
+      '2021-05-26':
         _name: Vesak
-      "2022-05-15":
+        id: 7d2891cf-3425-442d-b060-ddec249e06a0
+      '2022-05-15':
         _name: Vesak
-      "2022-05-16":
+        id: 2f7940bf-7a6e-4900-bf3a-c42a4bd152db
+      '2022-05-16':
         substitute: true
         _name: Vesak
-      # Revision by SG Govt for Vesak Day 2023
-      # @source https://www.mom.gov.sg/newsroom/press-releases/2022/0929-revised-date-for-vesak-day-2023#:~:text=Revised%20Date%20for%20Vesak%20Day%20in%202023&text=1%20Following%20the%20Singapore%20Buddhist,public%20holiday%20for%20Vesak%20Day .
-      "2023-06-02":
+        id: 0d72ea24-8706-4afb-8dc3-f747344543a5
+      '2023-06-02':
         _name: Vesak
-      "2024-05-23":
+        id: 58b4cd33-6c09-45e9-aa11-f10482ed1630
+      '2024-05-23':
         _name: Vesak
-      # Deepavali
-      # date if sunday then next monday
-      "2000-10-26":
+        id: f1beb09c-814f-4509-b4dd-cba12d03223b
+      '2000-10-26':
         _name: Deepavali
-      "2001-11-14":
+        id: 887713e5-c173-45cb-b46d-d21f12c9bc65
+      '2001-11-14':
         _name: Deepavali
-      "2002-11-03":
+        id: 3cbc59ff-3046-49dc-9d70-8b438ab65104
+      '2002-11-03':
         _name: Deepavali
-      "2002-11-04":
+        id: 2af42717-7443-4c16-9024-0a3b8616567e
+      '2002-11-04':
         substitute: true
         _name: Deepavali
-      "2003-10-23":
+        id: 9ebe56da-39e9-489f-8400-7238dcbe6758
+      '2003-10-23':
         _name: Deepavali
-      "2004-11-11":
+        id: 8346a6aa-4462-4e7b-a2ae-99704688b0b4
+      '2004-11-11':
         _name: Deepavali
-      "2005-11-01":
+        id: 7c412cc4-7230-4f92-8162-b0484e4886bf
+      '2005-11-01':
         _name: Deepavali
-      "2006-10-21":
+        id: 90ca62bd-33fd-4f05-a671-ccdfb7db34d9
+      '2006-10-21':
         _name: Deepavali
-      "2007-11-08":
+        id: ef044f36-d091-4ecf-a3eb-6d90effd8ec6
+      '2007-11-08':
         _name: Deepavali
-      "2008-10-27":
+        id: a0cf4904-7e1e-4879-ac34-40a0f6c58f55
+      '2008-10-27':
         _name: Deepavali
-      "2009-10-17":
+        id: 16c34a93-5562-48d9-adec-979bec256b65
+      '2009-10-17':
         _name: Deepavali
-      "2010-11-05":
+        id: 42ebb942-4a8f-47dd-b366-84e471a48236
+      '2010-11-05':
         _name: Deepavali
-      "2011-10-26":
+        id: 6a3c29c2-d86b-4c52-b93a-978a8b08fd51
+      '2011-10-26':
         _name: Deepavali
-      "2012-11-13":
+        id: eedfb8ab-0423-40ee-95d9-f98b9376ab73
+      '2012-11-13':
         _name: Deepavali
-      "2013-11-03":
+        id: 9f3e16c5-fedb-46b8-954b-f9ef65efb48f
+      '2013-11-03':
         _name: Deepavali
-      "2013-11-04":
+        id: 44fb4c5e-98b0-4951-858e-1aacee75de9b
+      '2013-11-04':
         substitute: true
         _name: Deepavali
-      "2014-10-22":
+        id: 97859240-4c7c-4f4a-9154-78df52842119
+      '2014-10-22':
         _name: Deepavali
-      "2015-11-10":
+        id: 2e37e74d-0aa3-4dc6-bbe5-53a2494462bd
+      '2015-11-10':
         _name: Deepavali
-      "2016-10-29":
+        id: 65955a21-446a-40cb-9c2a-8545b5eeabdd
+      '2016-10-29':
         _name: Deepavali
-      "2017-10-18":
+        id: cda187bd-06f2-436b-81b8-4296b7a8194d
+      '2017-10-18':
         _name: Deepavali
-      "2018-11-06":
+        id: 46d8dfe5-1b24-42a1-88bc-837e14b95c25
+      '2018-11-06':
         _name: Deepavali
-      "2019-10-27":
+        id: aa87def9-6654-4592-8834-e7e93986c5a2
+      '2019-10-27':
         _name: Deepavali
-      "2019-10-28":
+        id: 251b40fc-95d1-4014-80c2-d80bc2bc34b0
+      '2019-10-28':
         substitute: true
         _name: Deepavali
-      "2020-11-14":
+        id: 3ba55962-3e50-4eae-befa-d812aee619a0
+      '2020-11-14':
         _name: Deepavali
-      "2021-11-04":
+        id: 2902cc41-75ed-4849-8ba2-f67539ec2ce0
+      '2021-11-04':
         _name: Deepavali
-      "2022-10-24":
+        id: 53b6d898-2572-4b1d-a80d-317d24382663
+      '2022-10-24':
         _name: Deepavali
-      "2023-11-13":
+        id: 6ff99514-b96f-42ef-8de2-f1bcb5420b32
+      '2023-11-13':
         _name: Deepavali
-      "2024-10-31":
+        id: 4c5af8e3-01eb-43e6-8042-5f4dcefafd47
+      '2024-10-31':
         _name: Deepavali
-      "2025-10-20":
+        id: 8f0a30e3-12d4-4690-a163-e0180bffd43d
+      '2025-10-20':
         _name: Deepavali
-      "2026-11-09":
+        id: dea70fed-1cc5-42bf-86f7-f3cd9d2c557a
+      '2026-11-09':
         _name: Deepavali
-      "2027-10-28":
+        id: 2e7b9c4f-cfc0-40f3-a385-17f16b75fbe4
+      '2027-10-28':
         _name: Deepavali
-      "2028-11-15":
+        id: 3b499fda-34f5-49de-92fb-882beb610d37
+      '2028-11-15':
         _name: Deepavali
-      "2029-11-05":
+        id: c4fff9b9-7022-4fda-a163-86b52dd0d793
+      '2029-11-05':
         _name: Deepavali
-      "2030-10-25":
+        id: 33000ac7-96e5-4657-ad6c-17c798fdeec2
+      '2030-10-25':
         _name: Deepavali
-      # Revision by SG Govt for SG Presidential Election 2023
-      # @source https://www.eld.gov.sg/faq_voters.html
-      # @attrib https://en.wikipedia.org/wiki/2023_Singaporean_presidential_election
-      "2023-09-1":
+        id: 6c3a532a-f956-4f2c-b6ef-1bdc50af1184
+      2023-09-1:
         name:
           en: Presidential Election Day
         type: public
-
-    # states:
-    #   '01':
-    #     name: Central Singapore
-    #   '02':
-    #     name: North East
-    #   '03':
-    #     name: North West
-    #   '04':
-    #     name: South East
-    #   '05':
-    #     name: South West
+        id: da2f44fb-9e89-4b9c-9e7e-a2fb11c3f2aa

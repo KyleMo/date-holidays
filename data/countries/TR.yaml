@@ -1,10 +1,8 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Turkey
   TR:
     names:
       tr: Türkiye
       en: Turkey
-    # weekend is saturday-sunday
     dayoff: saturday
     langs:
       - tr
@@ -13,32 +11,41 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: ea8ed9c4-acac-42ac-ab8d-57046565f596
       04-23:
         name:
           en: National Sovereignty and Children's Day
           tr: Ulusal Egemenlik ve Çocuk Bayramı
+        id: 4d7d629a-daaf-47f0-87f7-5218ca9695f3
       05-01:
         _name: 05-01
         name:
           en: Labour and Solidarity Day
           tr: Emek ve Dayanışma Günü
+        id: c1d20d04-8a0f-454c-a16c-b9bddefaf510
       05-19:
         name:
           en: Commemoration of Atatürk, Youth and Sports Day
           tr: Atatürk'ü Anma Gençlik ve Spor Bayramı
+        id: d7bfb146-0eaf-4ff2-a53d-73a9f5d9e816
       07-15:
         name:
           en: Democracy and National Unity Day
           tr: Demokrasi ve Millî Birlik Günü
+        id: 142df59f-4aff-4e9b-8951-04892fd8121d
       08-30:
         name:
           en: Victory Day
           tr: Zafer Bayramı
+        id: b2175684-a03a-40d5-a449-288a16bd56b9
       10-29:
         name:
           en: Republic Day
           tr: Cumhuriyet Bayramı
+        id: fdb1bd4f-ea4f-4b39-a1bb-c9642e1f2f46
       1 Shawwal PT90H:
         _name: 1 Shawwal
+        id: 9787eedd-4c0f-4212-bc96-9ad93b37f53f
       10 Dhu al-Hijjah PT114H:
         _name: 10 Dhu al-Hijjah
+        id: 12ebff64-8372-47f6-9ec0-81e26f226ca0

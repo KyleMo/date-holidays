@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Montenegro
 holidays:
   ME:
     names:
@@ -16,98 +15,125 @@ holidays:
     zones:
       - Europe/Belgrade
     days:
-      # State and Other holidays
       05-21 and if sunday then next tuesday:
         substitute: true
         _name: Independence Day
+        id: 08c85c19-4c21-4ada-928b-4f2365d63455
       05-22 and if sunday then next monday:
         substitute: true
         _name: Independence Day
+        id: 2cb4b7a9-61d1-4357-8229-65e0ab97557e
       07-13 and if sunday then next tuesday:
         substitute: true
         name:
           hr: Dan državnosti
           sr: Дан државности
           en: Statehood Day
+        id: 2517f650-b12a-40c7-aaf9-8c4cc26441ab
       07-14 and if sunday then next monday:
         substitute: true
         name:
           hr: Dan državnosti
           sr: Дан државности
           en: Statehood Day
+        id: a4401c5f-a372-43b8-84d2-7426afb89d3e
       01-01 and if sunday then next tuesday:
         substitute: true
         _name: 01-01
+        id: 392e1768-1bdb-4ed6-bcd8-2881d4c95389
       01-02 and if sunday then next monday:
         substitute: true
         _name: 01-01
+        id: 70d43ff2-984d-4135-aed4-d0abd4f573ca
       05-01 and if sunday then next tuesday:
         substitute: true
         _name: 05-01
+        id: 7ee77d9c-fdf8-48b1-9135-c6eb4564e001
       05-02 and if sunday then next monday:
         substitute: true
         _name: 05-01
-      # Religious holidays
-      # Orthodox holidays
+        id: 5d2b6adf-13b3-4340-ba88-1630b13ab6bf
       julian 12-24:
         _name: 12-24
+        id: 49e51187-8a13-40ec-b3ef-5eb8be8ef4a0
       julian 12-25:
         _name: 12-25
+        id: 8e58aa69-72cb-4f0f-843d-ada1fd8aac61
       julian 12-26:
         _name: 12-26
+        id: ede132d6-d6db-434d-8459-8088ea77f51d
       julian 01-01:
         _name: julian 01-01
         type: observance
+        id: 2003f17e-d9b7-4400-a6be-1d38de91dc42
       orthodox -2:
         _name: easter -2
+        id: 306eb9b3-f196-40fa-af95-165f76f1807d
       orthodox:
         _name: easter
-      # Roman Catholic holidays
+        id: ec50fe4c-cdf2-46a2-8082-86dca470ddbf
       12-24:
         _name: 12-24
+        id: d28c8b80-7010-4aeb-904b-2c5b235ddfff
       12-25:
         _name: 12-25
+        id: 57cf6b84-9b67-46ca-8595-4a3d631f4386
       12-26:
         _name: 12-25
+        id: c52afeae-8379-4441-8654-07365fd32c66
       easter -2:
         _name: easter -2
+        id: c238aa13-ebb1-4f3d-a3e1-6554ac389ab9
       easter:
         _name: easter
+        id: 0bd73843-19ab-475c-a2a8-9a63058f1aa2
       easter 1:
         _name: easter
+        id: 785637e7-80a3-43b0-926b-c5b6a9e0e379
       08-15:
         _name: 08-15
         type: observance
+        id: 2867c07c-cb2b-47e1-a836-fdad4d38d40d
       11-01:
         _name: 11-01
-      # Muslim holidays
+        id: f8964bfc-2f51-4367-bbf9-da2c9756afbd
       1 Shawwal P3D:
         _name: 1 Shawwal
+        id: 6bbf689c-7ca4-4c40-a69d-b26ff5fdcf87
       10 Dhu al-Hijjah P3D:
         _name: 10 Dhu al-Hijjah
+        id: 232bab41-9f44-4d7e-9d0b-86cae94ef152
       1 Muharram:
         _name: 1 Muharram
         type: observance
+        id: 1542186f-d738-4463-b3bd-0031944e5fb4
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
         type: observance
+        id: 3e76c07e-aa97-4b4c-9c9f-2d739c343873
       27 Rajab:
         _name: 27 Rajab
         type: observance
+        id: a6f7e97f-5c15-447f-bc3d-d7e0fa4caae9
       15 Shaban:
         _name: 15 Shaban
         type: observance
+        id: 6674f2d2-076a-487c-b866-95873785881d
       1 Ramadan:
         _name: 1 Ramadan
         type: observance
+        id: 1604a1fd-15c6-4969-b09b-c04457d273bd
       27 Ramadan:
         _name: 27 Ramadan
         type: observance
-      # Jewish holidays
+        id: 3412c6ca-a4ad-4c14-91d3-910d3c078ba4
       15 Nisan P2D:
         _name: 15 Nisan
+        id: e9c35b62-b90d-4ef7-970c-c88cc01f0474
       1 Tishrei:
         _name: 1 Tishrei
         type: observance
+        id: b95bf4b5-8503-41ec-9f52-e0587119fb3e
       10 Tishrei P2D:
         _name: 10 Tishrei
+        id: 7bf4ca95-b38a-4449-88ff-3d0f4b60ce4b

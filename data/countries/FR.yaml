@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://fr.wikipedia.org/wiki/Jour_f%C3%A9ri%C3%A9#France
   FR:
     names:
       fr: France
@@ -12,300 +11,118 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 4f09786d-d2ee-48d0-b5ab-67997d6ed644
       easter 1:
         _name: easter 1
+        id: 41747b56-e6ac-4104-b2cd-b10f8a56807f
       05-01:
         _name: 05-01
+        id: 8056657a-8d24-4b86-9930-fd00429759fd
       05-08:
         name:
           fr: Fête de la Victoire 1945
           en: Victory Day
+        id: 77323aa5-b41c-4be1-a066-59b284f6c554
       easter 39:
         _name: easter 39
+        id: 8497a1c3-df23-4174-bd97-e998ac521fee
       easter 49:
         _name: easter 49
         type: observance
+        id: 701cc76c-6993-4582-a7d1-9a3d081f58a7
       easter 50:
         _name: easter 50
+        id: ef573f19-570a-4129-bc8f-dd7f1036cb25
       sunday before 06-01:
         _name: Mothers Day
         type: observance
+        id: 809f3460-eb05-4ee7-96af-81ecabf7f71c
       07-14:
         name:
           fr: Fête Nationale de la France
           en: Bastille Day
+        id: da148929-719c-4016-a29e-9108db46964c
       08-15:
         _name: 08-15
+        id: 58715ad0-e219-4133-a9ba-14055beb8e9e
       11-01:
         _name: 11-01
+        id: 5762fecd-cb14-4a0c-9a8d-9339907693b9
       11-11:
         name:
           fr: Armistice 1918
           en: Armistice Day
+        id: b02d3ced-e009-4ebc-90e5-cfd1d1ce797a
       12-25:
         _name: 12-25
+        id: 6da462f8-21fc-4369-ad97-6d84a5d814aa
     states:
-      YT:
-        name: "Département et région d'outre-mer Mayotte"
-        zones:
-          - Africa/Nairobi
-        _days: YT
-      MQ:
-        name: "Département et région d'outre-mer Martinique"
-        zones:
-          - America/Martinique
-        _days: MQ
-      GP:
-        name: "Département et région d'outre-mer Guadeloupe"
-        zones:
-          - America/Port_of_Spain
-        _days: GP
-      GF:
-        name: "Département et région d'outre-mer Guyane"
-        zones:
-          - America/Cayenne
-        _days: GF
-      RE:
-        name: "Département et région d'outre-mer La Réunion"
-        zones:
-          - Indian/Reunion
-        _days: RE
-      MF:
-        name: "Département et région d'outre-mer Saint Martin"
-        zones:
-          - America/Marigot
-        _days: MF
-      BL:
-        name: "Département et région d'outre-mer Saint Barthélemy"
-        zones:
-          - America/St_Barthelemy
-        _days: BL
-      # name: Alsace
-      "67":
-        name: Département Bas-Rhin
-        days:
-          easter -2:
-            _name: easter -2
-          12-26:
-            _name: 12-26
-      "68":
-        name: Département Haut-Rhin
-        days:
-          easter -2:
-            _name: easter -2
-          12-26:
-            _name: 12-26
-      # name: Aquitaine
-      # '24':
-      #   name: Dordogne
-      # '33':
-      #   name: Gironde
-      # '40':
-      #   name: Landes
-      # '47':
-      #   name: Lot-et-Garonne
-      # '64':
-      #   name: Pyrénées-Atlantiques
-      # name: Auvergne
-      # '15':
-      #   name: Cantal
-      # '43':
-      #   name: Haute-Loire
-      # '63':
-      #   name: Puy-de-Dôme
-      # '03':
-      #   name: Allier
-      # name: Burgundy
-      # '21':
-      #   name: Côte-d’Or
-      # '58':
-      #   name: Nièvre
-      # '71':
-      #   name: Saône-et-Loire
-      # '89':
-      #   name: Yonne
-      # name: Brittany
-      # '22':
-      #   name: Côtes-d’Armor
-      # '29':
-      #   name: Finistère
-      # '35':
-      #   name: Ille-et-Vilaine
-      # '56':
-      #   name: Morbihan
-      # name: Centre-Loire Valley
-      # '18':
-      #   name: Cher
-      # '28':
-      #   name: Eure-et-Loir
-      # '36':
-      #   name: Indre
-      # '37':
-      #   name: Indre-et-Loire
-      # '41':
-      #   name: Loir-et-Cher
-      # '45':
-      #   name: Loiret
-      # name: Champagne-Ardenne
-      # '10':
-      #   name: Aube
-      # '51':
-      #   name: Marne
-      # '52':
-      #   name: Haute-Marne
-      # '08':
-      #   name: Ardennes
-      # name: Corsica
-      # 2A:
-      #   name: Corse-du-Sud
-      # 2B:
-      #   name: Haute-Corse
-      # name: Franche-Comté
-      # '25':
-      #   name: Doubs
-      # '39':
-      #   name: Jura
-      # '70':
-      #   name: Haute-Saône
-      # '90':
-      #   name: Territoire de Belfort
-      # name: Île-de-France
-      # '75':
-      #   name: Paris
-      # '77':
-      #   name: Seine-et-Marne
-      # '78':
-      #   name: Yvelines
-      # '91':
-      #   name: Essonne
-      # '92':
-      #   name: Hauts-de-Seine
-      # '93':
-      #   name: Seine-Saint-Denis
-      # '94':
-      #   name: Val-de-Marne
-      # '95':
-      #   name: Val-d’Oise
-      # name: Languedoc-Roussillon
-      # '11':
-      #   name: Aude
-      # '30':
-      #   name: Gard
-      # '34':
-      #   name: Hérault
-      # '48':
-      #   name: Lozère
-      # '66':
-      #   name: Pyrénées-Orientales
-      # name: Limousin
-      # '19':
-      #   name: Corrèze
-      # '23':
-      #   name: Creuse
-      # '87':
-      #   name: Haute-Vienne
-      # name: Lorraine
-      # '54':
-      #   # name: Meurthe-et-Moselle
-      # '55':
-      #   name: Meuse
-      "57":
+      '57':
         name: Département Moselle
         days:
           easter -2:
             _name: easter -2
+            id: 0299d0bd-3498-4b7b-ab2f-974ddd79b14a
           12-26:
             _name: 12-26
-      # '88':
-      #   name: Vosges
-      # name: Midi-Pyrénées
-      # '12':
-      #   name: Aveyron
-      # '31':
-      #   name: Haute-Garonne
-      # '32':
-      #   name: Gers
-      # '46':
-      #   name: Lot
-      # '65':
-      #   name: Hautes-Pyrénées
-      # '81':
-      #   name: Tarn
-      # '82':
-      #   name: Tarn-et-Garonne
-      # '09':
-      #   name: Ariège
-      # name: Nord-Pas-de-Calais
-      # '59':
-      #   name: Nord
-      # '62':
-      #   name: Pas-de-Calais
-      # name: Lower Normandy
-      # '14':
-      #   name: Calvados
-      # '50':
-      #   name: Manche
-      # '61':
-      #   name: Orne
-      # name: Upper Normandy
-      # '27':
-      #   name: Eure
-      # '76':
-      #   name: Seine-Maritime
-      # name: Pays de la Loire
-      # '44':
-      #   name: Loire-Atlantique
-      # '49':
-      #   name: Maine-et-Loire
-      # '53':
-      #   name: Mayenne
-      # '72':
-      #   name: Sarthe
-      # '85':
-      #   name: Vendée
-      # name: Picardy
-      # '60':
-      #   name: Oise
-      # '80':
-      #   name: Somme
-      # '02':
-      #   name: Aisne
-      # name: Poitou-Charentes
-      # '16':
-      #   name: Charente
-      # '17':
-      #   name: Charente-Maritime
-      # '79':
-      #   name: Deux-Sèvres
-      # '86':
-      #   name: Vienne
-      # name: Provence-Alpes-Côte d’Azur
-      # '13':
-      #   name: Bouches-du-Rhône
-      # '83':
-      #   name: Var
-      # '84':
-      #   name: Vaucluse
-      # '04':
-      #   name: Alpes-de-Haute-Provence
-      # '05':
-      #   name: Hautes-Alpes
-      # '06':
-      #   name: Alpes-Maritimes
-      # name: Rhône-Alpes
-      # '26':
-      #   name: Drôme
-      # '38':
-      #   name: Isère
-      # '42':
-      #   name: Loire
-      # '69':
-      #   name: Rhône
-      # '73':
-      #   name: Savoie
-      # '74':
-      #   name: Haute-Savoie
-      # '01':
-      #   name: Ain
-      # '07':
-      #   name: Ardèche
+            id: af9b9052-80ad-451b-8795-a3c092989de4
+      '67':
+        name: Département Bas-Rhin
+        days:
+          easter -2:
+            _name: easter -2
+            id: 0adbf57f-ccd6-47c9-aecf-1da10eb56aa8
+          12-26:
+            _name: 12-26
+            id: cdb444f1-c718-4468-9d37-abbc8cd0c965
+      '68':
+        name: Département Haut-Rhin
+        days:
+          easter -2:
+            _name: easter -2
+            id: 80d8dade-3eb5-4b26-ad6e-2e5bbf8c4137
+          12-26:
+            _name: 12-26
+            id: 6e849b11-b4e1-4e38-97ec-5995cb2370ba
+      YT:
+        name: Département et région d'outre-mer Mayotte
+        zones:
+          - Africa/Nairobi
+        _days: YT
+        days: {}
+      MQ:
+        name: Département et région d'outre-mer Martinique
+        zones:
+          - America/Martinique
+        _days: MQ
+        days: {}
+      GP:
+        name: Département et région d'outre-mer Guadeloupe
+        zones:
+          - America/Port_of_Spain
+        _days: GP
+        days: {}
+      GF:
+        name: Département et région d'outre-mer Guyane
+        zones:
+          - America/Cayenne
+        _days: GF
+        days: {}
+      RE:
+        name: Département et région d'outre-mer La Réunion
+        zones:
+          - Indian/Reunion
+        _days: RE
+        days: {}
+      MF:
+        name: Département et région d'outre-mer Saint Martin
+        zones:
+          - America/Marigot
+        _days: MF
+        days: {}
+      BL:
+        name: Département et région d'outre-mer Saint Barthélemy
+        zones:
+          - America/St_Barthelemy
+        _days: BL
+        days: {}

@@ -1,4 +1,3 @@
-# @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Eritrea
 holidays:
   ER:
     names:
@@ -8,66 +7,72 @@ holidays:
       - en
     zones:
       - Africa/Nairobi
-    dayoff: ""
+    dayoff: ''
     days:
       01-01:
         _name: 01-01
+        id: 40539c2f-6376-4ad9-9ae0-53d2e5af9c64
       julian 12-25:
         _name: julian 12-25
+        id: c73634ac-911f-4e0f-96d8-16a10e8abad1
       julian 01-06:
         _name: 01-06
+        id: 11c373d9-1694-4890-aa4d-4c3fdcedfb1b
       02-10:
         name:
           ti: ፈንቅል
           en: Fenkil Day
+        id: 5a7cdd3e-ff4e-41b0-b36f-bce77625cb2c
       03-08:
         _name: 03-08
+        id: 9e83cbe9-e32d-4d50-b5d6-f0300b68290b
       orthodox -2:
         _name: orthodox -2
+        id: a341ac25-0fa1-4f22-89a5-cea30cfe6e03
       orthodox:
         _name: orthodox
+        id: 4135eb7b-1c88-4dea-8626-398ffdb37f63
       05-01:
         _name: 05-01
+        id: ef20f38f-6d51-4a8b-828b-d24bda764cdf
       05-24:
         _name: Independence Day
+        id: 813baf31-9813-4633-a971-1f3a9e8b5a41
       06-20:
         name:
           en: Martyrs' Day
           ti: መዓልቲ ስውኣት
+        id: c851fe84-3e81-4e30-a138-f4c302722b42
       09-01:
         _name: Revolution Day
+        id: 10d79ee5-c071-4a3f-baa1-f77b59410f02
       09-11 in non-leap years:
         name:
           en: Geez New Year
           ti: ግዕዝ አዲስ ዓመት
+        id: eed03497-36df-496b-b9f9-41885fff0a37
       09-12 in leap years:
         name:
           en: Geez New Year
           ti: ግዕዝ አዲስ ዓመት
+        id: 520a63e0-f44e-4aeb-a111-5da094ced65a
       09-27 in non-leap years:
         name:
           en: Meskel
+        id: 0bd20e32-b073-4378-be38-05ba7cd8dac9
       09-28 in leap years:
         name:
           en: Meskel
+        id: f4b0b784-d388-4944-b26e-023d1c56fe76
       12-25:
         _name: 12-25
+        id: 95c17bcb-8dd7-4167-8f3a-c036b0e3b54d
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: d73ab9a7-8f09-4dee-ad8b-2ac3a8331fe1
       1 Shawwal:
         _name: 1 Shawwal
+        id: 64b7e5a2-a1b5-4dda-a955-957c86c6329e
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-    # states:
-    #   AN:
-    #     name: Anseba
-    #   DK:
-    #     name: Southern Red Sea
-    #   DU:
-    #     name: Debub
-    #   GB:
-    #     name: Gash-Barka
-    #   MA:
-    #     name: Maekel
-    #   SK:
-    #     name: Northern Red Sea
+        id: 749ca5ab-f9cd-4cc0-a0a7-1ccee03becaf

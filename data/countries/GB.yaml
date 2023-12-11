@@ -1,5 +1,4 @@
 holidays:
-  # @source https://www.gov.uk/bank-holidays
   GB:
     names:
       en: United Kingdom
@@ -11,69 +10,81 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: ba94f581-fce5-4e3a-b35e-af90c2cb64a2
       substitutes 01-01 if sunday then next monday:
         substitute: true
         _name: 01-01
+        id: ec45a3c2-a016-446c-906f-7cfb12c4c73d
       substitutes 01-01 if saturday then next monday:
         substitute: true
         _name: 01-01
+        id: a1998abc-30b9-4264-95c0-9a8c99f9568e
       easter -21:
         _name: Mothers Day
         type: observance
+        id: 6978305e-673a-4e7e-ac0f-98218a9c3efb
       easter -2:
         _name: easter -2
+        id: 53379ee2-0a70-4969-839e-880eb7270df7
       easter:
         _name: easter
         type: observance
+        id: 08d72682-7fa3-4d3f-9533-07b5748c3b57
       easter 1:
         _name: easter 1
+        id: 22f4072c-47e9-46bf-b854-a353b372f455
       1st monday in May:
         name:
           en: Early May bank holiday
         disable:
-          - "2020-05-04"
-      # applies to GG, JE, IM as well
-      # @source https://www.itv.com/news/channel/2019-07-19/guernsey-will-have-a-bank-holiday-on-friday-8-may-2020/
-      # @source https://www.itv.com/news/channel/2019-06-13/extra-bank-holiday-proposed-for-ve-day-75-in-jersey/
+          - '2020-05-04'
+        id: 28d9d6e3-470d-46cb-8665-94733f507fa0
       1st monday before 06-01:
         name:
           en: Spring bank holiday
         disable:
-          - "2022-05-30" # was moved to 2022-06-02
+          - '2022-05-30'
         enable:
-          - "2022-06-02"
+          - '2022-06-02'
+        id: 97c7eb4a-4c9a-4843-84a5-9c19d8c48f11
       12-25:
         _name: 12-25
+        id: 84f8930b-61a0-475f-be72-7fbe7ace9261
       substitutes 12-25 if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 12-25
+        id: f3abbbcb-ee56-452d-a881-575ebd02f4f4
       12-26:
         _name: 12-26
+        id: 490388cc-baa7-457e-9014-f5a092443c2d
       substitutes 12-26 if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 12-26
-      "2012-06-05":
+        id: c87ef5e4-f542-445e-93e4-f8fa2bc8fd90
+      '2012-06-05':
         name:
           en: Queen’s Diamond Jubilee
-      "2020-05-08":
+        id: 181746e2-bb5e-4417-888f-45964b2d0c6c
+      '2020-05-08':
         name:
           en: Early May bank holiday (VE day)
-      # @source https://www.gov.uk/government/news/extra-bank-holiday-to-mark-the-queens-platinum-jubilee-in-2022
-      "2022-06-03":
+        id: 74acb898-1ea2-4de0-b780-dc0dec7cd36a
+      '2022-06-03':
         name:
           en: Queen’s Platinum Jubilee
-      # @source https://www.gov.uk/government/news/bank-holiday-announced-for-her-majesty-queen-elizabeth-iis-state-funeral-on-monday-19-september
-      # @source https://gov.gg/monarch
-      "2022-09-19":
+        id: e151a642-a3f2-4a00-b1e5-9c308d498db3
+      '2022-09-19':
         name:
           en: Queen Elizabeth's Funeral Day
-      # @source https://www.gov.uk/government/news/bank-holiday-proclaimed-in-honour-of-the-coronation-of-his-majesty-king-charles-iii
-      "2023-05-08":
+        id: 216ac23f-fc65-49e1-8722-d77aa6bb8779
+      '2023-05-08':
         name:
           en: King Charles III's Coronation
+        id: 93d17dd6-7a1b-46ce-b31a-cd9227c58a07
       3rd sunday in June:
         _name: Fathers Day
         type: observance
+        id: a470672c-010f-4e32-9e88-328b7b31df04
     states:
       ALD:
         name: Alderney
@@ -83,317 +94,14 @@ holidays:
           12-15:
             name:
               en: Homecoming Day
+            id: c5f7648b-13a2-402e-8431-d304d672c5be
       ENG:
         name: England
         days:
           1st monday before 09-01:
             name:
               en: Summer bank holiday
-        # regions:
-        # BAS:
-        #   name: Bath and North East Somerset
-        # BBD:
-        #   name: Blackburn with Darwen
-        # BDF:
-        #   name: Bedford
-        # BDG:
-        #   name: Barking and Dagenham
-        # BEN:
-        #   name: Brent
-        # BEX:
-        #   name: Bexley
-        # BIR:
-        #   name: Birmingham
-        # BKM:
-        #   name: Buckinghamshire
-        # BMH:
-        #   name: Bournemouth
-        # BNE:
-        #   name: Barnet
-        # BNH:
-        #   name: Brighton and Hove
-        # BNS:
-        #   name: Barnsley
-        # BOL:
-        #   name: Bolton
-        # BPL:
-        #   name: Blackpool
-        # BRC:
-        #   name: Bracknell Forest
-        # BRD:
-        #   name: Bradford
-        # BRY:
-        #   name: Bromley
-        # BST:
-        #   name: Bristol
-        # BUR:
-        #   name: Bury
-        # CAM:
-        #   name: Cambridgeshire
-        # CBF:
-        #   name: Central Bedfordshire
-        # CHE:
-        #   name: Cheshire East
-        # CHW:
-        #   name: Cheshire West and Chester
-        # CLD:
-        #   name: Calderdale
-        # CMA:
-        #   name: Cumbria
-        # CMD:
-        #   name: Camden
-        # CON:
-        #   name: Cornwall
-        # COV:
-        #   name: Coventry
-        # CRY:
-        #   name: Croydon
-        # DAL:
-        #   name: Darlington
-        # DBY:
-        #   name: Derbyshire
-        # DER:
-        #   name: Derby
-        # DEV:
-        #   name: Devon
-        # DNC:
-        #   name: Doncaster
-        # DOR:
-        #   name: Dorset
-        # DUD:
-        #   name: Dudley
-        # DUR:
-        #   name: Durham
-        # EAL:
-        #   name: Ealing
-        # ENF:
-        #   name: Enfield
-        # ERY:
-        #   name: East Riding of Yorkshire
-        # ESS:
-        #   name: Essex
-        # ESX:
-        #   name: East Sussex
-        # GAT:
-        #   name: Gateshead
-        # GLS:
-        #   name: Gloucestershire
-        # GRE:
-        #   name: Greenwich
-        # HAL:
-        #   name: Halton
-        # HAM:
-        #   name: Hampshire
-        # HAV:
-        #   name: Havering
-        # HCK:
-        #   name: Hackney
-        # HEF:
-        #   name: Herefordshire
-        # HIL:
-        #   name: Hillingdon
-        # HMF:
-        #   name: Hammersmith and Fulham
-        # HNS:
-        #   name: Hounslow
-        # HPL:
-        #   name: Hartlepool
-        # HRT:
-        #   name: Hertfordshire
-        # HRW:
-        #   name: Harrow
-        # HRY:
-        #   name: Haringey
-        # IOS:
-        #   name: Isles of Scilly
-        # IOW:
-        #   name: Isle of Wight
-        # ISL:
-        #   name: Islington
-        # KEC:
-        #   name: Kensington and Chelsea
-        # KEN:
-        #   name: Kent
-        # KHL:
-        #   name: Kingston upon Hull
-        # KIR:
-        #   name: Kirklees
-        # KTT:
-        #   name: Kingston upon Thames
-        # KWL:
-        #   name: Knowsley
-        # LAN:
-        #   name: Lancashire
-        # LBH:
-        #   name: Lambeth
-        # LCE:
-        #   name: Leicester
-        # LDS:
-        #   name: Leeds
-        # LEC:
-        #   name: Leicestershire
-        # LEW:
-        #   name: Lewisham
-        # LIN:
-        #   name: Lincolnshire
-        # LIV:
-        #   name: Liverpool
-        # LND:
-        #   name: London
-        # LUT:
-        #   name: Luton
-        # MAN:
-        #   name: Manchester
-        # MDB:
-        #   name: Middlesbrough
-        # MDW:
-        #   name: Medway
-        # MIK:
-        #   name: Milton Keynes
-        # MRT:
-        #   name: Merton
-        # NBL:
-        #   name: Northumberland
-        # NEL:
-        #   name: North East Lincolnshire
-        # NET:
-        #   name: Newcastle upon Tyne
-        # NFK:
-        #   name: Norfolk
-        # NGM:
-        #   name: Nottingham
-        # NLN:
-        #   name: North Lincolnshire
-        # NSM:
-        #   name: North Somerset
-        # NTH:
-        #   name: Northamptonshire
-        # NTT:
-        #   name: Nottinghamshire
-        # NTY:
-        #   name: North Tyneside
-        # NWM:
-        #   name: Newham
-        # NYK:
-        #   name: North Yorkshire
-        # OLD:
-        #   name: Oldham
-        # OXF:
-        #   name: Oxfordshire
-        # PLY:
-        #   name: Plymouth
-        # POL:
-        #   name: Poole
-        # POR:
-        #   name: Portsmouth
-        # PTE:
-        #   name: Peter
-        # RCC:
-        #   name: Redcar and Cleveland
-        # RCH:
-        #   name: Rochdale
-        # RDB:
-        #   name: Redbridge
-        # RDG:
-        #   name: Reading
-        # RIC:
-        #   name: Richmond upon Thames
-        # ROT:
-        #   name: Rotherham
-        # RUT:
-        #   name: Rutland
-        # SAW:
-        #   name: Sandwell
-        # SFK:
-        #   name: Suffolk
-        # SFT:
-        #   name: Sefton
-        # SGC:
-        #   name: South Gloucestershire
-        # SHF:
-        #   name: Sheffield
-        # SHN:
-        #   name: Saint Helens
-        # SHR:
-        #   name: Shropshire
-        # SKP:
-        #   name: Stockport
-        # SLF:
-        #   name: Salford
-        # SLG:
-        #   name: Slough
-        # SND:
-        #   name: Sunderland
-        # SOL:
-        #   name: Solihull
-        # SOM:
-        #   name: Somerset
-        # SOS:
-        #   name: Southend-on-Sea
-        # SRY:
-        #   name: Surrey
-        # STE:
-        #   name: Stoke-on-Trent
-        # STH:
-        #   name: Southampton
-        # STN:
-        #   name: Sutton
-        # STS:
-        #   name: Staffordshire
-        # STT:
-        #   name: Stockton-on-Tees
-        # STY:
-        #   name: South Tyneside
-        # SWD:
-        #   name: Swindon
-        # SWK:
-        #   name: Southwark
-        # TAM:
-        #   name: Tameside
-        # TFW:
-        #   name: Telford and Wrekin
-        # THR:
-        #   name: Thurrock
-        # TOB:
-        #   name: Torbay
-        # TRF:
-        #   name: Trafford
-        # TWH:
-        #   name: Tower Hamlets
-        # WAR:
-        #   name: Warwickshire
-        # WBK:
-        #   name: West Berkshire
-        # WFT:
-        #   name: Waltham Forest
-        # WGN:
-        #   name: Wigan
-        # WIL:
-        #   name: Wiltshire
-        # WKF:
-        #   name: Wakefield
-        # WLL:
-        #   name: Walsall
-        # WLV:
-        #   name: Wolverhampton
-        # WND:
-        #   name: Wandsworth
-        # WNM:
-        #   name: Windsor and Maidenhead
-        # WOK:
-        #   name: Wokingham
-        # WOR:
-        #   name: Worcestershire
-        # WRL:
-        #   name: Wirral
-        # WRT:
-        #   name: Warrington
-        # WSM:
-        #   name: Westminster
-        # WSX:
-        #   name: West Sussex
-        # YOR:
-        #   name: York
+            id: c91b209f-86f0-45ca-815c-c70b23b3e554
       NIR:
         name: Northern Ireland
         zones:
@@ -401,195 +109,81 @@ holidays:
         days:
           03-17:
             name:
-              en: "St Patrick's Day"
+              en: St Patrick's Day
+            id: a23a6cda-6f05-4d57-87b8-2f6d233516ea
           substitutes 03-17 if saturday then next monday:
             substitute: true
             name:
-              en: "St Patrick's Day"
+              en: St Patrick's Day
+            id: aca94dd1-c956-4a15-a64f-52fbb3edab87
           substitutes 03-17 if sunday then next monday:
             substitute: true
             name:
-              en: "St Patrick's Day"
+              en: St Patrick's Day
+            id: 2d20a5d8-2b43-4db7-833e-23575abc581a
           07-12:
             name:
-              en: "Battle of the Boyne, Orangemen’s Day"
+              en: Battle of the Boyne, Orangemen’s Day
+            id: 2cd5ecc6-84ca-47ac-9c40-8bcd8f3be061
           substitutes 07-12 if saturday then next monday:
             substitute: true
             name:
               en: Battle of the Boyne
+            id: 6affd4cc-9ade-4a03-b25d-ebac2c1b49be
           substitutes 07-12 if sunday then next monday:
             substitute: true
             name:
               en: Battle of the Boyne
+            id: 617d8df4-9054-4dff-b3ef-edabdca12f26
           1st monday before 09-01:
             name:
               en: Summer bank holiday
-        # regions:
-        # ABC:
-        #   name: 'Armagh, Banbridge and Craigavon'
-        # AND:
-        #   name: Ards and North Down
-        # ANN:
-        #   name: Antrim and Newtownabbey
-        # BFS:
-        #   name: Belfast
-        # CCG:
-        #   name: Causeway Coast and Glens
-        # DRS:
-        #   name: Derry and Strabane
-        # FMO:
-        #   name: Fermanagh and Omagh
-        # LBC:
-        #   name: Lisburn and Castlereagh
-        # MEA:
-        #   name: Mid and East Antrim
-        # MUL:
-        #   name: Mid Ulster
-        # NMD:
-        #   name: 'Newry, Mourne and Down'
+            id: 8afdaa8b-9915-4b4c-a333-ec3510845eb9
       SCT:
         name: Scotland
         days:
-          substitutes 01-01 if sunday then next monday: false
-          substitutes 01-01 if saturday then next monday: false
+          substitutes 01-01 if sunday then next monday:
+            id: 51ee4976-469b-40e8-8d44-917e2d13288b
+          substitutes 01-01 if saturday then next monday:
+            id: 21b3f23f-f08b-4095-965b-96cd09070664
           substitutes 01-01 if saturday then next tuesday:
             substitute: true
             _name: 01-01
+            id: cec9d418-ea06-4225-b854-b60d5e648bf7
           substitutes 01-01 if sunday then next tuesday:
             substitute: true
             _name: 01-01
+            id: d45391da-4464-4ca9-91f0-f0dd3e577a14
           01-02:
             name:
               en: January 2nd
+            id: 813dcb03-5f52-4a72-8c8e-6071546e1f17
           substitutes 01-02 if saturday then next monday:
             substitute: true
             name:
               en: January 2nd
+            id: 8015a704-79eb-4f98-b43d-c1bfdc3f087e
           substitutes 01-02 if sunday then next monday:
             substitute: true
             name:
               en: January 2nd
+            id: 476bb502-fb8c-4cdd-a4ad-495659b3c209
           easter 1:
             _name: easter 1
+            id: 5aa91b12-4a42-4de0-806b-ad2b7649802d
           1st monday in August:
             name:
               en: Summer bank holiday
+            id: 7b306be5-7e71-4694-a0ad-ad4df36e29e6
           11-30:
             name:
               en: St Andrew’s Day
-        # regions:
-        # ABD:
-        #   name: Aberdeenshire
-        # ABE:
-        #   name: Aberdeen
-        # AGB:
-        #   name: Argyll and Bute
-        # ANS:
-        #   name: Angus
-        # CLK:
-        #   name: Clackmannanshire
-        # DGY:
-        #   name: Dumfries and Galloway
-        # DND:
-        #   name: Dundee
-        # EAY:
-        #   name: East Ayrshire
-        # EDH:
-        #   name: Edinburgh
-        # EDU:
-        #   name: East Dunbartonshire
-        # ELN:
-        #   name: East Lothian
-        # ELS:
-        #   name: Outer Hebrides
-        # ERW:
-        #   name: East Renfrewshire
-        # FAL:
-        #   name: Falkirk
-        # FIF:
-        #   name: Fife
-        # GLG:
-        #   name: Glasgow
-        # HLD:
-        #   name: Highland
-        # IVC:
-        #   name: Inverclyde
-        # MLN:
-        #   name: Midlothian
-        # MRY:
-        #   name: Moray
-        # NAY:
-        #   name: North Ayrshire
-        # NLK:
-        #   name: North Lanarkshire
-        # ORK:
-        #   name: Orkney Islands
-        # PKN:
-        #   name: Perth and Kinross
-        # RFW:
-        #   name: Renfrewshire
-        # SAY:
-        #   name: South Ayrshire
-        # SCB:
-        #   name: Scottish Borders
-        # SLK:
-        #   name: South Lanarkshire
-        # STG:
-        #   name: Stirling
-        # WDU:
-        #   name: West Dunbartonshire
-        # WLN:
-        #   name: West Lothian
-        # ZET:
-        #   name: Shetland
+            id: 09f86c7f-e005-48d7-91eb-5271a5fafd6c
       WLS:
         name: Wales
         days:
           1st monday before 09-01:
             name:
               en: Summer bank holiday
+            id: 78ff1413-58ba-45a5-bdf8-01a99f510cd2
         regions: {}
-        # AGY:
-        #   name: Anglesey
-        # BGE:
-        #   name: Bridgend
-        # BGW:
-        #   name: Blaenau Gwent
-        # CAY:
-        #   name: Caerphilly
-        # CGN:
-        #   name: Ceredigion
-        # CMN:
-        #   name: Carmarthenshire
-        # CRF:
-        #   name: Cardiff
-        # CWY:
-        #   name: Conwy
-        # DEN:
-        #   name: Denbighshire
-        # FLN:
-        #   name: Flintshire
-        # GWN:
-        #   name: Gwynedd
-        # MON:
-        #   name: Monmouthshire
-        # MTY:
-        #   name: Merthyr Tydfil
-        # NTL:
-        #   name: Neath Port Talbot
-        # NWP:
-        #   name: Newport
-        # PEM:
-        #   name: Pembrokeshire
-        # POW:
-        #   name: Powys
-        # RCT:
-        #   name: Rhondda Cynon Taf
-        # SWA:
-        #   name: Swansea
-        # TOF:
-        #   name: Torfaen
-        # VGL:
-        #   name: Vale of Glamorgan
-        # WRX:
-        #   name: Wrexham

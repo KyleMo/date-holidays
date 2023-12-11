@@ -1,5 +1,3 @@
-# @source https://www.legisocial.fr/jours-feries.html
-# @source http://www.saint-barth-saint-martin.gouv.fr/Vous-etes/Passeport?spl_f=N0/N19810/N103/N360#!/particuliers/page/F2405
 holidays:
   MF:
     names:
@@ -16,3 +14,4 @@ holidays:
         name:
           fr: Abolition de l'esclavage
           en: abolition of slavery
+        id: 82d8fc36-cef9-4632-988e-aef6cc460f50

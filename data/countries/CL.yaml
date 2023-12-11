@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Chile
   CL:
     names:
       es: Chile
@@ -13,67 +12,88 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: ce2dd676-87eb-46e1-ada4-8f9321495fac
       01-02 on monday since 2017:
         name: Día adicional
         active:
           - from: 2017
+        id: d5af78be-d85e-431b-9686-280c46d3c3d2
       easter -2:
         _name: easter -2
+        id: df1ff261-9eba-4531-aa26-ae948ef1ce3a
       easter:
         _name: easter
+        id: 22ebb253-e6b2-4c83-af0c-ea401c9ca8c3
       05-01:
         _name: 05-01
+        id: 3c99aa4b-a930-4887-8642-803c5a161565
       05-21:
         name:
           en: Navy Day
           es: Día de las Glorias Navales
+        id: 35cd6e54-1d35-442b-a976-739d8e495cac
       06-21 since 2023:
         name:
           en: Indigenous People's Day
           es: Día de los Pueblos Indígenas
+        id: 01586be7-cb8b-424a-84d5-1eabe5539599
       06-29 if tuesday, wednesday, thursday then previous monday if friday then next monday:
         _name: 06-29
+        id: 1af1bc20-51d3-47d5-a0de-644fae7c86e3
       07-16:
         name:
           en: Our Lady of Mount Carmel
           es: Virgen del Carmen
+        id: 4f6b1908-31a7-4b5c-8556-7b813d80640b
       08-15:
         _name: 08-15
-      "2022-09-16":
+        id: 03e5a9a0-1f9e-4a48-84f1-3c63c1997cfc
+      '2022-09-16':
         name:
           es: Fiestas Patrias
           en: National Holiday
+        id: d0189d40-b2e1-4445-8468-961fd9c59eb4
       09-17 on friday, monday since 2017:
         name:
           en: National holiday
           es: Feriado Adicional Fiestas Patrias
+        id: 9368937d-bd8e-4bbe-98f0-ade184f202f8
       09-18:
         name:
           en: National holiday
           es: Fiestas Patrias
+        id: f6b8cb85-28c8-4813-b2e2-7a591401a9e2
       09-19:
         name:
           en: Army Day
           es: Día de las Glorias del Ejército
+        id: 96d7c102-6416-43fd-b3b8-3c496ef5f244
       09-20 on friday:
         name:
           es: Feriado Adicional Fiestas Patrias
           en: National Holiday
+        id: f5cac9f0-277b-464b-beef-a1b444a250bf
       10-12 if tuesday, wednesday, thursday then previous monday if friday then next monday:
         name:
           en: Columbus Day
           es: Encuentro de Dos Mundos
+        id: ac836bca-319e-4d41-9faf-57b6a996b5d1
       10-31 if wednesday then next friday if tuesday then previous friday:
         _name: Reformation Day
+        id: ca90bd0f-0583-4b7e-abf3-9bfe0ffb5466
       11-01:
         _name: 11-01
+        id: 7ef1742c-1b08-42e3-9711-086491590476
       12-08:
         _name: 12-08
+        id: 1ff64bf9-b095-47c4-ad5a-8a1612960857
       12-25:
         _name: 12-25
+        id: 5d14bd4e-139e-4ccb-8a6d-cda8aa06697b
       12-31:
         _name: 12-31
         type: bank
+        id: 97b2caab-2a0b-4e7a-881a-dbfaceb43aef
     states:
       AP:
         name: Arica y Parinacota
@@ -82,6 +102,7 @@ holidays:
             name:
               en: Battle of Arica
               es: Asalto y Toma del Morro de Arica
+            id: ba0b8ac6-99df-4759-bf2c-74388b5670b2
       BI:
         name: Biobío
         regions:
@@ -93,7 +114,8 @@ holidays:
                   en: Nativity of Liberator Bernardo O'Higgins
                   es: Nacimiento del Prócer de la Independencia
                 active:
-                  - to: "2017-08-19"
+                  - to: '2017-08-19'
+        days: {}
       NU:
         name: Ñuble
         regions:
@@ -105,7 +127,8 @@ holidays:
                   en: Nativity of Liberator Bernardo O'Higgins
                   es: Nacimiento del Prócer de la Independencia
                 active:
-                  - from: "2017-08-19"
+                  - from: '2017-08-19'
+        days: {}
       TA:
         name: Tarapacá
         days:
@@ -116,31 +139,9 @@ holidays:
             type: observance
             disable:
               - 2015
-          "2015-08-10":
+            id: da8e12c1-1e48-4888-bed6-d29e634a33c4
+          '2015-08-10':
             name:
               en: Saint Lawrence
               es: San Lorenzo de Tarapacá
-      # AI:
-      #   name: Aysén
-      # AN:
-      #   name: Antofagasta
-      # AR:
-      #   name: Araucanía
-      # AT:
-      #   name: Atacama
-      # CO:
-      #   name: Coquimbo
-      # LI:
-      #   name: Libertador General Bernardo O’Higgins
-      # LL:
-      #   name: Los Lagos
-      # LR:
-      #   name: Los Ríos
-      # MA:
-      #   name: Magallanes Region
-      # ML:
-      #   name: Maule
-      # RM:
-      #   name: Santiago Metropolitan
-      # VS:
-      #   name: Valparaíso
+            id: c5998903-325a-4f06-ac07-3c9c26f7b113

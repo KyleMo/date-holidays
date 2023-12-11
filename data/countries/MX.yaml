@@ -1,19 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Mexico
-  #
-  # Bank Holidays:
-  # The following is the federal legislation, in Spanish, defining when banks
-  # must be closed for 2017 - 2019:
-  # @source http://www.dof.gob.mx/nota_detalle.php?codigo=5466056&fecha=20/12/2016
-  # @source http://www.dof.gob.mx/nota_detalle.php?codigo=5508103&fecha=18/12/2017
-  # @source http://www.dof.gob.mx/nota_detalle.php?codigo=5546178&fecha=11/12/2018
-  #
-  # PDF versions of the above can be also found from the Bank of Mexico's
-  # website (http://www.banxico.org.mx/) by going to "Sistema financiero" /
-  # "Estabilidad financiera".
-  #
-  # For convenience, here is the same 2019 bank information condensed and in English:
-  # @source http://www.banxico.org.mx/financial-system/d/%7B78042524-F8E9-89EB-9A8E-FD40D0CBCF40%7D.pdf
   MX:
     names:
       es: México
@@ -37,50 +22,66 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 366c5e94-1af6-4dbc-8c29-241374b229ce
       02-05:
         _name: Constitution Day
+        id: ecf74841-a27b-4fcd-b14f-80767f6f5547
       1st monday in February:
         name:
           en: Constitution Day (day off)
           es: Día de la Constitución (día libre)
+        id: 72bb7fa9-a6bb-450a-81f9-77011a8b8fc7
       03-21:
         name:
           en: Benito Juárez's birthday
           es: Natalicio de Benito Juárez
+        id: 6e88ad12-5ca7-4517-a8cb-0805baf70b16
       3rd monday in March:
         name:
           en: Benito Juárez's birthday (day off)
           es: Natalicio de Benito Juárez (día libre)
+        id: 999d1c51-2315-42b2-b1d8-9720cfecc66d
       easter -3:
         _name: easter -3
         type: bank
+        id: a0340c93-63e4-41a4-b12c-b3f5f8058a59
       easter -2:
         _name: easter -2
         type: bank
+        id: 033861c6-cda5-498e-8f19-80b22c16e7a9
       05-01:
         _name: 05-01
+        id: 33621b69-81b0-4e32-9e53-b40cba330a98
       05-10:
         _name: Mothers Day
         type: observance
+        id: 381e5222-83d4-4d84-8d9d-5b91e2e94a72
       09-16:
         _name: Independence Day
+        id: 138c8916-2618-47e5-93f7-8cbad382c063
       11-02:
         _name: 11-02
         type: bank
+        id: c5c00ff5-8316-4227-8f55-885335fce19a
       11-20:
         _name: Revolution Day
+        id: 8f1d7f2c-5c40-4c73-ac24-947307127357
       3rd monday in November:
         name:
           en: Revolution Day (day off)
           es: Día de la Revolución (día libre)
+        id: 08eac806-789b-48a3-80d9-bffd5ac89ed0
       12-01 every 6 years since 1934:
         name:
           en: Change of Federal Government
           es: Transmisión del Poder Ejecutivo Federal
+        id: ba5bae23-9a74-4930-a449-322893285a80
       12-12:
         name:
           en: Day of the Virgin of Guadalupe
           es: Día de la Virgen de Guadalupe
         type: bank
+        id: 3d82c100-81fd-45e6-be3e-adccd1bb352e
       12-25:
         _name: 12-25
+        id: a92b0032-ea4f-4f40-8eab-470da2b851c8

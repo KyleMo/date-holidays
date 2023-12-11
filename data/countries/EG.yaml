@@ -1,8 +1,7 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Egypt
   EG:
     names:
-      ar: "جمهورية مصر العربية"
+      ar: جمهورية مصر العربية
       en: Egypt
     langs:
       - ar
@@ -13,94 +12,52 @@ holidays:
     days:
       01-25 since 2011:
         name:
-          ar: "عيد ثورة 25 يناير"
+          ar: عيد ثورة 25 يناير
           en: Revolution Day 2011
+        id: 83df60a7-9b6c-4f6e-9af8-12f376387f82
       01-25:
         name:
-          ar: "عيد الشرطة"
+          ar: عيد الشرطة
           en: National Police Day
+        id: 84de561f-5247-41cc-ba35-da8aee58ac58
       04-25:
         name:
-          ar: "عيد تحرير سيناء"
+          ar: عيد تحرير سيناء
           en: Sinai Liberation Day
+        id: 156e5165-d9ea-4068-a63d-8f8efce87a51
       05-01:
         _name: 05-01
+        id: 98fbf3eb-f332-4529-bb73-56299a14f2ae
       06-30:
         name:
-          ar: "عيد ثورة 30 يونيو"
+          ar: عيد ثورة 30 يونيو
           en: 30 June Day
+        id: a8431086-a214-435b-9489-b3f09d38034a
       07-23:
         _name: Revolution Day
+        id: d9191ef5-026f-4432-bf08-11a5008e9e37
       10-06:
         name:
-          ar: "عيد القوات المسلحة"
+          ar: عيد القوات المسلحة
           en: Armed Forces Day
+        id: da1a210b-3400-43f7-a438-6409d5f4f56f
       orthodox 1:
         name:
-          ar: "شم النسيم"
+          ar: شم النسيم
           en: Sham El Nessim
+        id: 51267d14-3f7a-41d2-b4ab-3e5dc7e022dc
       julian 12-25:
         _name: 12-25
+        id: 70fc9d09-07c8-46f2-a291-a624133c2803
       1 Muharram:
         _name: 1 Muharram
+        id: 7929ef6f-16ab-49b6-beaa-1168ce849df3
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: 07deb601-4890-40e4-881a-1966354bacbf
       1 Shawwal P3D:
         _name: 1 Shawwal
+        id: 0190fcb6-bbd9-4172-881c-b370ba1462cf
       10 Dhu al-Hijjah P4D:
         _name: 10 Dhu al-Hijjah
-    # states:
-    #   ALX:
-    #     name: Alexandria
-    #   ASN:
-    #     name: Aswan
-    #   AST:
-    #     name: Asyut
-    #   BA:
-    #     name: Red Sea
-    #   BH:
-    #     name: Beheira
-    #   BNS:
-    #     name: Beni Suef
-    #   C:
-    #     name: Cairo
-    #   DK:
-    #     name: Dakahlia
-    #   DT:
-    #     name: Damietta
-    #   FYM:
-    #     name: Faiyum
-    #   GH:
-    #     name: Gharbia
-    #   GZ:
-    #     name: Giza
-    #   IS:
-    #     name: Ismailia
-    #   JS:
-    #     name: South Sinai
-    #   KB:
-    #     name: Qalyubia
-    #   KFS:
-    #     name: Kafr el-Sheikh
-    #   KN:
-    #     name: Qena
-    #   LX:
-    #     name: Luxor
-    #   MN:
-    #     name: Minya
-    #   MNF:
-    #     name: Monufia
-    #   MT:
-    #     name: Matrouh
-    #   PTS:
-    #     name: Port Said
-    #   SHG:
-    #     name: Sohag
-    #   SHR:
-    #     name: Al Sharqia
-    #   SIN:
-    #     name: North Sinai
-    #   SUZ:
-    #     name: Suez
-    #   WAD:
-    #     name: New Valley
+        id: 7ef7c4f6-ace0-46f9-ae1d-d7ba6dff4f2c

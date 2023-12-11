@@ -1,11 +1,3 @@
-# @source http://bvi.gov.vg/media-centre/2015-public-holidays
-# @source http://bvi.gov.vg/media-centre/2016-public-holidays
-# @source http://bvi.gov.vg/media-centre/2017-public-holidays
-# @source http://bvi.gov.vg/media-centre/2018-public-holidays
-# @source http://bvi.gov.vg/media-centre/2019-public-holidays
-# @source http://bvi.gov.vg/media-centre/2020-public-holidays
-# @source http://bvi.gov.vg/media-centre/2021-public-holidays
-# @source https://bvi.gov.vg/sites/default/files/649_-_2021_public_holidays.pdf
 holidays:
   VG:
     names:
@@ -18,80 +10,86 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: b633a3da-fa46-4101-af0f-618bcceaafc4
       Monday before 03-08:
         name:
           en: The Anniversary of the Birth of Hamilton Lavity Stoutt
+        id: e98a2e44-436b-4eec-9b1a-bdd06db1ee6c
       2nd Monday in March:
         name:
           en: Commonwealth Day
+        id: ee92cf1c-b366-429b-ab9b-2d6f4086dca4
       easter -2:
         _name: easter -2
+        id: 2461db25-0c5a-4286-8fd2-099438db3567
       easter:
         _name: easter
         type: observance
+        id: c71d36ef-4f30-4e8e-9c23-aab4c66b154e
       easter 1:
         _name: easter 1
+        id: aefab302-7f09-4840-94f5-fc8eb2e0f46a
       easter 49:
         _name: easter 49
         type: observance
+        id: 4d05a551-4a0d-496e-97d7-933096d75632
       easter 50:
         _name: easter 50
+        id: 9b679001-f74b-41f8-8728-2cb4a576191b
       2nd Saturday after 06-02 prior to 2020:
         name:
           en: Sovereign’s Birthday
         disable:
-          - "2017-06-10"
-          - "2019-06-15"
+          - '2017-06-10'
+          - '2019-06-15'
         enable:
-          - "2017-06-17"
-          - "2019-06-07"
+          - '2017-06-17'
+          - '2019-06-07'
+        id: d515d3ec-b469-4136-ac6b-8a526bc10258
       2nd Friday after 06-02 since 2020:
         name:
           en: Sovereign’s Birthday
+        id: 48863ae7-41c2-4080-a319-99e301ac29ca
       07-01 if Sunday,Thursday then next Monday if Saturday then previous Friday if Tuesday,Wednesday then previous Monday:
         name:
           en: Virgin Islands Day
-        # wed 1/7/15 -> mon 29/6
-        # fri 1/7/16
-        # sat 1/7/17 -> fri 30/6
-        # sun 1/7/18 -> mon 2/7
-        # mon 1/7/19
-        # wed 1/7/20 -> mon 29/6
-        # thu 1/7/21 -> mon 5/7
+        id: d22e1edb-6e0a-493f-a40f-4384f7af79b5
       10-21 if Sunday then next Monday if Saturday then previous Friday if Tuesday,Wednesday then previous Monday if Thursday then next Friday:
         name:
           en: St. Ursula’s Day
         disable:
-          - "2016-10-23"
-          - "2020-10-19"
-          - "2021-10-22"
+          - '2016-10-23'
+          - '2020-10-19'
+          - '2021-10-22'
         enable:
-          - "2016-10-19"
-          - "2020-10-23"
-        # wed 21/10/15 -> mon 19/10
-        # fri 21/10/16
-        # sat 21/10/17 -> fri 20/10
-        # sun 21/10/18 -> mon 22/10
-        # mon 21/10/19
-        # wed 21/10/20 -> fri 23/10
+          - '2016-10-19'
+          - '2020-10-23'
+        id: a86c2ee6-d811-409c-8f9d-3217b9f17f8c
       1st Monday in August:
         name:
           en: Emancipation Monday
+        id: 8e274a76-1571-4076-880b-b4925d6d58c3
       Tuesday after 1st Monday in August:
         name:
           en: Emancipation Tuesday
+        id: d6e6ead8-1b2b-4585-941b-7a6a9defa61e
       Wednesday after 1st Monday in August:
         name:
           en: Emancipation Wednesday
-      "2021-10-18":
+        id: 29354abd-0e17-4479-a677-8ef58b64f5a3
+      '2021-10-18':
         name:
           en: Heroes’ and Forefathers Day
-      "2021-11-08":
+        id: 421f3625-731a-48be-9c5d-2aeece8ccc63
+      '2021-11-08':
         name:
           en: Commemoration of the Great March of 1949
+        id: 2d9f0b57-15b6-4ac1-b617-e8ada785f74f
       12-25 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-25
+        id: 22ac0a75-7107-4882-9e82-5964d2f9bcd4
       12-26 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-26
+        id: c88a9563-9d8b-49bb-8e5b-9b47187a4fc0

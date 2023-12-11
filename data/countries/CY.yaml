@@ -1,10 +1,9 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Cyprus
   CY:
     names:
       el: Κύπρος
       en: Cyprus
-    dayoff: ""
+    dayoff: ''
     langs:
       - el
     zones:
@@ -12,62 +11,66 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 0ceb9044-c0c8-4d4f-90e0-1edbee4afa4a
       01-06:
         _name: 01-06
+        id: f6a0e36c-3054-4ee8-9db6-79ecdf8c861b
       orthodox -48:
         name:
           el: Καθαρά Δευτέρα
           en: Ash Sunday
         type: observance
+        id: 39d09890-15df-4c96-997a-c3e9a6b4c7b1
       orthodox -47:
         name:
           el: Καθαρά Δευτέρα
           en: Clean Monday
+        id: b86c13bb-9181-4fd7-8602-b34773606cce
       03-25:
         name:
           el: Ευαγγελισμός, Εθνική Εορτή
           en: Annunciation, Anniversary of 1821 Revolution
+        id: 348c8e1e-89a9-461c-acb4-ab0900ac5a5c
       04-01:
         name:
           en: Cyprus National Day
           el: Κύπρος Εθνική Εορτή
+        id: 7f61cc5f-dee5-4ab9-b240-0a9832257b58
       orthodox -2:
         _name: easter -2
+        id: 620e4ff4-d86b-4321-9708-abb8be8a2666
       orthodox:
         _name: easter
+        id: 2f90c4c0-dc26-44d9-bd43-5fc0e6eda1a9
       orthodox 1:
         _name: easter 1
+        id: 00972034-1b75-4069-bfc2-d237e01a11dc
       05-01:
         _name: 05-01
+        id: 973e4c01-71b0-4432-a915-d4ac28867aed
       orthodox 49:
         _name: easter 49
+        id: c9a69dae-5104-4709-8e3b-511deef50983
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: 0c69fda8-e43d-4015-b0aa-bf3cbf11af35
       08-15:
         _name: 08-15
+        id: 9b99f6d7-7282-4eea-946f-dffd171c3351
       10-01:
         name:
           en: Cyprus Independence Day
           el: Ημέρα της Ανεξαρτησίας Κύπρος
+        id: 633e4ecd-61a0-4a29-932e-308f692ca8ee
       10-28:
         _name: National Holiday
         name:
           el: Επέτειος του Όχι
+        id: 3b756365-3bd6-41bd-bad4-4fa0ea168776
       12-25:
         _name: 12-25
+        id: 0d42fe43-44bc-4172-a0d0-fa028e9a7e10
       12-26:
         _name: 12-26
-    # states:
-    # '01':
-    #   name: Nicosia
-    # '02':
-    #   name: Limassol
-    # '03':
-    #   name: Larnaca
-    # '04':
-    #   name: Famagusta
-    # '05':
-    #   name: Paphos
-    # '06':
-    #   name: Kyrenia
+        id: 6933f97b-0e37-4a33-9c1d-1938300ccc7b

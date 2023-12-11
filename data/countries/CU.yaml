@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Cuba
   CU:
     names:
       es: Cuba
@@ -14,60 +13,36 @@ holidays:
         name:
           es: Triunfo de la Revolución
           en: Triumph of the Revolution
+        id: 3a80cbb5-1c3b-49ae-bd0a-53ebdb4dc2cb
       01-02:
         name:
           es: Día de Victoria de las Fuerzas Armadas
           en: Victory of Armed Forces Day
+        id: d37a7e76-5e38-4efb-b8d2-678619b0c1e9
       easter -2:
         _name: easter -2
+        id: 8ddfff4b-343c-47cc-b49f-86c0777a22eb
       05-01:
         _name: 05-01
+        id: 17c63203-bad0-4953-92eb-79f3e0e9526e
       07-25:
         name:
           es: Conmemoración del asalto a Moncada
           en: Day before the Commemoration of the Assault of the Moncada garrison
+        id: 88ab8dd4-cc53-445c-bb0e-6e10c3bb8c1b
       07-26:
         name:
           es: Día de la Rebeldía Nacional
           en: Commemoration of the Assault of the Moncada garrison
+        id: 852abfe9-80c3-41ba-a14d-746e323f6a17
       07-27:
         name:
           es: Conmemoración del asalto a Moncada
           en: Day after the Commemoration of the Assault of the Moncada garrison
+        id: a78ba83f-839b-48f1-a821-edfa7a637b3b
       10-10:
         _name: Independence Day
+        id: 86eb7457-a74f-4cf8-8d20-6b902120f1aa
       12-25:
         _name: 12-25
-    # states:
-    # '01':
-    #   name: Pinar del Río
-    # '03':
-    #   name: Havana
-    # '04':
-    #   name: Matanzas
-    # '05':
-    #   name: Villa Clara
-    # '06':
-    #   name: Cienfuegos
-    # '07':
-    #   name: Sancti Spíritus
-    # '08':
-    #   name: Ciego de Ávila
-    # '09':
-    #   name: Camagüey
-    # '10':
-    #   name: Las Tunas
-    # '11':
-    #   name: Holguín
-    # '12':
-    #   name: Granma
-    # '13':
-    #   name: Santiago de Cuba
-    # '14':
-    #   name: Guantánamo
-    # '15':
-    #   name: Artemisa
-    # '16':
-    #   name: Mayabeque
-    # '99':
-    #   name: Isla de la Juventud
+        id: 313749a6-b7e8-4ecb-8c90-e6c0fa9aa601

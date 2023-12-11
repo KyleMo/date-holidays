@@ -1,6 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_the_Bahamas
-  # @source http://laws.bahamas.gov.bs/cms/images/LEGISLATION/PRINCIPAL/1938/1938-0015/PublicHolidaysAct_1.pdf
   BS:
     names:
       en: Bahamas
@@ -12,103 +10,54 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: a8cc3fd8-c0ba-4d6d-a44b-82b6f1a74cc4
       01-10 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: Majority Rule Day
+        id: a0782900-770b-46bd-a777-e2f9429e42e5
       easter -2:
         _name: easter -2
+        id: b2e2cc27-9d27-4c76-8f5d-dd59c7bd5dfd
       easter:
         _name: easter
         type: observance
+        id: 45259139-d1aa-409e-81bc-766864a66244
       easter 1:
         _name: easter 1
+        id: c455c184-8713-4128-b6b0-5c58aeac73c7
       2nd sunday in May:
         _name: Mothers Day
         type: observance
+        id: 78d55e6b-a887-4138-9e07-1b48b4519211
       easter 49:
         _name: easter 49
         type: observance
+        id: 7d491c99-3bf8-4b57-af52-9a65a2b88395
       easter 50:
         _name: easter 50
+        id: ce134cf2-ab75-47e5-850d-db0056ed31bc
       1st friday in June:
         _name: 05-01
         name:
           en: Randol Fawkes Labour Day
+        id: ddb23bc8-08be-405a-8e27-2fc6a775fa70
       07-10 and if saturday,sunday then next monday:
         substitute: true
         _name: Independence Day
+        id: 07691e61-a5d3-4b79-9e8b-0220f6114a44
       1st monday in August:
         name:
           en: Emancipation Day
+        id: 48bfd1c0-2697-41e9-9d94-cdebd3da4164
       10-12 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: National Heroes' Day
+        id: 72742700-f008-4ec7-bd0b-e61afc304e7c
       12-25:
         _name: 12-25
+        id: d9a35781-c7d7-408e-96ef-5a7b10c9af00
       12-26:
         _name: 12-26
-    # regions:
-    # AK:
-    #   name: Acklins
-    # BI:
-    #   name: Bimini
-    # BP:
-    #   name: Black Point
-    # BY:
-    #   name: Berry Islands
-    # CE:
-    #   name: Central Eleuthera
-    # CI:
-    #   name: Cat Island
-    # CK:
-    #   name: Crooked Island
-    # CO:
-    #   name: Central Abaco
-    # CS:
-    #   name: Central Andros
-    # EG:
-    #   name: East Grand Bahama
-    # EX:
-    #   name: Exuma
-    # FP:
-    #   name: Freeport
-    # GC:
-    #   name: Grand Cay
-    # HI:
-    #   name: Harbour Island
-    # HT:
-    #   name: Hope Town
-    # IN:
-    #   name: Inagua
-    # LI:
-    #   name: Long Island
-    # MC:
-    #   name: Mangrove Cay
-    # MG:
-    #   name: Mayaguana
-    # MI:
-    #   name: Moore’s Island
-    # NE:
-    #   name: North Eleuthera
-    # 'NO':
-    #   name: North Abaco
-    # NS:
-    #   name: North Andros
-    # RC:
-    #   name: Rum Cay
-    # RI:
-    #   name: Ragged Island
-    # SA:
-    #   name: South Andros
-    # SE:
-    #   name: South Eleuthera
-    # SO:
-    #   name: South Abaco
-    # SS:
-    #   name: San Salvador
-    # SW:
-    #   name: Spanish Wells
-    # WG:
-    #   name: West Grand Bahama
+        id: 9028bff2-2f2e-4966-8210-12671c44f443

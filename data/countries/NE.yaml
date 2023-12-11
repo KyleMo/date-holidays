@@ -1,10 +1,3 @@
-# @source https://www.fedee.com/fr/kb/niger-public-holidays-2021/
-# @source http://www.mfpt.gouv.ne/images/BIBLIOTHEQUE/CONVENTION_COLLECTIVE.pdf
-# @source https://www.qppstudio.net/publicholidays2025/niger.htm
-# @source https://wageindicator.org/documents/decentworkcheck/africa/niger-french.pdf
-# @source https://publicholidays.africa/niger/fr/2021-dates/
-# @source http://dniwolne.eu/fr-Afrique-Jours-F%C3%A9ri%C3%A9s-Niger.html
-# @attrib https://fr.wikipedia.org/wiki/Niger
 holidays:
   NE:
     names:
@@ -18,49 +11,43 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 9886f6fe-c78f-4313-9a5c-fb76f8f95c50
       04-24:
         name:
           fr: Journée Nationale de la Concorde
           en: Concord Day
+        id: 9a1f3add-5876-4cfc-88e6-917b46a16b0a
       05-01:
         _name: 05-01
+        id: 59672804-d4ec-4b7b-b697-7d589c11c34c
       08-03:
         _name: Independence Day
         name:
           fr: Proclamation de l'indépendance
+        id: 610f3096-8739-4519-9e2b-12a1a2507df2
       12-18:
         name:
           fr: Proclamation de la République
           en: Republic Day
+        id: 0c026a27-16ad-4f6d-802f-ef1d2ee63610
       12-25:
         _name: 12-25
+        id: 549752d9-850a-43c5-bc17-74af7e07ffeb
       easter 1:
         _name: easter 1
+        id: 6be8ebfe-beef-4b61-bb00-50576457c30c
       1 Shawwal:
         _name: 1 Shawwal
+        id: 7acde09d-5c32-4626-88cb-6544026aa1f8
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
+        id: 5fbb244e-81cc-478d-bdb5-198ae2ee7c8e
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: 140693ae-ee48-4416-ad36-8078934fa4fa
       1 Muharram:
         _name: 1 Muharram
+        id: 76a8b990-3a01-4b66-a619-890ec6b1cefd
       27 Ramadan:
         _name: 27 Ramadan
-
-#    states:
-#      '1':
-#        name: Agadez
-#      '2':
-#        name: Diffa
-#      '3':
-#        name: Dosso
-#      '4':
-#        name: Maradi
-#      '5':
-#        name: Tahoua
-#      '6':
-#        name: Tillabéri
-#      '7':
-#        name: Zinder
-#      '8':
-#        name: Niamey
+        id: fe6a3474-af36-4c5b-a572-eeed832c3bbf

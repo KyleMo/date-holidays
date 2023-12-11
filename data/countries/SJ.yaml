@@ -3,8 +3,8 @@ holidays:
     names:
       en: Svalbard & Jan Mayen
     langs:
-      - no
+      - 'no'
     zones:
       - Europe/Oslo
     dayoff: sunday
-    _days: NO
+    _days: 'NO'

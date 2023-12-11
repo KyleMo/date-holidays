@@ -1,5 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Togo
   TG:
     names:
       fr: République togolaise
@@ -12,33 +11,47 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 665223f3-0e04-4292-ab9e-512a719fcaf5
       01-13:
         name:
           fr: Jour de la libération
           en: Liberation Day
+        id: ed53a998-ebf4-4d8b-80ae-a804c742dd7b
       04-27:
         _name: Independence Day
+        id: 87889a4b-17e9-49cf-86c7-5009a08d9054
       easter 1:
         _name: easter 1
+        id: cc52e758-1f52-43fa-be72-4403d6c60380
       05-01:
         _name: 05-01
+        id: 00b2cd80-f88d-4b75-9913-d2b58618d733
       easter 39:
         _name: easter 39
+        id: b729b0a6-dc7f-4967-8e2b-14028c9a77a8
       easter 50:
         _name: easter 50
+        id: d3f9ab94-9f93-41fb-84e5-2a7bc3730be3
       06-21:
         name:
           fr: Journée des Martyrs
           en: Day of the Martyrs
+        id: 9055ec53-0503-4681-b01b-57ecbefdcf39
       08-15:
         _name: 08-15
+        id: 0b9a6683-9ede-4ec8-9552-65fada19199a
       11-01:
         _name: 11-01
+        id: d9075347-ed8f-4b67-afd1-837ee05fa8ec
       12-25:
         _name: 12-25
+        id: 0b4cc250-1238-4cdf-9fa4-1f96bd726f30
       13 Rabi al-awwal:
         _name: 12 Rabi al-awwal
+        id: e2fd69e2-d2f2-420a-bf70-e5c228fe48cd
       2 Shawwal:
         _name: 1 Shawwal
+        id: 5d163d4e-f2fb-42c9-a8a9-d96ce4eb7d2d
       11 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
+        id: ffd264ae-3eb7-4312-a5c2-caaedbe42f1e

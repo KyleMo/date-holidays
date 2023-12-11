@@ -1,6 +1,3 @@
-# @source http://www.ea.aw/pa/calender/vakantie-di-scol
-# @source http://daoaruba.com/pdf/Dia%20nan%20di%20fiesta2016_PAP.pdf
-# @source http://www.gobierno.aw/informacion-tocante-servicio/vakantie-di-scol-inclusivo-e-dianan-di-fiesta_42938/
 holidays:
   AW:
     names:
@@ -16,47 +13,61 @@ holidays:
     days:
       01-01:
         _name: 01-01
+        id: 1ccdd607-0c93-4e89-8d03-ec51becd842c
       01-25:
         name:
           pap: Dia di Betico
           nl: Herdenking G. F. Croes
           en: Betico Croes Day
+        id: bb7cd696-cf25-4018-ac4c-4e44a230b827
       easter -48:
         _name: easter -48
+        id: 035777a5-cae6-48cf-ba78-712b36f9e997
       03-18 and if saturday then previous friday if sunday then next monday:
         substitute: true
         name:
           pap: Dia di Himno y Bandera
           nl: Herdenking Vlag en Volkslied
           en: National Anthem and Flag Day
+        id: ae0a0f5a-587f-47a7-b800-53e2a15d9c2c
       easter -2:
         _name: easter -2
+        id: 1d7f2d73-ac6e-450f-84f7-bba8cebbf296
       easter:
         _name: easter
         type: observance
+        id: b88c5dec-149e-4f7c-80a1-3b96086254a0
       easter 1:
         _name: easter 1
+        id: d5f1466a-324d-47db-97a7-83bb4ad4a2d2
       04-27:
         name:
           pap: Aña di Rey
           nl: Koningsdag
           en: Kings Day
+        id: 1da996fd-18c3-4b4a-85f9-6898003f83dc
       05-01 if sunday then next monday:
         _name: 05-01
+        id: 8b610b96-9ffd-42e5-9cd3-69a6c3261a98
       06-24:
         name:
           pap: Dera Gai
           nl: Dera Gai
           en: Dera Gai
         type: observance
+        id: b01e3755-a4ee-427b-9dce-f0d0ef7d79be
       easter 39:
         _name: easter 39
+        id: 5b867dad-8282-4311-9ffa-864511ce46a1
       12-05:
         name:
           nl: Sinterklaasavond
           en: St. Nicholas' Eve
         type: observance
+        id: 5e72f66a-1e56-486a-b38f-c06b64d002c0
       12-25:
         _name: 12-25
+        id: 8d76e7cc-5ade-42d2-b76d-8b05c1161549
       12-26:
         _name: 12-26
+        id: bd5e56eb-ae66-415b-9fef-c948a2474ded

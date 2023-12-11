@@ -1,9 +1,4 @@
 holidays:
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_the_United_States#Guam
-  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_Guam
-  # @source https://www.guamtax.com/help/holidays.html
-  # @source http://www.guamcourts.org/CompilerofLaws/GCA/01gca/1gc010.PDF
-  # @source http://www.guamcourts.org/Holidays-and-Hours/JOG-Holidays-and-Hours.html
   GU:
     names:
       en: Guam
@@ -13,25 +8,29 @@ holidays:
       - en
     zones:
       - Pacific/Guam
-    # same federal holidays as US
     _days:
       - US
-    # additional holidays
     days:
-      3rd monday in February: false
-      # Saint Patrick's Day is not observed
-      03-17: false
+      3rd monday in February:
+        id: 10d0b89b-4a10-4b95-9e4b-02672dd2826d
+      03-17:
+        id: 847094cc-0f70-47a7-badb-1c0d449d7c66
       1st monday in March:
         name:
           en: Guam History and Chamorro Heritage Day
+        id: 659915f3-c0c0-4f05-b394-32c32b0d5d96
       easter -2:
         _name: easter -2
         type: observance
+        id: 1e15a3a6-07ef-4218-80f0-8722882d7e03
       07-21 if sunday then next monday:
         name:
           en: Liberation Day
+        id: 7aea8b90-b45b-4f0e-9289-5ef854c1df42
       11-02:
         _name: 11-02
+        id: e8a54df5-92ff-4ad8-9651-b91abb5da4be
       12-08 if sunday then next monday:
         name:
           en: Our Lady of Camarin Day
+        id: 55164ad1-444b-413c-a426-a6695bd8c53a
