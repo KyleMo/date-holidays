@@ -1,6 +1,6 @@
 {
     "name": "date-holidays-with-ids",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "description": "worldwide holidays",
     "keywords": [
         "holidays",
@@ -133,7 +133,7 @@
         ".": {
             "import": "./src/index.js",
             "require": "./lib/index.cjs",
-            "types": "./date-holidays-with-ids.d.ts"
+            "types": "./index.d.ts"
         },
         "./data": {
             "import": "./src/data.js",
