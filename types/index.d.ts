@@ -1,4 +1,4 @@
-declare module "date-holidays" {
+declare module "date-holidays-with-ids" {
     export namespace HolidaysTypes {
         export interface Country {
             /** IANA country code */
