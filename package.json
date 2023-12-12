@@ -133,7 +133,7 @@
         ".": {
             "import": "./src/index.js",
             "require": "./lib/index.cjs",
-            "types": "./types/index.d.ts"
+            "types": "./date-holidays-with-ids.d.ts"
         },
         "./data": {
             "import": "./src/data.js",
