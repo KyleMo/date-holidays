@@ -1,4 +1,4 @@
-import Holidays from "date-holidays-with-ids";
+import Holidays from "@kylemonstad/date-holidays-with-ids";
 
 const hd = new Holidays();
 hd.init("US");
