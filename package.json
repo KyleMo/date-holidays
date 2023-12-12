@@ -6,13 +6,13 @@
         "holidays",
         "world"
     ],
-    "homepage": "https://github.com/commenthol/date-holidays",
+    "homepage": "https://github.com/KyleMo/date-holidays",
     "bugs": {
-        "url": "https://github.com/commenthol/date-holidays/issues"
+        "url": "https://github.com/KyleMo/date-holidays/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/commenthol/date-holidays.git"
+        "url": "git+https://github.com/KyleMo/date-holidays"
     },
     "license": "(ISC AND CC-BY-3.0)",
     "author": "commenthol <commenthol@gmail.com>",
