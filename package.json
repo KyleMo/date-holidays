@@ -1,6 +1,6 @@
 {
-    "name": "@kylemonstad/date-holidays-with-ids",
-    "version": "1.0.3",
+    "name": "date-holidays-with-ids",
+    "version": "1.0.4",
     "description": "worldwide holidays",
     "keywords": [
         "holidays",
