@@ -22,48 +22,48 @@ holidays:
     days:
       01-01 and if saturday,sunday then next monday:
         _name: 01-01
-        id: ebd0665f-d9d0-43c0-97a7-56a671f74c8f
+        id: 35fa33c2-b0ba-4a27-9601-497b30ea8072
       01-26 if saturday,sunday then next monday:
         substitute: true
         name:
           en: Australia Day
-        id: 6f6dca63-d860-41f1-9b19-cf27d9b85ac0
+        id: c78cab82-5303-4a77-9153-6d0bc77df09a
       easter -2:
         _name: easter -2
-        id: 3f03688d-0f7f-4da2-8c7d-26f7db2d6222
+        id: 99b86671-a11c-428f-aeeb-4aa86262e5ba
       easter -1:
         _name: easter -1
-        id: c969502f-2fd6-4c4a-9ec4-57bd8b09deb0
+        id: 1bf15e88-7235-4e5c-a694-bb736dfdb794
       easter:
         _name: easter
-        id: 09d701bc-11e4-4175-b070-93cf93456f99
+        id: 8828e80e-bf85-459a-a177-3197ce048806
       easter 1:
         _name: easter 1
-        id: 2f957b0f-d2e1-4b1d-9a0d-3dd0eee498c7
+        id: 13db38ff-971a-4433-9ba4-9ae4c12130fa
       04-25:
         name:
           en: Anzac Day
-        id: f191e6cd-7143-4bdc-97fd-f36861f0f575
+        id: 8f0b5e8e-76f6-4d0f-be34-5acbcc8dc1e8
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: d32b9c03-10fd-4802-868f-c111fda13e1d
+        id: f2fa3b42-1ccb-46ff-91e8-e2c47b2c8d87
       1st sunday in September:
         _name: Fathers Day
         type: observance
-        id: 7685075a-4d30-4986-aa20-5122ff5c69db
+        id: 291ad672-5b62-4f53-be5d-267ddf798e2f
       12-25 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 12-25
-        id: fbcfcb47-6fd4-4852-8d24-5577abc4bfcb
+        id: 94a8feca-9116-484f-a7c7-ab5912b49efd
       12-26 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 12-26
-        id: 8bd35bab-9b8e-46b5-b9a2-3e0c66d7873c
+        id: c7f74d59-9d94-4ed3-a821-ab959784945b
       '2022-09-22':
         name:
           en: National Day of Mourning for Queen Elizabeth II
-        id: a2762333-5b6e-482d-9250-d427598f7096
+        id: b8011916-e8fa-46d6-b206-ca5666af33e2
     states:
       ACT:
         name: Australian Capital Territory
@@ -73,39 +73,39 @@ holidays:
           2nd monday in March:
             name:
               en: Canberra Day
-            id: 621a6489-26b5-4100-a208-8bd66f255633
+            id: 438d30c9-0fab-4439-9568-0ff5ef83a12e
           04-25:
-            id: c284618d-597c-4796-b683-1b5a6a3370f7
+            id: 711b4bea-63b1-4f2c-a687-9dde9d8b6bd6
           04-25 if sunday then next monday:
             substitute: true
             name:
               en: Anzac Day
-            id: d38b76b1-7055-414a-b0cd-82eff93c59f4
+            id: fbf8a88f-8073-4130-b934-0c1483eb9cd5
           '2020-04-27':
             name:
               en: Declared public holiday
             type: public
-            id: 673ddca7-dc11-49e5-afa2-b4d75c059c51
+            id: 6c6b01d3-c29d-43bf-b44f-951e441d0f83
           monday after 05-27:
             name:
               en: Reconciliation Day
-            id: 80da39ab-3a2b-40dd-a4e6-1e81a5b5b232
+            id: c686a1e8-88b0-4148-ab81-38a0ca4cf93c
           2nd monday in June:
             name:
               en: Queen's Birthday
             active:
               - to: '2022-09-08'
-            id: 840949d8-cc24-4c7a-ba61-891c23f9cddd
+            id: 3d812926-46e2-4d5e-bbd3-c9f19ff5b3ca
           '2nd monday in June #1':
             name:
               en: King's Birthday
             active:
               - from: '2022-09-09'
-            id: f0387d09-ddfb-41f1-80cf-594a11010a98
+            id: edc63bd6-a3fa-4fc1-ad13-6d2464ca32be
           1st monday in October:
             name:
               en: Labour Day
-            id: ca90bb1f-7180-4244-9f76-8bfd1640b27b
+            id: 7de68af5-9efd-4b26-bb4c-e522a1b3af4e
       NSW:
         name: New South Wales
         zones:
@@ -116,76 +116,76 @@ holidays:
               en: Queen's Birthday
             active:
               - to: '2022-09-08'
-            id: e8b65c42-a7b7-435f-bdfe-ea3941cd7cae
+            id: f7e83d3c-8143-4103-aae8-da35398900f6
           '2nd monday in June #1':
             name:
               en: King's Birthday
             active:
               - from: '2022-09-09'
-            id: fd71e49e-c8b7-47e1-8e0c-d6b7ec74402b
+            id: 7b10ef8c-d7f3-42b5-b649-bd18971c4424
           1st monday in August:
             name:
               en: Bank Holiday
             type: bank
-            id: a6890f63-b00c-46b6-9e06-85971863b89b
+            id: 9242a21b-56fa-45a7-a3fe-2bdf55ee6747
           1st monday in October:
             name:
               en: Labour Day
-            id: 8483b491-d7ab-4cdc-92f4-29d440d7cc2e
+            id: 9db3044f-4236-4d3f-a602-f78c917b30fd
       NT:
         name: Northern Territory
         zones:
           - Australia/Darwin
         days:
           easter:
-            id: 5ba34b63-0f55-480e-8c1b-a8af85f6c769
+            id: ac9cda53-1778-4174-b770-0b4616f49af2
           04-25:
-            id: 63487af1-5f79-44e8-b66f-9fa6816a9ab6
+            id: c13cdc44-b45b-4c34-8d24-7e0d5ddb706a
           04-25 if sunday then next monday:
             substitute: true
             name:
               en: Anzac Day
-            id: 3f15f9ef-4fd3-41ff-88db-ba52ae34f4ee
+            id: 5a933b6b-7314-43d7-bbcb-34564f984764
           1st monday in May:
             name:
               en: May Day
-            id: aeb6f499-ff00-4ea2-a55a-607b309d8e0a
+            id: 91c7b36b-9497-41b7-a951-0ca970da9f7b
           2nd monday in June:
             name:
               en: Queen's Birthday
             active:
               - to: '2022-09-08'
-            id: a0ce91ea-7255-4434-bb07-94448506f7b7
+            id: 372151d0-f5de-4be8-911b-90e7d0c3312f
           '2nd monday in June #1':
             name:
               en: King's Birthday
             active:
               - from: '2022-09-09'
-            id: 9aab9edf-3c77-4b7f-821d-a3fecacfbb59
+            id: 07c886b9-7119-4fd0-a149-5f2ecb3bad0c
           1st monday in August:
             name:
               en: Picnic Day
-            id: 4c9b8979-6330-4f7c-b943-6b060fe94df8
+            id: c69f4cd8-d6fa-4765-986c-16348455fb45
           1st monday in October:
-            id: 9dc05bb3-3048-4003-8abf-8e4b7ea98aef
+            id: 37d44ff7-8db9-462f-a75e-ddd1f94e129f
           12-24 19:00:
             _name: 12-24
-            id: 311d7d65-82a5-41d6-adf2-7da6f07c78f9
+            id: d299f4b2-2468-4182-9cab-2451eac530d3
           12-25 and if saturday then next monday if sunday then next tuesday:
-            id: 70a085ca-8db4-42ac-b4c5-c1679eeae895
+            id: f6364eca-5e58-4aaa-a51f-09c418e71196
           12-25 if saturday then next monday if sunday then next tuesday:
             substitute: true
             _name: 12-25
-            id: c01318ca-22e1-42cf-bf4f-319cd3a89804
+            id: a75eb534-fbeb-44f3-ba7e-77956ca8b9d8
           12-26 and if saturday then next monday if sunday then next tuesday:
-            id: 95230183-9cce-4194-a211-a20bbcddd4ea
+            id: 22089f5c-f658-4900-9cd3-4d60299e9b3a
           12-26 if saturday then next monday if sunday then next tuesday:
             substitute: true
             _name: 12-26
-            id: e6253faf-671d-4f79-9358-8247117a72bc
+            id: 44e67236-969f-44a8-b563-a630b5f1f05b
           12-31 19:00:
             _name: 12-31
-            id: 451b687c-8018-4f36-8902-0a389d642d9c
+            id: 18c322eb-60a0-424d-9213-36c46fbaecf4
       QLD:
         name: Queensland
         zones:
@@ -193,121 +193,121 @@ holidays:
           - Australia/Lindeman
         days:
           04-25:
-            id: 2087193d-4568-4bdd-ba66-d7078a8f4066
+            id: d9f83643-b5c0-48b5-b871-3fbd14b873aa
           04-25 if sunday then next monday:
             substitute: true
             name:
               en: Anzac Day
-            id: ad348397-656c-4902-bfb1-8b1337ca383b
+            id: 78eceba2-796a-4f27-85ae-440e42262e60
           1st monday in May:
             name:
               en: Labour Day
-            id: 9b422baa-ca17-4d4f-9b68-7f6246c19091
+            id: 64ab1bbb-3aac-4aec-914a-399b3028aadd
           2nd monday in June:
-            id: 57fbacd8-60e8-490a-a4f6-5e58815af02b
+            id: 7057a872-c6da-4f7b-b95a-8f5cdfb270bc
           1st monday in October:
             name:
               en: Queen's Birthday
             active:
               - to: '2022-09-08'
-            id: b1ce0b6b-1f74-48ba-a5f0-3b51f23d4558
+            id: 946dd12d-e89c-4a34-b5cf-d013a9176bef
           '1st monday in October #1':
             name: King's Birthday
             active:
               - from: '2022-09-09'
-            id: 26f49109-3c77-4fa5-a8de-df8687511659
+            id: 2cc71663-909f-4974-93f7-fb5eae2ed3dc
           12-24 18:00:
             _name: 12-24
-            id: 4645a807-c4bc-4ef1-acd7-34aad060dd8c
+            id: 9c164e31-d243-490a-bf23-41ea825d8b3b
       SA:
         name: South Australia
         zones:
           - Australia/Adelaide
         days:
           easter:
-            id: 41fdaf8c-580e-4563-bd5b-8010c83ddac7
+            id: eac770db-5177-4958-b804-aa13eb29db2a
           2nd monday in March:
             name:
               en: Adelaide Cup Day
-            id: a675854e-c96d-4d82-bfc9-0f07f2cecb38
+            id: ca8a9196-6e4c-44ce-9362-ff7d2ac78364
           2nd monday in June:
             name:
               en: Queen's Birthday
             active:
               - to: '2022-09-08'
-            id: da944453-9a6a-4ecc-8038-20e247a878c3
+            id: 0a20f8e9-7928-4932-b9d5-314bef42db72
           '2nd monday in June #1':
             name:
               en: King's Birthday
             active:
               - from: '2022-09-09'
-            id: d3f2da60-b295-41cf-ae33-185c657a6637
+            id: fcad0420-5671-4b6f-b0a3-f3751efa0cf0
           1st monday in October:
             name:
               en: Labour Day
-            id: 48d24021-4f71-45f8-a815-dffde1d8940f
+            id: 6e65d44d-de6d-4d26-a6da-1881aafe3458
           12-24 19:00:
             _name: 12-24
-            id: 9f53a075-39bb-4eeb-b630-cbc7d8b2e80c
+            id: 54b75868-8dfe-4312-a062-ddecf4adbb54
           12-25 and if saturday then next monday if sunday then next tuesday:
-            id: 7070ce50-c10e-4afe-8599-e5049655b135
+            id: d4285ead-1e3a-4bce-814c-8e199685d16a
           12-25 if saturday then next monday if sunday then next tuesday:
             substitute: true
             _name: 12-25
-            id: 6ee11534-e1a5-48d9-833a-c3eb8c6fe8f7
+            id: a20b7acc-7320-4713-abd0-e3e161f40ce6
           12-26 and if saturday then next monday if sunday then next tuesday:
-            id: 4934328b-d808-4583-8811-cf0e29c0a3ce
+            id: 870fe29c-12a6-4c23-aa52-2d463c5a33e5
           12-26 if saturday then next monday if sunday then next tuesday:
             substitute: true
             name: Proclamation Day
-            id: 416d2116-29d3-4267-9451-b808268c677a
+            id: cb95de89-a5f1-4b39-a0fd-1f49f04e75c0
           12-31 19:00:
             _name: 12-31
-            id: d52edbf0-7939-4612-80a7-659460b9a0b0
+            id: c24ae616-2908-4526-b701-b9b5eae7f907
       TAS:
         name: Tasmania
         zones:
           - Australia/Hobart
         days:
           01-01 and if saturday,sunday then next monday:
-            id: 0eb8bffe-57f3-4f46-aa8e-31c62a32a7e3
+            id: 4db7cd0f-e688-4fe6-ba42-fcee9d6b7f1b
           01-01 if saturday then next monday if sunday then next tuesday:
             substitute: true
             _name: 01-01
-            id: 53c12bd4-507e-43dc-a1e4-bfe0ade2a681
+            id: 296ed7e4-2368-47e1-810d-267a5cd716a9
           2nd monday in March:
             name:
               en: Eight Hours Day
-            id: f7355aaa-36ec-44cf-81fe-6775897ce837
+            id: 1097acdb-1534-42cd-80fc-4f9854b507a4
           easter -1:
-            id: 76def009-486c-4aee-8647-e5759396ea20
+            id: e9f35161-c585-41ac-8d54-88bade9873f2
           easter:
-            id: 6d7f8ce6-de5d-4c70-929f-38aa7a06cce4
+            id: b87ac0ee-b408-4128-8edb-f93574c7c54f
           easter +2:
             name: Easter Tuesday
             type: optional
             note: Public Service employees or contract dependent
-            id: 6e31d3dc-96c0-460f-9c84-c87f25d80278
+            id: e55a265d-f675-4cbc-9274-50607cf9157b
           2nd monday in June:
             name:
               en: Queen's Birthday
             active:
               - to: '2022-09-08'
-            id: ee3ddf39-ce57-40bc-945a-664358e29e83
+            id: a9eb1ef1-7bf2-49f1-a11b-b43f33ecb4c4
           '2nd monday in June #1':
             name:
               en: King's Birthday
             active:
               - from: '2022-09-09'
-            id: 0aae2fb5-6726-4fcb-aeab-9941d6942ee8
+            id: 6563414e-786c-4826-a8e0-f9b4b3d8744c
           1st monday in October:
-            id: 64884af2-62b2-49d7-9b2e-b635ed51fbe1
+            id: 90bdfce0-307d-4cd8-8808-0225703e5839
           12-26 and if saturday then next monday if sunday then next tuesday:
-            id: 69776c46-e09c-4ce6-a092-7f5b082824e4
+            id: f0469b0e-175c-4533-8a00-55a37ee8b7db
           12-26 if saturday then next monday if sunday then next tuesday:
             substitute: true
             _name: 12-26
-            id: 00e9165f-a94f-4df6-afd0-b643771d502d
+            id: 9a500377-347a-4c14-9429-a063c7d9b769
       VIC:
         name: Victoria
         zones:
@@ -316,30 +316,30 @@ holidays:
           2nd monday in March:
             name:
               en: Labour Day
-            id: 4b3ef955-83a7-47d9-a99c-108eff081ee8
+            id: 05b1a9bb-6274-4964-bd64-94df5dc37854
           2nd monday in June:
             name:
               en: Queen's Birthday
             active:
               - to: '2022-09-08'
-            id: b3824e79-7ded-4daa-b4db-a81d02a98647
+            id: bbd7395d-597f-4756-897d-d63a71618760
           '2nd monday in June #1':
             name:
               en: King's Birthday
             active:
               - from: '2022-09-09'
-            id: a90dc302-9c31-485c-8167-2957bdbad6d8
+            id: 680ad194-31aa-4254-9f8a-ca26a5c0f0ae
           1st monday in October:
-            id: c3cb7b10-d4f6-4377-acb4-f5ffee7b69c8
+            id: 8ad35f58-83ce-441f-8e42-7a8da23a2b1d
           1st friday before October:
             name:
               en: AFL Grand Final Friday
             note: Date might differ as dependent on AFL schedule
-            id: c70bb210-284d-4134-ab66-52a90cbbfda9
+            id: aaa5a37e-b330-4071-b0ec-075b31ad6fbd
           1st tuesday in November:
             name:
               en: Melbourne Cup
-            id: e13412ed-c9e8-48ce-8266-4635c75f6a2c
+            id: 25e062cb-14a3-494f-b445-3d06cb62389a
       WA:
         name: Western Australia
         zones:
@@ -349,37 +349,37 @@ holidays:
           1st monday in March:
             name:
               en: Labour Day
-            id: 2310c79a-403e-4aeb-8a62-48e6627e74b6
+            id: 1f2c7ebb-717c-40c5-89a4-0ebc5b823a3d
           easter -1:
-            id: 0a370a93-a579-4ed0-99c2-0e47cb4ca989
+            id: ce739e61-b7c8-4c8e-9bc6-7d08db941319
           easter:
-            id: d6052d58-789f-4efa-b886-39c8fc37a24f
+            id: 5c3efa3c-5085-41e7-ae60-e879ad23c3e0
           04-25:
-            id: d40b6940-27f1-4e8b-9dea-8200b0e02a07
+            id: 7e0f95ad-cd89-420f-8303-22ebe5ee9147
           04-25 and if saturday,sunday then next monday:
             substitute: true
             name:
               en: Anzac Day
-            id: 998a010c-f435-4ab9-9f45-5e72adfe64b0
+            id: e9d8f627-fe7c-40f3-92c1-d36b788be694
           1st monday in June:
             name:
               en: Western Australia Day
-            id: bf02b02f-d5bb-4ebd-8f61-61b4e1d810f9
+            id: 3134bc88-4965-427d-8e72-274fcd884e77
           2nd monday in June:
-            id: 1dfe2505-1a27-4f12-b419-7e2a853f537a
+            id: 117a988b-38f2-4d81-80b5-c4494477d03e
           monday before October:
             name:
               en: Queen's Birthday
             note: Might be on a different day; is proclaimed by Governor
             active:
               - to: '2022-09-08'
-            id: 4318de34-67b9-4310-8328-8dea560055c8
+            id: 4fe0a23c-f110-456c-90d3-c64956b0ac87
           'monday before October #1':
             name:
               en: King's Birthday
             note: Might be on a different day; is proclaimed by Governor
             active:
               - from: '2022-09-09'
-            id: 01f56fba-76ba-4f3b-b38b-b6e7b0f235e3
+            id: 616d0878-56e8-4187-8589-ac7b075e7011
           1st monday in October:
-            id: c0428ee4-e4ee-4255-9097-322a022e5737
+            id: eca9ba19-0b2b-427a-a0f6-9d69c4d0b6c5

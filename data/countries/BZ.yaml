@@ -10,51 +10,51 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: e5c14beb-7e06-4563-b415-f891d4c971d9
+        id: 6ff6dd89-a400-4d22-8211-cf0ffbd95f19
       03-09 if friday,saturday,sunday then next monday if tuesday,wednesday,thursday then previous monday:
         name:
           en: Baron Bliss Day
-        id: c31f9551-cbdc-416f-8f32-ac56bc749d2e
+        id: f1ca63ef-d44e-4436-93c5-c3dfa600fbf0
       easter -2:
         _name: easter -2
-        id: a0bcb2ac-f8bf-4875-ae88-ed66131279c7
+        id: 84c97757-915a-4bbd-b211-c072183aa93c
       easter -1:
         _name: easter -1
-        id: fca3779b-c5fa-43d7-9e8d-b5ec6145fcb9
+        id: 02433c21-6513-408e-b98f-f9506c5205dd
       easter:
         _name: easter
         type: observance
-        id: 3c469545-ed81-4a44-a815-60b24b300c6a
+        id: 137acc1a-2a96-4cc5-ba31-9d45c544ae03
       easter 1:
         _name: easter 1
-        id: 83ad1a56-8a41-439a-b805-9c7d1ebe42bb
+        id: cc475c7d-34ac-452b-a903-5328b44c511f
       05-01 if sunday then next monday:
         _name: 05-01
-        id: 11e5a848-313f-4952-a6d1-2da6ee8580f7
+        id: 0079dd54-c81e-458f-ad33-7b945b33306a
       05-24 if friday,saturday,sunday then next monday if tuesday,wednesday,thursday then previous monday:
         name:
           en: Commonwealth Day, Sovereign's Day
-        id: 1960d874-67b8-4ac3-854e-836e0da18c9c
+        id: 6b4b9431-c790-4f61-94f2-8d63757d2f0d
       09-10 if sunday then next monday:
         name:
           en: Saint George's Caye Day, National Day
-        id: 7c6e0dba-2298-46e1-a81b-5fad0c184b1a
+        id: 37fe05ea-8663-4cf8-8df9-fdfe2777b602
       09-21 if sunday then next monday:
         _name: Independence Day
-        id: e5899c52-1dff-4208-81e4-175e807e074d
+        id: 2074c715-f2e3-48f9-ba0c-addbe6ee9590
       10-12 if friday,saturday,sunday then next monday if tuesday,wednesday,thursday then previous monday:
         name:
           en: Day of the Americas
-        id: 10f5d889-c2f6-4b95-9482-b480a70b85d3
+        id: 327c50f1-f922-4eff-8794-5bb99e6d2f1d
       11-19 if sunday then next monday:
         name:
           en: Garifuna Settlement Day
-        id: 8762fbcc-10fb-4370-91d0-fbb717ca0138
+        id: 2b1fd074-b9b5-46ae-8334-f963d824be87
       12-25 and if sunday then next tuesday:
         _name: 12-25
         substitute: true
-        id: 24b41819-c08c-457c-a576-07242449ba17
+        id: a6b55a66-5618-4bd8-b95b-70bf53565767
       12-26 and if sunday then next monday:
         _name: 12-26
         substitute: true
-        id: e11bffe5-2998-4d8f-bd3f-4fe9d97bdc7c
+        id: 082acef5-9ac4-49fa-91a1-5454bc66128c

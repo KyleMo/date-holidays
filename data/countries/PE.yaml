@@ -12,47 +12,47 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 6ed93674-12a9-4177-8e69-d44e442bb898
+        id: 688c94f8-ad98-48d8-baaf-32ad6b9f547c
       easter -3:
         _name: easter -3
-        id: d17ce739-f459-4487-975d-aceebcb24091
+        id: 644a6bac-ad98-4186-a2ad-4956c14137be
       easter -2:
         _name: easter -2
-        id: 1656dbda-995a-43d2-924c-a45f569ab607
+        id: 5808e5de-447c-4c58-ae12-962fa2f896e5
       easter:
         _name: easter
-        id: 1cad357c-23b6-4607-b65e-9307f31862df
+        id: 8ef62b1d-1920-407e-9884-5ba47f3d8ae3
       05-01:
         _name: 05-01
-        id: 8130e3df-600a-4097-85af-fca423f20cf8
+        id: 60dd6421-d52f-457f-809c-78555f85e642
       06-29:
         _name: 06-29
-        id: 2e216546-9cd4-4a0d-9957-20687a4ed9f3
+        id: 6f7f06dd-0a07-4ca3-94f4-db222a605f23
       07-28:
         _name: Independence Day
-        id: 51115fa5-9c92-4345-bd60-71b8fe53e0f8
+        id: f2040972-fed3-4092-983c-78e7fb0e23b8
       07-29:
         _name: Independence Day
-        id: cf6dc835-7126-49f8-9ed9-e77faae76a3e
+        id: 8b1eaef0-4c96-4d76-bf8c-caa91309d90f
       08-30:
         name:
           en: Santa Rosa de Lima
           es: Día de Santa Rosa de Lima
-        id: e11e12f5-ae89-4ca8-93b5-55a23081b573
+        id: df07ebd0-3fe6-43d1-90ca-ee2c0c75101a
       10-08:
         name:
           en: Battle of Angamos
           es: Combate de Angamos
-        id: 6dc4cd5f-fb54-48a6-b78d-a6abbc1f0c35
+        id: dd7ea03f-5a3a-408f-ad0b-a4c171c6a9a5
       11-01:
         _name: 11-01
-        id: 03359df7-2828-4974-af07-0528c57e2397
+        id: 6b5c95d4-6c4a-444c-9d1f-698052745ebd
       12-08:
         _name: 12-08
-        id: 9b9632a2-df14-4be3-ac03-76fe4c5760ce
+        id: b73f76b4-a6a5-4fb8-863d-792b18ff005c
       12-25:
         _name: 12-25
-        id: cc22d170-7fa0-430d-9cff-5878a74068c6
+        id: 7b8fe695-45b0-4186-85e6-fce3e3014fa8
     regions:
       CUS:
         name: Cuzco

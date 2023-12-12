@@ -10,61 +10,61 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: c6c03bf9-8ac5-4bdf-97e1-a8d15236da25
+        id: 887844fc-77f0-4ad5-9d5c-55758b5f6069
       01-02:
         name:
           en: Zanzibar Revolution Day
-        id: d0e14db8-24f3-4705-b669-c8fc0411eeb5
+        id: 2cfba19a-8388-4675-9f28-e75b560efa8a
       easter -2:
         _name: easter -2
-        id: 9784dc45-6e47-4c3b-a08d-16a5aeb1b87b
+        id: e033cedc-25ab-44ac-bc1a-cce21a46c344
       easter:
         _name: easter
         type: observance
-        id: 7d3a0b00-0e86-4946-befc-a9f98751c29c
+        id: bf4c9e1e-8fc3-4510-99e9-093ccb9775ab
       easter 1:
         _name: easter 1
-        id: 28adb160-7bd8-4d95-9506-78989a7a70a8
+        id: 624fa5ee-77eb-4c88-9a76-e5c31e2406fc
       04-07:
         name:
           en: Karume Day
-        id: 26bd89b5-458f-4d86-92f2-d05456f24b34
+        id: de4fcda5-a4e4-4ee7-8edb-d59da1690d18
       04-26:
         name:
           en: Union Day
-        id: 8a60a46b-9a70-433f-a7ab-2ac0fab23ddd
+        id: d6b09f6e-f0e0-4049-983e-b4cc87f17daa
       05-01:
         _name: 05-01
-        id: b0e65860-095d-4c5d-baf3-80bd1316d2a4
+        id: b4fe62a6-75e3-49ab-a98e-84713d7be700
       07-07:
         name:
           en: Saba Saba Day
-        id: 0e373efd-f713-4bc4-a951-fed66649c1fe
+        id: fc9c164a-2e6c-4a94-8906-1913f9cd07de
       08-08:
         name:
           en: Nane Nane Day
-        id: 927be490-41c0-4315-a8cf-a9e2bb6b1579
+        id: e8a76c54-01b3-4f4f-a27c-7b2fc52d887b
       10-14:
         name:
           en: Nyerere Day
-        id: 9e0ab3b2-1bac-4685-9baf-439b6a1f5182
+        id: b411114a-5824-48eb-92e5-a82e7279913b
       12-09:
         _name: Independence Day
-        id: 2f4df681-7ace-461a-b341-d2257f394b11
+        id: bd772bcc-5c84-40a6-94f1-bf1153df0a86
       12-25:
         _name: 12-25
-        id: d55fec20-e02a-4a01-afba-70c3a6530f73
+        id: 5de11334-2d13-4f2b-b849-e63c0d6e224a
       12-26:
         _name: 12-25
-        id: 62ffbab7-851a-4b8f-ab22-61df6ff9db15
+        id: a238d02b-bfec-4303-a2a9-e2958563293b
       1 Shawwal P2D:
         _name: 1 Shawwal
-        id: 80d7c785-5fbb-4b2b-b857-6e2473385e53
+        id: cc8143d5-f63d-4e45-89d3-0f965a8408bf
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 170003b8-bf51-4e7e-a5bc-295bf02c07a3
+        id: a25b753c-64ee-4736-96ad-34eac5b03e76
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
         name:
           en: Maulid Day
-        id: 75343d8e-3163-46a1-8615-08b2f7958687
+        id: d8902cde-3244-4224-bd7f-59f00945fb56

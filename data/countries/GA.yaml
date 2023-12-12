@@ -11,36 +11,36 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 2f089306-f367-4ab6-a7f7-f1ac37ff74bd
+        id: abea461e-9255-4278-88cf-2a2c593e1cb4
       easter 1:
         _name: easter 1
-        id: 090f4a35-3be8-4d2e-b850-44c3405c2c10
+        id: 0ec5cbdf-1aa4-409d-a1b5-cd4d1fa70899
       04-17:
         name:
           fr: Journée des droits de la femme
           en: Women's Day
-        id: c51544b0-9bbb-4e43-98d1-9200b6875efe
+        id: f116978a-fc1c-4197-82bf-6edd2746dcda
       05-01:
         _name: 05-01
-        id: 267a329b-07b0-49ec-b479-dd800394eecc
+        id: db08dffa-9c53-4548-a8fa-8c2b334a062d
       easter 50:
         _name: easter 50
-        id: 11a8eb9e-efa7-49e7-8051-6d3e2c5bcff9
+        id: ffe3e8eb-2fb3-4d04-8816-e505f2f8b21a
       08-15:
         _name: 08-15
-        id: 2c5abc35-4414-485f-ab7d-c53d3ff08ee3
+        id: a46492e3-88d5-4c8d-95e4-f71da042ee61
       08-16 P2D:
         _name: Independence Day
-        id: 58215345-5a81-4ec6-bb9c-3bd97387ba58
+        id: 15ec3a96-4673-4c51-8920-e215fd384404
       11-01:
         _name: 11-01
-        id: acc6061a-29a3-4727-917f-697c6069f76e
+        id: 5adf6931-645b-45da-ac48-d551f8bad752
       12-25:
         _name: 12-25
-        id: 0a852e1f-5755-43b1-913f-3114d716d315
+        id: 675a5bfd-c56e-4532-89e5-238496dbe639
       1 Shawwal:
         _name: 1 Shawwal
-        id: 41b30b39-401f-4bc0-b526-8b2a0d8d8512
+        id: f4aeee02-2d7b-4220-8f15-52d1fb8a9115
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 8dd58f22-e1b4-4d4c-9117-343f58062d25
+        id: f5d8c1df-005c-4643-ae88-25acb2f7e53b

@@ -31,45 +31,45 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: a2703569-7f49-4c75-8fbf-d7d1d4119489
+        id: b496b4c5-b1d4-4e41-8cff-a54937884cf8
       01-02 P5D:
         name:
           ru: Новогодние каникулы
           en: New Year Holiday
-        id: f0cd44cc-95ec-44e4-8bfb-c1094364f0b1
+        id: 1df154c4-0e65-42e7-8f18-28abea975870
       julian 12-25:
         _name: 12-25
-        id: 1dffb90a-29bb-4039-96d1-cdfe5150d0db
+        id: b9347ee1-a979-4056-b0ae-9e9f769012a3
       01-08:
         name:
           ru: Новогодние каникулы
           en: New Year Holiday
-        id: ab806cfe-1172-4761-b3f6-bdee2eb8e7cf
+        id: 3322052c-4983-4ebc-b51c-222559d852a1
       02-23:
         name:
           ru: День защитника Отечества
           en: Defender of the Fatherland Day
-        id: 5d5c1d9c-507e-40d8-83b5-c9d64b768c41
+        id: 8928091c-1cc0-4543-bd06-8d4db85159fa
       03-08:
         _name: 03-08
-        id: 8ad3c098-d2b5-4312-b267-618bb0375f64
+        id: fe97f987-5167-4542-9b59-271affd8b9f0
       05-01:
         name:
           ru: День весны и труда
           en: Spring and Labour Day
-        id: 39f7d0b9-5d27-49d6-90e0-26add7c9b572
+        id: 6a15648d-7cd0-44ca-931e-87afcabce9f5
       05-09:
         name:
           ru: День Победы
           en: Victory Day
-        id: 71bb4775-10b5-4698-aae9-1457e9f46da8
+        id: afc29637-c768-4c2b-aae6-2d4e3a9b9160
       06-12:
         name:
           ru: День России
           en: Russia Day
-        id: dbf3bf27-abf5-4d4b-8023-6f39c2423882
+        id: 1da7338d-6462-49e2-ad42-68b23e9f7285
       11-04:
         name:
           ru: День народного единства
           en: Unity Day
-        id: c0ee85ee-b460-48be-b772-e09e3154378b
+        id: c781bd29-a055-4e21-912e-64dedcd764c3

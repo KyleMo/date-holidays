@@ -11,49 +11,49 @@ holidays:
       01-01 and if Sunday then next Monday:
         substitute: true
         _name: 01-01
-        id: ec58940a-342d-4aab-9dda-1f41d9b7a24a
+        id: 6b415e68-762b-44b5-8ae2-251c8fad09f0
       02-18 and if Sunday then next Monday:
         substitute: true
         name:
           en: Armed Forces Day
-        id: 67fd0421-ea5a-4073-85c8-9200430b6b4e
+        id: d77e3bbd-60a3-47b3-b0ba-a2eb847e5da8
       03-08 and if Sunday then next Monday:
         substitute: true
         _name: 03-08
-        id: 56a217cb-65ae-4261-918d-ef7a4ba1904c
+        id: acd55bb8-7f0a-416b-87ed-48a263e11c64
       04-27 and if Sunday then next Monday:
         substitute: true
         _name: Independence Day
-        id: 284eba29-4c86-4b74-ad5a-63e7012f5f5e
+        id: 0834d7b2-f5fb-456b-b98a-b3441a7ef181
       easter -2:
         _name: easter -2
-        id: 6ae4f346-6268-44ef-aa40-927510d5356c
+        id: 5dad9875-52d9-4abd-aecb-a633ad461c8b
       easter 1:
         _name: easter 1
-        id: cc6e0092-0d66-4032-8fbb-81c815ad9c03
+        id: 9eaf5e27-0e96-47dc-a269-8be6bc3afb05
       1 Shawwal and if Sunday then next Monday:
         substitute: true
         _name: 1 Shawwal
         name:
           en: Korité
-        id: f77a1948-7278-49d7-8ba8-905790b1693f
+        id: e167e839-0dec-414b-a18c-909d986c4d99
       10 Dhu al-Hijjah and if Sunday then next Monday:
         substitute: true
         _name: 10 Dhu al-Hijjah
         name:
           en: Tabaski
-        id: e624c5e7-7c08-484e-9343-d292ae910489
+        id: 80a8dc97-b4c6-4494-be9d-538ab2e2f115
       12 Rabi al-awwal and if Sunday then next Monday:
         substitute: true
         _name: 12 Rabi al-awwal
         name:
           en: Mawlid
-        id: aa410166-02a9-4a86-835e-7260aceb4261
+        id: d0ba673a-b0fb-4d58-8f7a-aa283bb6482e
       12-25 and if Sunday then next Tuesday:
         substitute: true
         _name: 12-25
-        id: 4cead9f2-7c4b-4647-a46e-5d67b4d0eac0
+        id: 5f8adf19-5b0a-44e7-9b62-d3b4c331e2b1
       12-26 and if Sunday then next Monday:
         substitute: true
         _name: 12-26
-        id: de3b7445-2763-4619-a401-f4f6b468c5f9
+        id: e6ee5e80-2050-4a1a-bb8d-ef071cb81af6

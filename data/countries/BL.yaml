@@ -12,38 +12,38 @@ holidays:
       easter -48:
         _name: easter -48
         type: observance
-        id: d042f46b-1434-42e3-a883-122795b90ee9
+        id: 9215a4cb-c071-4e5f-829e-43a76001a6f7
       easter -47:
         _name: easter -47
         type: Observance
-        id: 6876c511-8bc2-400c-8227-a1fcee51adf0
+        id: d7d67304-4249-40af-9a59-1b8d2bebc5dc
       easter -46:
         _name: easter -46
         type: observance
-        id: b5b7bda5-99dc-48bb-907f-58a94ffce2b8
+        id: cc5a6f3d-3320-4e51-b515-a961bf3865f6
       easter -21:
         name:
           fr: Mi-Carême
           en: Laetare Sunday
         type: observance
-        id: 5261bf0f-cae5-4a57-8002-92a7027bddd3
+        id: f96865d3-b105-45b7-9fa6-ad604627367b
       easter -2:
         _name: easter -2
         type: bank
-        id: e2c5b9a1-11b9-4586-9efe-201b0d08458e
+        id: 0c2c2870-60a6-4ab5-8791-a6970dccfec4
       easter:
         _name: easter
         type: observance
-        id: 6e65cd4c-c53e-497f-affd-52c963721c34
+        id: bb1b3cb6-fa83-48c9-ae67-cd6b8edca77e
       08-24:
         name:
           fr: Fête de Saint Barthélemy
           en: Saint Barth
         type: observance
-        id: 914a3e2e-7b97-4a51-8cde-4d21faa0ec04
+        id: 23f2656d-ffaa-4867-9dc0-e843b71064d9
       10-09:
         _name: Abolition of Slavery
-        id: 30e2e8d4-a90d-4a4d-84c5-c58d95115dc7
+        id: e9d1c3c7-6d92-434b-8df6-dd91868f9aef
       12-25:
         _name: 12-25
-        id: 5830bdb8-2560-4bd9-a699-0b68c71d5001
+        id: 1c44a7d7-0765-4b03-8b92-474ffa1253cb

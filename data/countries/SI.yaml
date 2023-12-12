@@ -11,64 +11,64 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 6e802541-b369-4fb3-a80b-2cd34bdaa2f7
+        id: 16f8900b-ba0e-4c57-8b72-f1fae5496aef
       01-02:
         _name: 01-01
         active:
           - to: 1955
           - from: 2017
-        id: f0fe3331-b2e1-4a09-a245-327b890cb6ea
+        id: f02d3cc0-d5ad-4470-99b5-55e3ea852362
       02-08:
         name:
           en: Prešeren Day, the Slovenian Cultural Holiday
           sl: Prešernov dan, slovenski kulturni praznik
         active:
           - from: 1991
-        id: 4ad781b2-0406-4a75-afd6-fdcdd04d0411
+        id: 7b5a1484-0996-41b5-8187-3a1f63b8ab70
       03-08:
         _name: 03-08
         type: observance
-        id: 62682a5b-1ae9-43c9-afcb-4d34fdb4dd35
+        id: 72b340f9-2b93-41f5-8ae1-0fa82dd44dad
       04-23:
         name:
           sl: Jurjevanje
           en: St. George's Day
         type: observance
-        id: 9a4ab761-03c0-4ce3-8ffa-c88657fa1793
+        id: d51230e6-e9f0-4cb7-b5a8-99d71430d230
       easter -49:
         name:
           sl: Pust
           en: Carnival
         type: observance
-        id: 0199e672-d2b8-443a-882a-0ae9c175512c
+        id: 37d16849-5b1d-4316-9d2e-4d69f085ec81
       easter:
         _name: easter
-        id: bb098ebb-fff8-4625-a72c-6d8cd295e934
+        id: 7839da13-d06a-4093-8587-acb0d33831c3
       easter 1:
         _name: easter 1
-        id: 041043e2-abd5-43ab-aa34-788fc7b81a27
+        id: 49d10638-a4c3-45a1-8c18-7ea9fd043669
       04-27:
         name:
           sl: Dan upora proti okupatorju
           en: Day of Uprising Against Occupation
-        id: f4ed347d-9e87-4ad5-851f-fc90d1e98286
+        id: c58049d7-a935-439f-a751-77432362c682
       05-01:
         _name: 05-01
         name:
           en: Labour Day
         active:
           - from: 1949
-        id: d6072847-12a6-45df-a84f-eab2081f7b0b
+        id: 57b0b2d2-23f1-42c9-ab7b-4cb5b6f5f284
       05-02:
         _name: 05-01
         name:
           en: Labour Day
         active:
           - from: 1949
-        id: 58616c25-f69d-4fcf-a9d9-3a67f8c63498
+        id: 05c55059-f0cc-4dab-a858-efad2041d07a
       easter 49:
         _name: easter 49
-        id: 9791a7c2-3eb5-4d8c-af9a-cc5bfaba9ab9
+        id: 7cf089da-e818-4baa-8d22-14b70c3869cf
       06-08:
         name:
           sl: Dan Primoža Trubarja
@@ -76,19 +76,19 @@ holidays:
         type: observance
         active:
           - from: 2010
-        id: 248354a1-d009-4b23-ba6f-68131079dc56
+        id: 5f53aa97-8997-4e44-8a20-3476aa3eb372
       06-25:
         name:
           sl: Dan državnosti
           en: Statehood Day
         active:
           - from: 1991
-        id: 86335e82-d584-47e3-a5a0-b433f19220c1
+        id: 125ad599-49e0-429a-909b-523051dc54d8
       08-15:
         _name: 08-15
         active:
           - from: 1992
-        id: 27e05a4d-a373-48dd-872b-aa495d000419
+        id: 7d33b98a-3ed5-40a6-96dd-f7c80e24fa6e
       08-17:
         name:
           sl: Združitev prekmurskih Slovencev z matičnim narodom
@@ -96,7 +96,7 @@ holidays:
         type: observance
         active:
           - from: 2006
-        id: 9e0c0c99-9426-4811-801f-29cdf2f52eb8
+        id: c47938de-cc27-4779-ada0-b6cbd812beed
       09-15:
         name:
           sl: Vrnitev Primorske k matični domovini
@@ -104,7 +104,7 @@ holidays:
         type: observance
         active:
           - from: 2005
-        id: 25757efa-da27-4dd5-bbdf-95e24740253c
+        id: 1f056716-e5de-4c6b-a220-f8b164002131
       09-23:
         name:
           sl: Dan slovenskega športa
@@ -112,7 +112,7 @@ holidays:
         type: observance
         active:
           - from: 2020
-        id: 3d814019-c771-4c47-81cd-697bfb297ec8
+        id: f5333f06-5dd5-42e1-93e6-7b5cb23a94ce
       10-25:
         name:
           sl: Dan suverenosti
@@ -120,23 +120,23 @@ holidays:
         type: observance
         active:
           - from: 2015
-        id: a5611854-a2d2-4a40-8ecb-1be4c084d4af
+        id: 6a799c47-cee9-4cca-908a-aa28c70b678e
       10-31:
         name:
           sl: Dan reformacije
           en: Reformation Day
-        id: 4fc725a6-073c-4f97-823d-7428ec8c33e0
+        id: dd6ba78e-deeb-4e89-89d8-6c34017de635
       11-01:
         name:
           sl: Dan spomina na mrtve
           en: Day of Remembrance for the Dead
-        id: 72dded37-6e6b-4f24-bfe3-c59f3713a85d
+        id: e149bf38-d893-4dd0-ad9d-d6d3c8df58d1
       11-11:
         name:
           sl: Martinovanje
           en: St. Martin's Day
         type: observance
-        id: c3c0c9af-b726-42ab-b2e8-a656842299d0
+        id: 1400df73-72d4-461a-ab2f-3db23423a5b1
       11-23:
         name:
           sl: Dan Rudolfa Maistra
@@ -144,21 +144,21 @@ holidays:
         type: observance
         active:
           - from: 2015
-        id: 337832da-20df-45fe-b186-65a40840240d
+        id: a97788c7-69c0-40f3-9548-95fde22c5a00
       12-06:
         name:
           sl: Miklavž
           en: Saint Nicholas Day
         type: observance
-        id: a5dc493d-131a-45d4-9695-8b55ea23729a
+        id: 51613ea6-7a75-443c-ab74-56702c387023
       12-25:
         _name: 12-25
         active:
           - to: 1953
           - from: 1991
-        id: 1d4889f2-d547-4bb0-82dd-820b69e72527
+        id: 278ff00b-f3e3-4139-8abc-579084f002c7
       12-26:
         name:
           sl: Dan samostojnosti in enotnosti
           en: Independence and Unity Day
-        id: 7230fd55-2d7e-4433-a0c7-cfd2b3f1d5be
+        id: bb36af34-c3d8-4dd1-b268-734fe8d858f2

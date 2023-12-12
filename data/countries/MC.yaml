@@ -11,55 +11,55 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 18147d80-6542-4492-92a0-841b48cc1fd9
+        id: 9efcea77-57ef-420f-b1c7-f690db8b175a
       01-27 and if sunday then next monday:
         substitute: true
         name:
           en: Saint Devota's Day
           fr: Sainte Dévote
-        id: 3604a95c-8b8f-4583-9239-9b1120f4a587
+        id: f46f6191-463f-4f7d-8718-3c8c34a9784d
       easter -2:
         _name: easter -2
         type: observance
-        id: a1589231-ada6-4fc7-bb90-c6e0c7019b1f
+        id: 9632a567-19b8-4bae-b3c5-6ce952c576b9
       easter:
         _name: easter
         type: observance
-        id: 6557c326-eaf3-4543-97f9-f55379527192
+        id: cd624ae9-cfc2-4d8d-87ae-9b425d27b064
       easter 1:
         _name: easter 1
-        id: 19615e66-c666-4460-88c4-bd1dbd06ef38
+        id: cd4b4b8a-1300-4c19-b6be-b9cebf91d06a
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
         name:
           fr: 1er mai
-        id: fdaa5bdd-fd69-45c3-b6bb-781b4f3e42ff
+        id: 1c3a1fdd-ab4e-4b72-b98e-6d7bec237d5d
       easter 39:
         _name: easter 39
-        id: 41ed40ae-6910-4ab4-872c-fa655b92d72c
+        id: f9927975-e1fe-4883-9d20-6bc16d2c422e
       easter 50:
         _name: easter 50
-        id: 0b629c8e-0bd8-4d2d-9139-5d7a70e3572e
+        id: dd637e9b-58f1-4784-90ca-9adee229ecd4
       easter 60:
         _name: easter 60
-        id: 45d49386-53db-47c1-9001-c2bfccb01d96
+        id: 8ccc281a-954d-4c2c-a198-98d1afcf00c5
       08-15:
         _name: 08-15
-        id: 71c11611-7882-4b4a-a46f-ba15542fd172
+        id: 37e25782-17f1-4b96-9a9c-0eec10df9beb
       11-01:
         _name: 11-01
-        id: 82f72133-7065-4cde-bb42-9890774033e2
+        id: 43cd47ee-2cba-461c-8d7b-fb3ba90e14cc
       11-19 and if sunday then next monday:
         substitute: true
         name:
           en: H.S.H. the Sovereign Prince's Day
           fr: La Fête du Prince
-        id: 2a83844e-25fe-43d2-8e54-f361bb5e3057
+        id: d696177a-d792-4bee-b30e-2a93df50778d
       12-08:
         _name: 12-08
-        id: 5b741e8a-af87-47b4-921a-936e39a928c2
+        id: 4daa402b-60dc-4e40-9f72-9607d0cca673
       12-25 and if sunday then next monday:
         substitute: true
         _name: 12-25
-        id: e936f54d-c944-4dd0-9058-996c84f41f04
+        id: ef22629e-1fc8-4cf9-a1e2-61c86c1eb537

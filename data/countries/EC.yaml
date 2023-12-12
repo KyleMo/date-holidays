@@ -12,70 +12,70 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: e56f205a-0db6-458c-989c-4062c86a06ed
+        id: 6755f123-2018-4d8a-b89a-e7de1f05b0e3
       easter -48:
         name:
           en: Carnival
           es: Carnaval
-        id: 2a0daab4-6dd9-4c54-bc84-a9f0d263b131
+        id: 979b6fdd-7967-4229-a813-3794daa601ff
       easter -47:
         _name: easter -47
-        id: 542b3e08-22bb-4249-b413-073b32b2029f
+        id: 4901199d-16b3-485f-854c-394a51c31ea4
       easter -3:
         _name: easter -3
-        id: 11a79ba0-f4db-4702-95c6-7c9d9106934e
+        id: 25d035e4-ee79-4437-9772-e59f6a88bf2f
       easter -2:
         _name: easter -2
-        id: 61717068-f3a4-41f0-8024-2715a7e3e75d
+        id: 022b3c16-d527-4c41-b489-5a2429bfd299
       easter:
         _name: easter
         type: observance
-        id: adb09001-70cb-43df-b7e1-f93e9c098649
+        id: b121ea51-6262-4f4e-aeac-7a17b05a478d
       05-01:
         _name: 05-01
-        id: c593b870-a926-42b5-a793-9b0813dd1f50
+        id: 5301ee36-fc27-43c3-95e4-b00270a4cbc1
       05-24:
         name:
           en: The Battle of Pichincha
           es: Batalla del Pichincha
-        id: a757384f-1d4b-4118-a11a-d5db9f3b8800
+        id: ea58ff34-7e74-49e6-856e-2acd7d03cdb2
       07-24:
         name:
           en: The Birthday of Simón Bolívar
           es: El Natalicio de Simón Bolívar
         type: observance
-        id: 59424aac-c79f-488c-9b6a-bf30a2d3dc97
+        id: 68f82ae9-821b-431d-a19f-108948710e78
       08-10:
         name:
           en: Declaration of Independence of Quito
           es: Día del Primer Grito de Independencia de Quito
-        id: a7cea8a4-69a1-4acc-9768-50ac282aa4bc
+        id: 81c83fe8-6da3-4d19-ba72-bcb95367e07e
       09-10:
         name:
           en: Independence of Guayaquil
           es: Independencia de Guayaquil
-        id: a8f8dba0-4ce2-460c-8484-573a5f49bdea
+        id: 485df33e-7c57-42f4-abe2-a083cbbcbd3d
       10-31:
         name:
           en: Flag Day
           es: Dia de La Bandera
         type: observance
-        id: 82ef2300-3406-45fc-9935-bfd68ed12707
+        id: cdb54b61-6753-4451-86b5-dda709384835
       11-02:
         _name: 11-02
-        id: 2adaac2b-cdd5-430e-b000-1b31ba5fa4e8
+        id: c72f441c-a5f8-4886-a4c1-b17712dfbb24
       11-03:
         name:
           en: Independence of Cuenca
           es: Independencia de Cuenca
-        id: 9a50022b-22d6-4160-a69b-d08853068aa9
+        id: 07ecc303-0c93-4efb-98f3-4917a9924ca0
       12-25:
         _name: 12-25
-        id: 77817014-a95f-4bcd-b372-dc1ee83ae713
+        id: fb3346e3-6840-4143-a430-12509f5a82a4
       12-31:
         _name: 12-31
         type: observance
-        id: 633564a8-e8bc-4ad1-906a-a632a736d949
+        id: 29a81e30-7287-40c2-8284-d454539b8aee
     states:
       P:
         name: Pichincha

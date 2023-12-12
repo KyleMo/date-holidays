@@ -10,61 +10,61 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: ce2f4517-5a6a-491f-8925-4e70c3bc269d
+        id: 80d04c73-4ee0-4c6f-b543-ab22ba834497
       easter -48:
         name:
           da: Fastelavn
         type: observance
-        id: ecfa2a4f-2cd9-4d97-89be-b866b1e9579b
+        id: a653e363-b700-4a65-9d0e-c143251ff86d
       easter -3:
         _name: easter -3
-        id: 59de3097-fc2a-4162-a557-5b9809f0a365
+        id: d0f99e62-59a3-4212-bab8-e93053bad5cb
       easter -2:
         _name: easter -2
-        id: 40524673-ca2d-4669-b0a0-eff45f4d5fa9
+        id: ab5752b2-2cc8-4a57-8383-95aca3f00e4a
       easter:
         _name: easter
-        id: 418fd5f6-2dae-48b1-9992-630b38454916
+        id: 96796b9e-1e85-4d5a-b53c-09fef5c18e28
       easter 1:
         _name: easter 1
-        id: b2aea689-6e4e-48eb-8914-9d2d7853d3bf
+        id: 0c91c42c-0ed7-4e76-9651-576cdb4b361e
       easter 26 prior to 2024:
         name:
           da: Store Bededag
           en: Prayer Day
           de: Buß- und Bettag
-        id: 9802e804-2a5d-4558-887e-56bb36744508
+        id: 25df65dd-e30b-4231-bbc4-9f1b3c7d703f
       easter 39:
         _name: easter 39
-        id: 48c207e1-7bf5-4282-89b7-97b4c18cf3eb
+        id: ce98b07c-8875-49d4-a216-e3e9a244597e
       05-01:
         _name: 05-01
         type: observance
         note: Full holiday for blue collar workers
-        id: 612296da-fdb5-496a-a2ad-833e7ba27159
+        id: da0dcb39-24af-4cae-a30a-af94e29fa24a
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: cdaf3a9a-8e66-43a9-91b2-32f18a897fcf
+        id: cf906cce-8afa-4690-aa50-47d0db50dd4b
       06-05:
         _name: Constitution Day
         type: observance
         note: Shops are closed
-        id: 7deff32a-03ae-4c7c-a51f-2bfcfb30c506
+        id: 3708a68f-899a-423d-a8a8-09c542f18a9f
       easter 49:
         _name: easter 49
-        id: 7390ae70-7943-4d3b-8db1-1109b0dbf858
+        id: 131ee35c-3091-4f56-b9ac-4d6fa659b482
       easter 50:
         _name: easter 50
-        id: 6aac28fd-e266-4b2c-91d2-d3b32949e134
+        id: 8f9a5dda-21bf-43e8-ae10-cbe5bcb86fdb
       12-24:
         _name: 12-24
         type: observance
         note: Shops are closed
-        id: 1eb79322-3271-4c4b-bbbd-1f14b654f712
+        id: 3548bb3e-e2fa-465a-89ff-b4902781caf7
       12-25:
         _name: 12-25
-        id: bf1d654c-c502-4c92-9292-53f6da81588d
+        id: 65898397-598f-4adc-b597-197c76704401
       12-26:
         _name: 12-26
-        id: 428f2815-02ba-47fc-bd29-74dc933aa734
+        id: 0b083a31-8a8a-4d03-b6f7-f6afb95d495a

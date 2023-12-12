@@ -12,88 +12,88 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: ce2dd676-87eb-46e1-ada4-8f9321495fac
+        id: 2011254a-35e9-4944-9d32-66769089fea5
       01-02 on monday since 2017:
         name: Día adicional
         active:
           - from: 2017
-        id: d5af78be-d85e-431b-9686-280c46d3c3d2
+        id: a45d80fa-15bb-449b-83c9-463101e13829
       easter -2:
         _name: easter -2
-        id: df1ff261-9eba-4531-aa26-ae948ef1ce3a
+        id: 5b022544-836f-47e9-aec7-d1b2c66a54ce
       easter:
         _name: easter
-        id: 22ebb253-e6b2-4c83-af0c-ea401c9ca8c3
+        id: f1728b98-6510-4189-b6f6-a8d2e18d87ac
       05-01:
         _name: 05-01
-        id: 3c99aa4b-a930-4887-8642-803c5a161565
+        id: cb8790a6-7eac-4600-b4c0-b57a02ba1fb2
       05-21:
         name:
           en: Navy Day
           es: Día de las Glorias Navales
-        id: 35cd6e54-1d35-442b-a976-739d8e495cac
+        id: 8b124e74-97be-4751-b0bb-2238605b5525
       06-21 since 2023:
         name:
           en: Indigenous People's Day
           es: Día de los Pueblos Indígenas
-        id: 01586be7-cb8b-424a-84d5-1eabe5539599
+        id: 237c631f-734c-47f3-a56e-be8bdc94db0d
       06-29 if tuesday, wednesday, thursday then previous monday if friday then next monday:
         _name: 06-29
-        id: 1af1bc20-51d3-47d5-a0de-644fae7c86e3
+        id: 420bec89-a721-4c89-9e74-9ba2d89b1bf0
       07-16:
         name:
           en: Our Lady of Mount Carmel
           es: Virgen del Carmen
-        id: 4f6b1908-31a7-4b5c-8556-7b813d80640b
+        id: 3ca94c60-9dd8-486c-a479-04daad777cfc
       08-15:
         _name: 08-15
-        id: 03e5a9a0-1f9e-4a48-84f1-3c63c1997cfc
+        id: d1230c2a-2839-43e6-a013-780c41c759e5
       '2022-09-16':
         name:
           es: Fiestas Patrias
           en: National Holiday
-        id: d0189d40-b2e1-4445-8468-961fd9c59eb4
+        id: 05d6468a-733a-49f1-b0f8-bde845687529
       09-17 on friday, monday since 2017:
         name:
           en: National holiday
           es: Feriado Adicional Fiestas Patrias
-        id: 9368937d-bd8e-4bbe-98f0-ade184f202f8
+        id: b88f3b16-007d-45ca-9df0-bab55eb3adbd
       09-18:
         name:
           en: National holiday
           es: Fiestas Patrias
-        id: f6b8cb85-28c8-4813-b2e2-7a591401a9e2
+        id: a657b457-5cc6-4e2f-9dcb-2dd7fac61f04
       09-19:
         name:
           en: Army Day
           es: Día de las Glorias del Ejército
-        id: 96d7c102-6416-43fd-b3b8-3c496ef5f244
+        id: cf241d0e-b7e8-496a-914b-461622881b27
       09-20 on friday:
         name:
           es: Feriado Adicional Fiestas Patrias
           en: National Holiday
-        id: f5cac9f0-277b-464b-beef-a1b444a250bf
+        id: 6dcc05ad-d8a1-409a-a694-3fab9631efb7
       10-12 if tuesday, wednesday, thursday then previous monday if friday then next monday:
         name:
           en: Columbus Day
           es: Encuentro de Dos Mundos
-        id: ac836bca-319e-4d41-9faf-57b6a996b5d1
+        id: 7f234643-1a0e-484c-9bb5-a03cfa9ddecb
       10-31 if wednesday then next friday if tuesday then previous friday:
         _name: Reformation Day
-        id: ca90bd0f-0583-4b7e-abf3-9bfe0ffb5466
+        id: 66c6862f-0d13-4449-a52b-fca73b1363f4
       11-01:
         _name: 11-01
-        id: 7ef1742c-1b08-42e3-9711-086491590476
+        id: 8b5f4b3e-c9bc-45d4-b71e-bfb5a090aac3
       12-08:
         _name: 12-08
-        id: 1ff64bf9-b095-47c4-ad5a-8a1612960857
+        id: 4808ce71-d92a-4f14-9217-5a289bd93040
       12-25:
         _name: 12-25
-        id: 5d14bd4e-139e-4ccb-8a6d-cda8aa06697b
+        id: 865fb201-d397-4756-acc0-a3634373bd41
       12-31:
         _name: 12-31
         type: bank
-        id: 97b2caab-2a0b-4e7a-881a-dbfaceb43aef
+        id: d11745cb-c490-44b6-8a11-d250f18f556b
     states:
       AP:
         name: Arica y Parinacota
@@ -102,7 +102,7 @@ holidays:
             name:
               en: Battle of Arica
               es: Asalto y Toma del Morro de Arica
-            id: ba0b8ac6-99df-4759-bf2c-74388b5670b2
+            id: 8b6f176b-b160-470d-8778-ab6cbb653fec
       BI:
         name: Biobío
         regions:
@@ -139,9 +139,9 @@ holidays:
             type: observance
             disable:
               - 2015
-            id: da8e12c1-1e48-4888-bed6-d29e634a33c4
+            id: cbf5d71a-78ec-46dc-8c23-887646c4ab86
           '2015-08-10':
             name:
               en: Saint Lawrence
               es: San Lorenzo de Tarapacá
-            id: c5998903-325a-4f06-ac07-3c9c26f7b113
+            id: c359a858-0a74-4157-a447-a0751d401b27

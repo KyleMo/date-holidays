@@ -12,39 +12,39 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: d9ed8dda-43b2-4579-93e7-d5fe3717c9e8
+        id: dd5ab8f1-c459-40eb-b2d9-3813c3fa8ae7
       03-11:
         name:
           en: Moshoeshoe Day
-        id: 9a26445c-6d4b-4af4-8de9-9af4a6611488
+        id: 03fe8376-dd4e-465d-a7b6-c2be3fdec7f7
       easter -2:
         _name: easter -2
-        id: e7cd4106-9c58-4eab-bd60-fbfe9be7c995
+        id: 8968fba4-4931-413f-8cb5-7fc1cf8fb555
       easter 1:
         _name: easter 1
-        id: 8e841b48-f268-4ca6-bb37-5f92ac59f3dc
+        id: cdcf3bcb-ace0-4afd-b5d0-e13bf69a5ff1
       05-01:
         _name: 05-01
         name:
           en: Workers' Day
-        id: f37836ad-d527-4967-94a6-99f39b95e3de
+        id: 44aca4cf-db48-42e2-9c58-9b3cdc13a184
       easter 39:
         _name: easter 39
-        id: 0c0054cb-9c57-4b7f-9ba6-d997bed34fb3
+        id: e37d3d9b-49f9-4b21-980b-725703af5de4
       05-25:
         name:
           en: Africa Day/ Heroes' Day
-        id: fc27b631-ff8d-4e09-ba65-0e2bd249eb92
+        id: 9787bd99-f3a8-4ed1-beb4-2e3c8583b06f
       07-17:
         name:
           en: King Letsie III's Birthday
-        id: 821476b8-4d87-4037-8fc9-a6aff1aaf6ab
+        id: ba66b62c-c391-486d-9ce5-1e2427d7d0d0
       10-04:
         _name: Independence Day
-        id: cecfe55a-9c9f-4381-aaeb-85389af8969e
+        id: 11687947-dec9-419c-82d1-9daa255f6f37
       12-25:
         _name: 12-25
-        id: ec7995ee-3f47-4fa1-a7bb-8a72c52b85e6
+        id: 8a1e4df8-032b-4755-8640-15e5750bd197
       12-26:
         _name: 12-26
-        id: 07ce5fec-25ae-4026-a092-1b9d9d318fa5
+        id: 1667921f-ee4f-42b7-a4ff-20741ac7587e

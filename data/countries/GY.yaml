@@ -13,41 +13,41 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 2badb071-7443-4eb5-b195-8742b30a20b1
+        id: c123e487-8b58-4393-bdf1-76f1a1e73e29
       02-23:
         name:
           en: Republic Day
-        id: 2c9fff8c-a5e1-4996-8168-5ee5d7152de7
+        id: fab2957e-b7da-45f5-9528-2e738ae760fe
       easter -2:
         _name: easter -2
-        id: a1315b45-af16-4b3f-afa9-42fada307ca8
+        id: a3ab151a-b6a3-4da1-8af3-51b3928d7035
       easter 1:
         _name: easter 1
-        id: c420794c-348c-454e-9875-9a5cc9916b97
+        id: 17dc89e6-aa90-42b0-9ae6-7d117cfbf94f
       05-01:
         _name: 05-01
-        id: dd2edeaf-8ca7-44d8-9b68-9392fcc5652a
+        id: 3b6412d4-37bd-4edb-abb6-c3005620a9dd
       05-05:
         name:
           en: Arrival Day
-        id: fdcc7191-253b-4c3f-bc8f-a711e653578c
+        id: 87849223-269c-41d0-a669-11e11377526f
       05-26:
         _name: Independence Day
-        id: b68f3fab-8181-4267-ac45-0f8108c9ffc9
+        id: 6e0a9486-5062-4a06-85b5-e822da838e8a
       monday after 07-01:
         name:
           en: CARICOM Day
-        id: ccc87c16-ec12-473e-8fa7-207fb6987f2c
+        id: e6410f1e-b2f6-4e1f-abad-eb09f5c4a3eb
       08-01:
         name:
           en: Emancipation Day
-        id: e1c20780-0e8a-47b1-b384-078300ff0ee9
+        id: 15b6aec5-ed9f-4e48-8111-04533a05f9db
       12-25:
         _name: 12-25
-        id: 34552d29-b52c-4b23-b0d7-371019316400
+        id: 0070d877-9b0f-4e10-89d9-1e737cf538d6
       12-26:
         _name: 12-26
-        id: a86ccc5a-2213-4768-a486-dd3373177604
+        id: 95c561da-ded6-4c9f-bc92-7d4d02e7059d
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
         name:
@@ -61,7 +61,7 @@ holidays:
           - '2016-12-12'
           - '2015-12-24'
           - '2013-01-23'
-        id: de197f57-affd-493c-b384-69236212ab33
+        id: 98c388a4-2b8f-4c8b-ae69-ede0711f0af7
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         name:
@@ -71,95 +71,95 @@ holidays:
           - '2015-09-23'
         enable:
           - '2015-09-24'
-        id: 73e0c6af-6011-42ee-9de2-efb590ddbc2b
+        id: 2d2d3275-e83c-4b20-8743-2237ddc53ab8
       '2015-03-05':
         name:
           en: Phagwah
-        id: 2cdced8f-faf3-4d88-9ecf-3797b59d93c8
+        id: c269a787-e151-4416-8b5b-77b6b0480f74
       '2016-03-23':
         name:
           en: Phagwah
-        id: 591bb470-471b-48f6-b7d7-83a631cd0688
+        id: 559b2066-5046-45f6-8bbb-f55aa7368958
       '2017-03-12':
         name:
           en: Phagwah
-        id: 99efb1b4-775d-4997-878c-aae2bfe1f183
+        id: d2fee351-4a37-43a7-9ba0-b4a6a1825296
       '2017-03-13':
         substitute: true
         name:
           en: Phagwah
-        id: 72d5c14d-2a70-4bb5-9832-d9f2474c5359
+        id: 116fe8d1-f367-45a8-9aaf-9c88abc0a98b
       '2018-03-02':
         name:
           en: Phagwah
-        id: ac5be806-ff18-4ba9-92fc-3bb66f12ceb4
+        id: a8c5426d-6029-42a8-b5f3-795f883f8a8a
       '2019-03-21':
         name:
           en: Phagwah
-        id: 6e65ff5d-5c44-4992-9823-bd707e80aa7d
+        id: a9ac9e36-d71d-4d2f-aec0-ed0a52170740
       '2020-03-10':
         name:
           en: Phagwah
-        id: 7dea7ff4-f483-4065-93eb-f8e79ee77818
+        id: 1b3a82ac-0d75-476e-96dc-b09db5f2f71d
       '2021-03-29':
         name:
           en: Phagwah
-        id: fa6a3a4b-7dbb-4ab7-a0e6-d24564852362
+        id: a24dc2ab-bf17-4818-b128-a34f7f684dbf
       '2022-03-18':
         name:
           en: Phagwah
-        id: edfb57cd-e86c-47ca-a59f-4de469f3bf02
+        id: 4a426655-1807-4489-b0a7-8304710f1634
       '2023-03-07':
         name:
           en: Phagwah
-        id: 56464646-bd69-48b3-82c0-3174df631d01
+        id: 1a330e76-999b-4071-bd65-bd6605af10fb
       '2024-03-25':
         name:
           en: Phagwah
-        id: fe1e076d-3876-4f72-80ea-f70779f6b143
+        id: c0e4235b-c340-4024-885d-e8139dda6913
       '2015-11-11':
         name:
           en: Deepavali
-        id: dba26850-0bb1-40ae-be8a-a1cb590bcc75
+        id: 693f5a97-daa5-4e94-aa23-cc437caea24d
       '2017-10-18':
         name:
           en: Deepavali
-        id: 8cf6a8f9-801d-4c01-831f-e28a13e77938
+        id: 17f39fa3-106c-4047-8166-cc6c2eb2beab
       '2018-11-07':
         name:
           en: Deepavali
-        id: 4bd31f40-1753-4c4a-b515-4d202259f74b
+        id: 28860dce-4832-403d-a0ba-e40d4bd0a408
       '2019-10-27':
         name:
           en: Deepavali
-        id: fbe1a0f4-8d31-4427-8e19-a713dff10e1d
+        id: 89e0751d-7a6b-4ad7-8590-9a8ea646a569
       '2019-10-28':
         substitute: true
         name:
           en: Deepavali
-        id: 97818082-6354-40c6-8118-33fb75942652
+        id: c087a59a-c740-454f-be6b-57744eb8a4c0
       '2020-11-14':
         name:
           en: Deepavali
-        id: ec125ec7-fe88-4314-9a65-05f3f1b046ee
+        id: 6fe2f3a4-adda-4805-a9e9-3f40e274069b
       '2021-11-04':
         name:
           en: Deepavali
-        id: 9ab294d0-b7f2-4de4-99f5-cf076a9c9682
+        id: 60d631dc-4a8c-437c-b3bd-4da96ef12be6
       '2022-10-24':
         name:
           en: Deepavali
-        id: a13b52ce-ddff-4632-a348-4822a871b4f3
+        id: ea3086d4-e8aa-4bc2-a0bd-25bd3d648087
       '2023-11-12':
         name:
           en: Deepavali
-        id: 1ee41f8c-0d13-4e1c-83e7-8034c29f29dc
+        id: 63e5e5d5-8d41-4e57-8f5b-ba3eb110db15
       '2023-11-13':
         substitute: true
         name:
           en: Deepavali
-        id: 3a748592-fdf6-4e7c-9ffd-cd134c6f8fe0
+        id: e5a0d9b5-fcea-4c98-b2b9-a38d352ddb6b
       '2024-10-31':
         name:
           en: Deepavali
-        id: f7a40db9-75a3-41f2-a454-ee2514e2d10a
+        id: 24e1551a-9bd7-4538-b319-c24cb04bd228

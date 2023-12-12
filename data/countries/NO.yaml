@@ -11,167 +11,167 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: e3ea936e-10cf-474b-8d73-3fba1696ba9a
+        id: 670a19b8-6344-4d9c-9929-9d4769ea2a0d
       01-21:
         name:
           'no': H.K.H. prinsesse Ingrid Alexandra
           en: Birthday of Princess Ingrid Alexandra
         type: observance
-        id: 7282dac7-b305-4d81-a6aa-af24045d7686
+        id: fb71e2ee-1a0b-4445-a911-2be12ef39b04
       02-06:
         name:
           'no': Samefolkets dag
           en: Day of the Sami people
         type: observance
-        id: 950b7da6-5af9-44af-ae30-9473ed3c7a48
+        id: e200f075-69d7-4282-b481-01659b3e399a
       2nd sunday in February:
         _name: Mothers Day
         type: observance
-        id: 023a6040-f872-4cc0-a41c-d60b387c691f
+        id: 86a6fa82-0aba-40f3-86b1-6815d7d85817
       02-14:
         _name: 02-14
         type: observance
-        id: c62fd18e-63ec-4763-b6f2-f9497f509bb7
+        id: bf957a48-3829-4259-b66c-dc81ec9dba60
       02-21:
         name:
           'no': H.M. kong Harald V
           en: Birthday of King Harald V
         type: observance
-        id: 56614ebd-e3e9-4533-86f2-cf91fb329714
+        id: 5d965bfe-58fd-4af8-8543-9c518b41216c
       easter -49:
         name:
           'no': Fastelavn
           en: Carnival
         type: observance
-        id: a9c70ef1-b3cf-4493-9bad-a17003ce0452
+        id: 46fd2527-8b18-4f55-9285-b2c3da7c9554
       easter -46:
         _name: easter -46
         type: observance
-        id: eaf5f8bd-f026-4dc4-950a-e196499fff06
+        id: 82b3cd14-2d2e-498e-a70b-b83f18bc1a9c
       03-08:
         _name: 03-08
         type: observance
-        id: 350e4662-a755-4247-baa0-f5e87e65a5fd
+        id: a046f338-2296-4d5b-b370-04b573ba5776
       easter -7:
         _name: easter -7
         type: observance
-        id: 8c9635af-2a89-4d0b-891a-b68e914d341d
+        id: a6e5f8e5-7967-42f9-882c-dac1360d13c6
       easter -3:
         _name: easter -3
-        id: 558c593e-8fbf-4b4f-8cce-cb2550706e29
+        id: bfadf8ac-b00c-4900-a241-953eece67d3b
       easter -2:
         _name: easter -2
-        id: 26ff09bc-8f68-489a-9171-acbf9aeb4908
+        id: da24dc81-9b9b-4288-a47a-f4556db6b506
       easter:
         _name: easter
-        id: 573fe8a5-ca20-41cf-b3f6-841dec2bcbbe
+        id: 46400862-b2de-4438-bcdc-9812ba25dfd8
       easter 1:
         _name: easter 1
-        id: 9af5256d-d478-42d4-b940-e1c67fb2885b
+        id: 35856791-5118-412a-9eef-cbd08a546f4e
       04-01:
         _name: 04-01
         type: observance
-        id: 63a5bcdd-6276-4d95-b22a-a81961712de0
+        id: dda61c1f-cd28-4bb6-beb0-d69d3ace6091
       05-01:
         _name: 05-01
-        id: e6ec6aac-b000-429f-af3c-84d692e24502
+        id: 487e0d73-ddd2-4cdc-9dd2-0f075fcf4310
       05-08:
         _name: Liberation Day
         type: observance
-        id: 52861c04-3e07-4769-b75d-da4fde07c6ac
+        id: 8e78da3d-d93f-4de1-afec-c0da741ac173
       05-17:
         _name: Constitution Day
-        id: 8f55d760-5e3d-4765-9d8f-05bdce7ba041
+        id: ed220cd5-766f-4587-ad8a-838150454003
       easter 39:
         _name: easter 39
-        id: 69748b18-f88b-4d16-88ca-bedb3e20cc09
+        id: a8956f34-997d-4700-bfa5-34abf098aeb9
       easter 49:
         _name: easter 49
-        id: 055bc81a-489a-4b26-8d48-6bdd5801d08e
+        id: 7850abe2-2709-4555-99e9-f07f8a7128db
       easter 50:
         _name: easter 50
-        id: 6dbde9f3-ab22-4803-aaab-65036bb15e2e
+        id: 71a43c77-9bd9-4140-aeb3-bd72beebc1a7
       06-07:
         name:
           'no': Unionsoppløsningen
           en: Union Dissolution Day
         type: observance
-        id: 507b253e-f03b-4a40-a3c1-71dd6305fb55
+        id: 658d241a-3c4d-4b51-8a72-f873f6dc44c1
       06-23:
         name:
           'no': Sankthansaften
           en: Midsummar Eve
         type: observance
-        id: bca7c6b6-33e3-4c8a-b986-16396b9391d8
+        id: 08836e9e-287a-4efb-8d4a-847fad826ee4
       07-04:
         name:
           'no': H.M. dronning Sonja
           en: Birthday of Queen Sonja
         type: observance
-        id: 407ea038-9bf8-4144-a9c1-f03542f0c81e
+        id: 66a1a498-c991-400a-a7a8-ec2a17c11829
       07-20:
         name:
           'no': H.K.H. kronprins Haakon Magnus
           en: Birthday of Crown Prince Haakon Magnus
         type: observance
-        id: d60141e5-70ce-46a7-a9f8-fa7c75d66fdb
+        id: 5ba4835e-d939-4fd4-a1a2-9e4b86b34ad3
       07-29:
         name:
           'no': Olsok
           en: Olsok
         type: optional
-        id: 2fe1b715-822a-4dc6-ab79-ade2b1ab7f14
+        id: 6618610f-5bcd-4991-bca8-35a46078dc4f
       08-19:
         name:
           'no': H.K.H. kronprinsesse Mette-Marit
           en: Birthday of Crown Princess Mette-Marit
         type: observance
-        id: 62ac1c43-f8a4-4722-ad77-6199b2eee71c
+        id: 8f43f200-c6e6-4491-abfe-a6b2593dd822
       1st sunday in November:
         name:
           'no': Allehelgensaften
           en: All Saints' Day
         type: observance
-        id: 2ee105a7-6344-400b-8e32-248bbb13e1cf
+        id: c4d27baa-fc7b-412e-a6ab-afc618312e77
       2nd sunday in November:
         _name: Fathers Day
         type: observance
-        id: 92fd3969-d9b1-48d5-ab2c-e406025d4425
+        id: 546ec50d-2837-4ca7-bd67-6dcf136d4ecc
       4th sunday before 12-25:
         name:
           'no': Første søndag i advent
           en: First Sunday of Advent
         type: observance
-        id: 33597eea-a964-4621-86e4-182f96ebb5db
+        id: 6f584ff3-0bdf-4d59-9193-029d31ec18f7
       3rd sunday before 12-25:
         name:
           'no': Andre søndag i advent
           en: Second Sunday of Advent
         type: observance
-        id: 0528b407-e132-48b6-8359-86a4724f4dae
+        id: 2462b5b6-f8de-4431-8691-23b4c9d95397
       2nd sunday before 12-25:
         name:
           'no': Tredje søndag i advent
           en: Third Sunday of Advent
         type: observance
-        id: 156f1ba9-7efa-4688-9f17-b501d28325a6
+        id: a2d1af32-c397-4d0c-83ff-5438bdf96e55
       1st sunday before 12-25:
         name:
           'no': Fjerde søndag i advent
           en: Fourth Sunday of Advent
         type: observance
-        id: a400a245-5799-431c-a1dc-4902e1d14728
+        id: c83c08e7-d268-4031-9e5f-5d1aa3501669
       12-24:
         _name: 12-24
         type: bank
-        id: 82a68772-e698-4c0b-808c-b20ae3df34a0
+        id: f347f47f-56ab-4dbb-b20c-896d965945a6
       12-25:
         _name: 12-25
-        id: c5e3d6c4-68ab-4afe-9e06-832dd36bb01e
+        id: f7b11249-773b-4f7b-b4e9-93946a1bcc2b
       12-26:
         _name: 12-26
-        id: d517be76-af87-4a81-8682-32ea2e43207f
+        id: c0d9627b-2562-4ac7-803f-76ccc16c50ef
       12-31 14:00 if sunday then 00:00:
         _name: 12-31
         type: bank
-        id: 5d2c1a1b-95e5-420b-b120-8b90822b7a66
+        id: fdc0477c-2f11-49fb-aed1-1a7edf742a16

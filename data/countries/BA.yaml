@@ -16,87 +16,87 @@ holidays:
       01-01 and if sunday then next tuesday:
         _name: 01-01
         substitute: true
-        id: 9285b5aa-f6ee-4078-a275-090ac0873a28
+        id: c7d01a36-58a4-410d-b5d0-5860a8d9b26d
       01-02 and if sunday then next monday:
         name:
           en: 2nd day of the New Year
           bs: Drugi dan Nove Godine
         substitute: true
-        id: c32ef8e4-8cb7-4454-89a5-76520e3c2072
+        id: ac85c0c5-bcae-476e-9218-0d5e850f6296
       05-01 and if sunday then next tuesday:
         _name: 05-01
         substitute: true
-        id: 19aaf9a5-d4fe-43fa-8dca-219928f4e2ea
+        id: 4f6a4a73-64c1-4636-a3e8-e8b3783a8292
       05-02 and if sunday then next monday:
         name:
           en: 2nd day of the Labour Day
           bs: Drugi dan Dana rada
         substitute: true
-        id: 748d2acf-5d4a-4bf4-aa56-6502c40a5be1
+        id: 75bacdd4-1468-4259-8fde-2ef8df56cc76
       01-06:
         _name: 01-06
-        id: 821899ce-d388-4f45-8143-b1ea78a6fedf
+        id: 4c3adf7a-b29d-4c68-ad74-bc7b7b922233
       easter:
         _name: easter
-        id: 9d6211cf-840c-46a2-862a-1d5b2bff3ec1
+        id: 98722da6-4ed4-4040-bda8-11afb7f274b4
       easter 1:
         _name: easter 1
-        id: f7be33e9-e28b-437b-9c57-404d09eadf03
+        id: b9de96d8-d9d2-4009-9a7f-faf4ab87b6c5
       easter 60:
         _name: easter 60
-        id: 720b51e8-4f61-4084-844d-4e7d60db03c5
+        id: cdee74ec-efcc-40fa-be29-cff22008f881
       08-15:
         _name: 08-15
-        id: 3f911e72-1773-47d8-89e0-534ba7574fdb
+        id: 40036f22-5c9b-4dd3-81cb-2f3f81bc40b1
       11-01:
         _name: 11-01
-        id: 551b1e93-95b1-4feb-bf64-d80483ff0dd5
+        id: ddf0da90-5c43-4d6f-b9ff-aebc713b6c72
       11-02:
         _name: 11-02
-        id: c101c6a2-5369-47db-99d5-a4c57fd34173
+        id: c69c6c91-1c93-4153-8347-19d294642068
       12-25:
         _name: 12-25
-        id: b74cde16-af29-41d7-bec6-1e9992f30b41
+        id: d3540fd3-f175-47c6-947a-ad08f4a1aaca
       12-26:
         _name: 12-26
-        id: a152a903-68fa-4bdc-9a2c-942653ae4c89
+        id: f37e312d-bf28-406f-aa6f-e90035ec0941
       julian 01-01:
         _name: julian 01-01
-        id: 2ca20ea7-eed6-4a80-959b-4ba608173fb4
+        id: a68ed2fa-e5f4-4e2e-8d60-192226501896
       orthodox:
         _name: orthodox
-        id: a8233db7-a30f-400a-b6b9-f12d2cb0bf72
+        id: 8ecc5c53-2442-44a6-8808-6724362b72a3
       julian 08-15:
         _name: 08-15
         note: orthodox
-        id: e4f6f159-a813-4d04-94b7-faf981c4f091
+        id: bec3600d-d66f-45e6-ba2c-d48ddf148435
       julian 12-25:
         _name: julian 12-25
-        id: 3c41278f-b1f6-4864-b376-90a98182528c
+        id: 3c6d8efe-c5d3-435a-9a19-12bfb35272c6
       1 Muharram:
         _name: 1 Muharram
-        id: 4e9659cf-bcdc-4eb9-b310-7983b62361aa
+        id: 2809fd87-4b15-4712-b5ec-4941f7f76002
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: 3509ec36-3400-4aca-b6de-79b165893dfc
+        id: e178187c-95c1-4b3f-936a-86283f84f7e2
       10 Dhu al-Hijjah P4D:
         _name: 10 Dhu al-Hijjah
-        id: 35c3971f-bc13-4d48-acee-9b3c81f00719
+        id: 9f099f9c-9258-46f2-983d-244d4be29f8c
       1 Shawwal P3D:
         _name: 1 Shawwal
-        id: 3f8aa783-08e9-4000-930e-a4745f117511
+        id: b73f630b-df45-4910-ab9c-fd5ca274dd01
     states:
       BIH:
         name: Federation of Bosnia and Herzegovina
         days:
           03-01:
             _name: Independence Day
-            id: 585601ad-fe7c-42b9-8780-444cc045afe8
+            id: 44d03010-3838-4693-9257-8f1d44e15705
           11-25:
             name:
               en: Statehood Day
               bs: Dan državnosti
-            id: 92b8a8a8-df40-4f62-b1da-7007dd16f5a9
+            id: 7a9a7bc0-9fb4-43ca-83a6-617b3bd5cd12
         regions:
           W:
             name: Western Herzegovina
@@ -108,7 +108,7 @@ holidays:
           03-08:
             name:
               en: Day of the Establishment of the District
-            id: 0e9dfac2-77ae-4c20-9984-7eb3fe97ba66
+            id: eee773f3-53da-4022-9f7e-3e24c11b974e
       SRP:
         name: Republika Srpska
         days:
@@ -116,16 +116,16 @@ holidays:
             name:
               en: Republic Day
               bs: Dan Republike
-            id: cd47e976-f52a-4b5b-b0a1-4a64efd1e498
+            id: 5b207005-754d-4f5c-9aa7-2ea586dfe4b6
           05-09:
             name:
               en: Victory Day
               bs: Dan pobjede
-            id: 5262604c-164b-4eb5-b9a7-b04955341790
+            id: da14012e-3cbd-4462-8df7-4b9ec61d3ea8
           11-21:
             name:
               en: Dayton Agreement Day
               bs: >-
                 Dan uspostave Opšteg okvirnog sporazuma za mir u Bosni i
                 Hercegovini
-            id: 3d2fdec4-d447-4e22-8be0-528dd8ca13ba
+            id: f1880dd7-3ae0-4199-88ab-e47c2c0dcb4c

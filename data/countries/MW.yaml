@@ -11,49 +11,49 @@ holidays:
       01-01 and if saturday,sunday then next monday:
         substitute: true
         _name: 01-01
-        id: b822d758-10ed-4053-bcc5-85698383562d
+        id: ac050a16-fbb8-47e0-be28-48a8ec6157ba
       01-15 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: John Chilembwe Day
-        id: 892ccca8-6c5c-4ab6-bac2-4193f62e926f
+        id: 7fee6655-e002-4939-92c7-22a12fb178fb
       03-03 and if saturday,sunday then next monday:
         name:
           en: Martyrs' Day
-        id: dd59e27f-7ccc-44fc-b801-33b192ceef2d
+        id: e599b67d-e66a-400c-902b-e47a807b4554
       easter -2:
         _name: easter -2
-        id: 924086ab-b7d1-48c7-86ef-397308d38870
+        id: bcbd8a70-f7e2-41bf-b2e7-d8ac815991f2
       easter:
         _name: easter
         type: observance
-        id: 2dfe3b08-1366-4834-8e23-b93f94627cad
+        id: 09e27340-91ab-4d10-a563-1e90bc052c03
       easter 1:
         _name: easter 1
-        id: d3c03048-0af8-46af-a537-7ef0038b2bb6
+        id: 7180afaf-4987-4756-9a68-6792dba92a6d
       05-01 and if saturday,sunday then next monday:
         _name: 05-01
-        id: 97b4ffd0-46c6-434a-9ad7-97b194e2d33b
+        id: 3ee381e1-46cf-43a6-a3b3-4c6bd7e9f9a4
       05-14 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: Kamuzu Day
-        id: 38b003e1-1d2f-46f9-9286-b3f5053a4fee
+        id: db8f8ee6-50fa-4ed2-8558-9cfd71e464d4
       07-06 and if saturday,sunday then next monday:
         substitute: true
         _name: Independence Day
-        id: b5d29c63-fc0b-461f-8230-0d0ad0d6e8cc
+        id: e2690330-3a2a-45f0-8a67-de4c7a86cd6d
       10-15 and if saturday,sunday then next monday:
         substitute: true
         _name: Mothers Day
-        id: e2a46e8a-36dc-4f9f-ba9c-e9679ca9f227
+        id: 3e24154a-51a5-4871-880e-3ae84f4bcaf1
       12-25 and if saturday,sunday then next monday:
         substitute: true
         _name: 12-25
-        id: 91a9d14d-112e-448d-9ee0-c7f36ed93df1
+        id: 64f24910-0739-4b2d-a154-fc8b003d9636
       1 Shawwal and if saturday,sunday then next monday:
         substitute: true
         _name: 1 Shawwal
         name:
           en: Eid al Fitri
-        id: 0cb8a21c-a50e-4bbc-b1c3-0921d0638672
+        id: ae774b15-5f13-4658-a30b-11d5bcc80756

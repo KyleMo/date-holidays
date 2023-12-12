@@ -13,43 +13,43 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 1c7fc91d-d7b8-4ca4-83ab-84be53f06078
+        id: dad84584-de64-4399-9ac6-b49d8359c26e
       04-04:
         _name: National Holiday
-        id: da64239b-2fb8-4203-9438-2bbe5c3f892e
+        id: 677d6b3d-e4d0-4294-acbd-695dc99b3f65
       05-01:
         _name: 05-01
-        id: a454e3ca-445a-4969-a6a9-bd7c50b88fe7
+        id: 4d5f9e48-af7f-4e08-a829-e996ecf3772d
       08-15:
         _name: 08-15
-        id: 87178c82-ca56-4f34-8e34-70a7c13a361d
+        id: 04093220-130a-4a82-b028-76eae9932870
       11-01:
         _name: 11-01
-        id: 91569175-82e8-4f8c-8991-38380370f35b
+        id: c46cfb86-c2f0-4964-b62a-41cd58bf4edd
       12-25:
         _name: 12-25
-        id: 47b7d32a-9230-4c88-83d4-7dd103445529
+        id: b227f48d-134f-465d-9eb5-bf3898e8d7b7
       easter 1:
         _name: easter 1
-        id: f3a32822-c2a7-4840-9e12-762cf94cd270
+        id: b6f12a00-d082-4df8-952f-bc6fbd20c9d8
       easter 39:
         _name: easter 39
-        id: 701526ea-b7fa-42ee-bf6f-bea4f36b61af
+        id: 0892a005-ac91-4611-ab46-3cd1a5ddaa01
       easter 50:
         _name: easter 50
-        id: 5156e63d-1e31-4b45-8aa8-d14588c02716
+        id: 6bb58749-6721-4706-a984-5c5f366fb9ad
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: fc70cd29-6d7d-4be8-99e5-11105002ae2d
+        id: d6e10ea9-3771-4316-aded-7a3098fa6009
       1 Shawwal and if sunday then next monday:
         _name: 1 Shawwal
-        id: 7f3a5ba0-52de-4a01-8fee-34268c5434b2
+        id: 6c2d1729-f814-4ac6-9483-1d3f4e122432
       10 Dhu al-Hijjah and if sunday then next monday:
         _name: 10 Dhu al-Hijjah
-        id: 1a4270ca-8424-4edb-acd1-79d70c967344
+        id: dbe2e261-a414-4793-9142-06b4c666d3a4
       10 Muharram:
         _name: 10 Muharram
-        id: 3baf79e3-da08-4d04-88f9-01f3c331d6e8
+        id: dc4d1ec8-37f8-441e-bbd0-56fb585520c6
       18 Safar:
         name: Magal de Touba
-        id: c2ea3ef1-8087-44f4-89e6-4c9b8fee5fd3
+        id: 63858118-64bf-42e1-aa8d-b34fca99b9b5

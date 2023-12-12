@@ -11,53 +11,53 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 696810c9-c621-4a90-b8b9-7f0fcb325592
+        id: 4ccd54bf-c3b4-427c-b13c-d512fed73017
       02-10:
         name:
           en: Feast of Saint Paul's Shipwreck in Malta
           mt: Nawfraġju ta' San Pawl
-        id: 005d1a4d-a3a4-4d87-9443-b79ce7ac5c76
+        id: 4c8539a5-a29b-408d-92b3-7e5bef2994fa
       03-19:
         _name: 03-19
-        id: fdf385ac-3f99-4800-9364-da6b92e9ae80
+        id: 7b223826-685e-451f-bfcd-10eb9de144dc
       03-31:
         name:
           en: Freedom Day
           mt: Jum il-Ħelsien
-        id: 6b064ba1-c5e0-497e-8ce3-b890e9053d04
+        id: c03f7dff-8a05-44c8-86dc-d848ca952f42
       easter -2:
         _name: easter -2
-        id: 55fd7f88-103a-40df-b952-d5cb7d0c403f
+        id: 0e971de4-f93c-440d-a7c4-1094350b856f
       05-01:
         _name: 05-01
-        id: 4f7002fa-1f10-4a27-900f-2459ac325f65
+        id: 68e44c63-5e2c-4bca-babf-f1635432436e
       06-07:
         name:
           mt: Sette Giugno
           en: June 7th
-        id: 6fd56207-013c-49c1-bab5-65ddbfbf87de
+        id: 1d663d22-fbff-43d9-8c3e-542562c7dcae
       06-29:
         _name: 06-29
-        id: d10b3131-3744-443d-b9cb-b79c1eb0cc00
+        id: 2978dc30-d519-4031-bd3e-ca9c35f0830c
       08-15:
         _name: 08-15
-        id: 2360e051-2348-41f8-881a-f750b527c049
+        id: 983cfe0a-3dc1-45dd-8f53-90459101467c
       09-08:
         name:
           en: Victory Day
           mt: Jum il-Vitorja
-        id: 1381fb9d-e295-420e-9eb7-58033816c318
+        id: cff8a532-d8f5-4f9a-9d33-85fbac051e0a
       09-21:
         _name: Independence Day
-        id: 226a6956-2dee-452b-9893-01e0147ddc44
+        id: 9b191150-bde7-4773-a8af-6f6890327baf
       12-08:
         _name: 12-08
-        id: 47fff904-71a7-4c7c-993b-be9064bbac06
+        id: f95c0ca0-100e-4f0a-a720-405ff10f3118
       12-13:
         name:
           en: Republic Day
           mt: Jum ir-Repubblika
-        id: 8f668e37-8326-4c66-b95a-a50aa89d651a
+        id: c2d52278-eb9a-49f7-91af-43d5492a3744
       12-25:
         _name: 12-25
-        id: bac20caa-8b0b-4e7a-9aea-096dc5d22e4f
+        id: 5975201e-4b2c-4436-a20d-5b17fb9b6fe9

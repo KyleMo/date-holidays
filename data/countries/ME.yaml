@@ -18,122 +18,122 @@ holidays:
       05-21 and if sunday then next tuesday:
         substitute: true
         _name: Independence Day
-        id: 08c85c19-4c21-4ada-928b-4f2365d63455
+        id: 81849187-04b9-4176-a197-80717586b95b
       05-22 and if sunday then next monday:
         substitute: true
         _name: Independence Day
-        id: 2cb4b7a9-61d1-4357-8229-65e0ab97557e
+        id: 19ed6e02-4b86-4ebb-b5c4-46b532aaf8cd
       07-13 and if sunday then next tuesday:
         substitute: true
         name:
           hr: Dan državnosti
           sr: Дан државности
           en: Statehood Day
-        id: 2517f650-b12a-40c7-aaf9-8c4cc26441ab
+        id: 31c099f1-a2c6-4c1b-9574-785acd833b04
       07-14 and if sunday then next monday:
         substitute: true
         name:
           hr: Dan državnosti
           sr: Дан државности
           en: Statehood Day
-        id: a4401c5f-a372-43b8-84d2-7426afb89d3e
+        id: c583b523-55dd-4ede-af93-e734196a9254
       01-01 and if sunday then next tuesday:
         substitute: true
         _name: 01-01
-        id: 392e1768-1bdb-4ed6-bcd8-2881d4c95389
+        id: c9ecf364-d958-40d3-9cd6-ed20d25c8916
       01-02 and if sunday then next monday:
         substitute: true
         _name: 01-01
-        id: 70d43ff2-984d-4135-aed4-d0abd4f573ca
+        id: 8a95d6aa-5211-4292-9edd-554463829cf2
       05-01 and if sunday then next tuesday:
         substitute: true
         _name: 05-01
-        id: 7ee77d9c-fdf8-48b1-9135-c6eb4564e001
+        id: 8a8df98f-50f8-40f5-8cf1-836ffc9146ef
       05-02 and if sunday then next monday:
         substitute: true
         _name: 05-01
-        id: 5d2b6adf-13b3-4340-ba88-1630b13ab6bf
+        id: e6fe5268-9d31-4fcf-b77a-730a80792035
       julian 12-24:
         _name: 12-24
-        id: 49e51187-8a13-40ec-b3ef-5eb8be8ef4a0
+        id: 4fecd2d3-bfb8-4522-8c59-0ca6a883496f
       julian 12-25:
         _name: 12-25
-        id: 8e58aa69-72cb-4f0f-843d-ada1fd8aac61
+        id: 49718bec-f062-4000-ae3d-aad84e93fc03
       julian 12-26:
         _name: 12-26
-        id: ede132d6-d6db-434d-8459-8088ea77f51d
+        id: c690d474-23a3-43b3-959e-a2a09aaa640f
       julian 01-01:
         _name: julian 01-01
         type: observance
-        id: 2003f17e-d9b7-4400-a6be-1d38de91dc42
+        id: dba1d46c-dc3f-439b-a7a0-4569441b0693
       orthodox -2:
         _name: easter -2
-        id: 306eb9b3-f196-40fa-af95-165f76f1807d
+        id: daafd72f-61cb-45c2-a2ea-1c9729178d29
       orthodox:
         _name: easter
-        id: ec50fe4c-cdf2-46a2-8082-86dca470ddbf
+        id: 1bd4bff3-c138-4108-8329-d1cdd276d964
       12-24:
         _name: 12-24
-        id: d28c8b80-7010-4aeb-904b-2c5b235ddfff
+        id: 33a723e7-448c-45e8-8014-3518f8361590
       12-25:
         _name: 12-25
-        id: 57cf6b84-9b67-46ca-8595-4a3d631f4386
+        id: c6e57f35-b090-4348-a8bb-dcdd9eb640db
       12-26:
         _name: 12-25
-        id: c52afeae-8379-4441-8654-07365fd32c66
+        id: 410cd713-79a2-4e22-ae3a-93b68ff9eccb
       easter -2:
         _name: easter -2
-        id: c238aa13-ebb1-4f3d-a3e1-6554ac389ab9
+        id: 3631fd5d-147b-4ca1-a2f7-4164963042f6
       easter:
         _name: easter
-        id: 0bd73843-19ab-475c-a2a8-9a63058f1aa2
+        id: e618d209-5998-4804-ad7a-94c172c9aa0d
       easter 1:
         _name: easter
-        id: 785637e7-80a3-43b0-926b-c5b6a9e0e379
+        id: e8937230-3d48-4c61-88a9-04bbbd6b04b6
       08-15:
         _name: 08-15
         type: observance
-        id: 2867c07c-cb2b-47e1-a836-fdad4d38d40d
+        id: 7cf7d298-3140-4f7b-b0c3-e412c3517729
       11-01:
         _name: 11-01
-        id: f8964bfc-2f51-4367-bbf9-da2c9756afbd
+        id: d65b11f1-f5ce-42d8-b202-f857fb9a30aa
       1 Shawwal P3D:
         _name: 1 Shawwal
-        id: 6bbf689c-7ca4-4c40-a69d-b26ff5fdcf87
+        id: 6c605bcd-870a-4d23-a76e-fa25cd47d449
       10 Dhu al-Hijjah P3D:
         _name: 10 Dhu al-Hijjah
-        id: 232bab41-9f44-4d7e-9d0b-86cae94ef152
+        id: 5763e0c7-5e50-466a-a5aa-d965096b5097
       1 Muharram:
         _name: 1 Muharram
         type: observance
-        id: 1542186f-d738-4463-b3bd-0031944e5fb4
+        id: 228de88b-a84d-48c1-9b42-81f2de9e6a8a
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
         type: observance
-        id: 3e76c07e-aa97-4b4c-9c9f-2d739c343873
+        id: be6c0991-9164-4e33-8e93-d94054657d79
       27 Rajab:
         _name: 27 Rajab
         type: observance
-        id: a6f7e97f-5c15-447f-bc3d-d7e0fa4caae9
+        id: 8efac1eb-089b-4c78-bc34-36e8f6ee0d4c
       15 Shaban:
         _name: 15 Shaban
         type: observance
-        id: 6674f2d2-076a-487c-b866-95873785881d
+        id: e9a3dfdf-612a-4d90-9508-804a3d372583
       1 Ramadan:
         _name: 1 Ramadan
         type: observance
-        id: 1604a1fd-15c6-4969-b09b-c04457d273bd
+        id: 2d4d6fce-5e6b-485a-a475-bdc8e53db4e7
       27 Ramadan:
         _name: 27 Ramadan
         type: observance
-        id: 3412c6ca-a4ad-4c14-91d3-910d3c078ba4
+        id: 3094705e-e343-457e-b168-b71f3699a61c
       15 Nisan P2D:
         _name: 15 Nisan
-        id: e9c35b62-b90d-4ef7-970c-c88cc01f0474
+        id: 4b8a45d1-6689-4486-9215-7330f2a75766
       1 Tishrei:
         _name: 1 Tishrei
         type: observance
-        id: b95bf4b5-8503-41ec-9f52-e0587119fb3e
+        id: e4231057-5969-407b-82da-1021e95103ba
       10 Tishrei P2D:
         _name: 10 Tishrei
-        id: 7bf4ca95-b38a-4449-88ff-3d0f4b60ce4b
+        id: 5503155d-fff7-4446-a60e-52be41c94712

@@ -11,47 +11,47 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 665223f3-0e04-4292-ab9e-512a719fcaf5
+        id: 46ededc8-f16a-4ed6-b3ef-015c9a524aea
       01-13:
         name:
           fr: Jour de la libération
           en: Liberation Day
-        id: ed53a998-ebf4-4d8b-80ae-a804c742dd7b
+        id: 57793bc5-7be5-48f8-8b45-969c56f1b0f4
       04-27:
         _name: Independence Day
-        id: 87889a4b-17e9-49cf-86c7-5009a08d9054
+        id: 52e3606d-3ce1-49bc-afb9-352076bbf5f5
       easter 1:
         _name: easter 1
-        id: cc52e758-1f52-43fa-be72-4403d6c60380
+        id: 4949b137-1da9-4cee-a670-0e6cf201255a
       05-01:
         _name: 05-01
-        id: 00b2cd80-f88d-4b75-9913-d2b58618d733
+        id: 5ec45bc6-ffed-47c0-9052-b3a9413b17c2
       easter 39:
         _name: easter 39
-        id: b729b0a6-dc7f-4967-8e2b-14028c9a77a8
+        id: 541c77ec-3f76-4a68-8a2b-10c1faf7b4fe
       easter 50:
         _name: easter 50
-        id: d3f9ab94-9f93-41fb-84e5-2a7bc3730be3
+        id: 13329bb5-1d0b-4acf-b8b3-841e5f8a9eaa
       06-21:
         name:
           fr: Journée des Martyrs
           en: Day of the Martyrs
-        id: 9055ec53-0503-4681-b01b-57ecbefdcf39
+        id: 81b16c94-815d-4130-aa74-95bcc3d147f0
       08-15:
         _name: 08-15
-        id: 0b9a6683-9ede-4ec8-9552-65fada19199a
+        id: 8a941d12-61bb-424b-a5c0-57a0b4b8b74b
       11-01:
         _name: 11-01
-        id: d9075347-ed8f-4b67-afd1-837ee05fa8ec
+        id: 5067858d-e7e2-4235-b298-be51d33c06bb
       12-25:
         _name: 12-25
-        id: 0b4cc250-1238-4cdf-9fa4-1f96bd726f30
+        id: cb5b5274-af55-4453-81af-3f9bcb35b666
       13 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: e2fd69e2-d2f2-420a-bf70-e5c228fe48cd
+        id: 9860cebc-3e8a-4acf-aebf-295f9109f912
       2 Shawwal:
         _name: 1 Shawwal
-        id: 5d163d4e-f2fb-42c9-a8a9-d96ce4eb7d2d
+        id: cb97718e-3ed0-42cd-b7d0-a011f00c85f2
       11 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: ffd264ae-3eb7-4312-a5c2-caaedbe42f1e
+        id: d89e7d5d-b335-4bfb-a26c-3808f720b38c

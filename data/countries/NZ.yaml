@@ -14,179 +14,179 @@ holidays:
       01-01 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 01-01
-        id: bc694d00-be99-4acf-b3a2-c79df1a31316
+        id: 9cb86054-db74-4efa-ae92-fe5d4ae11c47
       01-02 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         name:
           en: Day after New Year's Day
-        id: 9d8e806e-5d46-480a-9def-e7fa2bb637af
+        id: 681b922e-b1a2-4484-992b-f10ce61b44f6
       02-06 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: Waitangi Day
-        id: 6ec48434-4c03-445e-a16b-8d4cb03dae05
+        id: 4c14a3e9-a227-4cf1-ae2d-66ef2a1d1248
       easter -2:
         _name: easter -2
-        id: a982b7c1-e13f-4dc9-bffd-1d7601bb8127
+        id: 249141f6-374b-438e-b882-dd7d7bfd6fd2
       easter:
         _name: easter
         type: observance
-        id: c0247c67-43e5-48de-8727-b5ef2dcd34c9
+        id: b5511e99-8c2e-4b63-9f10-fa27d6e5c154
       easter 1:
         _name: easter 1
-        id: 7bcdf20e-a5be-44c5-82a0-4ddb1af0effd
+        id: d76f74ee-0e1b-481e-b14e-7e52cd889707
       04-25 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: ANZAC Day
-        id: f592f80e-0de9-4027-9917-4dd9c1ff5392
+        id: c53d1d85-d4e2-420e-b6c3-199e517efb3e
       1st monday in June prior to 2023:
         name:
           en: Queen's Birthday
-        id: b1011edf-afbe-44d6-a6cd-0db5321d7dee
+        id: 69271df2-a2e5-4163-9866-7739b6f255f2
       1st monday in June since 2023:
         name:
           en: King's Birthday
-        id: ef8ae9e9-2461-474b-a6f1-a90538039c39
+        id: 544167f2-faa4-4e9b-a3f3-6a6edba710fd
       4th monday in October:
         _name: 05-01
-        id: f9b4ed53-e380-467c-af60-7f218d3fc76a
+        id: 63fab080-fbd0-499f-8b73-6693944bf813
       12-25 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 12-25
-        id: 660b28ea-8f60-47a8-8a2f-40903ae9b4b9
+        id: d75239ae-2735-4d2a-9573-39cd688a2173
       12-26 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 12-26
-        id: 1daacf4b-253d-46e8-938f-a9c93fecf132
+        id: 5a6e4487-aac0-4396-904d-637a01cbe2d1
       '2022-06-24':
         name:
           en: Matariki
-        id: ee9f24ab-5ae6-476c-b1cd-647a52daa75e
+        id: c9efa665-efde-40d9-b748-db49f2424d76
       '2023-07-14':
         name:
           en: Matariki
-        id: d14c83c6-5c68-4cd8-ad47-582f0c30ddfb
+        id: 15d72e66-e8a8-4fb4-aace-1bd5da9981b8
       '2024-06-28':
         name:
           en: Matariki
-        id: 5f1ab0f7-ad85-4a16-97d2-db49b93a78d4
+        id: 64774d2c-77e2-4cb7-bd2c-548b77844fe0
       '2025-06-20':
         name:
           en: Matariki
-        id: f3c48567-56ce-4dea-8350-eebc3d6372aa
+        id: 2b2eebe3-2780-402b-9003-9017a241687b
       '2026-07-10':
         name:
           en: Matariki
-        id: 590da69e-67eb-4a7f-b0a9-91179c65671b
+        id: 03363bf3-841a-455b-b978-415f6c64e9c1
       '2027-06-25':
         name:
           en: Matariki
-        id: e334f3d8-8d9e-45ff-86c6-cfcbbf5b67db
+        id: 8fedff8e-099b-452a-b892-853fe1fd783a
       '2028-07-14':
         name:
           en: Matariki
-        id: 31f6c0d9-eba1-44f4-af78-c9e5cbbf93b4
+        id: 64cfc77b-93be-48ae-8f4e-bf61fbe4fe97
       '2029-07-06':
         name:
           en: Matariki
-        id: 803fc59c-bafa-48a2-b199-e4df5b648796
+        id: 089a938e-1e48-4d5c-955b-76da1b62db36
       '2030-06-21':
         name:
           en: Matariki
-        id: c01081a1-7fd0-48f5-af14-e5db49b2fc81
+        id: 8cdd0a29-c8ad-447a-ab36-4061c9a573c8
       '2031-07-11':
         name:
           en: Matariki
-        id: 9714bb78-e29a-4ba9-87b4-2d73c5deafd4
+        id: d23a83e3-367f-4d9f-b010-5d746257bb3f
       '2032-07-02':
         name:
           en: Matariki
-        id: 27e2f457-f9d7-4f4d-99e6-9f2103c80f49
+        id: b55176d4-2162-43e7-98a6-3bfeffbf2330
       '2033-06-24':
         name:
           en: Matariki
-        id: 52f31846-449b-4974-8e2e-5aa66037ad33
+        id: a3b77e62-0dbe-4854-a949-ff6016686493
       '2034-07-07':
         name:
           en: Matariki
-        id: 66e92d8a-298d-49d7-b886-17deb2041ee0
+        id: b5d48eff-8ad2-473d-8945-ef51abdd54da
       '2035-06-29':
         name:
           en: Matariki
-        id: 128223da-6213-44b0-a8b4-c1239abc92da
+        id: 06dcb2c2-5975-42b5-ab4f-6384a78f0402
       '2036-07-18':
         name:
           en: Matariki
-        id: 34ddd9fd-0633-456d-b958-2e0dec067cb9
+        id: eec3ed14-f2ab-4899-b609-f043c2d64b2b
       '2037-07-10':
         name:
           en: Matariki
-        id: 3287b2dc-0487-4e77-ae30-426ec57a762a
+        id: 63273808-89cf-4dac-bbeb-35d69bb971ef
       '2038-06-25':
         name:
           en: Matariki
-        id: 8332cee4-c5a0-4e45-b505-55c2f106d569
+        id: 23f6d9c7-bf97-4b49-95e1-d5346b7f126b
       '2039-07-15':
         name:
           en: Matariki
-        id: 80595b4b-54a5-42d8-89a8-0a5db4cfafc6
+        id: 3b774460-c3d3-4eb1-b471-552a45e63087
       '2040-07-06':
         name:
           en: Matariki
-        id: 119d1905-1398-4825-b4ac-8006a71a631e
+        id: 1bc4e367-6500-4c9f-9fce-80f4097e6bfb
       '2041-07-19':
         name:
           en: Matariki
-        id: a4c75b29-c21b-4b41-b3aa-5da4adce5179
+        id: 1ca0cce7-f5d3-4431-81bf-96f0dd3c22ad
       '2042-07-11':
         name:
           en: Matariki
-        id: 0ce6ed8c-a660-4688-b10a-cb4842be928e
+        id: b874378b-0e85-4ef3-863d-416941f10879
       '2043-07-03':
         name:
           en: Matariki
-        id: 753fab5d-61c1-4da3-861a-55489fe90324
+        id: 7764643c-2764-468b-8035-87f9d748dcd1
       '2044-06-24':
         name:
           en: Matariki
-        id: 0c682749-df52-4b3e-844a-20bf9d8cdff2
+        id: 0a77c3da-071b-41ab-9c0c-9078d4a9ef2a
       '2045-07-07':
         name:
           en: Matariki
-        id: 41db09b7-4a86-490f-acb0-0c3ee6dab3b9
+        id: df78f273-273b-4301-9077-fe1245eb1228
       '2046-06-29':
         name:
           en: Matariki
-        id: 656ee861-66b1-4e71-a4be-40e7b81b5353
+        id: 6dfbd9e9-a279-4a7a-9f42-5ab22641a0e6
       '2047-07-19':
         name:
           en: Matariki
-        id: f4777924-ce0b-4af9-8f04-5568957434b0
+        id: a8fde541-98a9-42b4-85cf-6480dd9c99e2
       '2048-07-03':
         name:
           en: Matariki
-        id: 21557e30-571b-4b16-bb57-ba08d9150bfd
+        id: 4ac1de54-aab3-44a6-b0b1-eca4b04a239f
       '2049-06-25':
         name:
           en: Matariki
-        id: 742eaa80-4b62-41da-a7d6-dab62bc6a078
+        id: 6ac84711-5cc9-4ec0-9042-88bf3d48f40a
       '2050-07-15':
         name:
           en: Matariki
-        id: 68d1dd0b-9554-497b-b41c-640021e34530
+        id: 3d2f4329-995a-4879-95ba-3b09202de011
       '2051-06-30':
         name:
           en: Matariki
-        id: 76f27633-6496-4eed-a02b-f0ed1eb70062
+        id: 38fab955-076b-48f3-bf81-756c1bd66747
       '2052-06-21':
         name:
           en: Matariki
-        id: ed932eb7-b7ea-4195-a763-8d997228944b
+        id: 6b3bff6f-40bf-4c84-bbef-af7da180f68e
       '2022-09-26':
         name:
           en: National Day of Mourning for Queen Elizabeth II
-        id: 25857e48-2b12-464b-aa57-4c416c8e48e7
+        id: 507533f2-a1c7-4a9c-97c7-c677fd1a5978
     states:
       AUK:
         names:
@@ -196,7 +196,7 @@ holidays:
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
-            id: 23ffb93a-1b4f-46f2-b075-e8271d6a1150
+            id: 46010ba6-cbf1-4726-b084-621fc9252f90
       BOP:
         names:
           en: Bay of Plenty
@@ -205,7 +205,7 @@ holidays:
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
-            id: 8261d6b5-fd98-42d8-b039-3f099ea8ed3d
+            id: 9f45b4c9-d864-4d43-9355-939544c54f52
       CAN:
         names:
           en: Canterbury
@@ -215,7 +215,7 @@ holidays:
             name:
               en: Christchurch Show Day
             note: May differ in parts of North Canterbury
-            id: b25e6f23-a079-4345-9e02-f9fcce7a3079
+            id: 1b5c144d-00c7-44e1-afbc-e016f1541833
         regions:
           Timaru:
             name: Timaru District
@@ -232,7 +232,7 @@ holidays:
           11-30 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
-            id: 10fb58a2-7293-447f-b7e5-c645265ad30d
+            id: bd6feb0d-f584-405e-abcc-9ce24904bb34
       GIS:
         names:
           en: Gisborne
@@ -241,7 +241,7 @@ holidays:
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
-            id: a5b9f15f-3a2a-4e00-bc49-e0fec76a8a57
+            id: af9c42a4-0cd1-4511-add5-76570ab18ca2
       HKB:
         names:
           en: Hawke's Bay
@@ -250,7 +250,7 @@ holidays:
           friday before 4th monday in October:
             name:
               en: Provincial anniversary day
-            id: db716f4d-bed9-45f4-b3e1-c0b22904ba55
+            id: 155c9b2f-1c2a-4c7c-b349-0de02a3bcc5d
       MBH:
         names:
           en: Marlborough
@@ -259,14 +259,14 @@ holidays:
           5th monday in October:
             name:
               en: Provincial anniversary day
-            id: 73cbc933-f93b-452e-8a85-84511b753064
+            id: 2d61f6f2-68bf-47a7-9b59-cf29e4b89a22
       MWT:
         name: Manawatu-Wanganui
         days:
           01-22 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
-            id: 350b30ec-501d-41a7-a1ca-9a4e764c1838
+            id: c3b89cd6-1b3b-4ada-a635-967efcf5957d
       NSN:
         names:
           en: Nelson
@@ -275,7 +275,7 @@ holidays:
           02-01 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
-            id: 6cc20990-1793-49aa-b592-bfc62e942e0f
+            id: d12cf1f4-4b6c-4b68-87f1-8605329b811a
       NTL:
         names:
           en: Northland
@@ -284,7 +284,7 @@ holidays:
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
-            id: 0c26d6bb-670f-49a6-8baa-50952c0a59ef
+            id: 90476009-0fe1-4638-8869-79135c449a74
       OTA:
         names:
           en: Otago Province
@@ -293,7 +293,7 @@ holidays:
           03-23 if Tuesday,Wednesday,Thursday then previous Monday if Friday,Saturday,Sunday then next Monday if is public holiday then next Monday:
             name:
               en: Provincial anniversary day
-            id: 77125031-6530-4d18-ab82-3b3fda7bcd7f
+            id: b0e358fa-47a4-4f40-8715-2ed445f5062b
       STL:
         names:
           en: Southland
@@ -302,7 +302,7 @@ holidays:
           easter 2:
             name:
               en: Provincial anniversary day
-            id: b0a7b864-36d2-4bae-9932-bc27d8927bce
+            id: b97cc8df-b565-4447-9158-6bb48b57cb56
       TAS:
         names:
           en: Tasman
@@ -311,21 +311,21 @@ holidays:
           02-01 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
-            id: 316ab104-ff46-4eef-b15a-9307d64f3e40
+            id: 0f056fc0-b0c0-4a78-a6df-7f01e3cdccce
       TKI:
         name: Taranaki
         days:
           2nd monday in March:
             name:
               en: Provincial anniversary day
-            id: 5b2c0767-4605-4d60-8d3b-7d5ef0b0328a
+            id: 04e2b72b-3f85-4c66-a643-1f27df7a0083
       WKO:
         name: Waikato
         days:
           01-29 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
-            id: 1a0529e3-5ab7-48c9-afa4-4b8ae6e1d9e9
+            id: 97e71e20-0950-4875-ab04-00b32c993dc8
       WGN:
         names:
           en: Wellington Province
@@ -334,7 +334,7 @@ holidays:
           01-22 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
-            id: c7ecd263-9612-4fa8-a2f1-c41c5c3e1935
+            id: 44c77e15-b380-47ad-b499-1ffa1478b4be
       WTC:
         names:
           en: Westland
@@ -343,7 +343,7 @@ holidays:
           12-01 if tuesday,wednesday,thursday then previous monday if friday,saturday,sunday then next monday:
             name:
               en: Provincial anniversary day
-            id: 2193e73e-e83d-4fe6-b571-ebf5fee12f4c
+            id: a4820f15-2c87-4eea-90c1-dd3c42b00b30
         regions:
           Buller:
             name: Buller district

@@ -15,93 +15,93 @@ holidays:
       01-01 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 01-01
-        id: df15ac22-0619-4400-8e80-97bcb91e8302
+        id: 8363259d-3c4c-44a4-8af6-c80e7030c669
       01-02 and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 01-01
-        id: 564b6b3d-1fec-4a40-b643-c2f1dff8b87e
+        id: 1287e94c-7ab3-45bb-b05b-d20e18d8a277
       01-20:
         name:
           az: Qara Yanvar
           en: Martyrs' Day
         type: observance
-        id: 74bdc9a8-604f-459f-be27-3f26328e0054
+        id: 1928ff82-7bfb-4fae-b960-1f48e64e6d67
       03-08 and if saturday,sunday then next monday:
         substitute: true
         _name: 03-08
-        id: 6671dbce-52c7-4873-86e1-666066e707b4
+        id: 71d7e9d2-bfd8-4adb-8faa-56ad95c2c152
       03-20:
         name:
           az: Novruz
           en: Spring Festival
         active:
           - from: 2011
-        id: 3edef43e-171b-4579-bfda-0e8a358c6d3f
+        id: 437fb5e6-63b0-414a-a4ed-8e65402e45c4
       05-09 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Faşizm üzərində qələbə günü
           en: Day of Victory over Fascism
-        id: 5f5ee111-17fb-42e8-b7c1-1d0c4ba0e21f
+        id: 5a740cfe-3158-4366-ad4e-aabb3d3bd670
       05-28 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Respublika günü
           en: Republic Day
-        id: e5e408e8-972f-460e-bdf8-65a105cdeae2
+        id: 5b527785-7aed-4969-836d-e57e4a5b96f2
       06-15 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Azərbaycan xalqının Milli Qurtuluş günü
           en: National Salvation Day
-        id: 4ffd27da-5b63-485e-aaf0-4fa2a347422a
+        id: 3331bf09-c012-4472-b5e8-6f195bf7aedf
       06-26 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Azərbaycan Respublikasının Silahlı Qüvvələri günü
           en: Azerbaijan Armed Forces Day
-        id: 7d907519-867e-4e0f-bc2a-5cffe1b991ed
+        id: cbf05335-441b-4805-80d9-0fd48d3537c0
       10-18 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Dövlət Müstəqilliyi günü
           en: Independence Day
-        id: 6f3c3200-599c-4c92-b81d-af20ee0a2bfb
+        id: 0cec9f6b-0396-4970-b94c-198c09835649
       11-09 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Dövlət Bayrağı günü
           en: Flag Day
-        id: e024f25e-82fa-4d89-a9c0-a9feb3b6f4b5
+        id: 4b3ea8bb-6ed1-44f2-b09d-8f0c7a13c96d
       11-12:
         name:
           az: Konstitusiya günü
           en: Constitution Day
-        id: acad4926-084a-433b-a9eb-1d31f301753e
+        id: 7611956f-36a6-4984-9e3c-02f5bffeee6c
       11-17:
         name:
           az: Milli Dirçəliş günü
           en: National Revival Day
-        id: 6ba82406-1ca2-4311-af17-546e2b133b37
+        id: eb608275-d3ad-42b2-8961-b05759573aed
       12-31 and if saturday,sunday then next monday:
         substitute: true
         name:
           az: Dünya azərbaycanlıların həmrəyliyi günü
           en: International Solidarity Day of Azerbaijanis
-        id: 5c08b38e-0e19-41ad-b053-e449ffc88d09
+        id: dd96bb40-197e-46ce-b6f2-0f0591275919
       1 Shawwal and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 1 Shawwal
-        id: 4fba5d29-4cc9-485a-aa4b-7f63f25c1871
+        id: 184eb39c-80fe-496e-995d-8235f573b42f
       2 Shawwal and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 1 Shawwal
-        id: cf7fa16b-4081-4bf6-a6c8-fc39cd179af3
+        id: f2af2da4-03bd-40aa-95ef-525715d00fe7
       10 Dhu al-Hijjah and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 10 Dhu al-Hijjah
-        id: 21de9ad7-a489-4d3e-ac79-1aeb058d5499
+        id: 659caeb8-60f0-4d65-b9f3-c5ca950bda50
       11 Dhu al-Hijjah and if saturday then next monday if sunday then next tuesday:
         substitute: true
         _name: 10 Dhu al-Hijjah
-        id: caa63986-29ce-4375-a035-d4a8352fa419
+        id: b54ecc86-b071-4b75-98c3-cc19b095caa2

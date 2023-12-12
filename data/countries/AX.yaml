@@ -11,65 +11,65 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 8b94a93e-4cb3-4b48-9a66-7db52a201ed7
+        id: 2c3d7fe3-4440-4bbc-86a2-3561f6c9d2e9
       01-06:
         _name: 01-06
-        id: 6d2c914a-7d2a-4b24-b9c9-2b89f81c415c
+        id: 2f50e0c8-4ca6-4130-9663-eceebc2c232e
       03-30:
         name:
           sv: Ålands demilitariseringsdag
           en: Demilitarization Day
-        id: ad9ed55f-29d7-474c-afe6-092195090a8c
+        id: 481b382e-f184-46ec-9af2-f72bc8edb4c9
       easter -2:
         _name: easter -2
-        id: 37c842d1-8e6a-4f90-868f-8ff868c3435e
+        id: 6f96c60d-f5f0-48a5-8262-05b1fa3bc23f
       easter:
         _name: easter
         type: observance
-        id: 6af5eccc-9f39-4673-80d2-660887e38cef
+        id: d8f24fd9-3cbb-47d8-9224-e5875814970c
       easter 1:
         _name: easter 1
-        id: fa4bbe5b-41ef-4994-bae5-7105d1f9660c
+        id: bf2b4704-d8aa-47d8-a862-8a21e2b9da59
       05-01:
         _name: 05-01
-        id: 31eb7217-29aa-40ac-854c-176234dae6a4
+        id: c2bb6559-68dd-45be-945c-9a1d15fa2954
       easter 39:
         _name: easter 39
-        id: 493f233a-7044-458e-a188-b0a00f30809d
+        id: 9b494f17-0c3d-4a80-ba46-7141f5aca39f
       easter 49:
         _name: easter 49
         type: observance
-        id: d88fd6ec-425d-4693-89f8-323eaf68d024
+        id: d5c5b460-2084-483a-99ba-6a41dbe62bc8
       06-09:
         name:
           sv: Självstyrelsedagen
           en: Autonomy Day
-        id: 6d5ecbc3-1014-4bf2-9d3e-d1a1ed8e8770
+        id: 64b826b1-4754-4ae5-9d01-fcd2c30d35d1
       friday after 06-19:
         name:
           sv: Midsommarafton
           en: Midsummer Eve
         type: bank
-        id: 9a0a161b-c38b-448d-855e-fbb4b8099d7f
+        id: 2388d087-250f-4de6-ba5b-f0dfeeda5b41
       saturday after 06-20:
         name:
           sv: Midsommardagen
           en: Midsummer Day
-        id: 29a2ba5a-7128-4bb4-9711-0b9afe8c10b4
+        id: 88af7940-1d18-45e4-93ea-77c67027a9e7
       12-06:
         _name: Independence Day
-        id: 10791b5e-e54f-4175-9978-1d59d9e562ee
+        id: c6972610-e988-4539-9448-133e0e21b68c
       12-24 12:00:
         _name: 12-24
         type: bank
-        id: 206a8b8e-d355-44bb-a06e-4f6b91be76ac
+        id: e40e0aec-682b-41f5-a4b7-2a1aad903142
       12-25:
         _name: 12-25
-        id: 60ee9e44-e222-40aa-81b3-d9b2d4a5329f
+        id: 4f02826d-add9-49a9-9b22-b9d2d270d74d
       12-26:
         _name: 12-26
-        id: fc92c245-4c49-4d4a-a896-11660edd5723
+        id: 9fb7c234-8ba7-4cfc-a1de-6b16e9b6ddbe
       12-31 12:00:
         _name: 12-31
         type: bank
-        id: 6a40fd36-8445-460b-a85f-7a7cb7d63703
+        id: 0f635bfd-a7f4-4be4-97e9-479638ad46e6

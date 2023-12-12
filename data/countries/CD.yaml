@@ -13,51 +13,51 @@ holidays:
       01-01 and if sunday then next monday:
         substitute: true
         _name: 01-01
-        id: a676dfeb-666a-4299-9ef0-175d1123a2d4
+        id: 3c84beba-d510-4c69-ade3-dae3acc218cb
       01-04 and if sunday then next monday:
         substitute: true
         name:
           fr: Martyrs de l'Indépendance
           en: Day of the Martyrs
-        id: 78961102-2a0a-4d98-90de-6ce76522500a
+        id: 1fd7952c-891b-430f-b664-8fefce103516
       01-16 and if sunday then next tuesday:
         substitute: true
         name:
           fr: Journée du Héro National Laurent Désiré Kabila
           en: Anniversary of President Laurent Kabila
-        id: 1966da3b-1054-455d-b99f-1240546600ad
+        id: eae972f3-1d4d-459d-a611-967fa4837c3c
       01-17 and if sunday then next monday:
         substitute: true
         name:
           fr: Journée du Héro National Patrice Emery Lumumba
           en: Anniversary of Prime Minister Patrice Emery Lumumba
-        id: 282f2940-f593-40f8-950f-1fc3edcf6862
+        id: 382b410c-ab41-453b-870e-12d0fe07da46
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
-        id: ea4e59dd-bb5b-4840-a989-7ab86efda966
+        id: 0c1bcb0b-62bd-4ec3-8ea5-b1e6040964d3
       05-17 and if sunday then next monday:
         substitute: true
         name:
           fr: Journée de la Révolution et des Forces Armées
           en: Liberation Day
-        id: 0c4b3dfa-6026-44fd-9ad7-19cc16013df5
+        id: 0495f248-cf9d-4b4e-9a45-e37181d436a8
       06-30 and if sunday then next monday:
         substitute: true
         _name: Independence Day
         name:
           fr: Anniversaire de Indépendance
-        id: 0e9fdc40-f0ef-4ad8-b485-8b4d39cee4c9
+        id: 8fa6b621-89c0-4ddb-9118-8fdd82871258
       08-01 and if sunday then next monday:
         substitute: true
         name:
           fr: Fête des parents
           en: Parents' Day
-        id: c269ddf0-1b34-4609-bcaf-7b946bf153d5
+        id: 13d53792-381d-48f8-9895-351b89551de8
       12-25 and if sunday then next monday:
         substitute: true
         _name: 12-25
-        id: f3114c3f-ae6b-4239-bee5-057aa0d55278
+        id: 16bbf5b2-c6f4-4950-a6c8-94ff5d7c7094
       '2016-01-15':
         _name: Public Holiday
-        id: 990db274-95f2-4765-9a8e-b4bbc34575cf
+        id: e752c49d-d807-46c8-a7db-de6dc065503a

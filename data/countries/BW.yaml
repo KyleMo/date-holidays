@@ -11,87 +11,87 @@ holidays:
       01-01:
         _name: 01-01
         note: except mining industy
-        id: 30b0f7f8-e1d6-4e9f-afe9-4b02fa98fdae
+        id: 1ae21c11-5afe-4e44-bb48-c039fe24a6ed
       01-02:
         name:
           en: New Year's Holiday
         note: except mining industy
-        id: 8711b068-215f-4272-bb34-c716edbb644d
+        id: 6538d708-ba14-473e-b1e4-5c3448a37238
       substitutes 01-02 if monday then next tuesday:
         name:
           en: Public Holiday
         note: except mining industy
-        id: 61bfaa82-401e-4a39-8635-2d43708e0c92
+        id: 1f42fefa-f05d-481a-b095-bd670db16275
       easter -2:
         _name: easter -2
-        id: 90ec3f34-1d9f-40e5-bd95-537b135ccd1b
+        id: 5cdb7134-f805-4546-8711-774dc0acf17d
       easter -1:
         _name: easter -1
         note: except mining industy
-        id: 93c01612-93b1-44b7-b772-bc6eb0d4497d
+        id: 0522b09f-853a-4a60-9757-da5c948c6b0f
       easter:
         _name: easter
         type: observance
-        id: a9fb2fc2-4197-44fa-9676-5d62481fab28
+        id: 135a030a-2b5e-4930-8f76-fa1bd7d2f816
       easter 1:
         _name: easter 1
         note: except mining industy
-        id: 1506c287-aa04-403e-b386-1ccbb80ee320
+        id: fe14b061-d960-4858-ac9d-79956f20a0f3
       easter 39:
         _name: easter 39
         note: except mining industy
-        id: 284fdf71-a80b-4dbe-936d-b28db55c23a5
+        id: cdfa7bf1-f30d-47d2-aced-a21458b54159
       05-01:
         _name: 05-01
         note: except mining industy
-        id: 97c91d3f-49c4-477f-ac17-d96b8a0619c7
+        id: 01464d53-881d-40d3-932e-4a3205fd6726
       substitutes 05-01 if sunday then next monday:
         name:
           en: Public Holiday
         note: except mining industy
-        id: c30638d9-5843-4de7-b765-03dae800ac9b
+        id: dad31a2e-86b9-46e8-923a-7af4c086cd8d
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: 0bcac9e4-671c-4793-a239-5314ba370ba4
+        id: 97f1a7c3-c78f-499d-b537-575370afaae7
       07-01:
         name:
           en: Sir Seretse Khama Day
         note: except mining industy
-        id: 031ed815-02d0-4c4b-959e-8966615515d5
+        id: 38e02ea5-09d9-436c-a1d5-0b242a6a0287
       substitutes 07-01 if sunday then next monday:
         name:
           en: Public Holiday
         note: except mining industy
-        id: 5be2754e-cbae-42ce-b292-26c0ccd688b7
+        id: f51067cd-c485-4d8d-8c77-014f36e6a502
       3rd monday in July:
         name:
           en: President’s Day
         note: except mining industy
-        id: f085d7fc-5b0f-426c-957a-666de02f5064
+        id: 8c404d75-ebe9-487c-ba80-67d1b730863b
       tuesday after 3rd monday in July:
         name:
           en: President’s Day Holiday
         note: except mining industy
-        id: 7b48eef9-3510-436b-88c8-5ee3abf3b71a
+        id: 2c4d06a3-2266-43ff-ab47-ec86d2294abe
       09-30:
         name:
           en: Botswana Day
-        id: a0d9faed-2eb2-42be-b065-f881a5bbc667
+        id: aa251857-64bb-4f82-afd0-7502b4fdf3d6
       substitutes 09-30 if saturday,sunday then next monday:
         name:
           en: Public Holiday
-        id: ccdc4152-c405-46b2-85e2-52aa017a7cd8
+        id: 5f20d846-2c4c-4080-9664-8a210e29d226
       12-25:
         _name: 12-25
-        id: 657fba59-0b1c-49c1-886e-7baf7982c0b6
+        id: eb73c7eb-cd17-48b7-be68-31bf2b021ffa
       12-26:
         _name: 12-26
         name:
           en: Family Day
         note: except mining industy
-        id: 1c23bb0b-ec02-4ae9-a343-00ccdfb3f38b
+        id: ae337e50-2f8e-484c-8364-9c50dad49db9
       substitutes 12-26 if monday then next tuesday:
         name:
           en: Public Holiday
-        id: b814a92c-04b8-4fce-925b-faf2a48929a0
+        id: 141715a2-323c-4cf1-b5f2-dd04c095518d

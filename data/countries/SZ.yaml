@@ -12,58 +12,58 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 2a197644-c903-4cf7-a19d-1d47257ddfcb
+        id: 42f7ba49-4124-454d-b854-5e8edaaf5ead
       easter -2:
         _name: easter -2
-        id: a16c0f13-60f0-4cda-ad70-b029bbcadd10
+        id: e4e43b20-6492-4ddb-a859-bf3ce3cc1e04
       easter:
         _name: easter
         type: observance
-        id: 2c1b776b-9d51-4777-afb2-c279cac7557e
+        id: 106dad9d-bd27-456e-8d96-12a4abd55d29
       easter 1:
         _name: easter 1
-        id: 330e94af-9af4-4c33-9b0a-ded8a4d291e3
+        id: f8715a80-f2fc-45c1-b098-353471c36dce
       04-19 and if Saturday, Sunday then next Monday:
         substitute: true
         name:
           en: Birthday of King Mswati III
-        id: 87156bed-fc22-47ef-b1a3-c4fc2fb68945
+        id: 42340f3a-e936-454f-b6e0-6a480a68d338
       04-25 and if Saturday, Sunday then next Monday:
         substitute: true
         name:
           en: National Flag Day
-        id: 176fa3cb-a153-465d-945a-5518766cc55c
+        id: 7485561f-c827-4c64-bd90-698895c1003b
       05-01 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: 05-01
-        id: d556457a-43f5-4ac6-8b8e-610b3f7a6d5d
+        id: 6c5761d3-e800-4f23-84a3-df86852f4f29
       easter 39:
         _name: easter 39
-        id: b4baa0c5-33a4-4bb2-8b98-acbd1c0afce7
+        id: 9fe59aec-3d4f-4c85-b80e-dc8acdfe6dbe
       07-22 and if Saturday, Sunday then next Monday:
         substitute: true
         name:
           en: Birthday of the late King Sobhuza
-        id: af7ce6de-6c52-444c-a4e7-e847c3043c0f
+        id: bd938b4f-721f-42a8-97b3-3220db59dfe6
       1st Monday in September:
         name:
           ss: Umhlanga Reed Dance
           en: Umhlanga Reed Dance
-        id: 7184b465-aeed-425a-801b-ef82685723ad
+        id: 1af94302-411c-4758-bb17-ba80cb594c04
       09-06 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: Independence Day
         name:
           ss: Somhlolo Day
-        id: 9026b139-d0aa-4b38-969d-64507a41bc2b
+        id: b9b7782d-4ad1-4ac3-894f-9a445c7fa2a0
       12-25:
         _name: 12-25
-        id: b9e6c918-03bf-433e-bb86-cb82678df63e
+        id: 36054e0b-e806-474d-b645-43d4d1fbc03b
       12-26 and if Sunday then next Monday:
         _name: 12-26
-        id: 1f83530d-ece3-4776-8ee1-ccdc2ab49a80
+        id: f2bde04e-d1e8-4742-93a2-bfc445bf05a2
       12-28 P6D:
         name:
           ss: Incwala
           en: Incwala Festival
-        id: 9023defb-7998-4da7-ab1a-0ca1f99b18b0
+        id: a4a30310-25c6-4a05-9e25-7f1bc9fad342

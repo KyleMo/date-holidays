@@ -11,54 +11,54 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: f392672d-462a-42c6-98ae-9e32ec04cec7
+        id: 225400b5-5cad-4b9a-8836-f08b533640a0
       01-26:
         name:
           en: Liberation Day
-        id: 45e1f030-9f88-4045-b690-794f761bef23
+        id: 553bb5e7-53fa-4740-ae86-3f08679c5014
       02-16:
         name:
           en: Archbishop Janan Luwum Day
-        id: 4b98d72f-7642-4361-ad48-2a0d014e55e2
+        id: 6d742e96-c162-4438-9f78-e92d3f15256a
       03-08:
         _name: 03-08
-        id: d0a968d4-3efa-47c7-b761-dc4770d7c754
+        id: cf995413-0bab-46e4-98a6-a00a893d02f3
       easter -46:
         _name: easter -46
         type: observance
-        id: b9a1875a-2fcc-4b37-86e8-a3a80ad1959c
+        id: dcda2c39-c932-4212-971a-e5f8c9cb4d12
       easter -2:
         _name: easter -2
-        id: 660b9fb4-e805-444e-b178-1434f9f5cbed
+        id: 097419ff-b767-4089-8ffd-a0642f0518c2
       easter:
         _name: easter
-        id: 34d21d28-7a05-4a34-ab68-822fb5ad86fc
+        id: 3040d69c-7cc5-4658-96bf-0c877ad5456d
       easter 1:
         _name: easter 1
-        id: a25bdd4c-680a-4ee1-94ac-81ec0f69c626
+        id: 22184074-078e-47e5-ae0c-d8b328233faa
       05-01:
         _name: 05-01
-        id: 5a91b0f5-98bb-445e-b0b4-e40f319d7b04
+        id: 10477fd2-464e-4646-b9e7-73e58b941434
       06-03:
         name:
           en: Martyr's Day
-        id: 914dd0d7-33ce-4a32-8d3c-690b953d20a2
+        id: b71caa85-52cf-4626-8efc-180416b63f22
       06-09:
         name:
           en: National Heroes Day
-        id: 30b86650-9d4c-4097-8ba4-917f65538284
+        id: e6be142d-9291-40b3-aa08-8844e8dd0dec
       10-09:
         _name: Independence Day
-        id: 9187eb87-2c72-448f-9ca1-1b7faedcb435
+        id: f1758490-0c1e-429f-80d5-bb4312358ee9
       12-25:
         _name: 12-25
-        id: 45e68cd1-9311-4f00-93a2-7714543095f5
+        id: 7c254654-c821-49a1-9945-dfb27c5f6f7b
       12-26:
         _name: 12-26
-        id: 42e92f35-5380-42b2-9038-d93d97349477
+        id: ddf1e48f-dbd7-4eef-9e6b-c320f1d4b1d3
       1 Shawwal:
         _name: 1 Shawwal
-        id: 4e782954-cfb4-4780-ade0-1cfffe0a5d9c
+        id: 25100518-88a3-43af-8b28-dfa7f8f1f14f
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: a473c812-345e-447d-b964-f7985cfff5e5
+        id: 4710b246-8988-4cb4-8e01-b16a740bd4aa

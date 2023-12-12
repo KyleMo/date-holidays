@@ -11,7 +11,7 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: c75110d5-c678-4738-a05b-af0d2336103e
+        id: d670f78d-fb2f-4fc6-bfc3-d7fd7b19c3f1
       03-01:
         disable:
           - '2017-03-01'
@@ -20,29 +20,29 @@ holidays:
         name:
           en: Heroes' Day
           es: Dia de los héroes
-        id: 0a6c25fb-f29a-4220-a9fe-1dcb73c9617d
+        id: 9121c136-6c02-4aee-98c6-e8a86393532f
       easter -3:
         _name: easter -3
-        id: 0afbeee0-5026-4cbe-8bde-daa8b3cbfb9c
+        id: f631988e-13c8-4abf-8eab-dc11adc740f2
       easter -2:
         _name: easter -2
-        id: 3b061837-9421-4253-9b30-faeb91383d06
+        id: f6f7c12b-4b38-4c54-b7eb-cf0619e637a9
       04-30:
         name:
           en: Teacher's Day
           es: Día del Maestro
         type: optional
         note: Affects educational institutions
-        id: fb84b206-533b-4732-bf51-20913bfbb98f
+        id: a347524f-23f5-4af7-9130-3fd931ec47b0
       05-01:
         _name: 05-01
-        id: c6a7a01a-1e46-46a2-806d-a555989d1747
+        id: 2a0d78d8-53af-48e5-a0ec-b50f53e121ca
       05-14:
         _name: Independence Day
-        id: fe298487-a267-4f05-9e94-32b935ccbab0
+        id: a1f1c926-799e-42a8-a9a4-b26ebe4c01db
       05-15:
         _name: Independence Day
-        id: a4d709a4-63c7-440a-ab25-a1379a59ddb3
+        id: 8692a542-c346-4023-a4c8-9bc4b25e37a4
       06-12:
         name:
           en: Chaco Armistice
@@ -51,14 +51,14 @@ holidays:
           - '2020-06-12'
         enable:
           - '2020-06-15'
-        id: c7f58736-e614-4e16-9fda-554fe7503bb2
+        id: 5cc98814-c7da-42c2-96b9-e312062adbd3
       08-15:
         _name: 08-15
         disable:
           - '2017-08-15'
         enable:
           - '2017-08-14'
-        id: feb8708e-8b40-4937-9329-6e3f99362718
+        id: 7e13c0b6-79a6-48bd-bcbb-37c7130a2f6d
       09-29:
         disable:
           - '2017-09-29'
@@ -67,17 +67,17 @@ holidays:
         name:
           en: Boqueron Battle Victory Day
           es: Victoria de Boquerón
-        id: e421b185-3fda-46a2-af10-b555748e5d1a
+        id: fe4e89e9-d0cc-48b1-bf80-fd1fb0223a01
       12-08:
         _name: 12-08
         name:
           en: Virgin of Caacupe
           es: Virgen de Caacupé
-        id: 731f9104-762b-4745-9b9d-eacaed31939b
+        id: 13d7b90a-6515-40b5-89b3-8b6ca7718d30
       12-25:
         _name: 12-25
-        id: 325c06fe-cc3d-436d-a79a-06ce7417e789
+        id: fb7e9ea5-b099-4b65-bd7c-66b78c333487
       12-31:
         _name: 12-31
         type: bank
-        id: 6f86d3c6-969b-49a1-8bb7-567ec31e1333
+        id: 311b581b-7bf6-4ded-a3ef-a9c46d86adef

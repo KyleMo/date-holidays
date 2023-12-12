@@ -15,74 +15,74 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: fa7866d0-3b00-455f-906b-905b62cb88d2
+        id: 502fb810-6d24-4809-91ac-7c051bc7be44
       01-06:
         _name: 01-06
         name:
           de: Erscheinung des Herrn
         type: observance
-        id: e043f83a-af2a-42b3-a0bd-fa93d1f5f1ad
+        id: 43198b8c-d3e3-4b29-bef4-4550b45bec09
       02-14:
         _name: 02-14
         type: observance
-        id: 17352af8-3d69-4c1d-98e3-c8f9aeac0f2c
+        id: 20a64f2d-6271-4d0c-9b12-da259a4e7a9f
       easter:
         _name: easter
         type: observance
-        id: 4e7f6f6d-e3c5-4b55-b7a6-d123c08b813b
+        id: 9458d357-a246-4aa7-b368-2a1846b60e32
       easter 1:
         _name: easter 1
-        id: 5ce66dc7-bdd9-4988-8fce-eb2c937613e5
+        id: 4096a9a1-af36-4578-aa27-158cb5515cd9
       05-01:
         _name: 05-01
-        id: 785e0d41-e07f-466c-9a93-a1f2935c8a81
+        id: 033013ff-95ef-4012-a7f3-84308d2d7181
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: b1feb5e1-558b-4b5d-a6b9-d91a06de3274
+        id: 78dd016a-d268-4cfa-8c20-f64905a9a417
       easter 39:
         _name: easter 39
-        id: cb60f4df-f81a-418f-8a02-793fd61ed001
+        id: 7af8e3a4-4d70-4f6c-a741-01eb5a966504
       easter 49:
         _name: easter 49
         type: observance
-        id: ccd4d91e-1e97-43f0-98e4-03a6f7f97ef0
+        id: cfa1c9c6-814e-4bad-9f65-148855760183
       easter 50:
         _name: easter 50
-        id: 0b446f3a-1d0e-4fea-bb4c-1e4ce747b091
+        id: d7ff29fa-6c05-4420-930a-441595d4b4c4
       07-21:
         _name: National Holiday
-        id: e8c49909-16fc-424e-93f3-16b02fcc7a8f
+        id: 504cd65b-b7c4-48d9-947a-7c6f2d27af4a
       08-15:
         _name: 08-15
-        id: 86c0ac04-7bc2-4dd1-b0bc-28596af5d2d7
+        id: b8ca70cf-e579-4e4e-bece-cf90c205b929
       11-01:
         _name: 11-01
-        id: 799a811a-fd72-4416-a271-3f33dac61551
+        id: fc016ecd-488a-4cc3-bbc1-44f87fb6940b
       11-02:
         _name: 11-02
         type: observance
-        id: 457af451-14ec-4393-a5ab-fb0740e97a87
+        id: b02e634c-c250-4cd6-a39c-ac3935ba571c
       11-11:
         name:
           de: Waffenstillstand
           fr: Armistice
           nl: Wapenstilstand
-        id: 1e0b493b-29a8-45b7-b363-1321f60f61a9
+        id: f9a67152-eecf-4fdf-be4b-84fb3c0747a3
       11-15:
         name:
           nl: Koningsdag
           fr: Fête du Roi
           de: Festtag des Königs
         type: observance
-        id: 74ae855b-d3b4-4afd-9f3f-8b0833437e0a
+        id: b0def239-08ed-49f0-bfb4-a4b4dff41840
       12-06:
         _name: 12-06
         type: observance
-        id: 7e5f4de6-e0ad-4fe7-b1ff-b33c02d5db8b
+        id: f8e5dcd3-0d40-48d6-93b5-c318655265ac
       12-25:
         _name: 12-25
-        id: b548c65d-90f4-41df-9bac-a7aa0278124c
+        id: 85c75152-06c8-48be-b088-c67d141769bf
     states:
       BRU:
         name: Bruxelles
@@ -95,7 +95,7 @@ holidays:
               nl: Feest van de Iris
               fr: Fête de l'Iris
             type: observance
-            id: 2cc0a944-3418-4b17-84c6-248e4bc07303
+            id: 9e45e918-cecb-483a-bf3a-eec96a54d7a5
       DE:
         name: Deutschsprachige Gemeinschaft
         langs:
@@ -107,7 +107,7 @@ holidays:
               fr: Jour de la Communauté Germanophone
               nl: Feestdag van de Duitstalige Gemeenschap
             type: observance
-            id: 2e590b45-f486-45c2-b008-66bb566f3f25
+            id: 91644a5a-a9dd-492b-881a-2389e4dfeca6
       VLG:
         name: Vlaamse Gemeenschap
         langs:
@@ -119,12 +119,12 @@ holidays:
               fr: Fête de la Région wallonne
               nl: Feestdag van de Vlaamse Gemeenschap
             type: observance
-            id: 33a1e672-9669-443d-ab2e-98232508ef0f
+            id: 6d8d7add-2ef2-4ef4-bfc0-1584eea5298d
           11-02:
             _name: 11-02
             type: observance
             note: day-off for employees of the flemish government
-            id: a293bbd7-6ed1-41c4-be1f-423baacfa1de
+            id: fbdfd8ac-62b5-4fbc-8cd8-7d59d3e87fd4
           11-15:
             name:
               nl: Koningsdag
@@ -132,12 +132,12 @@ holidays:
               de: Festtag des Königs
             type: observance
             note: day-off for employees of the flemish government
-            id: d9527225-63df-4927-86e4-b7a45ffbec10
+            id: 9dd657b4-6200-4eb3-a779-41a73cd4da4d
           12-26:
             _name: 12-26
             type: observance
             note: day-off for employees of the flemish government
-            id: e6a71c3f-32e9-4131-93c9-0e5ceb2295db
+            id: c487c0a2-8ec7-4915-bee3-8e7d39881f36
       WAL:
         name: Communauté française
         langs:
@@ -149,4 +149,4 @@ holidays:
               fr: La fête de la communauté française
               nl: Feestdag van de Franse Gemeenschap
             type: observance
-            id: 2ad2f5da-aebe-4203-a8d3-e8529b123126
+            id: ce8099a9-ea93-4ab0-b698-89f396b66d9b

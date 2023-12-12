@@ -13,52 +13,52 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 482e9ec7-b353-47ea-8af6-2fe9a91183b2
+        id: 44179c03-d392-4ed2-ad7e-edd01c36f542
       02-21:
         name: Mémoire du père de l'indépendance Rév. Dr. W.H. Lini
-        id: 58046bc1-5a5e-4b35-885d-332b2ec70eae
+        id: 371502be-48f4-46a8-80d9-2b92636bb01b
       02-22:
         _name: Public Holiday
-        id: 5d1632b4-6bca-4485-a85e-f013506c85b6
+        id: 763ef5f6-a660-48ce-8977-3fe98e786759
       03-05:
         name: Fête des chefs coutumiers
-        id: f535c80a-caf2-45c9-9886-6539eb4b4be8
+        id: c53ac6c7-68e6-44e3-9faf-d9c33b4fb006
       easter -2:
         _name: easter -2
-        id: 84fbfa01-468e-401b-8aea-c4d9ea6eed13
+        id: f21c5ead-f361-40a2-8fa0-0d7f0980f34b
       easter 1:
         _name: easter 1
-        id: ca988f89-1414-4aa9-9407-fa7e6fd7a76e
+        id: b6a4b192-df4d-4288-bdf4-d32f831867ab
       05-01:
         _name: 05-01
-        id: 45492c2e-60d3-4dc8-9a3d-a07c9e33111f
+        id: 90c14116-321a-4207-b1e9-dcaa786b127b
       easter 39:
         _name: easter 39
-        id: d4b96032-d606-48ed-adb0-938786957e8c
+        id: 37a3d527-e5a8-4de9-9359-560859099122
       07-24:
         name: Journée Mondiale des Enfants
-        id: 8d822561-c5a5-48a5-9dc8-4883b6073970
+        id: ac9993c1-65b4-458c-b4cd-a6a20a482ffa
       07-30:
         _name: Independence Day
-        id: ca5ac512-b0cc-4410-9c15-7a99fbf3ac80
+        id: 8cddf042-587f-4329-b74d-e30fbbc68bd5
       08-15:
         _name: 08-15
-        id: cba6bbe8-f64c-413d-aec7-e9fa97cb24f9
+        id: e3d06055-fa42-45bf-8b76-3c397dfaedfc
       08-16:
         _name: Public Holiday
-        id: 01d79ade-c455-4035-be62-4642fb160418
+        id: 59e96f7b-0380-43c8-bda1-117ea5e5b7fa
       10-05:
         _name: Constitution Day
-        id: bf2f12ad-ca26-4dae-b44d-c036e5374718
+        id: c9969453-8925-478f-9635-2bb88d64c4fb
       10-29:
         name: Jour de l'Unité
-        id: 6242dfbb-3bd4-4d5a-81e5-570cd9f68aec
+        id: e30e63a1-b54c-4dc7-9ec2-653c44e52289
       12-25:
         _name: 12-25
-        id: 300a2c2e-cc65-418e-8d9a-c9a756bee077
+        id: 285025f0-88b9-4fa0-b91a-f683fb263515
       12-26:
         name: Fête de Famille
-        id: 93397411-161f-40c9-8265-c61a26e1628a
+        id: fdaa5971-fa24-47dc-a8bf-71700a0dc32b
       12-27:
         _name: Public Holiday
-        id: f0f7b38d-10bc-4fcd-8c7f-0fc636bd3d98
+        id: 0680c6a3-a67b-4f0f-ab34-a1ccc03aff67

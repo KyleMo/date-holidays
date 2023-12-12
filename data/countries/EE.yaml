@@ -11,108 +11,108 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: a7e84fc6-a824-4da3-8b7f-fe4686ac588d
+        id: c255ee57-81b2-4ac8-8f0a-d6c4534d2bf3
       01-06:
         _name: 01-06
         type: observance
-        id: e8c330e8-b189-4f12-bc53-36016fa59570
+        id: 0b363077-b148-4bc7-947b-2601d4af2fd6
       02-02:
         name:
           et: Tartu rahulepingu aastapäev
           en: Anniversary of the Tartu Peace Treaty
         type: observance
-        id: 90501dec-aa91-4c0b-9330-2bcd4403067b
+        id: 5edb3a25-4605-4311-99e4-b8f12b8a63b7
       02-24:
         _name: Independence Day
         type: public
-        id: 22c92711-84bc-45e9-ba18-48b7456c95bb
+        id: 786d87c3-4ba0-4d51-ac3c-1f9287fc616b
       03-14:
         name:
           et: emakeelepäev
           en: Native Language Day
         type: observance
-        id: 2e7351f0-52a4-4386-8a46-e8baf45fcb8c
+        id: 97c4a0b0-168b-476d-b7e1-af8dc4621050
       easter -2:
         _name: easter -2
-        id: 3d735ece-bcb6-4180-8ae6-7b4c37dfb6bd
+        id: ede24d28-6abb-4dac-8cfe-b086b4b5ffb4
       easter:
         _name: easter
-        id: 509f42a4-fa52-448d-80ae-b7bf0856a1d2
+        id: b82152d8-f802-4d49-8ac1-149436acad21
       05-01:
         _name: 05-01
-        id: 6458d6d8-8f92-47a8-9152-fdd0a0e5c66b
+        id: 0f026e6e-9275-4fed-9b62-93e0cdd4871e
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: ef40f958-1946-4490-9377-7a86baacccc6
+        id: f4f16153-bd2f-4217-9fd8-10964214d703
       easter 49:
         _name: easter 49
-        id: 97a0c0b5-c8eb-4bb2-8ec1-a0c3d7cfc1d1
+        id: 5bb83133-daaa-489e-9b43-cfb543c65ec2
       06-04:
         name:
           et: Eesti lipu päev
           en: National Flag Day
         type: observance
-        id: a5a0fab9-c9b2-49cf-bd76-7860ca72cd8f
+        id: ac7fd7ba-7437-4ee9-8fc2-bf00d07755f6
       06-14:
         name:
           et: leinapäev
           en: Day of Mourning and Commemoration
         type: observance
-        id: 95ae67ff-df69-47ee-8897-87a42b12362f
+        id: 2b247cf1-a972-4a72-8252-5b55db233acb
       06-23:
         name:
           et: võidupüha
           en: Victory Day
-        id: 2a83da6e-bb90-440c-9bfb-79d332464cdc
+        id: 064e8e60-305a-4e20-80e2-5c642b2b2bab
       06-24:
         name:
           et: jaanipäev
           en: Midsummer Day
-        id: f90ed5ec-1c55-4b38-81f5-ce0863c68df8
+        id: 6cc87886-95db-4c1e-8bda-d8e88b501b2a
       08-20:
         name:
           et: taasiseseisvumispäev
           en: Day of Restoration of Independence
-        id: 2a829760-cca3-4160-87f0-27444c91eef0
+        id: bf0ce7c3-2652-4bb2-a7d2-86bd0330e6d1
       08-23:
         name:
           et: kommunismi ja natsismi ohvrite mälestuspäev
           en: European Day of Remembrance for Victims of Stalinism and Nazism
         type: observance
-        id: ffd71b4a-4054-4ab2-a3f0-3c52c1479165
+        id: aaf49732-f563-4cb1-ab4e-5bad3892a9f5
       2nd sunday in September:
         name:
           et: vanavanemate päev
           en: Grandparents Day
         type: observance
-        id: 9fff72e8-ed1e-4b0c-888d-0815109477ba
+        id: 8f232fb4-86c0-4fc9-bfd1-ffbbe7d718e1
       09-22:
         name:
           et: vastupanuvõitluse päev
           en: Resistance Fighting Day
         type: observance
-        id: 5d557b33-2772-47f6-8bb5-6d0fb825139d
+        id: 9fcde950-fca5-4892-8aa4-a65776c96b1d
       11-02:
         _name: 11-02
         type: observance
-        id: 7c284965-a18d-43ea-961b-87109756137f
+        id: bc029d9d-4767-435f-9f02-fa3be502492b
       2nd sunday in November:
         _name: Fathers Day
         type: observance
-        id: 0cb5aebd-fc00-4e1d-b35a-d01ed4086115
+        id: 54d7d4cd-674e-477b-9876-5a490f0a814a
       11-16:
         name:
           et: taassünni päev
           en: Day of Declaration of Sovereignty
         type: observance
-        id: 33c823a0-5770-4ef5-97e2-656b2fc0def9
+        id: 2ae2fc3d-922d-4f69-8028-246919689e5d
       12-24:
         _name: 12-24
-        id: be0810ad-b209-45ac-9f09-3aa481806626
+        id: 116a7794-98e5-4693-8204-07bcc3823e8b
       12-25:
         _name: 12-25
-        id: 2364b3a7-89ca-4c1a-82d1-43d121cf1007
+        id: 0f667b29-8950-4702-b147-2c41dcf13cb7
       12-26:
         _name: 12-26
-        id: dce091e2-44dc-402e-a3e0-7439147fc361
+        id: 8cf726a0-a647-4de2-b15c-e600171c958f

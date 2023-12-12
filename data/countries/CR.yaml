@@ -11,45 +11,45 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: d5fd524e-61b3-4660-b82a-d6fe208f115c
+        id: bc136a8e-a74c-4278-ada3-7a734ffb9e09
       easter -3:
         _name: easter -3
-        id: 34554653-5d77-4c25-aaa3-3a193d3242cd
+        id: d2daaf07-cb8b-43e5-9630-8f98403d6cf7
       easter -2:
         _name: easter -2
-        id: 67aa3243-fca9-4c65-ac64-e1f9e457f69a
+        id: 29df586c-1607-4ef5-9ad6-831432dd4b30
       easter:
         _name: easter
         type: observance
-        id: c68c8a7b-7022-4154-b697-86e3ed86bd54
+        id: 2580e82e-6d85-46e4-965c-068e03c45600
       04-11:
         name:
           es: Gesta Heroica de Juan Santamaría
-        id: 4430b8fc-1a4b-423d-a9da-db94b17cab99
+        id: 5b057e94-85bc-4258-9dcd-3a96ea4e2cd7
       05-01:
         _name: 05-01
-        id: 215f43b6-cea1-4e3e-b27d-a1ea17398694
+        id: c89204b5-a9d0-4ac4-8dd2-31f01d19e9e2
       07-25:
         name:
           en: Guanacaste Day
           es: Anexión del Partido de Nicoya
-        id: af314e2f-9256-4351-a3a8-b0b3c9d1c93e
+        id: bd64e950-227b-4ccb-ab98-945dd1e8ed4f
       08-02:
         name:
           en: Our Lady of Los Ángeles
           es: Día de la Virgen de los Ángeles
-        id: 49575000-f535-4f90-b832-3e873c9c2a8d
+        id: 7c87e90b-d115-4d32-9cd3-8ab002d918ee
       08-15:
         _name: Mothers Day
-        id: 6665f7a7-eb2d-46a7-90d4-e0ebac75f18d
+        id: c75b7fa3-febb-42fc-bc35-ad137eb64a68
       09-15:
         _name: Independence Day
-        id: fafd00c3-8a72-4a70-984d-9d4d9e877cf8
+        id: 56773bf9-db67-4660-ab5d-1487b42d3402
       10-12 if monday then previous friday:
         name:
           en: Columbus Day
           es: Día de la Raza
-        id: 6d1d4135-1642-43ee-9f74-a8a4fc980d8e
+        id: 32b1f138-b822-4087-bbdc-7e493c9e75ec
       12-25:
         _name: 12-25
-        id: 2d248379-b56d-4cf3-be23-2d9d0553e6e6
+        id: 74e478da-279d-40b0-9d93-cee455c3e89b

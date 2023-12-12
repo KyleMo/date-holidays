@@ -11,105 +11,105 @@ holidays:
     days:
       01-01 if sunday then next tuesday:
         _name: 01-01
-        id: 4ffa2924-4f56-4582-836e-6c99c206e60b
+        id: 04387b92-3027-41d2-bde2-fba72b5393f6
       01-02 if sunday then next monday:
         _name: 01-01
-        id: 93b95a25-1685-4f03-a373-51f25a2e5df7
+        id: aaf5a1dd-2895-4f0a-9145-34a3e96efea1
       julian 12-25:
         _name: julian 12-25
-        id: fa0a6438-7f39-445b-9c5f-cb9920907cfc
+        id: ac578131-ff2f-46f7-96f4-e5909ba594a3
       02-15 if sunday then next tuesday:
         name:
           sr: Дан државности Србије
           en: Statehood Day
-        id: 243a1d20-aa37-48b1-b0ff-a8eb5acedea9
+        id: a4261642-b502-4610-89ed-57f8c8f45442
       02-16 if sunday then next monday:
         name:
           sr: Дан државности Србије
           en: Statehood Day
-        id: 6f31075e-a33f-495f-bc0f-1b1f60c748b7
+        id: e5fea883-5b10-46d8-adb3-d69b577e29a9
       orthodox -2:
         _name: orthodox -2
-        id: e6646e0a-9ba7-4d0e-aacb-d316469a8dda
+        id: d5bbfefd-77cf-43da-8610-abfe298f36d0
       orthodox:
         _name: orthodox
-        id: 5f522238-1792-40b0-b247-ac57537a3243
+        id: 596060be-1f54-4e91-accd-8b2ab75c8925
       orthodox 1:
         _name: orthodox 1
-        id: 1d7923ea-1960-4015-bb73-ddbd355afe03
+        id: 9424abe2-a247-430b-a3ed-ab382e3623d3
       05-01 if sunday then next tuesday:
         _name: 05-01
-        id: 732b29ca-4728-488b-a9d5-6c1c0acaa8d8
+        id: 282efedc-cc05-4275-b210-72024fe63261
       05-02 if sunday then next monday:
         _name: 05-01
-        id: 65625177-9fd1-42a6-b2ef-811215db0dcf
+        id: af85e9b4-76f7-4ceb-bfcb-7c392fdcb328
       11-11 if sunday then next monday:
         name:
           sr: Дан примирја
           en: Armistice Day
-        id: f85a65ae-0047-43c9-82f3-2fd0c5569970
+        id: 7448579f-b99c-4969-a89d-5013eb8402e5
       easter -2:
         _name: easter -2
         type: optional
         note: Catholic believers
-        id: 018143d0-daa1-487e-a87c-35b8f5ebc777
+        id: da560b90-b959-45fe-8523-6338b225ba83
       easter:
         _name: easter
         type: optional
         note: Catholic believers
-        id: 9432a98f-8546-4c96-92fe-b159038ac574
+        id: 8bcc87a4-ace6-4b8c-9252-608dd0c786fa
       easter 1:
         _name: easter 1
         type: optional
         note: Catholic believers
-        id: 3bafab6e-d2cd-4cbb-bb5a-bc4c4b065116
+        id: 8f7bae15-7af3-4d8c-96b0-b18b40e4c9fe
       12-25:
         _name: 12-25
         type: optional
         note: Catholic believers
-        id: d0973682-4167-4975-a501-d1980e5aadee
+        id: d663e82f-ac9d-4ba7-be90-a113570e2f7b
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         type: optional
         note: Muslim believers
-        id: fe79ab91-a55b-4db3-9df8-eb735e2dd33a
+        id: f6ca6ea9-c7a4-43ac-9a90-4c8d49407036
       1 Shawwal:
         _name: 1 Shawwal
         type: optional
         note: Muslim believers
-        id: 9cf46685-4222-4f28-921c-7bca5d8ddc92
+        id: 4b59a1f9-f101-4fb8-a1a5-32f122de56c3
       10 Tishrei:
         _name: 10 Tishrei
         type: optional
         note: Jewish believers
-        id: 0bee91c4-4c52-48ea-a613-60a21b965cd7
+        id: 4469fb8f-b751-45ff-b2dc-8cfc1389ebcf
       julian 01-14:
         name:
           sr: Свети Сава
           en: Saint Sava Day
         type: observance
-        id: b203fa67-bdfa-4194-aa5e-65f2e52c49ec
+        id: cf0bb6ae-965a-4a34-9661-09de29117cf8
       04-22:
         name:
           sr: Дан сећања на жртве холокауста
           en: Holocaust Remembrance Day
         type: observance
-        id: aab7a18a-1b35-48ec-b841-66fc71613a55
+        id: 716a875a-b022-4d7e-b59a-3c2f3ce03531
       05-09:
         name:
           sr: Дан победе
           en: Victory Day
         type: observance
-        id: 1820018d-4745-4e38-926a-872e138bef4e
+        id: 989d4ddf-45ca-4b8e-89f4-8192d95f8fbc
       julian 06-15:
         name:
           sr: Видовдан
           en: Saint Vitus Day
         type: observance
-        id: 2b170a93-2aa3-44c5-8359-cfef972ce335
+        id: 66170df9-7633-4625-b720-989da4c3b96e
       10-21:
         name:
           sr: Дан сећања на српске жртве у Другом светском рату
           en: World War II Serbian Victims Remembrance Day
         type: observance
-        id: f4500610-2f71-4010-93be-2f2d8792533e
+        id: d252c60a-2027-4df8-bf35-f8eb12ec8d71

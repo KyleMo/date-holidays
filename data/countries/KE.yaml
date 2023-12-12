@@ -12,55 +12,55 @@ holidays:
       01-01 and if sunday then next monday:
         substitute: true
         _name: 01-01
-        id: 5deb63b5-3142-47ee-a1f0-0f4077622f63
+        id: ce211aa6-2b80-4d25-96b3-e191c2b18f13
       easter -2:
         _name: easter -2
-        id: 9ded9879-47ad-4f7b-a82b-8b1ce5eb9dd7
+        id: 8eb1a9df-81fb-4618-b2e5-d12d9a9b5422
       easter:
         _name: easter
-        id: 6b87dff8-2713-405c-97dd-82d334a8b712
+        id: 6e77306a-d4a9-4273-a390-3da85c16e06a
       easter 1:
         _name: easter 1
-        id: b6d627f1-e5dc-49e8-aed6-f873b06677fd
+        id: 7e136546-cf98-44c5-9552-5c3eab7bbbd1
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
-        id: 508c8312-6745-4775-8d5c-bbf2f3dc3910
+        id: 2e130c95-c22d-47c7-b45c-56731d9eb5a3
       06-01 and if sunday then next monday:
         substitute: true
         name:
           sw: Siku ya Madaraka
           en: Madaraka Day
-        id: e2cbacf5-2fa2-4aad-a832-ee268e474d4a
+        id: 84cffea8-207f-4f39-8ae5-76b98359e8d2
       10-10 and if sunday then next monday:
         substitute: true
         name:
           en: Moi Day
-        id: 7e47c394-dac1-496c-af88-c4b53be1b870
+        id: b7185a9a-eeb3-43a4-a26e-e1b686105bf6
       10-20 and if sunday then next monday:
         substitute: true
         name:
           sw: Siku ya Mashujaa
           en: Mashujaa Day
-        id: 7d35cd05-cac8-4bd8-83f3-1cc7a350295c
+        id: 68b49128-5461-46b4-be37-7e9a5e104b69
       12-12 and if sunday then next monday:
         substitute: true
         name:
           sw: Siku ya Jamhuri
           en: Jamhuri Day
-        id: fb35456b-422f-48c1-8b9e-25c559235268
+        id: 05bb428a-8ae8-4ede-9d6f-a372435da774
       12-25 and if sunday then next tuesday:
         substitute: true
         _name: 12-25
-        id: 38ab6009-9116-4e61-9908-5160581f0690
+        id: b07392d6-6de5-49ad-8b7d-da0fd76a0483
       12-26 and if sunday then next monday:
         substitute: true
         _name: 12-26
-        id: 4a16030a-fc18-46d0-a5d8-d6ea315c7526
+        id: 29f61b48-9c7e-4c2d-ad32-1a98f6353689
       1 Shawwal:
         _name: 1 Shawwal
-        id: 165d8203-8828-46bc-9bb0-f9d35431e4fc
+        id: 18e2fdf6-fa12-48dc-906e-f3adc57f9eb9
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         note: For all persons belonging to the Islamic faith.
-        id: 6fa8c695-ea87-44ea-bec1-72154d89c624
+        id: 1d38b21d-1016-4035-9ad7-7439a2b973f9

@@ -10,42 +10,42 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: b76eb87a-2de0-4e46-adf3-88122f7e62bd
+        id: 4f3b3b0c-404e-4aad-82fc-fb73a1907eba
       01-09:
         name:
           en: Peace Agreement Day
-        id: 9a389f0b-e2f2-4b82-a575-565dac1eeb78
+        id: 69f810f4-1b1b-4666-b77c-f76709eb2abe
       03-08:
         _name: 03-08
-        id: 53c316d6-d7d1-446a-b925-424ef05471d2
+        id: 89270b03-c0b6-4821-a9c4-24ed05802708
       05-16:
         name:
           en: SPLA Day
-        id: 085c2004-74dd-4cbd-8413-9b39ad4f6304
+        id: 0bf9b764-01d8-476d-b9bb-e29e07ded1b9
       1st monday in July:
         _name: Mothers Day
         type: observance
-        id: 4f02ee90-6787-45f2-8d29-118580057c5b
+        id: 3e103710-d526-4b00-a8cd-821c63cd9d9b
       07-09:
         _name: Independence Day
-        id: 870dad48-4b83-4b02-85af-5c1444599289
+        id: 6c1dd15a-e789-48ea-adc0-b62c187a59d7
       07-30:
         name:
           en: Martyrs Day
-        id: e9743f88-a2ba-4228-a6a1-8d02ee1f06e6
+        id: dd3b2502-e102-47ba-8338-54af135b09d5
       12-25:
         _name: 12-25
-        id: 09fe2077-02fb-400b-a369-dd27704c8ead
+        id: 321e5b80-8b28-4726-b0c9-3698d5b7f82a
       12-28:
         name:
           en: Republic Day
-        id: 6349117a-c784-4ce6-ac3d-f286cd853cec
+        id: 8dd78948-1bbd-4f07-a152-c6ac0eb143ab
       12-31:
         _name: 12-31
-        id: b4f49e18-9bb8-4eaf-bb3e-454d600544ca
+        id: 6f1d4f32-a698-4b88-bb2e-d5ac3a5be9ba
       2 Shawwal:
         _name: 1 Shawwal
-        id: 813c0e4c-4d5e-478d-bd84-553279d21f5c
+        id: 6dd72cbf-f86f-4119-9be2-59760ccfe887
       12 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 76cefbac-7478-4126-9498-4c607173fbbc
+        id: 69ac6d50-bd5b-4ada-b63f-10faf51065fc

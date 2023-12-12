@@ -13,40 +13,40 @@ holidays:
       01-01 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         _name: 01-01
-        id: e4dd730c-511c-4865-add2-df4be967c112
+        id: 8f5b59b3-0b43-4550-86d7-58da9ca87554
       02-03 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         name:
           en: Martyrs' Day
           pt: Dia dos Mártires
-        id: fc027605-b778-4dfc-bcfa-724062ffb008
+        id: 7e2df050-0af4-40da-9bcc-b0b3782f7f1c
       05-01 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         _name: 05-01
-        id: 6c52c85a-d5a2-4e99-88c6-14117bc059d5
+        id: 0530c1b4-5aa3-441a-a4bd-e32d8d6d6870
       07-12 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         _name: Independence Day
-        id: 3f659870-3aa6-4fb8-9503-a00eb68a0c0f
+        id: 8dcd8660-42aa-4afb-bf12-af82e0eb6320
       09-06 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         name:
           en: Armed Forces Day
           pt: Dia das Forças Armadas
-        id: 47cfb8ce-cd00-48ed-9e47-5466a6089d2e
+        id: 75d7042d-1bcf-4bf4-bd28-c621b9bc5a5b
       09-30 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         name:
           en: Agricultural Reform Day
           pt: Dia da Reforma Agrária
-        id: 7e30362b-7175-4483-82dd-5afe263770d3
+        id: f9253569-e20a-4a25-9625-e727e768390c
       12-21 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         name:
           en: São Tomé Day
           pt: Dia de São Tomé
-        id: d3594386-368b-4321-b6df-9ce9b8534e05
+        id: 49889395-8c2f-4cd2-b5e5-7f7e825ddfec
       12-25 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         _name: 12-25
-        id: 120301eb-009b-43cf-82f7-a42d78d5db08
+        id: 087f61a8-9b0c-4641-8e14-92c3af36ad82

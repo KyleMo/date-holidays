@@ -11,51 +11,51 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: af20a9a4-76e2-416f-b401-69f305c994a6
+        id: 244c736c-6539-4a0d-8d72-65a020e0a787
       01-10:
         name:
           fr: Fête du Vodoun
-        id: a0d6d93a-5a4b-47e5-9fcb-4075cda57ed3
+        id: 5256be90-5122-458f-9c75-1004feb0dea5
       easter:
         _name: easter
         type: observance
-        id: e4c5aca9-6b06-4576-946e-9ca80fe05d08
+        id: 25fa1a6f-be17-4ac1-9262-e39c73bec55d
       easter 1:
         _name: easter 1
-        id: 68402461-7941-49d4-adcd-42a63f1279fc
+        id: b20e2083-897e-4a15-a3e8-10e04e95b2ed
       easter 39:
         _name: easter 39
-        id: 743ffaf9-ca6b-4042-ba7f-6fc950e81235
+        id: 2e85eef3-ee5b-4220-93d1-57b5feda1450
       easter 49:
         _name: easter 49
         type: observance
-        id: 545d06af-1ce9-4a57-b50c-594e576b25c2
+        id: 74835924-3f94-47ad-8d94-2223aba5c214
       easter 50:
         _name: easter 50
-        id: 8ca3a57e-ddcc-45e2-b9ef-e973686ed6aa
+        id: d130a2d3-69b5-4a78-8cfd-bd506a852cef
       05-01:
         _name: 05-01
-        id: f1e0019b-cfb9-4b49-a0a6-e8961df07944
+        id: 1a31e75b-e1c2-4d19-9f16-4a1c4b2814bf
       08-01:
         _name: Independence Day
         name:
           fr: Fête Nationale
-        id: 69690576-39fb-4e9d-bb57-2dfbfd0f8316
+        id: cf5e5e99-1cc0-4bbb-b018-383a5b7cee02
       08-15:
         _name: 08-15
-        id: 423369d2-8f5d-40cd-98b7-8fe2998ceacd
+        id: a141f294-663d-4416-a895-e70657edafd2
       11-01:
         _name: 11-01
-        id: ce856b8d-1360-48be-bc57-c481a79582e1
+        id: c8e5eacf-cdde-43a6-9520-a1a0bd23d0b3
       12-25:
         _name: 12-25
-        id: 25f4d34d-3cc5-4d54-bdbe-a25d4c7cd3eb
+        id: 48a6020f-5aba-4172-87d6-bb94546673f9
       1 Shawwal:
         _name: 1 Shawwal
-        id: ec66e3bf-f37e-4439-aab3-9631ec382917
+        id: 01719f41-f760-4ff3-9bea-bd41a4f09b53
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: f30d07b7-ecb2-440c-9255-848fff108451
+        id: 5c99e7f1-8030-4805-9f1a-b2043b9cf11a
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: f69e5e58-ac6c-433d-bf8d-ffb5c8d200fa
+        id: 620f36dc-caff-4c3d-98fa-9ebd7aa2d787

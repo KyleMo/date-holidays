@@ -12,61 +12,61 @@ holidays:
         name:
           en: Chinese New Year
         substitute: true
-        id: 13b13d2a-9cda-4103-976d-41a9f0cf778c
+        id: 7781f977-a68e-495b-bd39-cf00c2c45d4c
       chinese 01-0-02 and if sunday then next tuesday if saturday then next monday:
         name:
           en: Chinese New Year (2nd Day)
         substitute: true
-        id: ef660d14-bbaa-4443-805b-752cacbb574c
+        id: 769f4e46-3e51-486c-a716-73e627d21539
       01-01:
         _name: 01-01
-        id: b2dbaef8-b7b0-4722-ba9d-788b6cc9035a
+        id: df5f6231-8dcb-492b-b92e-f3963089903d
       01-26:
         name:
           en: Australia Day
-        id: c530680f-d253-47b0-84f3-5880d7bf6996
+        id: 71f555f5-5064-4ad1-91ed-be5aab92a5ff
       03-20:
         name:
           en: Labour Day
-        id: afea235e-f9d7-4dfb-87aa-7433bf895893
+        id: 6f9e48c8-cef3-44ab-8318-12ac4a31b5ca
       easter 1:
         _name: easter 1
-        id: ffcf3426-02e0-4733-b5d1-292a239499a3
+        id: 77a5cd4c-7d31-4efe-acca-de8b21af00a1
       04-06:
         name:
           en: Self Determination Day
-        id: a7aca615-000b-4b6f-a8c2-d48e8d73dcf9
+        id: 20ceeeba-0a29-4ff5-980b-c542062cb891
       04-25:
         name:
           en: Anzac Day
-        id: 317922a1-12d4-45f1-b7d0-a74305c36bf8
+        id: 199ef40d-1d30-43db-9434-0d8b9170c241
       12-25 and if sunday then next tuesday:
         _name: 12-25
         substitute: true
-        id: 77498ab3-84fe-4fd3-a96b-8cdd43988e7f
+        id: 8e2fcde3-15b1-4908-ad92-95a026e51438
       12-26 and if sunday then next monday:
         _name: 12-26
         substitute: true
-        id: 52f3b1e5-d358-4eb1-83c3-258a94b6150a
+        id: 5e618c0a-002a-4ad0-86a7-95d7224b2eb7
       1 Muharram and if sunday then next monday:
         substitute: true
         _name: 1 Muharram
-        id: b18c1bfb-3293-460c-b6a1-002634229e7e
+        id: f888cf1b-4588-42db-a897-b894c79be5f6
       1 Shawwal and if sunday then next monday:
         substitute: true
         _name: 1 Shawwal
         name:
           en: Hari Raya Puasa
-        id: 6f928eea-20ed-400d-a62c-108681225539
+        id: 2eecfa7d-c968-4aa3-ae0c-b9a77b9175d2
       10 Dhu al-Hijjah and if sunday then next monday:
         substitute: true
         _name: 10 Dhu al-Hijjah
         name:
           en: Hari Raya Haji
-        id: 3fdda0b3-03a3-47ea-8558-c525eeb1638d
+        id: ff411055-bd95-44ba-b929-84de76964eb5
       12 Rabi al-awwal and if sunday then next monday:
         substitute: true
         _name: 12 Rabi al-awwal
         name:
           en: Hari Maulaud Nabi
-        id: badb240c-2183-46ca-ac45-db78f3cc21bc
+        id: 6a4d6278-4041-4da4-a2a6-7849493cfa3b

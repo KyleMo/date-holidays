@@ -11,43 +11,43 @@ holidays:
       01-01 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 01-01
-        id: 167bac58-ad40-42f3-972e-72332ba4a807
+        id: 1dc49b30-7ac5-4905-b74b-cb425abddec2
       03-17 and if Saturday, Sunday then next Monday:
         substitute: true
         name:
           en: Saint Patrick's Day
-        id: f7ee5a1b-c49b-40a2-9fd2-710f210a423a
+        id: b3a5b2eb-0e46-40f1-969b-ff3e00b8cf20
       easter -2:
         _name: easter -2
-        id: da84108b-5ef7-404a-9af0-a09fa2c78240
+        id: 62dcb8e7-a6f4-4e2c-a825-b6633893dd06
       easter 1:
         _name: easter 1
-        id: 2de57815-7998-4819-bbcc-d4d45121da6d
+        id: 62159db1-7138-4f0a-81ee-6f72de159925
       1st Monday in May:
         _name: 05-01
-        id: 0bcef3f2-8295-4a43-a1be-8b61f1e2675a
+        id: e0795ffa-1db1-49f8-8e80-32537a737a9f
       easter 50:
         _name: easter 50
-        id: aa5cac11-5386-443d-94a0-43f64da833d0
+        id: 8cb8f45a-3a96-4004-995c-579087e7f9fc
       2nd Monday after 06-02:
         name:
           en: Queen's Birthday Celebration
-        id: 9767ca1e-5847-42e6-ae77-ce0b480000ba
+        id: 261290fe-a38e-484b-95ea-a8faa6a96df5
       08-01 if Saturday, Sunday then next Monday:
         name:
           en: Emancipation Day
-        id: b9392c04-3957-42c7-b2fd-8756f254b6bb
+        id: 2d3ee765-437a-4240-9f02-01ccf08a1d3a
       12-25 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-25
-        id: 21402917-62d5-4cd4-bea9-25b33270fcac
+        id: 82ce3f67-0163-4553-a4a7-01fcc8c18982
       12-26 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-26
-        id: aedaa1cd-ace6-4814-af35-66999ae95102
+        id: 0246545b-e133-420d-ae47-632410899a5b
       12-31 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-31
         name:
           en: Festival Day
-        id: d65048b9-8eee-4e42-b650-bafdf2676aed
+        id: 6b9acd75-9569-4189-ac65-ff524e5e9fb5

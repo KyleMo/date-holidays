@@ -10,71 +10,71 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 2054e90b-2d90-4b21-a704-50262944b2bf
+        id: 2ea2ea08-a905-4daa-9045-5fa2fc82b7b1
       05-01 and if Saturday then next Monday:
         substitute: true
         _name: 05-01
         name:
           en: Worker's Day
-        id: b73082e5-96f7-4fc3-8535-848465feb4ab
+        id: efe97ffe-e6b8-4b1e-8c76-51bba313ef44
       05-27:
         name:
           en: Children's Day
           type: school
-        id: ad585671-8b41-4ac1-8ba6-9be0dce1068f
+        id: 1bbdb936-5690-45ec-bcb0-2fb2b89752e5
       05-29 prior to 2018:
         name:
           en: Democracy Day
-        id: 9069c022-82ee-4a70-87c4-bed884cb36b8
+        id: b029a1d7-5060-4a58-922d-ecd05bb60933
       06-12 prior to 2018:
         name:
           en: M.K.O Abiola Day
-        id: b4c16c32-096e-443c-bb8c-66f912ff67e4
+        id: f8a594ab-34bc-4704-a8fb-37665c38ac4d
       06-12 and if Saturday then next Monday since 2018:
         substitute: true
         name:
           en: Democracy Day
-        id: 139a3455-f7c5-471d-bcdb-6c6a8bdb385f
+        id: f3905781-7d26-4e22-b64a-180fe545df94
       10-01:
         _name: Independence Day
-        id: bcf03ba2-7104-4e52-8f20-30ab9589e573
+        id: 2329f740-8cde-4b92-a517-e666c8a0193d
       11-01 since 2020:
         name:
           en: National Youth Day
-        id: 28df5008-7dfd-4f8c-89e4-587f9b9399a3
+        id: 9c87b3fc-0f92-41da-87fc-71207c914d44
       12-31:
         _name: 12-31
         type: observance
-        id: 8740c1de-15af-485f-8c64-bfd26b525bb8
+        id: 8b3a7887-2dd5-4e57-9d1e-d3891dbcf5fd
       easter -2:
         _name: easter -2
-        id: fe721ce3-5604-48cf-bba0-c1249e18c490
+        id: 5a2c0ee2-c0f1-483a-8663-d9a762d35a3e
       easter:
         _name: easter
         type: observance
-        id: b2638e4f-8eaa-426a-9e07-63463a25f6b8
+        id: 512c8eb8-e9de-48e5-bd94-470cb2083223
       easter 1:
         _name: easter 1
-        id: 0a142716-8afc-4035-8f81-3caa98cf3b71
+        id: ed541014-27ed-4cbc-ad68-f70c23f41c9e
       12-25:
         _name: 12-25
-        id: 1f9749b4-be4b-41e5-8ad0-db861f182d44
+        id: 0d56d73e-7991-49cd-8cf7-8e775cd5c0d1
       12-26:
         _name: 12-26
-        id: 525b9317-e21e-41f3-85d7-47c8c2f36411
+        id: 70162fd6-a50a-444e-ac7b-55bf1e962177
       1 Muharram:
         _name: 1 Muharram
-        id: b459a2a4-baf1-41ce-8d32-d4a6ca49add3
+        id: 586046ce-3105-423c-acd7-2f851531f997
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: 1a7f041c-2788-4744-aed5-a0ee1520e253
+        id: 27c0a3d6-e6c2-4e1c-b392-c7584ad87564
       1 Shawwal P2D:
         _name: 1 Shawwal
         name:
           en: Id el Fitr
-        id: 2bd9ddaa-1f24-4974-8dc6-a3093ee0dca2
+        id: 1db377c8-89bc-471c-92aa-ad5d3825a6ea
       10 Dhu al-Hijjah P2D:
         _name: 10 Dhu al-Hijjah
         name:
           en: Id el Kabir
-        id: 134a99e3-5a59-4498-804e-4658eb5f108f
+        id: c63af799-4991-4915-bef3-cf9df378936b

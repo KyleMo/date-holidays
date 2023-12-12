@@ -13,53 +13,53 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: d00db6c9-a8fb-464f-9c29-f667999967eb
+        id: 601f0299-913d-467d-bb4b-b43a1c9329ab
       02-05:
         name:
           fr: Jour de l'Unité
           en: Unity Day
-        id: 17eab626-8528-47da-87ff-c5b2dc7e87c6
+        id: da0b6d26-999f-4bf2-aee1-7a4a917e2032
       04-06:
         name:
           fr: Jour de Ntaryamira
           en: Ntaryamira Day
-        id: 6e7d5f42-5c98-49e7-b7c1-823133e269aa
+        id: ecf7e0b0-6d9c-44b1-8e10-07399e66bb8d
       05-01:
         _name: 05-01
-        id: 8363ea63-00de-4d5c-8968-2fe9a637dc75
+        id: f9a8999b-1d30-4315-b6b6-2f78efdea3cd
       easter 39:
         _name: easter 39
-        id: 11c35c3f-ea77-45cb-8ad8-dd2ab6cb20c0
+        id: 41cb5795-747e-4f15-a646-61f1926b2c30
       07-01:
         _name: Independence Day
-        id: 5b409e38-b517-48c4-a688-c269abdf6d91
+        id: 74f8797b-f288-45f0-a3f2-432b541b5161
       08-15:
         _name: 08-15
-        id: af59db6e-7d3c-46df-85b5-3a8accc98c36
+        id: 06f45c96-1834-421a-93fe-9b90ffd6bf6e
       10-13:
         name:
           fr: Jour de Rwagasore
           en: Rwagasore Day
-        id: 4cb8b294-14cd-4769-bb86-8711e1fc637e
+        id: ae9f1e90-d9a1-45b7-94e1-6078d9bf13d3
       10-21:
         name:
           fr: Jour de Ndadaye
           en: Ndadaye Day
-        id: c2dae79b-d919-46d3-a1e9-9441ab07edde
+        id: f00c37de-9113-4aaf-bd90-62383700d403
       11-01:
         _name: 11-01
-        id: 7809adf3-4d58-4d6c-861c-5d887efb0ac4
+        id: 005942d1-6225-488a-ab1b-c011abb218af
       12-25:
         _name: 12-25
-        id: db736fdd-7fa4-4b4b-b631-40af4c7d68f5
+        id: 0cd8b045-aa71-4e8d-ad27-91140a7bf9d6
       1 Shawwal:
         _name: 1 Shawwal
-        id: 1d82e1a5-943b-40ed-8a24-e111141ae833
+        id: 9e5a2570-02a0-4d84-b9b7-5d64f3207ca7
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 238a2737-9537-4faf-be5c-ae7288400fff
+        id: dd64b495-92bb-46d5-bea1-20064a52ce23
       '2015-07-24':
         _name: Public Holiday
         name:
           fr: Jour l'élection des Sénateurs
-        id: a2ad8349-bffe-4617-9806-e806dd092d88
+        id: 14535ff5-a5d2-42a6-b9f8-3c6a8a4e4d34

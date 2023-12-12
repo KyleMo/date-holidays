@@ -14,62 +14,62 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: f1d4897e-85e6-48c0-ae66-9a6b15c45561
+        id: fbb1e19c-082a-4246-ac39-a63e443f9794
       easter -48:
         _name: easter -48
         name:
           en: Carnival Monday
-        id: 5fa04ba0-235d-4643-baf5-7123c898b98e
+        id: 5a31bb89-40be-49bc-afa1-035ff9d48496
       easter -2:
         _name: easter -2
-        id: 4e5fdfbf-0101-4d8d-8be9-0aa0e626a51d
+        id: e12ce1ad-4412-4b80-b876-f3aadde3b2ea
       easter:
         _name: easter
         type: observance
-        id: 940f2de3-0452-4d85-9c93-301456b0bcdc
+        id: aaa0577f-5bac-4a1b-b87d-2cd25b1dae3e
       easter 1:
         _name: easter 1
-        id: e457a172-4ca6-4e70-9e11-935ac3f6814c
+        id: 7621698b-4899-4dd7-98bd-1fd9e234d8b3
       04-27:
         name:
           pap: Aña di Rey
           nl: Koningsdag
           en: Kings Day
-        id: ef19a2da-7d15-4670-81ef-0092719783cb
+        id: 234f4a7d-8c9d-49d3-bbbf-59de91b56541
       05-01 if sunday then next monday:
         _name: 05-01
-        id: 43da252b-dd4d-456c-a5a1-b1b2d8ec787d
+        id: 9fcd4315-1e1e-4fe3-8fe3-d10c151abc41
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: 929ff07d-1f12-499d-80fc-1460314de3f0
+        id: 8904839b-2952-4bf5-b2eb-c7a4b0c1cf46
       1st sunday in June:
         _name: Fathers Day
         type: observance
-        id: 7b57303e-115f-471d-88dc-12c1b2d05d2f
+        id: 6d4f3d96-fc02-4251-91da-432d7ba93fda
       easter 39:
         _name: easter 39
         name:
           nl: Hemelvaartsdag
-        id: 3a908a25-1921-4753-86c8-e650d0a1d273
+        id: 07b8742d-1cf3-4f36-a4eb-b2f023a63309
       07-02:
         name:
           nl: Dag van het volkslied en de Vlag
           pap: Dia di Himno i Bandera
           en: Flag Day
-        id: 4a943c17-f6f5-4a66-b33b-e2d557651738
+        id: 373461a2-643e-49b9-8bfa-1f3a9e80ee67
       10-10:
         name:
           nl: Dag van het land Curaçao
           pap: Pais Kòrsou
           en: Curaçao Day
-        id: a12f7c9e-8922-46e1-9ac8-bd8e9dce01f7
+        id: 37ada19d-a592-4b48-b9e6-b1d5ed1346e3
       12-25:
         _name: 12-25
-        id: a64cae27-a27f-454b-bfa9-4034bf955eb7
+        id: 45c6c024-a75f-4aa9-b212-f0bbc2739333
       12-26:
         _name: 12-26
-        id: a97c724f-4e6d-41c3-844d-0cd1d3800895
+        id: 506d1302-55c4-432b-bb25-92f8fb1e8398
       12-31 12:00:
         _name: 12-31
-        id: 91c439ab-5c42-4787-a205-17d9519e30df
+        id: 7513b5d2-2961-41fc-8c1a-fdbd04ca1a23

@@ -11,70 +11,70 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 01ad8c94-ddd2-4e26-ae3f-3d34b17c17a8
+        id: 85c6151e-82ae-447f-b6ab-174032094955
       01-23:
         type: observance
         name:
           en: First Philippine Republic Day
           fil: Araw ng Unang Republika ng Pilipinas
-        id: 680aab65-6639-4018-9db0-319012968e2b
+        id: ec2a242a-958c-4b78-8d32-c37bfc693dd0
       chinese 01-0-01:
         type: optional
         name:
           en: Chinese New Year
           fil: Bagong Taon ng mga Tsino
-        id: 0d34c8bc-44d5-4ed0-a750-a79eb7212ff0
+        id: 57927a9f-c2e2-40ac-b13b-674d670c165c
       02-02:
         type: observance
         _name: Constitution Day
-        id: 1997c59f-3e54-4d5e-88ee-c259f4ccc9b3
+        id: bf7a236f-4df0-4f4c-a5e6-a8b388fa1564
       chinese 01-0-15:
         type: observance
         name:
           en: Lantern Festival
           fil: Piyesta ng mga Parol Tsino
-        id: 1d6c28c8-5ee9-4c7c-8978-9419690e2d38
+        id: 8148896b-64a2-468c-aa38-b8178e686e74
       02-25:
         name:
           en: EDSA Revolution Anniversary
           fil: Anibersaryo ng Rebolusyon sa EDSA
         type: optional
         note: Non-working Day
-        id: f8d6c1ef-d793-4765-acdf-e97a62843403
+        id: 6d438db3-ff59-4faa-9b75-51d20b429b2a
       easter -3:
         _name: easter -3
-        id: d987e956-d5fd-420f-9d7b-49a8e23a7462
+        id: 5b99140e-a215-4fe1-8bcb-0e55a8f0df13
       easter -2:
         _name: easter -2
-        id: 2147eb3a-a403-40c4-9fc5-76b4d835c26c
+        id: 408c8495-caf4-4623-9d1a-3482c0a9c2d2
       easter -1:
         _name: easter -1
         type: optional
         note: Non-working Day
-        id: 09ec0b07-f53e-4734-ae5b-44d57167d635
+        id: 7b6a5b1e-49f1-448e-ad5b-beeba4907f19
       easter:
         _name: easter
-        id: 7843c7bf-235a-4439-95a6-cd86079e980d
+        id: 6bdb2491-e9e9-456f-9815-5b83919de0bf
       04-09:
         name:
           en: Day of Valor
           fil: Araw ng Kagitingan
-        id: 73d70a3a-5766-438e-9e43-f43680cf241d
+        id: c2bd1f80-aa9e-4782-b96d-de8f76e1cab1
       04-27:
         type: observance
         name:
           en: Lapu-Lapu Day
           fil: Araw ni Lapu-Lapu
-        id: 2b06a292-6030-4f94-833c-3109bbb9d66d
+        id: 9c3132c9-44b1-4d8e-8d81-cbf1d0cc5a7e
       05-01:
         _name: 05-01
         name:
           en: Labour Day
           fil: Araw ng mga Manggagawa
-        id: fb17aafb-0892-42b2-8f16-ba6cf2786986
+        id: 3f94a23d-c3c0-44ae-96a4-fec3a7fc89a4
       06-12:
         _name: Independence Day
-        id: b595ebd7-cc25-4e99-9686-dcb8463548f5
+        id: eedddf29-3189-4ecf-9acb-afaf1ec4500a
       06-19:
         type: observance
         name:
@@ -84,51 +84,51 @@ holidays:
           - from: '1961-01-01T00:00:00.000Z'
         disable:
           - '2011-06-19'
-        id: b26bd7f7-4ae2-464a-8fab-815de6adb038
+        id: 726a7e0a-1438-453f-9656-6fd8ccfc8702
       '2011-06-19':
         name:
           en: José Rizal's birthday
           fil: Araw ng Kapanganakan ni José Rizal
-        id: bfcb3a14-f2e7-4168-a7fa-c110c4aef5ba
+        id: d32e50d7-c9f6-481d-a9f5-a445c3927c12
       07-27:
         type: observance
         name:
           en: Iglesia ni Cristo Day
           fil: Araw ng Iglesia ni Cristo
-        id: f027b2f3-fb81-4865-adb3-75121f604ebe
+        id: 2338536d-9ee4-4f0a-ba02-5e3c280c508c
       08-21:
         name:
           en: Ninoy Aquino Day
           fil: Araw ng Kabayanihan ni Ninoy Aquino
         type: optional
         note: Non-working Day
-        id: 76f04639-db7c-4f2c-8949-0c76a0560f73
+        id: f670467e-9ca6-4613-b4fe-5cb25b0d8c6e
       1st monday before September:
         name:
           en: National Heroes' Day
           fil: Araw ng mga Bayani
-        id: bb238fdb-b47b-495f-8936-0d94e9f0104b
+        id: e3927d84-97dc-4712-9e43-c4653d0f1f5f
       chinese 08-0-15:
         type: observance
         name:
           en: Mid-Autumn Festival
           fil: Piyestang Zhōngqiū Jié
-        id: 52b15e31-50df-4c23-bbd6-f55ffcf82d53
+        id: 0d8589c3-1345-4787-a0fe-4d1cb9590931
       11-01:
         _name: 11-01
         type: optional
         note: Non-working Day
-        id: 59cb3c15-20dd-4272-9830-bc54ed82d094
+        id: 30903267-8500-43e9-8b99-5e46e19892cf
       11-02:
         _name: 11-02
         type: optional
         note: Non-working Day
-        id: fd4d9072-bf59-44c2-8fd0-fd096bbc814d
+        id: 141fd875-06f8-4358-b333-03f1d9347d63
       11-30:
         name:
           en: Bonifacio Day
           fil: Araw ng Kapanganakan ni Bonifacio
-        id: 9937a7a3-541e-4e9f-9db9-b52006a3a816
+        id: a134aa02-2988-45ab-b4c2-2088cd41f232
       12-08:
         _name: 12-08
         name:
@@ -136,36 +136,36 @@ holidays:
           fil: Pagdiriwang ng Kalinis-linisang Paglilihi sa Mahal na Birheng Maria
         type: optional
         note: Non-working Day
-        id: fbf215bd-9caf-4985-b7e8-41b68537ce52
+        id: 1760bffe-863c-4ec8-8c8f-8da5266f3978
       12-24:
         _name: 12-24
         type: optional
         note: Non-working Day
-        id: d24b55cd-99fa-4b3b-ae91-43257c50c528
+        id: 2ae42906-4d02-4213-bdcf-87997224e1d5
       12-25:
         _name: 12-25
-        id: b59e10e9-1a6f-4298-a543-cd1e7bcbcae2
+        id: effb06a1-656d-4210-a471-1126683cd65b
       12-30:
         name:
           en: Rizal Day
           fil: Paggunita sa Kamatayan ni Dr. Jose Rizal
-        id: c77a24c7-cb2b-46bc-befa-05ddf5aaacce
+        id: cba66bab-80f2-4c89-9b8d-093fa0cc0825
       12-31:
         _name: 12-31
         type: optional
         note: Non-working Day
-        id: 2c38c417-666c-46ff-8507-3e1fd140b4dd
+        id: 5ac53ed9-a79f-4647-a765-a5529abed42e
       1 Muharram:
         type: observance
         _name: 1 Muharram
-        id: ed475e4f-bea7-4680-bbb7-36960fb26edf
+        id: 71b1539b-3266-4cfd-9782-16499c266f9c
       12 Rabi al-awwal:
         type: observance
         _name: 12 Rabi al-awwal
-        id: 5765c2c4-532f-4cf3-a937-06f77679c760
+        id: 70f43d8a-c997-42b2-93ec-6c216836f589
       1 Shawwal:
         _name: 1 Shawwal
-        id: 7f60ead0-7b8e-46d5-bc71-d9f1eeeae13d
+        id: 36e36af1-559c-4100-86c4-9a3a9b01e93c
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 9a226ade-588c-42c7-a0d0-88cc00328b1d
+        id: c694541f-370e-4eaf-af7b-f8cff06a09b4

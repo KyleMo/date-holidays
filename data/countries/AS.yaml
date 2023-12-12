@@ -13,33 +13,33 @@ holidays:
       3rd monday in February:
         name:
           en: Washington's Birthday
-        id: cd6e1d98-8faf-4bd8-861c-06e9b7ae4379
+        id: 5beca23d-4b83-4a0b-aa31-2bd9e5bfbac3
       03-17:
-        id: 10fdd142-c8ae-4ebc-8f2d-debd1119febe
+        id: a4ec1157-fe43-4928-8b6f-72ed2e6076a0
       04-15 if friday then next monday if saturday,sunday then next tuesday:
-        id: 830f2990-c2d2-49f8-ac40-5ed31d28d54f
+        id: cb859648-6d2d-4c3c-ac64-9e913f78ac06
       04-17 and if sunday then next monday:
         name:
           en: American Samoa Flag Day
         substitute: true
-        id: 1fde7559-40ca-48b0-84a5-df68b1f4c3fa
+        id: 177117ce-1628-4b99-b42f-c04b85b08fa9
       07-16:
         name:
           en: Manu'a Cession Day
         type: optional
         note: Goverment offices closed
-        id: 38f27557-6959-4f5e-8362-c9dafe360a82
+        id: 46faff1e-d9e9-4452-802c-cd54bf27df4d
       2nd sunday in October:
         name:
           en: White Sunday
         type: observance
         note: christian
-        id: f0a5bdac-a3fb-4c58-ae63-a61ff844650b
+        id: f4ae789f-3bed-4820-af7b-c75b4737aeba
       12-24 12:00:
         _name: 12-24
         type: bank
-        id: 99e4301b-0a83-4c4c-af8b-cdd703965244
+        id: d63dbf34-c4f8-44bc-a319-27ac0eda030f
       12-31 12:00:
         _name: 12-31
         type: bank
-        id: ae68ef02-ae88-4a96-a18c-18e8ed5e1a62
+        id: cdbc9eb8-dcd6-4ce4-9a71-62f06b1ae7f1

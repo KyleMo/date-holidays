@@ -12,12 +12,12 @@ holidays:
     days:
       easter -2:
         _name: easter -2
-        id: 1b3d4d19-c118-406d-822c-a2a3e1b64f15
+        id: b7046b13-91d5-4178-afd7-153229ccef29
       05-22:
         _name: Abolition of Slavery
-        id: 3b8b8645-8773-42eb-9661-e95c3b11f31e
+        id: a1fc3d91-1a89-452a-8f37-26137b67e7be
       07-21:
         name:
           fr: Jour de Victor Schoelcher
           en: Victor Shoelcher Day
-        id: f3b823c2-cd5f-4025-9508-fb5a06411d7a
+        id: a948d689-ee9d-4233-aa5d-495e2270fcdc

@@ -14,50 +14,50 @@ holidays:
         _name: 01-01
         name:
           ms: Awal Tahun Masihi
-        id: 69244c95-ff0e-4a90-885a-7d9923fd7865
+        id: 56d54fd9-3151-47b5-9d3f-af92d645a753
       02-23:
         name:
           en: National Day
           ms: Hari Kebangsaan
-        id: 53f28284-19ec-4f6f-9e38-a1acde8a9e1a
+        id: ee11d985-d91b-428f-a1d6-b44ea7176083
       03-31:
         name:
           en: Armed Forces Day
           ms: Hari Angkatan Bersenjata Diraja Brunei
-        id: 45da0b09-f35c-43f3-9247-fe2299795ca7
+        id: da53cd32-22f7-4886-8a94-12feea785042
       07-15:
         name:
           en: Sultan's Birthday
           ms: Hari Keputeraan KDYMM Sultan Brunei
-        id: 6ef3490c-4142-4cd8-a482-0ef3f0a28064
+        id: 81627589-fbb4-4392-b864-f31f16798e11
       1 Ramadan:
         _name: 1 Ramadan
-        id: b25cb19b-7a37-42d8-b445-319f4ee78080
+        id: c8de7a5e-1d54-425f-9db0-0153333f8da3
       17 Ramadan:
         name:
           en: Nuzul Al-Quran
           ms: Hari Nuzul Al-Quran
-        id: e402f2dd-1e5d-4001-b326-fc000daff4b9
+        id: d7a956bd-0796-4347-b2fc-a0bb36f6179b
       1 Shawwal P3D:
         _name: 1 Shawwal
-        id: 4a69db0a-7a27-4010-b15b-702adefb1445
+        id: aab1e0a0-a8f8-493d-b56a-dfe9900308a8
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 0a8111c2-b095-4a3f-81b6-bf12bef91181
+        id: 8f7a04f9-0c5f-4a0d-be4a-f13e0ba32233
       1 Muharram:
         _name: 1 Muharram
-        id: 4cdbe8de-4175-4c95-9f83-d32ab068e61b
+        id: 1cb9e249-b619-4f38-b7b8-3645c8671e78
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: c7cd88a5-dc08-4ba9-8d82-fa6e30a42144
+        id: 09b87b90-c259-464b-a2eb-8e924a37d776
       27 Rajab:
         _name: 27 Rajab
-        id: e2f4ff7b-d9ca-4147-bdf5-3cb77321d777
+        id: 801d66c9-a48c-493f-b7ee-cb3968171038
       12-25:
         _name: 12-25
-        id: 980725f3-9cab-4c7f-b6ed-90ffbfef24af
+        id: 3eee6ece-5a37-42b6-9dad-bbb03a5d60b1
       chinese 01-0-01:
         name:
           en: Chinese New Year
           ms: Tahun Baru Cina
-        id: 043139cd-803d-4df1-83cd-98468f3595f3
+        id: 13dc09cc-dea0-4d54-b6ae-73e9b7c44030

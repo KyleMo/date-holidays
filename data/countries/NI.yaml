@@ -11,68 +11,68 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 197b3637-4ba8-4707-8d4a-849b07811301
+        id: 18321b51-6605-45fb-9d70-9310043fcb64
       01-18:
         name:
           en: Birthday of Rubén Darío
           es: Natalicio de Rubén Darío
         type: observance
-        id: 3cd1aa7e-07ce-4b28-867e-7baba68c5a8b
+        id: 05fb8877-03ac-41ab-8111-367b8d2b3f32
       easter -3:
         _name: easter -3
-        id: 554d77ae-a4cc-4e46-a23c-490e4dac7d23
+        id: d2b68083-1f49-4b1a-81c2-d265c2f767fc
       easter -2:
         _name: easter -2
-        id: 3dbe03a3-f1ed-47bf-ae19-4e35cccce307
+        id: 9ef7605e-7313-414b-9a2a-fb34b64eab2a
       05-01:
         _name: 05-01
-        id: 3b3f94a1-d0c1-41d1-a790-8908a23535b3
+        id: f1d75c27-38c5-495d-9472-05c8725a8225
       05-30:
         _name: Mothers Day
         name:
           es: Día de la madre nicaragüense
         type: observance
-        id: ebf7ad53-162c-4384-a8c7-4d391e5c2b08
+        id: e76fe038-1342-4a6f-89a7-f84141c85cd0
       06-01:
         name:
           en: Children's Day
           es: Día del niño
-        id: 9d4bb69c-bbb8-4f2b-8280-430c074ad18f
+        id: d1d9d44c-1226-4b2b-9523-ee778bc2b5cd
       06-23:
         _name: Fathers Day
         name:
           es: Día del padre nicaragüense
         type: observance
-        id: f68c43b4-bb83-4649-8d2d-86e36bdaed55
+        id: 663007d0-1b5d-4350-8edb-e2641f185551
       07-19:
         name:
           en: Revolution Day
           es: Triunfo de la Revolución Popular
-        id: 9c2cd5e7-2d51-4160-a46f-b723215e53ab
+        id: 46986ed6-709e-47f1-8e06-e8b7ebb5af4e
       09-14:
         name:
           en: Battle of San Jacinto
           es: Batalla de San Jacinto
-        id: c90e4ca9-5fd7-48e0-b72b-d9c09ad61256
+        id: 55ac4d3a-91dc-4c11-9f4c-343a96e371c9
       09-15:
         _name: Independence Day
-        id: b6a2ee2c-976c-4ef7-a3a4-46b7b770f9ae
+        id: e806b6ed-280d-4390-8217-7cce0ff16244
       10-12:
         name:
           en: Indigenous Resistance Day
           es: Día de la resistencia indígena
-        id: 823fea43-79ff-4e6b-91d4-40742eff6eef
+        id: 3640e343-f846-4c84-b3e5-90f75025fd45
       12-08:
         _name: 12-08
-        id: 223ffa5e-aa0c-4b5c-bb3d-dd92a37edf93
+        id: 2a4bc722-906f-4147-8332-34bf1768f0d9
       12-24:
         _name: 12-24
         type: observance
-        id: e62d776d-9d0e-4aaf-9f57-5eb2d96349da
+        id: 624e98b9-6ea0-4fda-8a63-1fdf589ed830
       12-25:
         _name: 12-25
-        id: f0864c09-8e80-49ea-bb6a-9a6b13652f45
+        id: 4d9ef969-ca0f-4a16-abe5-a6a3bcfba01f
       12-31:
         _name: 12-31
         type: observance
-        id: 441d21d1-8797-4703-9da1-e1062f08be3e
+        id: e7668ddf-2345-48e1-9bae-cd98e637aee2

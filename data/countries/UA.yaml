@@ -16,70 +16,70 @@ holidays:
         name:
           en: New Year
         substitute: true
-        id: ceb72d01-4848-4400-9546-6c0a0e3b8ca7
+        id: 8d7f411a-3b50-4389-bcc9-c23cc2673eb5
       01-02 and if saturday, sunday then next monday:
         _name: 01-01
         name:
           en: New Year
         substitute: true
-        id: cf7c661f-3848-4284-ad9d-0057947dbb8e
+        id: 8ae39d88-36b8-4083-80a6-67deb8babd35
       julian 12-25 and if saturday, sunday then next monday prior to 2023:
         _name: julian 12-25
         substitute: true
-        id: 187dd044-2c5b-4448-b431-01ab2a7bdb77
+        id: feb6eedb-56bb-445b-8ef3-629ffc6a00d6
       03-08 and if saturday, sunday then next monday:
         _name: 03-08
-        id: a0e99afb-fcef-4c1d-b5ea-b2435195b2a2
+        id: 060c9fea-3aec-4aa0-a2b4-4f322c573367
       orthodox and if sunday then next monday:
         _name: orthodox
-        id: 1e8710b2-9e0d-45d0-a451-53a71f4e04ae
+        id: 02b023c6-3cdd-47a0-ba7d-c01e61fee6bd
       orthodox 49 and if sunday then next monday:
         _name: easter 49
-        id: eb39f0d5-d540-428f-896c-785d4176737d
+        id: ae19a0b4-7136-4544-877b-e5c74bec9758
       05-01 and if saturday, sunday then next tuesday:
         _name: 05-01
         substitute: true
-        id: 7d2d39c2-a123-4237-b0b5-1e2b28ed63a3
+        id: f497adf2-e833-4ae6-a5d5-28edf5d36a00
       05-02 and if saturday, sunday then next monday prior to 2018:
         _name: 05-01
         substitute: true
-        id: 23fbc319-20f9-4176-86b5-dc01a6513d97
+        id: 94dda594-b4d6-4c4a-aa96-d11279b407c5
       05-09 and if saturday, sunday then next monday:
         name:
           uk: День перемоги над нацизмом у Другій світовій війні
           en: Victory Day
         substitute: true
-        id: 07f7a12d-d8fe-41a2-a3ab-507fb9fe267c
+        id: e3a7304e-ccea-4066-a4ab-a1fac8b53570
       06-28 and if saturday, sunday then next monday:
         _name: Constitution Day
         substitute: true
-        id: 13c43da2-42ee-473a-abab-cd4a35cf18cf
+        id: ff0590e9-7fb2-4f57-9ea4-71ce37b09d6c
       07-15 and if saturday, sunday then next monday since 2023:
         name:
           en: Statehood Day
           uk: День Української Державності
-        id: 949364a7-411a-4687-97e0-90542724eb9a
+        id: 358fa76f-a451-4ab0-9354-019ddad7c47c
       07-28 and if saturday, sunday then next monday prior to 2023:
         name:
           en: Statehood Day
           uk: День Української Державності
-        id: 1b2074ec-be3f-4404-ba2b-d79e559acefd
+        id: 2c4c98f5-3ac6-45eb-9ff9-9b0d6ce84fed
       08-24 and if saturday, sunday then next monday:
         _name: Independence Day
         substitute: true
-        id: dbd9102a-1646-459e-9e77-c68b7cdcf96e
+        id: e17ebfa2-f9ce-4552-a114-62efd950b771
       10-14 and if saturday, sunday then next monday since 2015 and prior to 2023:
         name:
           uk: День захисника України
           en: Defenders of Ukraine Day
         substitute: true
-        id: d8b7529d-6d8a-4b19-991c-c35df0459c40
+        id: ec10d421-15af-4f22-bfb3-89c9afb388ea
       10-01 and if saturday, sunday then next monday since 2023:
         name:
           uk: День захисників і захисниць України
           en: Defenders of Ukraine Day
         substitute: true
-        id: 98aaf4ed-b2ba-4f75-8638-d5cc733171d4
+        id: 9bc152fe-5a78-466e-a471-64d5be3c86c6
       12-25 and if saturday, sunday then next monday since 2017:
         _name: 12-25
-        id: 29920172-1888-4ca9-a546-c1081f233d63
+        id: f4e9f235-1a98-469e-b606-1110fcc41ed0

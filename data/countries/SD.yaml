@@ -10,32 +10,32 @@ holidays:
     days:
       01-01:
         _name: Independence Day
-        id: 16773194-0b11-4eb8-84da-e4ccacf3028f
+        id: 8429c267-8375-4190-909e-eb7d7a900d2c
       12-19:
         _name: Revolution Day
-        id: 10e72931-05f7-40c0-ac96-a379bdfa5f25
+        id: 73d75fe6-5b0c-401b-b90d-8b3e8a2be52d
       12-25:
         _name: 12-25
-        id: 8992b7d8-e2c1-4214-b2ee-8c9c0cdf8ff7
+        id: 6793ef1c-1960-4d47-a5c6-9a9a92dc6e2d
       1 Muharram:
         _name: 1 Muharram
-        id: 0af05079-2179-43fe-b32e-86a1a1124483
+        id: 228b26af-44c1-4216-a916-9e875762232c
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: 3c195e5f-2905-473e-a2ad-0dd7eca292b5
+        id: f6e1ff87-a2b6-4bde-a21c-0975e423e727
       1 Shawwal P4D:
         _name: 1 Shawwal
-        id: de9a5d77-eba3-4b49-a69d-15bf0b26df59
+        id: 1445624f-e52a-4315-aea8-e2202fc61d88
       10 Dhu al-Hijjah P3D:
         _name: 10 Dhu al-Hijjah
-        id: b3b99cd4-56f8-4d06-963b-0a0272ff049f
+        id: a4c0a5ec-0acc-49aa-84f2-c8f61cb7fd1f
       julian 12-25:
         _name: julian 12-25
         name:
           en: Coptic Christmas
-        id: 44d8bc0b-e79d-4782-bb3e-d4fbaf26e2d4
+        id: 03ddc3c7-3531-4abc-8631-81c79cb12250
       orthodox:
         _name: orthodox
         name:
           en: Coptic Easter
-        id: 5351fcb2-8419-4d2e-b8c0-00d6ae7b1ce7
+        id: 11f592bf-b5d3-48de-8c57-662215e1bed9

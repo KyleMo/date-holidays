@@ -12,41 +12,41 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: d2553d3a-be06-4fc9-95fa-81a2751f1962
+        id: 0950272c-5786-44b1-bbcb-4a72ffa752be
       easter -2:
         _name: easter -2
-        id: 5691dea0-2195-4186-83bd-03fe034e99c3
+        id: 6778278c-cd1b-4109-b29c-b373b8d2c416
       easter 1:
         _name: easter 1
-        id: d52d4c6a-72ac-4489-9d16-79f7319351b6
+        id: 1d945a3e-cec2-49a3-89c6-d12776a54ff9
       04-25:
         name:
           en: ANZAC Day
-        id: 3eaaac9a-f4c2-4000-90ee-d61f75ac9213
+        id: 72018ec6-a12e-4ef2-aa3a-fd07bedeac3a
       06-04 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday:
         name:
           en: Emancipation Day
-        id: 41842a94-73dd-454a-ba0c-df3da19737b1
+        id: a5a85341-662a-4339-b627-bab056a653fa
       07-04:
         name:
           en: Official Birthday of His Majesty King Tupou VI
-        id: 9ffb8369-9b61-4fe2-bb80-8fc4c9b61aab
+        id: f9388b98-ebaa-4b84-8440-1bbefee55070
       09-17 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday:
         name:
           en: Birthday of His Royal Highness The Crown Prince Tupotoʻa-ʻUlukalala
-        id: fa9aa9b8-b490-4463-94ab-ff7cad8a25a1
+        id: 21d6ff67-911d-4738-ad6e-ec2e59275731
       11-04 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday:
         _name: Constitution Day
         name:
           en: Constitutional Day
-        id: a3644f2a-2afe-4bf7-bc09-35cddad13edb
+        id: bcec341e-c238-473b-9b33-c16ac5cf4157
       12-04 if thursday,friday,saturday,sunday then next monday and if tuesday then previous monday:
         name:
           en: Tupou I Day
-        id: 2b3753d8-14b7-413b-9c84-58f577bc9730
+        id: c9662f2f-8bbe-4700-9422-15a113ef5b93
       12-25:
         _name: 12-25
-        id: 857d3b1d-35d9-4642-b657-e9d0eff74bc6
+        id: ac04967c-1058-4ca8-abf4-12fa4b848c5c
       12-26:
         _name: 12-26
-        id: 6e32c86d-8f84-4d71-9302-7f657bf79c81
+        id: 8491ee3b-2909-4b89-b98e-f64fe672b10f

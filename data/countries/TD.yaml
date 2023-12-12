@@ -13,40 +13,40 @@ holidays:
     days:
       01-01 and if sunday then next monday:
         _name: 01-01
-        id: 5c8888aa-619d-4090-b4df-a7afff37586f
+        id: f1011952-57ea-4691-91f8-1b6c21ef697f
       05-01 and if sunday then next monday:
         _name: 05-01
-        id: 9f8fa4a9-a16f-4c08-9626-13af0f7c49ac
+        id: 851cb054-96bb-4691-bc97-53ddcd06250f
       08-11 and if sunday then next monday:
         name:
           fr: Fête Nationale (Indépendance)
           en: Independence Day
-        id: 2b7f184b-705a-4c10-b53b-69f6ab1bf5e0
+        id: 49557336-c74c-45f3-9831-b7d1bf228c99
       12-01 and if sunday then next monday:
         name:
           fr: Journée de la libération et de la démocratie
           en: Freedom and Democracy Day
-        id: c675c385-8f3f-434e-984f-b50ea5218e58
+        id: ef3fcb62-3deb-4476-9730-8d84e0ff9d30
       11-01:
         _name: 11-01
-        id: 434eece4-bf12-4f03-a5db-475a740828e5
+        id: 6ce86671-00d0-4455-b07b-3ec96af93e4f
       11-28:
         name:
           fr: Anniversaire de la Proclamation de la République
           en: Proclamation of the Republic
-        id: eae6dc3b-a0c1-47e0-850d-0dff3b273632
+        id: 71b43a54-3fa6-4361-97b4-ec9dffaadc93
       12-25:
         _name: 12-25
-        id: 91e7ea21-c1f6-4699-87f9-49852261947a
+        id: 4fdd98a2-c27f-456a-906c-2725279a108d
       easter 1:
         _name: easter 1
-        id: efb8e50c-dc15-489d-95ae-ae86b790c47d
+        id: 0c293b4b-cebd-4126-ae35-043e007a6fe2
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: ef1cdba0-d99e-4dc6-a0d9-7a5a565f35da
+        id: 06da5f12-f218-4681-ad41-108868dc27cb
       1 Shawwal:
         _name: 1 Shawwal
-        id: a4699a54-49dd-4de8-86d8-9151a282c379
+        id: 31b4b306-146c-49b1-871a-aa829d5cc6d7
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: c0b6587c-4a93-4869-a902-ae4fc08881c7
+        id: 441ddaf1-f6f5-4d4c-9bcc-ef13c4e37dec

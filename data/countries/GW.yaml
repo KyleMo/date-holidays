@@ -11,36 +11,36 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: dc3c7859-f736-469a-8281-e3b89f10f8d2
+        id: c320df3e-6bfc-451e-96e8-49615199ec8c
       01-20:
         name:
           pt: Dia dos heróis
           en: Heroes Day
-        id: 5ba168e7-8bb3-4e30-a5d7-ca8c635977a7
+        id: 0d4aecf8-f9eb-450f-9449-ce4151397033
       03-08:
         _name: 03-08
-        id: 817579c6-836b-4d4d-a180-d8ccfb4310f5
+        id: 5d08f23b-975a-45c5-867f-aeea9ced747a
       05-01:
         _name: 05-01
-        id: 95b2b6c0-afa7-4cec-8ab4-8146e7ff6ca2
+        id: 52edfac3-c97a-4387-baba-94f4911b3692
       08-03:
         name:
           pt: Pidjiguiti Day
-        id: f9ad98b3-c0a0-4789-8f98-e3ff4d580559
+        id: 80bedb45-4dc1-4adb-b4fa-b8a4cb868c56
       09-24:
         _name: Independence Day
-        id: ba15cf0e-010c-4acb-ae44-10f7a4b4f8a8
+        id: 3a74ae17-072d-4e82-8b23-16199d73db24
       11-14:
         name:
           pt: Dia do Movimento de Reajustamento
           en: Readjustment Movement Day
-        id: b8e6ad76-6d91-4849-9410-21a81023d557
+        id: 974c247b-964c-48b1-9530-d638a637df08
       12-25:
         _name: 12-25
-        id: 39ff57fa-8929-4e0b-bf8a-a7fcf4f17c07
+        id: fe547786-73af-4977-ac02-492aea18ef68
       1 Shawwal:
         _name: 1 Shawwal
-        id: 1a3f0665-5f10-4e50-8645-20487a7c036b
+        id: ac9ae105-b903-4632-9efa-c78f7da25b16
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: ac8e7dcb-7717-44b6-b70b-f62ad155b573
+        id: 605404b6-5dc6-4a8c-bad9-3900ec937077

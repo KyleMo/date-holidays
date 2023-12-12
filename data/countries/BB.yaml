@@ -10,55 +10,55 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 68cc23fd-f2e4-4f8d-a809-5444231c9db3
+        id: 2d6abec9-0ce5-47f1-a136-8ad4157f09dc
       01-21:
         name:
           en: Errol Barrow Day
-        id: e8aed76c-eb5d-4d52-b4a8-c70170d11576
+        id: 383231de-ba4e-46df-a2e0-8f7db52697fd
       easter -2:
         _name: easter -2
-        id: fc33cffb-57a8-4ddf-b56c-fd0d1a266c8f
+        id: 82e20d02-a48c-41ff-9899-65e26e225ed5
       easter:
         _name: easter
         type: observance
-        id: 6bb92b24-bb40-4e93-92c1-0e41f6b8fedd
+        id: c89b7b9e-a2d5-4ab8-a87c-f8f7e2c5f9eb
       easter 1:
         _name: easter 1
-        id: 0b082bfd-1791-40f2-91ea-f0b8c91c4c5d
+        id: 076662bb-2595-4c3a-ba4f-4961558b4fe7
       04-28:
         name:
           en: National Heroes Day
-        id: 939b19e8-664a-49e1-b677-d4b8e1faccc5
+        id: 4379885e-7c8e-45de-ab86-b34068b2520e
       05-01 if sunday then next monday:
         name:
           en: May Day
-        id: 05473e0f-f571-4207-8209-705bf5cdf383
+        id: 92c1fbcc-6695-49e2-96d7-39959925e1cb
       easter 49:
         _name: easter 49
-        id: 7fcfae47-737f-4281-92e6-134d24597164
+        id: 16dc2e32-7d12-486d-917e-e8e341fdb93d
       easter 50:
         _name: easter 50
-        id: 3b784720-ed5e-4e85-b09c-690c1aa7afd5
+        id: 4026a0f8-c713-432c-a5aa-839a9ec691f2
       08-01:
         name:
           en: Emancipation Day
-        id: 96ca6bc2-4df4-4785-931f-570dcd7ea2b4
+        id: c72a72e1-04cb-4409-944a-d5164c4db23f
       1st monday in August:
         name:
           en: Kadooment Day
-        id: 93090a9b-c33f-40ff-90f7-672ab0e34b85
+        id: 176a94a5-dc09-4cfe-98bc-a79d5ff47ccf
       11-30:
         _name: Independence Day
-        id: 6aaab91d-a737-4b18-a539-80a9cf44b7ea
+        id: 422755eb-6906-434f-a4e2-9edd08d79e57
       12-25:
         _name: 12-25
-        id: 9a4a2b9b-c53e-4df9-9339-f8d4d74f594d
+        id: afbfa3c4-866a-4d42-9ade-5a4fb5f53985
       substitutes 12-25 if sunday then next tuesday:
         _name: Public Holiday
-        id: adb2bb1f-3d6c-4cff-b82c-c6700f714513
+        id: d1041d08-1559-4324-8429-c002ac70bc0c
       12-26:
         _name: 12-26
-        id: d9d46754-f3e7-4757-bfed-0ec5a87e2ed2
+        id: 5d3c25a9-adb5-4df1-b878-05f6b54f77d0
       substitutes 12-26 if sunday then next monday:
         _name: Public Holiday
-        id: 11576561-9a47-4828-bf63-7ac5b457976a
+        id: 8e3966df-47dd-4bea-b4a1-36800f310426

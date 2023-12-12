@@ -12,70 +12,70 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 0ab52d7e-00aa-4e67-a28f-d482c0f0f21f
+        id: c55be18f-c66a-41a7-a870-dabe0f5b5554
       01-06:
         _name: 01-06
-        id: 2e93e67a-c41e-4917-a815-00ece4da18c7
+        id: ecdb40d1-ae8d-4b21-b7df-b618c32222c5
       easter -2 prior to 2019:
         _name: easter -2
         type: optional
-        id: 3171fac5-742c-43af-8d19-454404fc4d81
+        id: 7cc93e07-db1d-42e0-a0ad-1470dba61be1
       easter -1:
         _name: easter -1
         type: observance
-        id: 301d3c8b-6e8e-409b-b43a-255163bc0d8f
+        id: 662fa3d8-e466-4a6b-a6f1-632bebb781c0
       easter:
         _name: easter
-        id: 44cc5a3a-cd1e-45d2-b420-6a057c095408
+        id: bb35ea78-d704-449b-a3d9-72173468167d
       easter 1:
         _name: easter 1
-        id: de83b30c-0f04-4e34-88a4-6783cb625e07
+        id: 0bec222d-bb58-49ce-9340-1f2aa7e725b7
       05-01:
         name:
           de-at: Staatsfeiertag
-        id: bd1689d5-9559-4544-90a2-f373acab7b7c
+        id: 3a758786-a1e0-4c8b-accb-1bfe5b3db5bb
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: c25e1d27-da2c-487a-af71-00bf1d35a74a
+        id: f7eaf5b8-97df-4b5d-b2b1-fdcd312b674b
       easter 39:
         _name: easter 39
-        id: d83e88de-0833-4856-9bd7-fdbe89eb7e47
+        id: 353c2149-7e01-4548-a4f0-e2547b4d7dda
       easter 49:
         _name: easter 49
-        id: 6eb5ddd3-9338-4065-bc03-0fe55af0f0e0
+        id: 47095cc2-d63a-4bac-9b82-dd091ae70870
       easter 50:
         _name: easter 50
-        id: 95434bf8-b55a-4443-9a30-3bc1172302fd
+        id: 0a1c9d5d-6043-42bb-85d3-55498eb66cee
       easter 60:
         _name: easter 60
-        id: 56305c7d-ed5d-4ad7-b0ee-1f55cfeb5b62
+        id: 52b76379-5054-4cac-a8e4-ddcfd26257cb
       08-15:
         _name: 08-15
-        id: 228ea61b-d1ba-42c8-9375-7b03ba232dcb
+        id: 5a9566b5-142d-49e6-8c0c-60700746b864
       10-26:
         _name: National Holiday
-        id: 13b01ea9-fc8b-47d6-b7ba-cae01917eab0
+        id: 32bc90c7-4161-4d91-936c-e343789fb71b
       11-01:
         _name: 11-01
-        id: 61dbbfac-b8e7-4721-a587-dad2f0f26d2a
+        id: c04c704d-dfb8-4f77-8d47-8619396e0653
       12-08:
         _name: 12-08
-        id: 70546453-8e2f-402a-b5ae-b0c59a0b5864
+        id: 005b66d8-32e8-4d10-aa7a-ecf46c976d64
       12-24 14:00 if sunday then 00:00:
         _name: 12-24
         type: bank
-        id: ac42912c-02db-4ffb-832b-332d9296cfb3
+        id: b615b6cd-500f-4512-a913-e5921f6b3e56
       12-25:
         _name: 12-25
-        id: 562b0272-fee1-491e-8197-07143686ca1e
+        id: ec21068a-e535-42ed-ae64-25f44fe27b41
       12-26:
         _name: 12-26
-        id: 69ee1f7e-1f0a-411a-86df-f35c6b74af5e
+        id: 19b7206a-9767-41f2-8caf-d94fcb1e5e76
       12-31 14:00 if sunday then 00:00:
         _name: 12-31
         type: bank
-        id: 2285f3a8-21f6-4ce9-88b2-01696ae5bb68
+        id: 01d24881-4273-4170-a7db-1b8394cea82d
     states:
       '1':
         name: Burgenland
@@ -83,7 +83,7 @@ holidays:
           11-11:
             name:
               de-at: Martinstag
-            id: b245e5be-164f-4ded-8080-ad2456911625
+            id: 788bbda3-ce6c-48c9-a312-9896b69816dc
       '2':
         names:
           de: Kärnten
@@ -91,11 +91,11 @@ holidays:
         days:
           03-19:
             _name: 03-19
-            id: 6e001ff0-5ad3-4bcb-afce-d9124a8dfd98
+            id: 301b30bf-bfbf-4421-bd7b-102c22b98df6
           10-10:
             name:
               de-at: Tag der Volksabstimmung
-            id: c01a2888-9918-4e66-9e02-606e6b8d486c
+            id: a36b3708-1f1f-48dc-bc50-6c7de2337f83
       '3':
         names:
           de: Niederösterreich
@@ -106,7 +106,7 @@ holidays:
               de-at: Leopoldi-Tag
             type: optional
             note: In Niederösterreich haben nur Schüler und Beamten frei
-            id: 9bc88eb3-f69a-42c3-b684-ff9903dbe891
+            id: 4394668a-7959-44f5-8b71-34d01209f9b6
       '4':
         names:
           de: Oberösterreich
@@ -115,7 +115,7 @@ holidays:
           05-04:
             name:
               de-at: Florian
-            id: 2184490d-48dc-48c8-b492-15a50d4b4884
+            id: 8d0f653c-d717-4eba-936c-96937d6e6b30
       '5':
         names:
           de: Land Salzburg
@@ -124,7 +124,7 @@ holidays:
           09-24:
             name:
               de-at: Rupert
-            id: 81fc438e-1f10-4072-9a57-5bb78a2bacbc
+            id: e48bc966-dc62-4b3a-8fdc-46c048f06f69
       '6':
         names:
           de: Steiermark
@@ -132,7 +132,7 @@ holidays:
         days:
           03-19:
             _name: 03-19
-            id: 2d857904-3eb2-46cd-b86a-c253fd8211c0
+            id: 5772b097-313e-40f6-b613-70ae4ddec6a9
       '7':
         names:
           de: Tirol
@@ -140,13 +140,13 @@ holidays:
         days:
           03-19:
             _name: 03-19
-            id: d34a6561-2eed-42a4-af5d-fa346ce281a0
+            id: 1cd5273d-1d47-476e-8902-eb389a56df54
       '8':
         name: Vorarlberg
         days:
           03-19:
             _name: 03-19
-            id: 31976a1c-166c-4b3d-95ac-742dfef73f77
+            id: ff4d7b42-594e-4bc0-ad94-52d9f841abb1
       '9':
         names:
           de: Wien
@@ -157,4 +157,4 @@ holidays:
               de-at: Leopoldi-Tag
             type: optional
             note: In Wien haben nur Schüler frei
-            id: ced94aee-2fbc-4b08-a3cc-7fe5e62e8dfa
+            id: 7cf6fc26-3ac6-428b-8729-49177ca7cd91

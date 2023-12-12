@@ -14,17 +14,17 @@ holidays:
         name:
           es: Día de Canarias
           en: Canary Islands Day
-        id: 04beec44-382f-41bb-b07d-a8c7a1d7fb1c
+        id: 75b5f1a3-3586-4deb-b642-4ea32587d29d
       substitutes 05-30 if Sunday then next Monday:
         substitute: true
         name:
           es: Día de Canarias
           en: Canary Islands Day
-        id: 971767b7-ca3e-4ca8-93df-175abc88b9b7
+        id: 4ea9baae-2e5f-462c-831e-e9d0a64a1b82
       substitutes 08-15 if Sunday then next Monday:
         substitute: true
         _name: 08-15
-        id: e744c271-1ded-415c-b51a-cba202cc31e8
+        id: f6c32167-c489-4dc7-abfa-28a10cf3a5dc
     regions:
       EH:
         names:

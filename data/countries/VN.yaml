@@ -12,150 +12,150 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: b43a4e16-3532-4f94-92db-f263753d9ce6
+        id: bb4e8fe0-00df-4a7d-b9f0-4d25b24b900a
       vietnamese 1-0-1:
         name:
           en: Vietnamese New Year
           vi: Tết Nguyên Đán
-        id: fafd4499-497f-45c1-bb77-7faeba8b1374
+        id: 264ad4df-b677-443c-8275-96319cb140a3
       1 day before vietnamese 1-0-1 P5D:
         name:
           en: Vietnamese New Year Holidays
           vi: Giao thừa Tết Nguyên Đán
-        id: 504b6002-2b49-457d-8c88-652499620b59
+        id: 24ec93d3-bf0b-491b-890f-484ec0ef1d5d
       vietnamese 3-0-10:
         name:
           en: Hung Kings Commemorations
           vi: Giỗ tổ Hùng Vương
-        id: 411d07cb-24b6-45d5-813e-ef31a8b86192
+        id: e3c69c0b-6757-4a00-bfd6-013994088f92
       04-30:
         name:
           en: Day of liberating the South for national reunification
           vi: Ngày Giải phóng miền Nam
-        id: 5a101b2f-c60c-4688-b559-79bea884ee65
+        id: 7eab4568-9aa4-4dfd-99d1-eced6ce1af4a
       05-01:
         _name: 05-01
-        id: ae3000db-3b45-4289-9a62-7355759e64f3
+        id: 66dc535d-cce0-4b6d-9476-4a204983e505
       09-02:
         name:
           en: National Day
           vi: Quốc khánh
-        id: 2b8025b0-83cb-41ad-a264-f74c9506bac1
+        id: 9ed332a9-cb24-43fe-b7a9-dc54805c51a7
       02-03:
         name:
           en: Communist Party of Viet Nam Foundation Anniversary
           vi: Ngày thành lập Đảng
         type: observance
-        id: ca443c45-508f-49d2-ae21-d32ee937b7f8
+        id: 005e1ea4-ffe7-4070-8d88-a3bb5ff70872
       03-08:
         _name: 03-08
         type: observance
-        id: 4eab0b2a-15e4-4d78-8ea0-812d9579cb09
+        id: 9a17034d-22c2-4862-a5a7-59db9452b305
       04-21:
         name:
           en: Vietnam Book Day
           vi: Ngày Sách Việt Nam
         type: observance
-        id: 049eb3d9-de52-4d7a-87ab-76a86914e872
+        id: a2cebb8a-0a26-4761-bb6b-491fb5c040d2
       05-07:
         name:
           en: Dien Bien Phu Victory Day
           vi: Ngày Chiến thắng Điện Biện Phủ
         type: observance
-        id: f83c7482-9ada-4770-9c85-7740f3d3fa1e
+        id: e891cfb5-747d-4288-8bad-1434547c0b7a
       05-19:
         name:
           en: President Ho Chi Minh's Birthday
           vi: Ngày sinh Chủ tịch Hồ Chí Minh
         type: observance
-        id: 60ec931a-0890-46dd-939a-7eafc6f133ef
+        id: c3659d27-e896-42f2-9d55-e04a0e6fce83
       06-01:
         name:
           en: International Children's Day
           vi: Ngày quốc tế Thiếu nhi
         type: observance
-        id: cdd42a48-d627-4350-b45c-34771cbd82cb
+        id: 1f44e9de-a300-4b88-9845-e8f1f86d7427
       06-28:
         name:
           en: Vietnamese Family Day
           vi: Ngày Gia đình Việt Nam
         type: observance
-        id: b6a89719-cb41-4095-8226-128b9e371289
+        id: fd76f1c6-676e-44d5-86b0-0c81b5eea571
       07-27:
         name:
           en: Remembrance Day
           vi: Ngày Thương Binh Liệt Sĩ
         type: observance
-        id: f066faae-c983-404b-9e94-a8e8c4eb8aa0
+        id: 590706e1-86b6-4f01-8fe0-93b17808d682
       08-19:
         name:
           en: August Revolution Commemoration Day
           vi: Ngày cách mạng Tháng Tám
         type: observance
-        id: 0d26cfe6-f737-447f-893f-6e400fac3c4b
+        id: 9f188246-230e-4380-9ac2-0e0f1bf7e35b
       10-10:
         name:
           en: Capital Liberation Day
           vi: Ngày giải phóng Thủ Đô
         type: observance
-        id: da16cc36-b04b-4f6f-9d74-b75a67f5888c
+        id: 01484915-b736-4139-876f-31db0e9426d1
       10-20:
         name:
           en: Vietnamese Women's Day
           vi: Ngày Phụ nữ Việt Nam
         type: observance
-        id: a53c4c0d-914a-49c2-acf2-4486bbe712bc
+        id: 3b6c8075-b7a0-4169-913a-69583ffbbd0e
       11-20:
         name:
           en: Vietnamese Teacher's Day
           vi: Ngày Nhà giáo Việt Nam
         type: observance
-        id: 62a45a19-3260-4400-a835-72a8d2776f16
+        id: b11f434a-4a52-4bfb-ac7b-e11aacf8143c
       12-22:
         name:
           en: National Defence Day
           vi: Ngày hội Quốc phòng Toàn dân
         type: observance
-        id: cf3b2ec2-860b-4155-b5df-14047221a63c
+        id: 84f5701a-91d4-49d8-bf68-1917a52a74ce
       vietnamese 1-0-5:
         name:
           en: Victory of Ngọc Hồi-Đống Đa
           vi: Chiến thắng Ngọc Hồi - Đống Đa
         type: observance
-        id: 0380bc41-8400-4a05-a574-3fb57491d179
+        id: cfb0069e-59e6-4fca-bfff-a87f8d82a26d
       vietnamese 1-0-15:
         name:
           en: Lantern Festival
           vi: Tết Nguyên Tiêu
         type: observance
-        id: 9e2531b4-fe55-47a4-97e3-7893bcfa862f
+        id: e37c6733-afdb-4c01-8275-bca341835457
       vietnamese 4-0-15:
         name:
           en: Buddha's Birthday
           vi: Lễ Phật đản
         type: observance
-        id: 29bfccdd-ad0c-491f-a989-370662e0eb84
+        id: a76d509d-a502-4f08-889e-a058c94b9e48
       vietnamese 5-0-5:
         name:
           en: Mid-year Festival
           vi: Tết Đoan ngọ
         type: observance
-        id: 15f256f7-37ed-4701-acbb-3e5f319863d7
+        id: 101e2a7c-d304-470d-872c-f70ed5f8fb35
       vietnamese 7-0-15:
         name:
           en: Ghost Festival
           vi: Rằm Tháng Bảy, Vu Lan
         type: observance
-        id: 9bf14d9a-05e4-4844-9017-2cb3a92b7a1a
+        id: 014b8309-81e7-43f7-9d1c-47bf1a9b99ab
       vietnamese 8-0-15:
         name:
           en: Mid-Autumn Festival
           vi: Tết Trung thu
         type: observance
-        id: d3f941bb-5e83-4e96-af4a-3c6713700c8f
+        id: 7b77da73-b718-4ed5-9ca0-bb5d3a2fa055
       vietnamese 12-0-23:
         name:
           en: Kitchen guardians
           vi: Ông Táo chầu trời
         type: observance
-        id: 5fa51397-a3d8-4f89-9eaa-e482220a0125
+        id: 51810952-c6e8-4616-9876-0142e405151d

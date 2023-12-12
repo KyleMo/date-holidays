@@ -12,67 +12,67 @@ holidays:
       01-01:
         _name: 01-01
         type: observance
-        id: 4e0a2242-fd09-4a50-8370-dd660a001b53
+        id: 96b6618d-3c68-493e-8657-47f68c1d3bb4
       01-16:
         name:
           es: Firma de los Acuerdos de Paz
         type: observance
-        id: 96efb7d0-2635-414a-bbe2-d02f40ce490a
+        id: be71d6b0-5d64-4831-b339-c0915cb43be3
       03-08:
         name:
           es: Día de la Mujer
         type: observance
-        id: 812af7aa-5617-449e-a32c-b4edab66a960
+        id: 27952d21-e617-4af5-8a58-3817392d4f28
       easter -3:
         _name: easter -3
-        id: 08ab5932-524a-46d4-b297-b17b70757f46
+        id: 9f6ea37b-01e7-4e52-93ec-37cf9ef9a193
       easter -2:
         _name: easter -2
-        id: 60041423-1716-4605-a7ab-f1e2cd91b9c5
+        id: 4b664c53-0f56-4e29-887b-9ec881658dcf
       easter -1:
         _name: easter -1
-        id: fd87e783-42d1-4204-96fb-ddc4ece6cd7c
+        id: 13488059-e9f4-4841-b849-8613067466b5
       easter:
         _name: easter
         type: observance
-        id: 8fddebef-0d90-4b70-92ee-e9a69ec03aeb
+        id: d9a3c22c-2f09-44df-9f13-74082643ff37
       05-01:
         _name: 05-01
-        id: 12be727a-2d4e-464f-bbfa-54a142bfa9a7
+        id: debb0760-8750-4c70-a116-eeeaa6edc73b
       05-07:
         name:
           en: Soldier's Day
           es: Día del Soldado
         type: observance
-        id: 93c89742-685e-45ae-a542-3e7d7a8e3a8a
+        id: dff6167a-e52a-4e24-8bbc-d03fe903c8e0
       05-10:
         _name: Mothers Day
         type: optional
         note: Public Offices only
-        id: 2c664c2b-9998-4a03-9025-21b25f4d8cf8
+        id: fc3a44d2-7d7c-4fdd-a540-a9a3ba9f1bcc
       06-17:
         _name: Fathers Day
         type: observance
-        id: 8fbc8383-49ac-4495-84f7-a04a60f5f02c
+        id: 444e612a-157f-4fb1-8d34-2c5b211e478f
       06-22:
         name:
           es: Día del Maestro
         type: optional
         note: Dayoff for teachers only
-        id: ea28eb28-331d-4ada-98b3-f7e2bf77f0a4
+        id: 15f60860-e625-43e3-81e6-06b12b8164cf
       08-06:
         name:
           es: Celebración del Divino Salvador del Mundo
-        id: 787bc086-7133-4f69-898d-f77320081c21
+        id: d260aa71-a4dc-422a-aacc-3048b6cc5879
       09-15:
         _name: Independence Day
-        id: cc66a819-e6a5-40eb-bb59-0065d9e15ca6
+        id: 5a2f7531-59d1-410a-844b-aceeaaef7fbd
       11-02:
         _name: 11-02
-        id: aa009553-37d7-4189-a3bf-03d1e911cd55
+        id: 5747f049-f9e2-43f9-a4db-b99c9c4df6c5
       12-25:
         _name: 12-25
-        id: aac70748-d3b9-4465-9caf-9d79d969b248
+        id: f6e11f20-9f37-4432-9f81-09f61106b102
     regions:
       SS:
         name: San Salvador

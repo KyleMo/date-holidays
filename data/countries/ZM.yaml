@@ -11,52 +11,52 @@ holidays:
       01-01 and if sunday then next monday:
         substitute: true
         _name: 01-01
-        id: 11d117ec-6326-4eb8-9d92-ca1c11e04615
+        id: 05481c88-b33b-49de-833c-3191cdba7102
       03-09:
         name:
           en: Women’s Day
-        id: 0d8d3f5d-ab48-4320-aa89-03dda45eef6b
+        id: 83ffffe1-bae5-44d9-9257-310162db8ae9
       03-12 and if sunday then next monday:
         substitute: true
         name:
           en: Youth Day
-        id: f166378a-ad3b-4e82-b729-bcedecb870ad
+        id: 50b7f09f-fea2-4c88-a902-aea61e73e9f9
       easter -2:
         _name: easter -2
-        id: 755bc535-e89a-4d7d-a2a5-99dc2ff19846
+        id: bd0c2673-3ace-425f-beb4-07b2c1ce4e4f
       easter 1:
         _name: easter 1
-        id: fda75ca7-25ef-420d-856d-fdc1514e5d97
+        id: 6c3a485c-284c-4ccb-a75b-0e175f9f7139
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
-        id: 62e73b66-209c-43d5-9572-a20ba462bebd
+        id: 5a6f1dec-00b9-438d-8ca9-5a04505eb461
       05-25 and if sunday then next monday:
         substitute: true
         name:
           en: African Freedom Day
-        id: 4b992cd1-5333-4d6f-967f-a43d0b84d2c7
+        id: c0c13e5a-213f-4651-9e9f-323c83ce6c7f
       1st monday in July:
         name:
           en: Heroes' Day
-        id: 57812d85-e223-4798-876a-4658a068d111
+        id: d25b8e7b-02e5-4fd8-92d9-56ea00e3c877
       tuesday after 1st monday in July:
         name:
           en: Unity Day
-        id: 7cb9d7db-f1e0-4eeb-8817-0dbc4aecdc9f
+        id: 2749a2c3-cca9-41d1-8340-420552814803
       1st monday in August:
         name:
           en: Farmers' Day
-        id: e04830d8-1313-4e58-acf4-212fbaf7b7f0
+        id: afdc5bda-8132-4864-aa0d-5b338347502c
       '2015-10-18':
         name:
           en: National day of Prayers
-        id: 8fea89d7-dc6f-4cd3-bfdc-4fee1eecf5ed
+        id: bc494b08-b7e0-4e53-9736-5c0f7ef25538
       10-24 and if sunday then next monday:
         substitute: true
         _name: Independence Day
-        id: 95cf8e11-7049-49e4-bd1b-2dba4c737083
+        id: c9dbc485-3640-48ae-bcee-3ad11ee44fe9
       12-25 and if sunday then next monday:
         substitute: true
         _name: 12-25
-        id: b2ea10e7-551f-424b-96d4-681bab93eb76
+        id: 38f15593-3024-4b33-95af-c99925251155

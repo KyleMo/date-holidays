@@ -10,32 +10,32 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: b633a3da-fa46-4101-af0f-618bcceaafc4
+        id: 6a9b88e0-7791-404f-8020-3113dc720c97
       Monday before 03-08:
         name:
           en: The Anniversary of the Birth of Hamilton Lavity Stoutt
-        id: e98a2e44-436b-4eec-9b1a-bdd06db1ee6c
+        id: 8e0c2624-850d-4fb9-abb3-87ad29b3cc29
       2nd Monday in March:
         name:
           en: Commonwealth Day
-        id: ee92cf1c-b366-429b-ab9b-2d6f4086dca4
+        id: 4f188543-5833-4fb5-90d2-ee10f878724f
       easter -2:
         _name: easter -2
-        id: 2461db25-0c5a-4286-8fd2-099438db3567
+        id: 10791fa7-0ac9-4b88-9123-d49f8a86618e
       easter:
         _name: easter
         type: observance
-        id: c71d36ef-4f30-4e8e-9c23-aab4c66b154e
+        id: 40fd8a9f-b2ad-4c4f-9efa-8f3d4297620c
       easter 1:
         _name: easter 1
-        id: aefab302-7f09-4840-94f5-fc8eb2e0f46a
+        id: f911cea2-765b-4ba4-a0f6-27ceaa05b89b
       easter 49:
         _name: easter 49
         type: observance
-        id: 4d05a551-4a0d-496e-97d7-933096d75632
+        id: b58910ca-8d4c-488f-a54b-c55a58fe9994
       easter 50:
         _name: easter 50
-        id: 9b679001-f74b-41f8-8728-2cb4a576191b
+        id: e73f9214-1a96-417d-bb0b-c7af720cb63b
       2nd Saturday after 06-02 prior to 2020:
         name:
           en: Sovereign’s Birthday
@@ -45,15 +45,15 @@ holidays:
         enable:
           - '2017-06-17'
           - '2019-06-07'
-        id: d515d3ec-b469-4136-ac6b-8a526bc10258
+        id: 341724ff-073a-4e30-b443-72ac8283ea05
       2nd Friday after 06-02 since 2020:
         name:
           en: Sovereign’s Birthday
-        id: 48863ae7-41c2-4080-a319-99e301ac29ca
+        id: bfd7a37f-b59d-45ca-b04c-bbbeb67f2c6f
       07-01 if Sunday,Thursday then next Monday if Saturday then previous Friday if Tuesday,Wednesday then previous Monday:
         name:
           en: Virgin Islands Day
-        id: d22e1edb-6e0a-493f-a40f-4384f7af79b5
+        id: 6c5252ac-32af-4d44-86aa-8ce6051dbf2d
       10-21 if Sunday then next Monday if Saturday then previous Friday if Tuesday,Wednesday then previous Monday if Thursday then next Friday:
         name:
           en: St. Ursula’s Day
@@ -64,32 +64,32 @@ holidays:
         enable:
           - '2016-10-19'
           - '2020-10-23'
-        id: a86c2ee6-d811-409c-8f9d-3217b9f17f8c
+        id: 15ed55fc-598b-4817-b9b7-604c9ac135fc
       1st Monday in August:
         name:
           en: Emancipation Monday
-        id: 8e274a76-1571-4076-880b-b4925d6d58c3
+        id: ee1a0d93-9456-47d2-aba9-e9493ac9c721
       Tuesday after 1st Monday in August:
         name:
           en: Emancipation Tuesday
-        id: d6e6ead8-1b2b-4585-941b-7a6a9defa61e
+        id: a8896199-93e5-4b96-8ed4-d34faf6cd86e
       Wednesday after 1st Monday in August:
         name:
           en: Emancipation Wednesday
-        id: 29354abd-0e17-4479-a677-8ef58b64f5a3
+        id: 3d82735e-8c67-4bdf-a906-9e73e372012b
       '2021-10-18':
         name:
           en: Heroes’ and Forefathers Day
-        id: 421f3625-731a-48be-9c5d-2aeece8ccc63
+        id: e41aa4df-be56-456e-8684-e6390b223588
       '2021-11-08':
         name:
           en: Commemoration of the Great March of 1949
-        id: 2d9f0b57-15b6-4ac1-b617-e8ada785f74f
+        id: 02a5aabc-b0e6-4e99-82f6-1e598f32334b
       12-25 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-25
-        id: 22ac0a75-7107-4882-9e82-5964d2f9bcd4
+        id: 8b4e0780-56e7-4e76-b435-f7a8e01a49e8
       12-26 and if Saturday then next Monday if Sunday then next Tuesday:
         substitute: true
         _name: 12-26
-        id: c88a9563-9d8b-49bb-8e5b-9b47187a4fc0
+        id: 39ec8460-ad78-4c7d-8857-c4c4ea6eb6c3

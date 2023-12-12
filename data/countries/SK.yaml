@@ -13,64 +13,64 @@ holidays:
         _name: 01-01
         name:
           sk: Deň vzniku Slovenskej republiky
-        id: b97d9857-cae7-4c75-b17a-91ad1dbe16f1
+        id: da1c9e97-9126-48b3-8fb9-7a18987323a2
       01-06:
         _name: 01-06
-        id: a92638e1-ab6c-437e-aa67-9c4df3640ecc
+        id: 7a96b1fa-1a18-42bf-8a6e-4d763c05c81e
       easter -2:
         _name: easter -2
-        id: 7fd7abc2-094e-4916-8992-37e4e690eed2
+        id: d6145316-5034-4fd9-b915-6a2ee7747413
       easter:
         _name: easter
         type: observance
-        id: 14c5bb9f-b4d7-48ac-af12-c819d9d57d09
+        id: 067ee9fa-c8c2-40b6-a062-b851437ac2bb
       easter 1:
         _name: easter 1
-        id: 34dbdbf5-0b62-4555-9059-8411a8fdfe71
+        id: 930c4242-a90a-488a-b32e-9924df1d44f3
       05-01:
         _name: 05-01
-        id: 85493837-ec76-4a5c-8aa8-01355d4dedaa
+        id: 293d7617-19a2-4153-b389-b1628bdcd0ef
       05-08:
         name:
           sk: Deň víťazstva nad fašizmom
           en: Day of victory over fascism
-        id: 2aee07a0-f45c-4c71-bab8-d01e0fdff8b6
+        id: 306cb0da-4a5d-40aa-9014-3c76f958fe37
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: c5b4047b-c14e-4455-a34b-cc5a65018015
+        id: aefd9a5b-55ea-4713-b2e0-a7e4fb19ade5
       07-05:
         name:
           sk: Sviatok svätého Cyrila a Metoda
           en: Saints Cyril and Methodius Day
-        id: 0ec2803b-5cb8-4fb9-b083-c6596ee6090c
+        id: a2533190-e714-4c49-9e99-c7ecc202e10f
       08-29:
         name:
           sk: Výročie Slovenského národného povstania
           en: Slovak National Uprising anniversary
-        id: f8d5a9ad-2c6d-4028-8045-68e9801fb961
+        id: 878873ec-bf1b-4fab-830f-f8a925a1fe8a
       09-01:
         _name: Constitution Day
-        id: 32d6b43c-6b01-4ecd-b0f2-747760ae0f01
+        id: fd2bcf3f-ce48-4960-a208-26ee5e1d0bc0
       09-15:
         name:
           sk: Sviatok Panny Márie Sedembolestnej
           en: Day of Our Lady of the Seven Sorrows
-        id: 419e6946-f326-4921-9fb1-4849408f0957
+        id: 89641bc0-34d0-49a7-8082-a134d9311e5d
       11-01:
         _name: 11-01
-        id: 6b68fa5e-b339-46f4-affc-aff488348263
+        id: d839cbd1-acc2-4947-9e23-30728dbe7b84
       11-17:
         name:
           sk: Deň boja za slobodu a demokraciu
           en: Struggle for Freedom and Democracy Day
-        id: 74422f22-a1d8-40d9-ad1c-78b093caa222
+        id: 43e0ec42-ba99-475f-9495-b5cb38b9c3ba
       12-24:
         _name: 12-24
-        id: fb7e21f1-6764-4f68-944f-b30b47001c4a
+        id: e549cd46-433e-44d1-894d-2a8ab83c46d0
       12-25:
         _name: 12-25
-        id: a4c44279-8131-49eb-9c8c-d34448e63a7e
+        id: 6c083b38-a406-49cc-ac40-41f8e9d33355
       12-26:
         _name: 12-26
-        id: 71ed0695-177b-4a08-8a84-14b33f881417
+        id: fcd64a73-52cf-48b9-83dd-4c03ea7ff02c

@@ -16,35 +16,35 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: c56f4f7a-4306-492d-ad19-ad435ccb3dbb
+        id: 8a85a22a-9807-4e95-933c-04988e3504d8
       easter -3:
         _name: easter -3
         type: observance
-        id: 48dcaf81-a5a1-4758-8ed6-da6a50475274
+        id: 1ea34636-090d-44dd-a258-c09c5a33e1a0
       easter -2:
         _name: easter -2
-        id: 2c662262-0d98-4475-b090-589dae14631e
+        id: 50dc598c-0ee3-4736-90bd-0ac93009b2fa
       easter:
         _name: easter
-        id: ae402922-72fc-4e2f-849a-e3c80b029bc8
+        id: f178fc03-3c4d-48df-a927-3c27a0e9bc2e
       easter 1:
         _name: easter 1
-        id: fbf1bc9e-446d-4d74-bfc0-c4f5e2e875c8
+        id: 84a259af-227d-4486-8d47-a5d31dfd0407
       easter 39:
         _name: easter 39
         name:
           de: Auffahrt
-        id: ed4c37d4-a48e-4e91-a9eb-e0c3853be491
+        id: 60f6eca6-3f25-4d94-af74-5ad8128c47e3
       easter 49:
         _name: easter 49
-        id: 857ab769-4bc8-4738-a82a-a54e38541992
+        id: 81589fbe-693e-4465-a36e-a3e39566c32a
       easter 50:
         _name: easter 50
-        id: 7df3a2d7-43e1-4d0d-aa12-974f55bd5935
+        id: 1b8af002-4b02-4aa6-b1a1-f08e9e6635a0
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: 7dfafb7c-c03a-470d-8131-bd1280577602
+        id: ebe3bd91-4718-46f1-9654-5b8d8388a8fb
       1st sunday in June:
         name:
           de: Vätertag
@@ -52,31 +52,31 @@ holidays:
         type: observance
         active:
           - from: '2009-01-01'
-        id: 76472d94-021d-441a-8a3d-093fede71adc
+        id: 8a1df296-582e-474c-961f-9e97436b4dd8
       08-01:
         name:
           de: Bundesfeiertag
           fr: Fête nationale
           it: Giorno festivo federale
-        id: 75fd357f-1a92-452d-bfc5-3963bd1212f7
+        id: fef19dc8-862c-4066-babb-8c2ae232f883
       3rd sunday after 09-01:
         name:
           de: Eidg. Dank-, Buss- und Bettag
           fr: Jeûne fédéral
           it: Digiuno federale
           en: Federal Day of Thanksgiving, Repentance and Prayer
-        id: 9ea01fd8-0798-40ba-9293-8739e3016fd8
+        id: 1470d909-8d3d-4408-9961-f523218c0dee
       12-25:
         _name: 12-25
         name:
           de: Weihnachtstag
-        id: def6c39d-05be-4507-b84d-f4703ad84c0e
+        id: fdf39fc4-396d-43a1-89c0-728742919fd8
       12-26:
         _name: 12-26
         name:
           de: Stephanstag
           fr: Saint-Etienne
-        id: e59bc8a9-a7e8-45d1-81ee-847d50c277bd
+        id: 1b05e3b1-6caf-49cd-bcd5-511dd5656bac
     states:
       ZH:
         names:
@@ -90,18 +90,18 @@ holidays:
               de: Berchtoldstag
               fr: Saint-Berthold
             type: optional
-            id: 193522fd-ca39-480f-a225-aa31e55cf45e
+            id: d1d7f438-b066-4bb3-8801-f301f94b2cf7
           05-01:
             _name: 05-01
-            id: a5f5b3ce-069a-4ca1-88f5-8d8991ef3795
+            id: eaadf6f9-a3b5-4cc7-b5e5-3e465c1c2a8a
           easter 50:
             _name: easter 50
-            id: 1c745a08-8ac5-44e3-a35e-a434ddc34bd0
+            id: d01a0e86-8f0c-47dd-a21c-63e728c41e2c
           monday after 2nd saturday in September 13:00:
             name:
               de: Knabenschiessen
             type: optional
-            id: f5a0b71d-7246-408e-bf2d-ab2387fe0c89
+            id: a942c04f-1de9-4949-91b9-02baef06c2ae
       BE:
         names:
           de: Kanton Bern
@@ -113,7 +113,7 @@ holidays:
             name:
               de: Berchtoldstag
               fr: 2 janvier
-            id: 987f178e-2215-427b-a722-8ccafe4e8fb7
+            id: f7e45672-330a-4ed1-9b08-4327ba0ac780
       LU:
         names:
           de: Kanton Luzern
@@ -126,31 +126,31 @@ holidays:
               de: Berchtoldstag
               fr: Saint-Berthold
             type: optional
-            id: c62efb56-6ca5-45ba-a476-33c7b7365a7d
+            id: 38f52aa6-c939-4afe-9d00-09a236db53f8
           03-19:
             _name: 03-19
             type: observance
-            id: 2795679a-098f-4fd6-85fb-8ff585270739
+            id: 5595bdd8-6147-4650-a615-db5027d3629f
           easter 1:
             _name: easter 1
             type: optional
-            id: 062640f5-d452-4905-a707-91ebcb02f5dc
+            id: 047a840a-28f1-4819-bc38-bf31b5292952
           easter 50:
             _name: easter 50
             type: optional
-            id: 4e6ab5fd-cdbc-40a5-9323-d0107ed18513
+            id: cb81949f-9c79-4292-84dd-cda57fbc80d4
           easter 60:
             _name: easter 60
-            id: 34a5abfd-04b7-4fe7-a1c5-4df0d47554a9
+            id: 33b19397-d166-4740-88fe-00feb75818cb
           08-15:
             _name: 08-15
-            id: ecd2fc60-73d2-4bbc-ad68-03474d297c36
+            id: c93b5ad4-70ab-44fa-a3ad-e1c8dd5e29fe
           11-01:
             _name: 11-01
-            id: e567ccdb-e4a2-4626-a509-a269422115ff
+            id: d3da29fb-7403-4c34-8540-68b6d98ac8f4
           12-08:
             _name: 12-08
-            id: 522b9c92-99ef-488e-ab55-2e91df370b06
+            id: 6f4e35fe-7faa-4d4f-84ee-2e4dfe50e726
       UR:
         names:
           de: Kanton Uri
@@ -160,27 +160,27 @@ holidays:
         days:
           01-06:
             _name: 01-06
-            id: 945ffdeb-6b25-48ad-a325-582ec590536a
+            id: 02a76044-7835-4440-a36b-9273542f824e
           03-19:
             _name: 03-19
-            id: d3b8fd3b-9932-420f-8bfd-c2b28334b774
+            id: 7917be8b-2e03-4fed-9c2e-c90d32db2e53
           easter 60:
             _name: easter 60
-            id: 4af7b89f-cc0d-481b-b14a-b67407ed718b
+            id: 96577b2a-56e2-4218-8f06-b8b5d951be57
           08-15:
             _name: 08-15
-            id: 6ab39616-28cc-485e-9abd-9dabff36e64a
+            id: beafd5ee-4044-40b6-b7e9-a22d50f6f93c
           11-01:
             _name: 11-01
-            id: 9b753eb1-040b-41be-a720-eb62b49ee0ae
+            id: 403f5bd0-3049-4bce-a53d-510ac9d85778
           12-08:
             _name: 12-08
-            id: 586c85d3-81fc-4b8d-88a8-723dcb7126ac
+            id: a9cbbecc-52ca-4015-9e12-c9e6a9777cab
           12-26:
-            id: 65d35fd8-c487-4c25-b8c7-09cff463c276
+            id: 7576db33-8704-48e8-bd7d-1efbe1bf580b
           12-26 not on monday, friday:
             _name: 12-26
-            id: 7411e811-9b14-478f-a3a6-0377495c806c
+            id: 69053ef7-78c2-4dbf-9b3f-0020a9518138
       SZ:
         names:
           de: Kanton Schwyz
@@ -190,22 +190,22 @@ holidays:
         days:
           01-06:
             _name: 01-06
-            id: 83bf2196-c04f-405f-b80f-1dc891a9dc2e
+            id: 4e1ba5f8-6b35-45eb-ba8e-f434ef048f4a
           03-19:
             _name: 03-19
-            id: 6ff19816-aab8-4e48-9113-e9addf33ba2d
+            id: 3a5b9b6b-a24c-4063-928e-89a14ae89375
           easter 60:
             _name: easter 60
-            id: 5322f95b-4864-48f9-bc27-d37cae335a11
+            id: fb72b68d-ece0-41d9-a53a-a5450bd1ecb6
           08-15:
             _name: 08-15
-            id: d051e8af-88bc-4e69-a2b8-78a98af89fa0
+            id: ef7dc876-900d-4d70-816b-a9fb0e79cdd3
           11-01:
             _name: 11-01
-            id: 2a71f509-9be1-4437-a863-fff90ae127c7
+            id: 5581b0ae-657d-4df6-baf9-bd64d9798174
           12-08:
             _name: 12-08
-            id: db0f6f35-5038-43f6-9dad-5bef71865d74
+            id: b0e23f3f-40ff-4f7c-a2e3-59dffc1a9c0c
       OW:
         names:
           de: Kanton Obwalden
@@ -218,37 +218,37 @@ holidays:
               de: Berchtoldstag
               fr: Saint-Berthold
             type: optional
-            id: 977f36f7-3aba-406e-a344-0e52a1c2354a
+            id: fe5d2c12-69d4-41ee-9705-9de95083b102
           easter 1:
             _name: easter 1
             type: optional
-            id: aec51d55-601a-4bca-b93b-770b4a08b43a
+            id: f6390e81-d231-42d2-a753-64c24f6e7f80
           easter 50:
             _name: easter 50
             type: optional
-            id: cfc0b426-6914-4bf4-8aad-2dc495f6e2b3
+            id: 2f135af7-7886-4910-b1c4-6c6e90ebdbfa
           easter 60:
             _name: easter 60
-            id: 66233eaa-9208-4b8c-8091-42ecbbd03baa
+            id: 6463ada6-cac3-463c-8e13-ca4ab4b29b2a
           08-15:
             _name: 08-15
-            id: f5a74468-91bb-4055-886e-b2b1640c90db
+            id: 3af64460-a719-4a56-9252-2177bba6b6d4
           09-25:
             name:
               de: Bruderklausenfest
               fr: Saint-Nicholas-de-Flüe
               en: Saint Nicholas of Flüe
-            id: aff5dd77-ed34-4ffc-847e-731e5879dd09
+            id: 22427049-2319-4471-8b16-9e9fe4cf377d
           11-01:
             _name: 11-01
-            id: 2040b34c-617d-4939-a9b3-2b895a58f31d
+            id: 869c82c9-d914-43c2-9189-84457aec8c34
           12-08:
             _name: 12-08
-            id: 282f2b5b-7b2c-4af6-9475-598cb016ee9e
+            id: 7c5ae8fe-1ec0-4570-8cce-22ee8c5b8842
           12-26:
             _name: 12-26
             type: optional
-            id: 4a00c764-4c9d-40a2-930f-8cff94cf0ddf
+            id: d0b819cf-52fd-43ad-903a-e126391369d3
       NW:
         names:
           de: Kanton Nidwalden
@@ -261,34 +261,34 @@ holidays:
               de: Berchtoldstag
               fr: Saint-Berthold
             type: bank
-            id: 714249d2-5015-46a3-bd47-c11783763b79
+            id: 2d45cfad-12a9-4141-875f-3e4ed4b59fdd
           03-19:
             _name: 03-19
-            id: 6382b0c0-21c1-4554-bad3-bb192b54605d
+            id: 49485147-e91d-45be-8bf2-c05b78525b3f
           easter 1:
             _name: easter 1
             type: optional
-            id: 5daf6573-4b73-4682-8e8a-7e5876e5e24e
+            id: 2c06ffd5-e498-4a6f-bef8-eddc0a212e5a
           easter 50:
             _name: easter 50
             type: optional
-            id: e2348872-d2d5-4c40-8588-b96870a8759f
+            id: 099aa182-650c-4f7e-bf6a-3a6f6f138ba7
           easter 60:
             _name: easter 60
-            id: 6a3303d2-55cf-4b6f-9db5-e7bb96204198
+            id: ab47d98f-f516-46ea-8b2d-32a315b007e5
           08-15:
             _name: 08-15
-            id: 4fbe153d-c0d1-4d38-b6dc-84f6f7381f99
+            id: 59d4ce86-eef6-47a1-8c98-f3ecbf844d18
           11-01:
             _name: 11-01
-            id: 0457a983-657e-4e87-aba4-2ca222b5d96f
+            id: bb839a47-1653-46df-9e6d-3883f171d061
           12-08:
             _name: 12-08
-            id: 2ffbd09e-89ad-4751-bad4-b664c741dbb0
+            id: 53f74dc8-cf65-4703-8a36-0752d1466b90
           12-26:
             _name: 12-26
             type: optional
-            id: 9c58f19e-4f60-436a-bae9-44e45c3a0f84
+            id: dcd5d094-591e-469d-8791-5fc8568464df
       GL:
         sources:
           - >-
@@ -304,23 +304,23 @@ holidays:
               de: Berchtoldstag
               fr: Saint-Berthold
             type: optional
-            id: faaaf0a1-249a-403d-a909-59b05ce338cd
+            id: 4017b090-fba9-4182-ad1b-24b4d5020726
           Thursday after 04-02 if is observance holiday then next Thursday:
             name:
               de: Näfelser Fahrt
               fr: Bataille de Näfels
-            id: f3a0def0-29a8-4df6-a4f2-9aa9f20340e3
+            id: 1f8523d7-f644-4d72-a3a8-db3a320b0c25
           3rd sunday after 09-01:
-            id: a68185bb-1b9c-4dbc-ae9e-ff2ede90f00c
+            id: 92f840c3-9544-4efd-bd2f-9fd26c059804
           11-01:
             _name: 11-01
-            id: bcb64256-06e5-4fde-96f2-257e5206410d
+            id: 4ec5c416-8f63-49fa-a4af-c28f154afbc6
           12-24:
             _name: 12-24
-            id: 7c3eec59-37f9-4892-b605-6ffa0884ff5a
+            id: c19c9fa2-fc75-4f46-82b4-0a1c25ae10b4
           12-31:
             _name: 12-31
-            id: 31e1792c-8b43-45a7-839a-211e65297f85
+            id: bcbd36d2-ecd7-48e0-badd-ebc5a6f0cc6f
       ZG:
         names:
           de: Kanton Zug
@@ -333,31 +333,31 @@ holidays:
               de: Berchtoldstag
               fr: Saint-Berthold
             type: optional
-            id: c9ffc690-ab40-4b8a-b11e-eaa755107f1f
+            id: a404ab01-06cc-461f-ad36-17f9866b57ce
           easter 1:
             _name: easter 1
             type: optional
-            id: 0da6c1c5-1f9b-4679-8950-bf0c16978e19
+            id: e01de6eb-aa9f-4432-9c06-e3af9e2336ef
           easter 50:
             _name: easter 50
             type: optional
-            id: 7c6abcf4-5709-433d-87d9-fa9725df0d63
+            id: 82f1c75d-7c1a-42b9-8b83-60fb106575bc
           easter 60:
             _name: easter 60
-            id: 44c6fe3c-5857-4e50-9cae-18645fcceedb
+            id: 671b138a-a4ec-4308-a52c-59eaed417d6f
           08-15:
             _name: 08-15
-            id: 9d9c0907-5b40-47e8-b313-8cebf250f51b
+            id: 842b9c12-cab1-418e-b90d-efec30ea5c02
           11-01:
             _name: 11-01
-            id: 59835e71-bb7a-440a-b566-4803809bf8bb
+            id: 486bc3b0-be40-4d9f-96db-6ff08ae97048
           12-08:
             _name: 12-08
-            id: 823bee01-224b-4b37-9b5a-ac6f33df3c5d
+            id: 0ef6f858-03da-4374-ba0e-fcaeb294ee79
           12-26:
             _name: 12-26
             type: optional
-            id: 198c3658-19b5-4350-85da-7fc25c05b0c4
+            id: aafac26e-bcf3-4ee6-b0ce-254a9c70008b
       FR:
         names:
           fr: Canton de Fribourg
@@ -375,15 +375,15 @@ holidays:
               de: Berchtoldstag
               fr: Saint-Berthold
             type: optional
-            id: 5be58a12-8fd7-44c5-a988-3d4b4780a1a6
+            id: a8d67985-d302-4415-91d1-000ab6a0e8ef
           easter 1:
             _name: easter 1
             type: optional
-            id: d7fcc2c2-cf21-4ca9-919a-1afc99295a4e
+            id: d57b2864-6a0f-418e-afa9-79fa41cf9d91
           easter 50:
             _name: easter 50
             type: optional
-            id: d3915ba1-460e-4174-b125-3ce68eaa65dc
+            id: 9c6dc69a-841b-4f69-bd56-80b8694a6648
           easter 60:
             _name: easter 60
             note: >
@@ -391,7 +391,7 @@ holidays:
               Courgevaux, Courlevon, Fräschels, Galmiz, Gempenach, Greng, Jeuss,
               Kerzers, Lurtigen, Meyriez, Muntelier, Murten, Ried bei Kerzers
               (halb), Salvenach, Ulmiz, Bas-Vully, Haut-Vully
-            id: 6d784aa2-f061-416d-9a27-d9f8650fec25
+            id: 39b7365c-f4a4-4427-9a6b-24d5c6753637
           08-15:
             _name: 08-15
             note: >
@@ -399,7 +399,7 @@ holidays:
               Courgevaux, Courlevon, Fräschels, Galmiz, Gempenach, Greng, Jeuss,
               Kerzers, Lurtigen, Meyriez, Muntelier, Murten, Ried bei Kerzers
               (halb), Salvenach, Ulmiz, Bas-Vully, Haut-Vully
-            id: 37088802-674f-4d90-9721-6c352ddebc45
+            id: 06739067-2c9f-4293-93cd-13f9bafb93a9
           11-01:
             _name: 11-01
             note: >
@@ -407,7 +407,7 @@ holidays:
               Courgevaux, Courlevon, Fräschels, Galmiz, Gempenach, Greng, Jeuss,
               Kerzers, Lurtigen, Meyriez, Muntelier, Murten, Ried bei Kerzers
               (halb), Salvenach, Ulmiz, Bas-Vully, Haut-Vully
-            id: 2111c179-0601-4941-bd87-5db8421c2ae5
+            id: 144e5c2a-84e5-427b-820d-9c1417b5ed8b
           12-08:
             _name: 12-08
             note: >
@@ -415,11 +415,11 @@ holidays:
               Courgevaux, Courlevon, Fräschels, Galmiz, Gempenach, Greng, Jeuss,
               Kerzers, Lurtigen, Meyriez, Muntelier, Murten, Ried bei Kerzers
               (halb), Salvenach, Ulmiz, Bas-Vully, Haut-Vully
-            id: 338f3068-db58-47d9-9f03-ec3e0105410e
+            id: 5395e81b-562e-4102-8eda-13e33d127e93
           12-26:
             _name: 12-26
             type: optional
-            id: 4c67f3cc-631c-4b5e-acbb-9dbf42acd675
+            id: d6fa5c33-d95a-4e17-87c8-834c3dab78c2
       SO:
         names:
           de: Kanton Solothurn
@@ -432,40 +432,40 @@ holidays:
               de: Berchtoldstag
               fr: Saint-Berthold
             type: optional
-            id: dc37ebe9-56d8-4857-b654-147cd53fdb98
+            id: ee7ba9d4-d1e0-41e8-be55-8270c069a71f
           03-19:
             _name: 03-19
             note: >
               Only in communities: Fulenbach, Walterswil, Wisen, Metzerlen,
               Nulgar-St. Pantaleon, Rodersdorf, Bärschwil, Büsserach
-            id: d9d19377-58e3-4c01-88e8-215cc97c61c1
+            id: 95759270-ac6d-4561-b60d-f2e02625258c
           easter 1:
             _name: easter 1
             type: optional
-            id: c4e9d1f9-8287-48c0-ac1e-fb0d5c38ba79
+            id: f3d5f357-eb93-4c10-b57a-1d7a3c76a159
           05-01 12:00:
             _name: 05-01
-            id: fe44e5b1-33f3-4b9a-a544-1098ee9853fe
+            id: 62c7c523-6f0e-4576-894a-23acbed8ded3
           easter 50:
             _name: easter 50
             type: optional
-            id: 3c7c0916-3606-4942-8bfd-fface69f24d7
+            id: 108edef7-daa2-4984-b81c-5b22a6d15395
           easter 60:
             _name: easter 60
             note: is optional in Bucheggberg
-            id: c03a4e85-680a-4ada-b514-567732d8b732
+            id: 77b97127-31e3-42d1-83e7-59afb00bfb1f
           08-15:
             _name: 08-15
             note: is optional in Bucheggberg
-            id: fec98756-f346-47f3-b16d-cce349954aad
+            id: 7b98db8f-db11-4299-a74e-f6b44429ae40
           11-01:
             _name: 11-01
             note: is optional in Bucheggberg
-            id: 8a65c441-1ec4-4057-b555-b379bcdcc53a
+            id: e88dfd6e-b72f-4901-8a33-f3d28d9485d4
           12-26:
             _name: 12-26
             type: optional
-            id: 0a4efb97-513c-4a4f-9ccb-c643d3e4c6e0
+            id: 0d6cde8b-7ac4-4f14-bbef-4b27d0b908ee
       BS:
         names:
           de: Kanton Basel-Stadt
@@ -475,7 +475,7 @@ holidays:
         days:
           05-01:
             _name: 05-01
-            id: 85cbbaad-0f68-4d9f-9f68-7641b3b3f8d5
+            id: 35e22916-752e-4a09-9a05-6a760dbd1b31
       BL:
         names:
           de: Kanton Basel-Landschaft
@@ -485,11 +485,11 @@ holidays:
         days:
           05-01:
             _name: 05-01
-            id: 7f58e8ca-715d-4b40-a444-3fe87f1032b9
+            id: 5d35b3c6-37e1-4dfe-829f-0d0a9e5af4e4
           easter 60:
             _name: easter 60
             type: observance
-            id: 66061cef-b953-4d1a-8c28-8bc0816932c2
+            id: 431db9a7-1117-46d5-9855-ab127a09ce30
       SH:
         names:
           de: Kanton Schaffhausen
@@ -502,10 +502,10 @@ holidays:
               de: Berchtoldstag
               fr: Saint-Berthold
             type: optional
-            id: ee1cd03a-8e90-4432-92e3-e768b28d1d54
+            id: 7132a7a4-237f-459e-a404-056956f5ee07
           05-01:
             _name: 05-01
-            id: ad5a27bf-1895-4b3b-81e6-cb4e3c91f892
+            id: 3edd3c90-207a-4c83-baf6-018d1d310341
       AR:
         names:
           de: Kanton Appenzell Ausserrhoden
@@ -514,10 +514,10 @@ holidays:
           en: Canton of Appenzell Outer Rhodes
         days:
           12-26:
-            id: 1c719a29-73ea-4b9d-9853-410487196cdf
+            id: ead19b98-d6c4-458c-b470-c55a89feb1c6
           12-26 not on monday:
             _name: 12-26
-            id: 859b048d-4eca-4078-bdab-3d5048537d32
+            id: 38310a3b-5670-44b7-ba14-2470251cd206
       AI:
         names:
           de: Kanton Appenzell Innerrhoden
@@ -527,25 +527,25 @@ holidays:
         days:
           easter 60:
             _name: easter 60
-            id: b56688ee-48d8-461a-9ca6-2b9f354981e3
+            id: 74d427ff-6a4e-4be7-8f67-2e1d6a8cd954
           08-15:
             _name: 08-15
-            id: a4291e72-4e4e-49f5-8b54-c822c6daeda9
+            id: 59957efa-2ae0-4473-b55b-ceea1106417b
           09-22:
             name:
               de: Mauritiustag
             note: |
               excluding: Bezirk Oberegg
-            id: eae2275a-c47f-4109-b806-b508bfbfe0e6
+            id: ad1fc8c0-a1fc-4c45-af32-d4b151c129b5
           11-01:
             _name: 11-01
-            id: fa3afc87-bd9c-4db9-9ac8-7106f8dfd7cb
+            id: 363488b3-5862-4b36-b8f6-64dcedae124b
           12-26:
             type: observance
-            id: 446aeeed-2e2b-45c0-a336-3a3ce4b0ec93
+            id: 6f594845-67ac-440b-b875-8cf2f6a931b4
           12-26 not on tuesday, saturday:
             _name: 12-26
-            id: 12bb3c4a-0aea-48bf-a75f-66f4100e1af2
+            id: a53775b6-230b-4a72-813f-85adf15180f3
       SG:
         names:
           de: Kanton St. Gallen
@@ -555,7 +555,7 @@ holidays:
         days:
           11-01:
             _name: 11-01
-            id: f6c414bc-1383-481e-bae9-4979b45ea106
+            id: bc2c796a-6924-4219-bd8b-34fbe95ebbee
       GR:
         names:
           de: Kanton Graubünden
@@ -571,31 +571,31 @@ holidays:
           01-06:
             _name: 01-06
             type: observance
-            id: 82ab4386-6e37-4e56-ae15-b36c2491c348
+            id: 1cc28a4b-4561-4ace-b9a9-afd9dd8bf2fe
           03-19:
             _name: 03-19
             type: observance
-            id: 883a0ce6-34e7-487b-9e19-10b55dbf5e77
+            id: 7ecb2ed1-b122-4217-8d18-e43d4273ed87
           easter -2:
             _name: easter -2
             type: optional
-            id: 18ef0474-11ac-49a4-b6a7-d84b8348c8fa
+            id: 4cc613f2-eb8c-4f67-9b16-d47a2ceb28ae
           easter 60:
             _name: easter 60
             type: observance
-            id: dac3bd72-b469-479d-941b-bc7d27b3a776
+            id: e71f1c26-e091-4bd3-8524-3f3168090f5b
           08-15:
             _name: 08-15
             type: observance
-            id: 406c5aaf-6cd2-4448-8aaf-4cb17b725cb0
+            id: 931c8413-6659-433e-8f02-3a20ea3d3a3d
           11-01:
             _name: 11-01
             type: observance
-            id: 5735d562-9f56-49b2-8e05-ff2d3292443f
+            id: 125595f2-0585-4b9d-9479-aad93ed0876d
           12-08:
             _name: 12-08
             type: observance
-            id: 0320877c-26cf-4c52-9dd2-7e7aa72fc5f3
+            id: 5e3ef28c-67c9-482c-b4a9-5d4e5f9e199f
       AG:
         names:
           de: Kanton Aargau
@@ -607,22 +607,22 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
-            id: edf94153-08fa-494c-b446-f47c9395e658
+            id: 0a6b0157-7cb2-44e9-a1e9-2f25ab41948f
           05-01:
             _name: 05-01
-            id: e377d747-e945-421c-8278-aa2e18b206a2
+            id: 5bf73927-a689-408b-9e1c-8ce88a0ef825
           easter 60:
             _name: easter 60
-            id: 0968ce0e-5429-4949-89d8-09a4bacfbf74
+            id: 3391a8f7-2ace-4fa3-aefa-f1c8162fbc98
           08-15:
             _name: 08-15
-            id: d4d717ee-2b32-4a30-9f47-c0d1ec78cc73
+            id: 31ab58e3-1932-44ab-828d-bd9fdcd3a333
           11-01:
             _name: 11-01
-            id: c426157a-ceed-4bd5-86d1-f52382da0ffc
+            id: dd9766c9-d596-45df-94b7-1efd6e8de0d6
           12-08:
             _name: 12-08
-            id: 51ada1bc-fcea-4b93-9994-7adb683356bd
+            id: 1a9b2531-24b4-4547-9386-aea93c9fa361
       TG:
         names:
           de: Kanton Thurgau
@@ -634,10 +634,10 @@ holidays:
             name:
               de: Berchtoldstag
               fr: Saint-Berthold
-            id: 2bf67d00-2057-4218-b1f1-8c6264403b33
+            id: e184666c-bf18-40ee-8caf-e08324ce4ae8
           05-01:
             _name: 05-01
-            id: cbad86a6-b8fd-446b-892c-fd060b922c0f
+            id: b50bdfe8-dc24-4074-9b48-daaedc9079df
       TI:
         names:
           it: Canton Ticino
@@ -655,39 +655,39 @@ holidays:
               de: Berchtoldstag
               fr: Saint-Berthold
             type: bank
-            id: 13c7e38d-7c53-4b5e-990f-fcc97a8e3584
+            id: b8e2345d-308f-4586-9d88-73b76b0bcccf
           01-06:
             _name: 01-06
             name:
               it: Epifania
-            id: 16671259-272c-4fe2-b5c8-d0300da7fd13
+            id: c32aadb0-92d3-4111-915b-afd1c3c584fc
           03-19:
             _name: 03-19
-            id: 56313781-21bd-4256-9345-ac4402239b0b
+            id: 0a55babf-f937-4208-87d8-b4e4e4c72362
           easter -2:
-            id: 518f020f-6ea0-459f-baea-bd26559aaeec
+            id: 3ad27674-7da1-4088-b131-41fc34cf3d7b
           easter 60:
             _name: easter 60
-            id: 05741a1e-5820-4c15-9892-23a755356783
+            id: 9951d54b-5fe1-415c-a362-e62adb032d05
           05-01:
             _name: 05-01
-            id: 8635392e-d75d-460d-b9cd-7c9a92f9ae5a
+            id: 24fc912a-5352-4c4e-874e-142796773881
           06-29:
             _name: 06-29
-            id: fd8bba1c-1c6a-4ea9-95c6-1593ba3a8116
+            id: 312ffe51-30f5-4588-8b17-ad53e8ca1327
           1st sunday in June:
-            id: 9442943a-a270-461d-8f1b-116570aba386
+            id: cf95ff6f-eb99-4c6f-aeb9-c7de4c85d3a0
           08-15:
             _name: 08-15
             name:
               it: Assunzione
-            id: fae5ec52-23cb-4d84-940b-6f9412d68eab
+            id: 5840c2b3-3c4d-45c6-839c-deb1c401e799
           11-01:
             _name: 11-01
-            id: b3dac69d-1155-4505-b323-e9cbe2dbaf69
+            id: e0da4629-9c80-4aaa-9072-4c72b271bf24
           12-08:
             _name: 12-08
-            id: 39177ec9-8c25-4e74-9a2a-2433c3a3248a
+            id: 8f90a47c-01a3-4a5f-913b-573bbeb9a169
       VD:
         names:
           fr: Canton de Vaud
@@ -704,15 +704,15 @@ holidays:
             name:
               de: Berchtoldstag
               fr: 2 Janvier
-            id: 18970e61-a654-45e1-917f-17bbe7ca940b
+            id: ba3f3ac7-9713-4044-a7cc-769cb90213c1
           monday after 3rd sunday in September:
             name:
               de: Bettagsmontag
               fr: Lundi du Jeûne Fédéral
               en: Monday after Federal Day of Thanksgiving, Repentance and Prayer
-            id: 428e00f8-604c-438d-b843-ee2046f9b714
+            id: 38847fb6-b483-48a7-b6dd-473c3e16d042
           12-26:
-            id: 8c10a5f9-1b05-4e53-aa92-55780b9bec03
+            id: 90e4c31d-ac43-409f-bac9-d12a743e77b5
       VS:
         names:
           fr: Canton du Valais
@@ -730,47 +730,47 @@ holidays:
               de: Berchtoldstag
               fr: Saint-Berthold
             type: bank
-            id: 83b5383c-2011-464e-b8e5-5d8e35c7b5bd
+            id: ad2a97ad-8538-4e3c-9c9a-a09714a2bff2
           03-19:
             _name: 03-19
-            id: 9fdaaea8-bda2-4898-a352-b485e14220f1
+            id: e7723697-928b-4b3b-87f0-5d86e7ef9cbb
           easter -2:
-            id: 49fa274b-a7ca-4c7e-903a-24882b776ade
+            id: bb3f104b-f9ad-4b03-8acc-8162646ba646
           easter 1:
             _name: easter 1
             type: optional
-            id: 2c57f8c7-9d21-4ea3-8152-78e166020c1f
+            id: 3eee97a0-c92b-45c7-8eda-a269302e8415
           05-01 12:00:
             _name: 05-01
-            id: 136a4b98-7f14-45d2-9320-7e83e07394e9
+            id: f61e0f26-f8c6-405f-bcba-140358e27cd0
           easter 50:
             _name: easter 50
-            id: b0a6e5f2-7e0d-4933-ba2c-a7f5d49b0b4e
+            id: 820c4058-e80b-4e90-8a86-89759d29255b
           easter 60:
             _name: easter 60
-            id: d62699de-3112-48c1-8310-39b5cfcc37f1
+            id: cdf0308f-9fba-40ee-b2da-2a54beb72b11
           08-15:
             _name: 08-15
-            id: 65a473ad-a2f3-43e6-9a8c-214209c58228
+            id: a9f62f2c-ae9d-449a-8366-21b7e20a0c86
           monday after 3rd sunday after 09-01:
             name:
               de: Bettagsmontag
               fr: Lundi du Jeûne Fédéral
               en: Monday after Federal Day of Thanksgiving, Repentance and Prayer
             type: bank
-            id: 0b9ab4b0-51d4-4730-8431-22ac6e10360b
+            id: f1054d48-1a03-4fd4-ab21-a50743b49a5d
           11-01:
             _name: 11-01
-            id: 38d65d88-1fd7-4ab7-877e-0501db93a4c2
+            id: a320d55e-99bb-4bf9-81bf-11d2bdf74899
           12-08:
             _name: 12-08
-            id: 67f599a7-bc0f-49ab-851e-ea720115eb82
+            id: 43a7c0c2-8107-4b10-9599-e4b5c050d37e
           12-24 12:00:
             _name: 12-24
-            id: 99f69723-a758-453e-a7d1-14b1ed15924a
+            id: 134424c1-2890-4658-aa65-3052be7b0d7a
           12-26:
             type: optional
-            id: cdd785e7-ad08-4c32-9a73-46e0985464dc
+            id: 46fdf489-0be8-4c8f-baef-5cee829cda59
       NE:
         names:
           fr: Canton de Neuchâtel
@@ -787,44 +787,44 @@ holidays:
             name:
               de: Berchtoldstag
               fr: 2 Janvier
-            id: 0aa6a33d-2a7f-4d23-ab98-36afba46df83
+            id: 281c2cff-3b4b-49bc-95ad-5177f3f85ee0
           01-02:
             name:
               de: Berchtoldstag
               fr: 2 Janvier
             type: observance
-            id: 53563799-ac7c-457a-9e4b-ee6999dd1531
+            id: 855f5612-58a7-4f94-9686-d886fda390ec
           03-01:
             name:
               fr: Instauration de la République
               de: Jahrestag Ausrufung der Republik
-            id: 6ee170c0-fc58-4d6f-a79b-6fa2f5293d01
+            id: 8d07fab4-6e90-48db-afe6-c172f268224f
           easter -2:
             _name: easter -2
-            id: fd819e0d-e655-43aa-9fb1-00287f5ddb6f
+            id: 24b90289-32fd-4d7b-ae0f-d96f51e4b3b9
           05-01:
             _name: 05-01
-            id: 42f305b8-37a2-4ffc-81e5-8b685beb0de3
+            id: 78536a40-b194-47bc-8cfe-77f9ad5e96b8
           easter 50:
             _name: easter 50
             type: observance
-            id: 571442a1-6ad1-42cc-bffd-ed7e2134f9af
+            id: 44b41efa-c1f1-4937-8e69-5a98191e7c4e
           easter 60:
             _name: easter 60
-            id: de10560a-0e81-4be5-9218-7c741d831ad5
+            id: 21b151de-2fc8-42db-8f70-36214a7a8be4
           monday after 3rd sunday in September:
             name:
               de: Bettagsmontag
               fr: Lundi du Jeûne Fédéral
               en: Monday after Federal Day of Thanksgiving, Repentance and Prayer
             type: optional
-            id: 02f72eb4-f857-432e-abd3-34caefcc37fd
+            id: b30d27dd-6f0c-4617-b1af-2d347916308b
           12-26:
             type: observance
-            id: 6adc5d53-d4bc-4f51-a09a-e734db7f5760
+            id: 753bdc1f-4159-4f84-9db7-04bdf80d6a4e
           12-26 on monday:
             _name: 12-26
-            id: a2cbb49f-0463-4134-b60f-ac9c71d24e21
+            id: cd091d7f-182a-4fb2-8130-9133f9cfe660
       GE:
         names:
           fr: Canton de Genève
@@ -842,23 +842,23 @@ holidays:
               de: Berchtoldstag
               fr: 2 Janvier
             type: bank
-            id: 6a77eb09-af95-43a3-9bfc-b67bcf5e2550
+            id: b086c460-d132-47b6-a5de-feeb7c7ca6b8
           thursday after 1st sunday after 09-01:
             name:
               de: Genfer Bettag
               fr: Jeûne Genevois
-            id: 04571edd-1569-4d9b-9716-00068d293fa0
+            id: 2297fb76-7c2c-40f5-a1e9-17244c9fcb5c
           12-26:
             type: bank
-            id: 1fec0495-0f28-40af-80d3-202e0ebafe8a
+            id: 26b4112b-40d3-4584-bf22-83196c6196e9
           12-31:
             name:
               de: Wiederherstellung der Republik
               fr: Restauration de la République
               en: Restoration of the Republic
-            id: 4bd93d66-20b8-4627-afb6-fa144fabb465
+            id: 11dfce58-1860-44d8-a109-f03d35614421
           3rd sunday after 09-01:
-            id: 11c11258-e871-4cb5-a4c8-3acc7729ac5e
+            id: ce3cd921-8f4c-427d-9595-e8980f8543fd
       JU:
         names:
           fr: Canton du Jura
@@ -875,24 +875,24 @@ holidays:
             name:
               de: Berchtoldstag
               fr: 2 Janvier
-            id: 6add28c7-e8f2-4d4f-b8d6-62f2d7349b8d
+            id: 9df52493-1db7-4125-b79d-af63bde61469
           05-01:
             _name: 05-01
-            id: 145602ad-7687-4043-b7f3-1aa6e83613ec
+            id: aa7ba369-7174-4855-948f-5981b0005a71
           easter 60:
             _name: easter 60
-            id: 17ea8387-2b1c-49de-a8fb-aed41bcb7e78
+            id: aef9235c-fd8b-4c46-8a12-958d3aa78343
           06-23:
             name:
               fr: Plébiscite jurassien
               en: Jura Plebiscite
               de: Fest der Unabhängigkeit
-            id: 11ab8c9f-8a10-431d-813d-ca2bed066e90
+            id: b4bb0c32-33a3-40a5-9000-800fce392b0c
           08-15:
             _name: 08-15
-            id: c218aaf3-c42d-4a00-b32d-b2cde8baa41b
+            id: fb7a0bb8-1ace-4437-a7dd-3a729623433c
           11-01:
             _name: 11-01
-            id: aa493d93-57a3-44f1-90e8-1b87c43912dc
+            id: b89679a2-83a6-4252-a369-c3c73636f0b3
           12-26:
-            id: 5d847659-0a33-4818-9e09-de03b42b41ab
+            id: bae73eca-1899-4c0c-adcd-9a7165275e42

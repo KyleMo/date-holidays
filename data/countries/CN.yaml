@@ -13,166 +13,166 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 8d3a3c32-2c70-493d-a034-ac441bb1c53c
+        id: 08a2f31e-e674-464b-8a6e-42597b4677e8
       03-08 12:00:
         _name: 03-08
         note: Women
-        id: ba5c0175-5aed-4db6-b5aa-6e555bd4a299
+        id: 7f12369c-caf8-4cdd-8628-762a677205ae
       05-01:
         _name: 05-01
-        id: 81c69fc2-b7db-4df8-9708-41816cd600b2
+        id: 1f3db1a9-2bde-4a39-a635-7978b92007c0
       05-04 12:00:
         name:
           en: Youth Day
           zh: 青年节
         note: Youth from the age of 14 to 28
-        id: b96a0e73-0d9c-49cf-af61-ffecccfa2b70
+        id: 2708af17-7dfc-4a24-8358-2e6917805d6b
       06-01:
         name:
           en: Children's Day
           zh: 六一儿童节
         note: Children below the age of 14
-        id: 305230b8-67a8-42ce-98f6-9e99e9004687
+        id: 8264ce43-1f56-4f76-ac78-1ebb2d304323
       08-01 12:00:
         name:
           en: Army Day
           zh: 建军节
         note: Military personnel in active service
-        id: 84d26271-74d0-4690-aee7-3158289a8928
+        id: e9e9a986-df59-4355-a1c3-e46eb273d2c0
       10-01:
         name:
           en: National Day
           zh: 国庆节
-        id: a65e88cd-2519-40fd-ac4d-b7a7225a721d
+        id: f244e6a1-5221-4611-89f3-d6710559ae3b
       10-02:
         name:
           en: National Day
           zh: 国庆节
-        id: 6a7604c8-58af-4a68-84c2-9a12396fecbf
+        id: de6f26ee-a7b6-4eeb-91ea-c9c57faae8cd
       10-03:
         name:
           en: National Day
           zh: 国庆节
-        id: 271a0903-5acb-4796-b1f0-15443c24186e
+        id: e608507e-9002-4878-9bdc-d6115f472b9f
       chinese 01-0-00:
         name:
           en: Spring Festival
           zh: 春节
-        id: 7f61b540-8b92-4182-8f96-6b42282f337f
+        id: ea0eed30-b7a4-4c28-88e2-33272896df62
       chinese 01-0-01:
         name:
           en: Spring Festival
           zh: 春节
-        id: f4328a39-2cd8-4dad-86d5-89f5acbfa96c
+        id: a4393c1e-b12f-4907-91aa-73d3be9fb204
       chinese 01-0-02:
         name:
           en: Spring Festival
           zh: 春节
-        id: b287bb7b-b19b-4711-80de-8e49053dfcd7
+        id: 470f2d59-e0c9-4022-9050-bec02334a52a
       chinese 5-01 solarterm:
         name:
           en: Qingming Festival
           zh: 清明节 清明節
-        id: 2a7bd294-fa13-41f6-9043-21ddf3ee4664
+        id: 65b87bc0-3666-4fce-99d4-974a025261da
       chinese 05-0-05:
         name:
           en: Dragon Boat Festival
           zh: 端午节
-        id: b974c605-891e-448f-bec1-1515d07691be
+        id: 3fca44b9-eb37-4e6a-9440-2bba6abe3e7d
       chinese 08-0-15:
         name:
           en: Mid-Autumn Festival
           zh: 中秋节
-        id: 3ff6fffb-348b-4509-a10f-4b63ddb0d10d
+        id: 91e3ca8f-ad86-429f-9ea1-3e293e2a18dd
       '2021-01-02':
         _name: 01-01
-        id: 4cec1c32-75c9-4575-b5f4-9d651b68daf2
+        id: e6f597ab-e368-4c83-b751-5784450fd796
       '2021-01-03':
         _name: 01-01
-        id: f3fa73fc-cb9d-4ff9-bab3-0521a602125a
+        id: 9c911e9d-cd26-460a-a7cd-562aa8e2f1cf
       '2021-02-14':
         name:
           en: Spring Festival
           zh: 春节
         note: Work on Sun February 7 and Sat February 20.
-        id: 232b2642-a43f-4f6a-86bd-1d63bac84cdd
+        id: a3cbbaea-b7b6-41fd-9024-117e06a317ba
       '2021-02-15':
         name:
           en: Spring Festival
           zh: 春节
-        id: 46c35ec4-9ddd-401f-93c3-40d22d3c477d
+        id: 0a6e949c-a0d0-49e3-a219-307ac39c7471
       '2021-02-16':
         name:
           en: Spring Festival
           zh: 春节
-        id: 264ccb11-a840-4d58-963a-dfda87a7d4a5
+        id: d2847fb9-ddd5-4757-a890-6062da517e78
       '2021-02-17':
         name:
           en: Spring Festival
           zh: 春节
-        id: 49b88b3b-9240-4fa5-9427-cd6da11310e1
+        id: 3a09485c-9d58-4ac4-873d-70d698ad10d0
       '2021-04-03':
         name:
           en: Qingming Festival
           zh: 清明节 清明節
-        id: 1a004cdc-fb13-439b-a99f-7d6bba3005d2
+        id: 82ea9881-8d7f-488d-8cd3-2bfe60d3bc80
       '2021-04-05':
         name:
           en: Qingming Festival
           zh: 清明节 清明節
-        id: 7a7ba823-9618-4069-8ff3-b37379f376aa
+        id: 2f200c4b-cf5e-4dc8-b0c0-44829295edf1
       '2021-05-02':
         _name: 05-01
         note: Work on Sun April 25 and Sat May 8.
-        id: c73b7d33-b894-4a9f-b161-bdc89a4c6d02
+        id: 2e6e01d6-39fe-4136-aa38-c320e5ad24c0
       '2021-05-03':
         _name: 05-01
-        id: 1346256d-36f7-4402-9841-c7303c3bad93
+        id: d039410c-1b37-4138-accd-c32793162634
       '2021-05-04':
         _name: 05-01
-        id: 814ad6e0-70b7-4089-bbdb-3af4f2af9551
+        id: 3ef96755-28a7-4319-bec4-d841d49a47da
       '2021-05-05':
         _name: 05-01
-        id: d67164cc-f260-4d12-914a-3c97c12aa6c0
+        id: d6201577-e916-4fca-82f5-2e279ab94b18
       '2021-06-12':
         name:
           en: Dragon Boat Festival
           zh: 端午节
-        id: ab1cf6bf-494b-4b3d-86bd-148d538bc2b3
+        id: d192d75f-28bf-4b0e-8998-0b2f042d5d1f
       '2021-06-13':
         name:
           en: Dragon Boat Festival
           zh: 端午节
-        id: 940e7201-3d36-426a-8a03-bc5276ce71ef
+        id: 4deb6db7-05c3-4dc4-a1be-ee416989d477
       '2021-09-19':
         name:
           en: Mid-Autumn Festival
           zh: 中秋节
         note: Work on Sat September 18.
-        id: a3b0b0ce-d1f4-48f2-8b8e-0b22ac9030b2
+        id: ba0e6ee5-4534-4caa-8a02-b3c619b2a01a
       '2021-09-20':
         name:
           en: Mid-Autumn Festival
           zh: 中秋节
-        id: a1108f9f-2f08-450e-8c41-d71b98f204f2
+        id: 2189a417-0dbe-49ac-80a6-4e72334dde6b
       '2021-10-04':
         name:
           en: National Day
           zh: 国庆节
         note: Work on Sun September 26 and Sat October 9.
-        id: b4152df3-489e-457b-ac14-7ffe6f6883f3
+        id: 687a4cde-4544-4fc6-948e-70b41c8f4982
       '2021-10-05':
         name:
           en: National Day
           zh: 国庆节
-        id: 3a27ec31-1cd8-4be9-9bc6-000e23ca8c98
+        id: a6c5832a-8442-44c6-a243-e9424a81f376
       '2021-10-06':
         name:
           en: National Day
           zh: 国庆节
-        id: 116ac794-2d18-4c79-a95c-836e0ed3cda0
+        id: 364d231e-2082-4814-a581-436c47f91a78
       '2021-10-07':
         name:
           en: National Day
           zh: 国庆节
-        id: cb701c71-a9de-4c04-8dc0-02dae12b492e
+        id: f111058f-8d41-49ac-b114-a5446aebda6a

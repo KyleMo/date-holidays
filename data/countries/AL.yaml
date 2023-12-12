@@ -13,75 +13,75 @@ holidays:
       01-01 and if sunday then next tuesday:
         _name: 01-01
         substitute: true
-        id: 4b695884-3676-48e2-96ab-d54c3f2e3015
+        id: bb5d9a70-1f24-448b-8b48-96ca0ce03592
       01-02 and if sunday then next monday:
         name:
           sq: Festa e Vitit të Ri
           en: New Year Holiday
         substitute: true
-        id: f079dbaf-1962-4f04-9772-243a5fa2a825
+        id: 181e201b-7dbe-48ac-9b2f-0e0d83f782ec
       03-02:
         name:
           sq: Dita e Besëlidhjes së Lezhës
           en: League of Lezhë day
         type: observance
-        id: 3bd12ac6-b02a-4645-8958-98b0555369c8
+        id: 4d976fe0-1dec-4b70-8b7c-284c13992ef7
       03-07:
         name:
           sq: Dita e Mësuesit
           en: Teacher's Day
         type: observance
-        id: e57a89f7-36bd-48a1-baae-103e72f1af9b
+        id: 0e2ac709-0779-478f-9aa5-8e4c0d7f4f1f
       03-08:
         _name: Mothers Day
         type: observance
-        id: f1a59675-e0f7-4ac0-b09f-2a65dec1ba7c
+        id: 5c96d8b2-5945-4ece-85d6-fe6762982f9e
       03-14 and if sunday then next monday:
         name:
           sq: Dita e Verës
           en: Summer Day
         substitute: true
-        id: fce60d37-220a-418e-8841-ee5663bb382b
+        id: 5031bb29-d8a5-44ad-9582-9d2a8a8cdfe4
       03-22 and if sunday then next monday:
         name:
           sq: Dita e Sulltan Nevruzit
           en: Sultan Nevruz's Day
         substitute: true
-        id: a6cf7524-7a24-48e2-bb84-9656ce530de3
+        id: 22c5b9b0-e373-497f-89b8-ebdac40fc02a
       04-01:
         _name: 04-01
         type: observance
-        id: b1f8e873-9ad0-4e57-a091-3c93c932c923
+        id: 20a0ed8b-8bf3-4380-8299-906e35968edc
       easter:
         name:
           sq: Pashkët Katolike
           en: Catholic Easter
-        id: d478d536-8a6c-432a-8faf-e2a71f618801
+        id: 81a4125a-1167-4265-96a4-00a067f304bb
       easter 1:
         name:
           sq: Pashkët Katolike
           en: Catholic Easter
-        id: 78ef9450-ff85-426c-9fde-ba60f2ed9e71
+        id: cf481a55-25ff-4f32-b201-71dda3cf5cd5
       orthodox:
         name:
           sq: Pashkët Ortodokse
           en: Orthodox Easter
-        id: 7d2fc286-b1ad-4a11-87cf-03a03dc176e6
+        id: 3af1e01f-7b96-4c6a-8abd-e4ffe55daecf
       orthodox 1:
         name:
           sq: Pashkët Ortodokse
           en: Orthodox Easter
-        id: e7580fb3-e166-4f54-8060-c7729af4fa94
+        id: f0280f7f-4f6d-4c92-853c-5b1279ffaad4
       05-01 and if sunday then next monday:
         _name: 05-01
         substitute: true
-        id: 32bc2504-6bdc-4746-a5ef-b8d3d6384e99
+        id: 54bda14a-8744-422d-89bb-844cf255b15f
       06-01:
         name:
           sq: Dita Ndërkombëtare e Fëmijëve
           en: Children's Day
         type: observance
-        id: c0092a80-7334-40b9-b923-515fa5ed3033
+        id: 43afc62f-69e1-44a4-98b9-8db528433960
       10-19 and if sunday then next monday:
         name:
           sq: Dita e Nënë Terezës
@@ -89,21 +89,21 @@ holidays:
         substitute: true
         active:
           - from: 2004
-        id: c9bdf1d2-4a59-4885-a631-b44b00ab22e6
+        id: 45ea639f-0e70-495d-b736-4030cc6ac574
       11-22:
         name:
           sq: Dita e Alfabetit
           en: Alphabet Day
         type: observance
-        id: 62f522df-4a5f-4841-a947-f6477492ef0f
+        id: ec537840-cd9c-406e-b7d5-11960d9aeddc
       11-28 and if sunday then next monday:
         _name: Independence Day
         substitute: true
-        id: 54d506d7-1d94-4afe-bf11-29c9f94ef9c5
+        id: 328f7025-e46c-4fd1-8c4b-6337a97edfe7
       11-29 and if sunday then next monday:
         _name: Liberation Day
         substitute: true
-        id: 6a5dcaa4-a58f-4911-8767-25f36715d5b6
+        id: 05a460e8-5e81-42d7-9d8c-127d2506d513
       12-08 and if sunday then next monday:
         name:
           sq: Dita Kombëtare e Rinisë
@@ -111,19 +111,19 @@ holidays:
         substitute: true
         active:
           - from: 2010
-        id: 663266d6-b37c-43ce-a264-d83c4ee81c34
+        id: e766cd2d-4b49-4aca-8a18-ea20b38365ea
       12-24:
         _name: 12-24
         type: bank
-        id: 7321f665-875b-4aa6-8a11-013fffa61edf
+        id: 376f030e-aa62-4926-87bb-d2cb110d117c
       12-25 and if sunday then next monday:
         _name: 12-25
         substitute: true
-        id: ced2ee25-93d7-4e85-8db8-b1e6f7a086b1
+        id: e1529c0a-9f02-4ce0-93e8-003c7985faab
       1 Shawwal:
         _name: 1 Shawwal
-        id: 76c605bf-deba-425c-8ef3-a4231e9c36c4
+        id: 62d60184-d00b-44b3-9163-a11deb6e11b7
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 5909f015-770c-4abb-9450-29edf9ca4ec8
+        id: e6a33092-19ef-4de4-affa-d72ae4ed57ef
     regions: {}

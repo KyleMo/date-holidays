@@ -10,72 +10,72 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 80a691e4-5cf0-40ca-ba12-666e29007bc8
+        id: b9b61700-8414-4bc6-8aa9-505782047c14
       02-07:
         _name: Independence Day
-        id: 641bd7dd-2234-4558-a92e-169dd1e94713
+        id: c8d0ef94-35d1-4149-bbc7-2ee26e5a4fe1
       easter -2:
         _name: easter -2
-        id: 72ca3dc7-86c7-4cb9-ac83-cb71ace2f2c9
+        id: 4a62cbf6-4c77-499d-b022-a38f6b58b640
       easter:
         _name: easter
         type: observance
-        id: 91d807e7-1251-48c1-b1df-602ff1962e5f
+        id: 01513a9d-337b-4a60-ba50-9eea43982882
       easter 1:
         _name: easter 1
-        id: e19bb459-6ee1-40d3-ae21-88ba640209ce
+        id: 99d6d496-6414-43ef-8e02-7b2681698212
       04-24 P3D:
         name:
           en: Carriacou Maroon and String Band Music Festival
         type: observance
-        id: f175c594-c335-4e9c-b5d6-57d60fec1154
+        id: 25448c82-d797-4d31-a2a5-77a8034a4efe
       05-01:
         _name: 05-01
-        id: 5a6fd1d4-aa2c-45a1-a73f-582837fa7aa9
+        id: 8e755c03-5b17-44e0-99c2-fb1ba2e8a582
       easter 49:
         _name: easter 49
         type: observance
-        id: 06500aea-80e9-4d87-9b22-9cf0e1b786ee
+        id: 28560749-bc82-4bdf-b577-16639ab00b06
       easter 50:
         _name: easter 50
-        id: 3c594530-9895-4926-a65d-158dc6478162
+        id: d7aa811b-a651-4f4e-8dfc-4eb0b5af86b8
       easter 60:
         _name: easter 60
-        id: 4431f55e-2562-424c-95e7-e884f665a859
+        id: 617fd845-eaa4-4cff-816f-04fdad9ebc09
       1st monday in August:
         name:
           en: Emancipation Day
-        id: c82781b3-a642-4714-a758-ff96e81b3f78
+        id: e55cac66-3da8-4be4-b226-101d4b94c4e9
       2nd monday in August:
         name:
           en: Carnival Monday
-        id: c2bb4021-e298-4612-b478-1db1d009891f
+        id: bb6b5983-17b5-4929-aac6-70421e64aba2
       tuesday after 2nd monday in August:
         name:
           en: Carnival Tuesday
-        id: 371cf9d2-18ab-4564-a5a7-5ff9ae30867a
+        id: 66dae010-85e3-40cf-86bf-b1a0bff4f8a5
       09-01:
         name:
           en: Kirani Day
         type: observance
-        id: 7d9cc6e3-5147-408d-9c85-cb17433b01e5
+        id: 2d618779-6307-4b93-a4b2-0a36d6beda37
       10-15 P5D:
         name:
           en: Aunty Tek Spice Word Festival
         type: observance
-        id: 85ec9819-6b07-45b1-85b9-aca71a005de0
+        id: 1d3e6510-a549-4a21-a049-8b0aed470116
       10-25:
         name:
           en: Thanksgiving Day
-        id: dc8225d9-e69d-4bd0-bcab-0e6b28c17710
+        id: 9f6b49a9-825c-4a49-bb3f-623fa15b12a6
       12-04 P3D:
         name:
           en: Camerhogne Folk Festival
         type: observance
-        id: b649ac2e-89c1-479c-978b-1eb72ed8fde8
+        id: ddd144b9-86ec-42d7-8bb6-7f369454c744
       12-25:
         _name: 12-25
-        id: 0a412b52-bef3-4ef2-85cd-21f4a7c04170
+        id: ad2be98e-7080-4a11-8590-d5fdea82cc78
       12-26:
         _name: 12-26
-        id: 50b6aa85-e760-41c8-846d-172c13068122
+        id: 62ec5512-e56d-4f47-87c2-e780b48aad6c

@@ -16,50 +16,50 @@ holidays:
         name:
           bn: শহীদ দিবস
           en: Language Martyrs' Day
-        id: a6c3fcf0-2204-4102-8c3d-a63f91c884cd
+        id: 2793fb63-07a9-4ddc-9b7c-cfb073403e54
       bengali-revised 12-3:
         name:
           bn: মুজিব জয়ন
           en: Mujib's Birthday & Children's Day
-        id: 54f7458f-cd7b-471f-8490-e121c765b169
+        id: 93f45cdd-373a-4df7-b646-b5e9ee78536c
       bengali-revised 12-12:
         name:
           bn: স্বাধীনতা দিবস
           en: Independence Day
-        id: 61140265-2cb3-4ed1-a0ee-ba42247646c8
+        id: ee6173d9-49c7-4823-8fea-9f9cf8b61621
       bengali-revised 1-1:
         name:
           bn: পহেলা বৈশাখ
           en: Bengali New Year's Day
-        id: c011709f-d8b8-483a-b586-cf14ff87bbde
+        id: a6d4d92b-1619-4863-a2bf-b01c4ea4fcab
       bengali-revised 1-18:
         _name: 05-01
         name:
           bn: মে দিবস
           en: May Day
-        id: a5546aaa-189e-43ba-8481-6d90c25e1595
+        id: 4433fefb-d0a4-422a-9dd4-1fe4de1b8fd6
       bengali-revised 4-31:
         name:
           bn: জাতীয় শোক দিবস
           en: National Mourning Day
-        id: 6902d60a-3a39-4161-923c-151667a70c3d
+        id: e5dfe927-e25b-4807-839c-c0f774d529e1
       bengali-revised 9-2:
         name:
           bn: বিজয় দিবস
           en: Victory Day
-        id: ca853b38-a690-4423-adaf-d1ff6b464ab0
+        id: 26a8e506-72e9-4db3-b74e-570ee3202f23
       10 Muharram:
         _name: 10 Muharram
-        id: 2fd94f73-1b01-46e9-a947-708e59908222
+        id: 7d2ee33f-b7b0-45d3-819d-ae0b8ab5df91
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: ef26fbbd-6a87-4fb0-97ed-777f5abad610
+        id: 0904491a-ee42-4e9c-8071-5efceeec9322
       1 Shawwal P3D:
         _name: 1 Shawwal
-        id: a11de119-ff6e-4bd0-afbb-3a4d8caa8749
+        id: f228377b-44bb-44c6-b6c4-8917d8fdd8fb
       10 Dhu al-Hijjah P3D:
         _name: 10 Dhu al-Hijjah
-        id: 600b2cb9-9a8b-42bd-b938-38d1cb78e889
+        id: bc4ac1d4-60ad-43d6-9900-8434f45e2e40
       05-19:
         name:
           bn: বুদ্ধ পূর্ণিমা
@@ -76,7 +76,7 @@ holidays:
           - '2018-05-19'
           - '2019-05-19'
           - '2020-05-19'
-        id: 1f5714fb-a749-4df0-8964-4d709b95aac0
+        id: 6fda4b07-2d74-4b85-b079-196625467e10
       08-24:
         name:
           bn: জন্মাষ্টমী
@@ -93,7 +93,7 @@ holidays:
           - '2018-08-24'
           - '2019-08-24'
           - '2020-08-24'
-        id: fa044b5d-371e-4c03-96fa-02f9da7505a7
+        id: cb544eaf-1424-4c71-beca-b99a749fadbc
       10-08:
         name:
           bn: দুর্গা পূজা
@@ -110,22 +110,22 @@ holidays:
           - '2018-10-08'
           - '2019-10-08'
           - '2020-10-08'
-        id: 1a780883-777c-4d15-bb89-2571c8196ddd
+        id: 7d8e16f7-ec55-4fc1-8f82-448cf256bc19
       bengali-revised 9-11:
         _name: 12-25
-        id: af8fe5ab-0b39-4133-a73a-f42a7cbfc03d
+        id: 5740d6a0-1d05-4cc1-adf5-03858ea89992
       03-25:
         name:
           en: Genocide Remembrance Day
         type: observance
-        id: ee748c67-69cb-43db-8bdf-0eae5242fa3a
+        id: 0fdbfac1-17a3-4dc8-8a23-ca3b6c7030ae
       11-21:
         name:
           en: Armed Forces Day
         type: observance
-        id: 9142e36b-b32e-4e9c-ae7e-b7cdcc8fd5bb
+        id: 0b1a5b01-ffc0-4137-a5c5-3067a3dcb74f
       12-14:
         name:
           en: Martyred Intellectuals Day
         type: observance
-        id: 1ccea9ef-3ecc-4c43-b43c-edbafbcecf91
+        id: bff9a23a-909a-48e9-a715-9b02025d6418

@@ -10,32 +10,32 @@ holidays:
     days:
       02-27:
         _name: Independence Day
-        id: 995056f9-6895-4c52-ad8d-f74632ec00f1
+        id: 669efa06-5b02-4a6c-a83f-c4830d6b87be
       03-08:
         name:
           en: First Martyr
-        id: 7ad52d3d-04fe-4204-9e19-997b7d69abb8
+        id: 7e311e73-913c-43ac-8889-0f84161d2eaf
       05-10:
         name:
           en: May 20 Revolution
-        id: f7019cd7-1665-48c1-8577-cc037e483e65
+        id: 063d216d-f442-44d7-9624-a5acbc4d71f0
       06-09:
         name:
           en: Day of the Martyrs
-        id: b1c07c66-f746-49d9-b0b6-496689624899
+        id: 746a0b88-6ada-4600-9442-4814b2ef60a7
       06-17:
         name:
           en: Day of National Unity
-        id: 2b11e04b-eb25-48fe-90a6-f72dd006eab3
+        id: 150ed79c-d879-43dd-a804-e28b4cce6971
       1 Muharram:
         _name: 1 Muharram
-        id: d588f125-d2a5-421c-9ef9-7c7ee0f83923
+        id: cb06fc63-486c-4dbe-b68f-9d7c67cb7500
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: 9ccdd7a6-8da2-41e7-9d06-7ff5349bb817
+        id: 9907c71c-2ab3-446c-9987-bf0aa898873c
       1 Shawwal P2D:
         _name: 1 Shawwal
-        id: 3ff4ad30-f617-44c3-934c-f6e4e5bbd831
+        id: 948754b0-f639-4cbb-aa4a-592eb91024e4
       10 Dhu al-Hijjah P2D:
         _name: 10 Dhu al-Hijjah
-        id: be2e7151-d371-422b-ad7d-c53723651235
+        id: 6a49940d-3fd3-41e7-9a76-eebcf040850c

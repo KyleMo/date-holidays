@@ -13,34 +13,34 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 459505a3-6139-4702-aa21-20c47dd690b6
+        id: bed24055-5279-4370-80b0-7684538870a4
       julian 12-25:
         _name: julian 12-25
-        id: b7c07722-2bdb-41f9-ab0f-2bbe907b852b
+        id: 6b48f97d-e527-46f9-800a-3433d5dfe94b
       02-17:
         _name: Independence Day
-        id: 568e3d90-e094-4e8b-b8bc-00949ba81b10
+        id: 57210efe-2a23-4a4f-a11a-a520a03f91c3
       04-09:
         _name: Constitution Day
-        id: ec3917ba-4d5a-450a-a1e3-fafa8333d825
+        id: 4fba8214-b4ae-4a82-b1b7-52727ba28e2c
       easter:
         _name: easter
-        id: e4eb4d74-df50-4910-92ed-de426c329270
+        id: ce824ccb-2f10-4f24-9261-f52e71adac51
       orthodox:
         _name: orthodox
-        id: 0f1defd1-a845-41af-82ac-c4fca71573f8
+        id: f65e1e1f-979e-4480-bdd2-a61377458675
       05-01:
         _name: 05-01
-        id: 96c4c661-d432-44f5-b80c-b5915216970d
+        id: c8776bef-db89-4258-b8bd-557f182705a6
       05-09:
         _name: 05-09
-        id: f7df3f88-9d09-4c8e-831f-77221ecaf132
+        id: 14a0a4d6-f002-453a-a5d5-f5020c58ae41
       12-25:
         _name: 12-25
-        id: 32340845-6e17-4b15-9e86-a7e943b03e06
+        id: 6c414daf-1c00-4e6d-8abd-0bb9cc24d709
       1 Shawwal:
         _name: 1 Shawwal
-        id: 35893fb1-79c7-4147-8744-da89637db792
+        id: 6c0dc5a6-29ec-487b-a140-8c75903e5268
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 12b3a009-e6bb-4582-afc9-531926bdc480
+        id: 9e9cfe53-e0eb-48e3-8881-f8b6456b1d91

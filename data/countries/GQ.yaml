@@ -19,42 +19,42 @@ holidays:
       01-01 and if sunday then next monday:
         substitute: true
         _name: 01-01
-        id: c38f95a1-73d8-40ac-b161-47c45b2e7eca
+        id: 77483c2c-05f1-4aa1-b160-8d9b88210976
       easter -2:
         _name: easter -2
-        id: 50cbdeb5-e736-4841-bf9e-de2479389ee5
+        id: 88b9bf7a-531e-424c-837f-de696ef42b8c
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
-        id: ab4a3fd3-41a9-4a54-b11e-9d20cc75f0f0
+        id: 5b3faebd-e173-4b1b-85ae-09ced5b87815
       easter 60:
         _name: easter 60
-        id: 9101a39a-c7b2-4468-a94c-22a349886a75
+        id: 66e89373-1a03-4d2e-befe-dcd3cd2cbfc9
       06-05 and if sunday then next monday:
         substitute: true
         name:
           es: Natalicio de Teodoro Obiang
           en: President's Day
-        id: b568e230-e2c5-446b-9dad-8be7ae85f0b8
+        id: 2080087a-8bb6-4fea-873c-a54c64b61eb4
       08-03 and if sunday then next monday:
         substitute: true
         name:
           es: Día del Golpe de Libertad
           en: Armed Forces Day
-        id: dac3cbbb-a258-4ebd-a3b0-1a04d95ff716
+        id: d2d390d9-81f9-4f4c-aeec-656b26e7ff7a
       08-15 and if sunday then next monday:
         substitute: true
         _name: Constitution Day
-        id: 43b10809-979b-401a-9d4d-d0c7f29f48d9
+        id: 8efff3b2-5387-4d8f-9fc7-d33c69787cef
       10-12 and if sunday then next monday:
         substitute: true
         _name: Independence Day
-        id: 64e88175-ba88-4ace-9e65-02bb110eec06
+        id: 82fcfd98-d6b0-477d-9ed6-52ba62f42c34
       12-08 and if sunday then next monday:
         substitute: true
         _name: 12-08
-        id: c9360162-206c-4941-8118-6a7c1213b791
+        id: 56920c70-ac65-4576-a7dc-0fb8cda1bb0c
       12-25 and if sunday then next monday:
         substitute: true
         _name: 12-25
-        id: 93f51711-e649-4bef-8b3c-06a3e0b8edf7
+        id: ed212ac9-bd62-4cda-b12f-d44fc8d5f21b

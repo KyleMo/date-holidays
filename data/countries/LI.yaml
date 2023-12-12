@@ -11,97 +11,97 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 05a4ead8-25f8-4e2b-b331-cfa1965c92c3
+        id: bd7dc131-c3f0-44a9-84b4-a3de35af7020
       01-02:
         name:
           de: Berchtoldstag
           en: Berchtold Day
         type: bank
-        id: e45f82ee-e571-4646-8689-5afafe48aa10
+        id: b90ac319-7259-4bdd-b54e-ab8e17fc903c
       01-06:
         _name: 01-06
-        id: c2127589-2353-4049-a5f5-bd0a43ec39b3
+        id: 6554828a-81aa-4403-be3b-58139d4b0edb
       02-02:
         _name: 02-02
         type: observance
-        id: b025854c-a07d-4f8a-a2b4-3299875e1326
+        id: f3a1b347-691d-4179-bbb0-fae897f759a7
       03-19:
         _name: 03-19
         type: observance
-        id: f5ac9a59-0a74-4add-9dcd-92375b6e1d7e
+        id: 97bead7c-fcfe-4b69-9e0d-d42181f848a9
       easter -47:
         _name: easter -47
         type: bank
-        id: 6e1636e1-dd65-40e1-9255-7cfc04424fa7
+        id: cb81dfe6-1954-49c1-bdb0-44ce4283c33e
       easter -2:
         _name: easter -2
-        id: e76b5bc0-a210-4b33-9169-a86799e5623e
+        id: 6c06c2c2-bcd1-4549-83da-225a8ba8aedd
       easter:
         _name: easter
         type: observance
-        id: b0600f1e-7435-4491-afcd-7fbb3b6c3242
+        id: a18070a6-4f40-4aa0-af0b-3a8e746115ff
       easter 1:
         _name: easter 1
-        id: 82bbfc67-8c2c-44c1-ad26-d5e5400a8ec8
+        id: 52a7cff3-da02-4f62-9685-95e89ce92b9a
       05-01:
         _name: 05-01
-        id: ec8c3218-d767-4eba-8015-93f4be1b409f
+        id: edba0f61-7380-4c01-86ba-891e56686d1a
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: 5f34ca0f-0ad9-4e7b-85ed-a47d00e371a8
+        id: a33b4ad1-2e0f-4eeb-a3d6-b25ec32c2217
       easter 39:
         _name: easter 39
         name:
           de: Auffahrt
-        id: 1f13e88f-9f57-48d9-a946-1d94d16bf8fc
+        id: 421573dd-74b6-4d34-969e-04ca6fbd864b
       easter 40:
         name:
           de: Feiertagsbrücke
-        id: 0bda345b-9be9-46fc-802f-e56ac71fa102
+        id: d6981458-9411-4656-b499-12bda4b06079
       easter 49:
         _name: easter 49
         type: observance
-        id: e1154d33-5551-4966-99c5-cac5a76e6006
+        id: 1df6cea1-e380-4958-88ec-76e1293a037a
       easter 50:
         _name: easter 50
-        id: 70f58b3c-7f53-4a95-be42-c5caeb294d66
+        id: d50c0833-35f5-4a8f-8108-570866608314
       easter 60:
         _name: easter 60
-        id: 7e70bb3a-aaf5-4b85-9494-b52901ea5ad0
+        id: 3f92feb9-58f6-432e-a8ce-51aa2e41fc96
       easter 61:
         name:
           de: Feiertagsbrücke
-        id: 73fced78-3067-4488-9c3d-5cbfaf180141
+        id: 28a31b13-a4f8-4846-9a34-666274218679
       08-15:
         name:
           de: Staatsfeiertag
         type: observance
-        id: fa47bab3-87b5-496c-b744-ad35ab4f61cb
+        id: c35fea47-2c65-4963-9394-bbc5ab7e344e
       09-08:
         name:
           de: Mariä Geburt
-        id: ebb4ec91-b876-417b-91dd-9aee9c064318
+        id: 57e32358-2f02-4fd9-9716-e6af66a7383e
       11-01:
         _name: 11-01
         type: observance
-        id: c561c336-1fa5-4b3e-89fc-579b1fcb90f3
+        id: 1faf03e0-e839-44e4-bf32-3f26b7b0db0c
       12-08:
         _name: 12-08
-        id: 5480c505-bb3b-41ac-81ac-4ba3a5cc4cc9
+        id: 4f86c3aa-206e-46a0-874a-eb642f0a702a
       12-24:
         _name: 12-24
         type: bank
-        id: e19c69a0-6bd9-4559-a83a-ec47503dbc69
+        id: 0dd28ac9-65c9-4afd-8d81-289803ef1106
       12-25:
         _name: 12-25
-        id: 3804b885-10e0-473a-81f3-75a668e9bbf9
+        id: 1b8724a3-45dd-48e1-b5ed-6acb57c745f5
       12-26:
         _name: 12-26
         name:
           de: Stephanstag
-        id: af78a8fb-c153-40ad-86e7-f010e8ddfc72
+        id: 0cf52436-3f04-4744-a544-b13119b28612
       12-31:
         _name: 12-31
         type: bank
-        id: 2f0fb68c-a5ab-4998-8aed-539b361bda53
+        id: 72b5c8e7-7359-4e53-aeeb-2fdf16afbc14

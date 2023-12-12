@@ -13,49 +13,49 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: f81f998a-e352-46fc-8ff4-8fa1567ce3d7
+        id: 580691a9-243b-42c1-bee4-24440fa47ae0
       03-29:
         name:
           fr: Décès du Fondateur Barthélémy Boganda
           en: Boganda Day
-        id: 6382a731-26c8-4518-b848-08b03f54c825
+        id: 69a30b6c-cb7e-44bb-abdd-8c060cfa71ae
       easter 1:
         _name: easter 1
-        id: 08b60d19-d32d-4e8a-aa96-66c5d6d0920d
+        id: 587074a6-7b7a-4fdb-a13c-e0420b5db9db
       05-01:
         _name: 05-01
-        id: 293cc442-86a9-4afd-81d5-169124c204a9
+        id: 15bda131-1fd7-4242-a5c4-73bf742d4684
       easter 39:
         _name: easter 39
-        id: 76795465-7178-475a-8d8e-09df874ea07b
+        id: 9edd8554-da2f-408a-bb6c-5e960e7a6923
       easter 50:
         _name: easter 50
-        id: 6d5a4d09-460e-41a2-b230-873c02b5ea9c
+        id: f008ab63-f364-4e65-bc9f-9568e5600ee1
       06-30:
         name:
           fr: Journée de prière
           en: General Prayer Day
-        id: e0d9d7bc-831f-4658-9f9e-539e25337453
+        id: b09019f1-efa9-4401-9ff4-c4d9a65e0f0f
       08-13:
         _name: Independence Day
-        id: ad09d6b3-591a-4294-a2ee-ab963f49db3a
+        id: a387c098-95ef-4b8c-842b-83480af06973
       08-15:
         _name: 08-15
-        id: 02c460e4-c1bf-4eaf-b952-32e84d653f28
+        id: e64090d5-f95a-4f4f-b0b8-3d2996d71bdb
       11-01:
         _name: 11-01
-        id: b88beb76-5da8-418a-b3c7-721b567dcf51
+        id: 03bad112-8871-4a12-9660-b3ec0ed64cfd
       12-01:
         name:
           fr: Jour de la République
           en: Republic Day
-        id: a0b369d3-b8d7-4867-b6e1-0b57093e5d3e
+        id: 0269dddc-1b9a-4ab6-b6de-f76c6b15cd8b
       12-25:
         _name: 12-25
-        id: c116688a-0aa3-437d-992b-c824f7faec4e
+        id: de6ba4a9-b368-4d49-9496-4c0e6a2aefb1
       1 Shawwal:
         _name: 1 Shawwal
-        id: c7ab25e4-9141-41c1-beed-af43d09b48b5
+        id: f27c4c2e-f633-4aaa-9ff3-4b3327cce7aa
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: a07a81c0-2519-4c00-b8e8-d2aff0bcbfc9
+        id: 0bd11ce9-bc66-4190-86a0-5c082a095dd5

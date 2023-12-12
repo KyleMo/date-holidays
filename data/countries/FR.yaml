@@ -11,79 +11,79 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 4f09786d-d2ee-48d0-b5ab-67997d6ed644
+        id: 2f96a31a-9cb7-4ccd-96e5-799758a288f5
       easter 1:
         _name: easter 1
-        id: 41747b56-e6ac-4104-b2cd-b10f8a56807f
+        id: caa582f1-5aaf-4da5-9b80-8d78b9248f8e
       05-01:
         _name: 05-01
-        id: 8056657a-8d24-4b86-9930-fd00429759fd
+        id: a9fdd01f-a1e7-4f86-b035-73b867af3549
       05-08:
         name:
           fr: Fête de la Victoire 1945
           en: Victory Day
-        id: 77323aa5-b41c-4be1-a066-59b284f6c554
+        id: b0a8a176-880e-4c7b-b9d5-5562a7b2775a
       easter 39:
         _name: easter 39
-        id: 8497a1c3-df23-4174-bd97-e998ac521fee
+        id: 33ba0352-645f-4bba-adb0-dad6056e3202
       easter 49:
         _name: easter 49
         type: observance
-        id: 701cc76c-6993-4582-a7d1-9a3d081f58a7
+        id: fb00732b-f5cb-468f-a8c6-070c22e6abe2
       easter 50:
         _name: easter 50
-        id: ef573f19-570a-4129-bc8f-dd7f1036cb25
+        id: 94b412a0-8781-4a91-8861-a7f387e3b78b
       sunday before 06-01:
         _name: Mothers Day
         type: observance
-        id: 809f3460-eb05-4ee7-96af-81ecabf7f71c
+        id: 5f160176-5361-4c8b-a9f9-168f26bdd60f
       07-14:
         name:
           fr: Fête Nationale de la France
           en: Bastille Day
-        id: da148929-719c-4016-a29e-9108db46964c
+        id: ff020850-6889-4389-90a9-2e301df6f3a6
       08-15:
         _name: 08-15
-        id: 58715ad0-e219-4133-a9ba-14055beb8e9e
+        id: e39d4050-9d3d-4d51-8c99-a0c014d33dcd
       11-01:
         _name: 11-01
-        id: 5762fecd-cb14-4a0c-9a8d-9339907693b9
+        id: 449e9c5f-b2a5-4468-ab21-b8d279200061
       11-11:
         name:
           fr: Armistice 1918
           en: Armistice Day
-        id: b02d3ced-e009-4ebc-90e5-cfd1d1ce797a
+        id: ddd23964-58d4-41f9-9555-bf521aa20af5
       12-25:
         _name: 12-25
-        id: 6da462f8-21fc-4369-ad97-6d84a5d814aa
+        id: 2407e3dc-9050-4d5d-9b01-20114523b450
     states:
       '57':
         name: Département Moselle
         days:
           easter -2:
             _name: easter -2
-            id: 0299d0bd-3498-4b7b-ab2f-974ddd79b14a
+            id: 8a1cc50a-7d9c-4136-babb-564ecbf85780
           12-26:
             _name: 12-26
-            id: af9b9052-80ad-451b-8795-a3c092989de4
+            id: c2159248-bc7c-4614-a815-284395a48de3
       '67':
         name: Département Bas-Rhin
         days:
           easter -2:
             _name: easter -2
-            id: 0adbf57f-ccd6-47c9-aecf-1da10eb56aa8
+            id: 735e2113-ce4f-4b43-af8e-7232d2a918c3
           12-26:
             _name: 12-26
-            id: cdb444f1-c718-4468-9d37-abbc8cd0c965
+            id: c14acb10-bf92-41d7-8961-412f6e6c2383
       '68':
         name: Département Haut-Rhin
         days:
           easter -2:
             _name: easter -2
-            id: 80d8dade-3eb5-4b26-ad6e-2e5bbf8c4137
+            id: c7786a21-923e-4402-b679-0f6d0bf016fe
           12-26:
             _name: 12-26
-            id: 6e849b11-b4e1-4e38-97ec-5995cb2370ba
+            id: 1969c557-7b3a-47f2-a5e9-8b0c195eed25
       YT:
         name: Département et région d'outre-mer Mayotte
         zones:

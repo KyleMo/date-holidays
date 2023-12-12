@@ -12,59 +12,59 @@ holidays:
     days:
       01-06 in non-leap years:
         _name: 12-25
-        id: 8e027c8d-462f-4e35-b87f-b0b1b781ba00
+        id: 2331b565-9a41-4bac-8b67-97dd03d9a90f
       01-07 in leap years:
         _name: 12-25
-        id: 6459970f-be0a-44f5-b00b-82feaf39ebd3
+        id: ceffa9a8-91d2-498d-a285-27b475e57255
       01-19:
         _name: 01-06
-        id: 84b2a1f2-ff4c-4a24-8414-f75e8f2ad7d6
+        id: 10f7c5f7-6703-4bba-b132-7486ba85258c
       03-02:
         name:
           am: የዓድዋ ድል በዓል
           en: Victory at Adwa Day
-        id: 0c1d40bb-84b6-4b9d-b13a-1b1ff17f5b10
+        id: 7dac8def-8470-4e82-92af-86c36ff8cfdd
       03-28:
         name:
           am: የቀይ ሽብር መታሰቢያ ቀን
           en: Day of Lament
-        id: cada6ce1-187e-41ee-b8c9-c199b4d0d626
+        id: 8e732bae-12cb-412f-a63e-a38affad42ea
       orthodox -2:
         _name: easter -2
-        id: 23c857f8-e658-420b-9353-47c89dc62bd9
+        id: e56eba4e-c006-4970-91ba-31184cf48a60
       orthodox:
         _name: easter
-        id: ce914541-1cc7-4a5e-a61d-fc67afbb9707
+        id: 26d21c41-e4bf-4817-8196-661f9e353fae
       05-28:
         name:
           am: ደርግ የወደቀበት ቀን
           en: Derg Downfall Day
-        id: 3ba94d8b-9109-4d35-9bd5-ba7667e46800
+        id: ae346f39-b668-42fc-9482-e9451ef4854f
       09-11 in non-leap years:
         _name: 01-01
-        id: bae579e5-370b-443a-8940-97d75a9d36e4
+        id: e52aa29f-5752-4c69-bb26-9c51774894d9
       09-12 in leap years:
         _name: 01-01
-        id: 0770d1b2-cf53-4dde-8f62-ecbffeeee5cb
+        id: 15acc4d3-58ea-4cca-b9a2-46f52a90d42a
       09-27 in non-leap years:
         name:
           am: ብርሐነ-መስቀል
           en: Finding of the True Cross
-        id: faf0f924-750f-42ce-b44b-d538c87d34a9
+        id: 99127d7c-3269-4f0c-bd49-723f36a58d9a
       09-28 in leap years:
         name:
           am: ብርሐነ-መስቀል
           en: Finding of the True Cross
-        id: 49639190-e026-474d-bbb0-33a31caf2484
+        id: 5a205acf-a3c7-4f29-93fe-63a27cd81731
       1 Ramadan:
         _name: 1 Ramadan
-        id: de97c523-354f-4c6b-89c2-e0aebe194109
+        id: 292818a8-f78e-47de-b9f2-7ab043d3e91b
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: 04ee54a7-b8f9-4fdb-8d81-cc6e90034bf9
+        id: 9fe187a4-6f03-41cf-84c3-5bf019efd566
       1 Shawwal:
         _name: 1 Shawwal
-        id: 31751069-14eb-4ddc-b125-0a1999605151
+        id: 3b9964e0-2f1d-4931-aaa0-7ceb143dd72a
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 379ca752-c4ee-4f86-806d-7b920aaa73ab
+        id: 80d72789-6d92-4485-bd17-018ed9002c3e

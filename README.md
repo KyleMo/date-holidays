@@ -1,28 +1,28 @@
-# date-holidays
+# date-holidays-with-ids
 
 > world-wide holidays in gregorian calender
 
 [![NPM version](https://badge.fury.io/js/date-holidays.svg)](https://www.npmjs.com/package/date-holidays/)
 [![Build Status](https://github.com/commenthol/date-holidays/workflows/CI/badge.svg?branch=master&event=push)](https://github.com/commenthol/date-holidays/actions/workflows/ci.yml?query=branch%3Amaster)
 
-This module provides dates of holidays for various countries, states and regions
+All credit goes to [https://www.npmjs.com/~commenthol](commenthol). I have only added ID fields to holidays. This module provides dates of holidays for various countries, states and regions
 by type while considering the applicable timezone.
 
 The features are:
 
-- calculation of public, bank and observance holidays for different countries,
-  state, region, following ISO 3166-2
-- consideration of timezones for holiday checks
-- consideration of start and end time dependent on timezone
-- substitute days
-- multi-language support for all holiday names
-- setting of custom holidays
-- uses own grammar for calculation of days
-- support for islamic calendar from 1970 to 2080 (*islamic dates might not be
-  correct as they are subject to the sighting of the moon*)
-- support for hebrew calendar from 1970 to 2100
-- support for chinese calendar
-- for generation of iCal calendar check out [date-holidays-ical][]
+-   calculation of public, bank and observance holidays for different countries,
+    state, region, following ISO 3166-2
+-   consideration of timezones for holiday checks
+-   consideration of start and end time dependent on timezone
+-   substitute days
+-   multi-language support for all holiday names
+-   setting of custom holidays
+-   uses own grammar for calculation of days
+-   support for islamic calendar from 1970 to 2080 (_islamic dates might not be
+    correct as they are subject to the sighting of the moon_)
+-   support for hebrew calendar from 1970 to 2100
+-   support for chinese calendar
+-   for generation of iCal calendar check out [date-holidays-ical][]
 
 Happy holidays!
 
@@ -30,21 +30,21 @@ Happy holidays!
 
 <!-- !toc (minlevel=2 omit="Table of Contents") -->
 
-* [Supported Countries, States, Regions](#supported-countries-states-regions)
-* [Usage](#usage)
-* [Holiday object](#holiday-object)
-  * [Dates](#dates)
-  * [Name](#name)
-  * [Types of holidays](#types-of-holidays)
-* [API](#api)
-* [Data](#data)
-* [Custom builds of `holidays.json`](#custom)
-* [Bundling with webpack](#bundling-with-webpack)
-* [Browser](#browser)
-* [CDN](#cdn)
-* [Contribution and License Agreement](#contribution)
-* [License](#license)
-* [References](#references)
+-   [Supported Countries, States, Regions](#supported-countries-states-regions)
+-   [Usage](#usage)
+-   [Holiday object](#holiday-object)
+    -   [Dates](#dates)
+    -   [Name](#name)
+    -   [Types of holidays](#types-of-holidays)
+-   [API](#api)
+-   [Data](#data)
+-   [Custom builds of `holidays.json`](#custom)
+-   [Bundling with webpack](#bundling-with-webpack)
+-   [Browser](#browser)
+-   [CDN](#cdn)
+-   [Contribution and License Agreement](#contribution)
+-   [License](#license)
+-   [References](#references)
 
 <!-- toc! -->
 
@@ -566,16 +566,17 @@ Countries: 197
 ├── ZM: Zambia
 └── ZW: Zimbabwe
 ```
+
 <!-- tree! -->
 
 ## Usage
 
 ```js
-var Holidays = require('date-holidays')
-var hd = new Holidays()
+var Holidays = require("date-holidays");
+var hd = new Holidays();
 
 // get supported countries
-hd.getCountries()
+hd.getCountries();
 /*>
 { AD: 'Andorra',
   ...
@@ -583,7 +584,7 @@ hd.getCountries()
 */
 
 // get supported states e.g. for US
-hd.getStates('US')
+hd.getStates("US");
 /*>
 { al: 'Alabama',
   ...
@@ -591,18 +592,18 @@ hd.getStates('US')
 */
 
 // get supported regions e.g. for US, Lousiana
-hd.getRegions('US', 'la')
+hd.getRegions("US", "la");
 /*>
 { no: 'New Orleans' }
 */
 
 // initialize holidays for US, Lousiana, New Orleans
-hd.init('US', 'la', 'no')
+hd.init("US", "la", "no");
 // or using a new instance
-hd = new Holidays('US', 'la', 'no')
+hd = new Holidays("US", "la", "no");
 
 // get all holidays for the year 2016
-hd.getHolidays(2016)
+hd.getHolidays(2016);
 /*>
 [ { date: '2016-01-01 00:00:00',
     start: Fri Jan 01 2016 00:00:00 GMT-0600 (CST),
@@ -628,9 +629,9 @@ hd.getHolidays(2016)
 */
 
 // check if date is a holiday while respecting timezones
-hd.isHoliday(new Date('2016-02-09 00:00:00 GMT+0000'))
+hd.isHoliday(new Date("2016-02-09 00:00:00 GMT+0000"));
 //> false
-hd.isHoliday(new Date('2016-02-09 10:00:00 GMT-0600'))
+hd.isHoliday(new Date("2016-02-09 10:00:00 GMT-0600"));
 /*>
 [{ date: '2016-02-09 00:00:00',
   start: Tue Feb 09 2016 00:00:00 GMT-0600 (CST),
@@ -647,13 +648,13 @@ hd.isHoliday(new Date('2016-02-09 10:00:00 GMT-0600'))
 `getHolidays()` as well as a matching `isHoliday()` call return either a list or
 a single holiday object which consists of:
 
-* {String} date - ISO Date String of (start)-date in local format
-* {Date} start - start date of holiday
-* {Date} end - end date of holiday
-* {String} name - name of holiday using `language` (if available)
-* {String} type - type of holiday `public|bank|school|optional|observance`
-* {Boolean} substitute - (optional) if true holiday substitutes another holiday`
-* {String} note - (optional) note`
+-   {String} date - ISO Date String of (start)-date in local format
+-   {Date} start - start date of holiday
+-   {Date} end - end date of holiday
+-   {String} name - name of holiday using `language` (if available)
+-   {String} type - type of holiday `public|bank|school|optional|observance`
+-   {Boolean} substitute - (optional) if true holiday substitutes another holiday`
+-   {String} note - (optional) note`
 
 ### Dates
 
@@ -679,13 +680,13 @@ All holiday names should support an English translation.
 
 Currently the following type with their meaning are supported
 
-| type        | meaning                                    |
-| ----------- | ------------------------------------------ |
-| public      | public holiday                             |
-| bank        | bank holiday, banks and offices are closed |
-| school      | school holiday, schools are closed         |
-| optional    | majority of people take a day off          |
-| observance  | optional festivity, no paid day off        |
+| type       | meaning                                    |
+| ---------- | ------------------------------------------ |
+| public     | public holiday                             |
+| bank       | bank holiday, banks and offices are closed |
+| school     | school holiday, schools are closed         |
+| optional   | majority of people take a day off          |
+| observance | optional festivity, no paid day off        |
 
 Additionally a `note` field is sometimes available for further clarification.
 
@@ -758,25 +759,27 @@ This project also runs in all modern browsers. See `./examples/browser`
 
 | Browser | Version | Notes                        |
 | ------- | :-----: | ---------------------------- |
-| Chrome  | >=45    |                              |
-| Firefox | >=45    |                              |
-| Safari  | >=10    |                              |
-| Edge    | >=13    |                              |
-| IE      | >=11    | needs polyfill `core-js/es6` |
+| Chrome  |  >=45   |                              |
+| Firefox |  >=45   |                              |
+| Safari  |  >=10   |                              |
+| Edge    |  >=13   |                              |
+| IE      |  >=11   | needs polyfill `core-js/es6` |
 
 Please do not forget to set the correct charset!
 
 ```html
 <html>
-<head>
-  <!-- set page-wide -->
-  <meta charset="UTF-8">
-  ...
-</head>
-<body>
-  ...
-  <!-- or per script -->
-  <script src="your-bundle.js" charset="UTF-8"></script>
+    <head>
+        <!-- set page-wide -->
+        <meta charset="UTF-8" />
+        ...
+    </head>
+    <body>
+        ...
+        <!-- or per script -->
+        <script src="your-bundle.js" charset="UTF-8"></script>
+    </body>
+</html>
 ```
 
 ## CDN
@@ -787,8 +790,8 @@ Minified distribution bundles are available via https://unpkg.com
 
 See https://unpkg.com/date-holidays/dist/
 
-- `index.min.js`: commonjs2 bundle
-- `umd.min.js`: umd bundle
+-   `index.min.js`: commonjs2 bundle
+-   `umd.min.js`: umd bundle
 
 <a name="contribution"></a>
 
@@ -815,12 +818,12 @@ See [LICENSE][] for more information.
 
 <!-- !ref -->
 
-* [CONTRIBUTING.md][CONTRIBUTING.md]
-* [date-holidays-ical][date-holidays-ical]
-* [date-holidays-parser][date-holidays-parser]
-* [Holidays API][Holidays API]
-* [holidays.yaml specification][holidays.yaml specification]
-* [LICENSE][LICENSE]
+-   [CONTRIBUTING.md][CONTRIBUTING.md]
+-   [date-holidays-ical][date-holidays-ical]
+-   [date-holidays-parser][date-holidays-parser]
+-   [Holidays API][Holidays API]
+-   [holidays.yaml specification][holidays.yaml specification]
+-   [LICENSE][LICENSE]
 
 <!-- ref! -->
 

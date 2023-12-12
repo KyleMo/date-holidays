@@ -11,57 +11,57 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 1d5950b7-3a57-4d20-ba8e-a9d596ac1a33
+        id: ff216ea7-52e6-4ad3-af5d-1c7fc57fd866
       01-13:
         name:
           pt: Dia da Democracia
           en: Democracy Day
-        id: 835f26f4-e1f5-4516-a532-60e2fa2d40a7
+        id: 13043d2e-4182-405c-84ad-e33d9d9bbcb6
       01-20:
         name:
           pt: Dia dos Heróis Nacionais
           en: Heroes' Day
-        id: 817bf6a3-7855-4e44-a991-6e656f47872f
+        id: 0df3f620-5638-4599-9fc8-e647ab26e3ff
       easter -47:
         _name: easter -47
-        id: 25180347-1ff4-41d7-9cb6-af4c973720a6
+        id: a1972297-ff41-4da4-a6e6-4c27e24bfa9b
       easter -46:
         _name: easter -46
-        id: 607ce8cf-674c-419a-ac5b-24d690577054
+        id: 6b0b42dc-ca40-49e7-98dc-d9d3d1354699
       easter -2:
         _name: easter -2
-        id: 91af3571-454f-4a51-b27b-61f18703bc3a
+        id: a1cacdaf-daca-4bd8-bedc-6707a47474c8
       easter:
         _name: easter
         type: observance
-        id: ca872866-a0b1-4030-9ddf-45085ebd999d
+        id: c1e1e37f-9415-4ed2-a179-dca28e7b4023
       05-01:
         _name: 05-01
-        id: 15759c2f-5b46-4b53-8b71-fe1de7458cba
+        id: 1a460d09-407a-464a-b9e2-5fc97157cafa
       06-01:
         name:
           pt: Dia das Crianças
           en: Children's Day
-        id: a862cb7d-0375-4456-ac56-06fb825f2275
+        id: 323cee81-f394-451d-9770-13b7fdca95fc
       07-05:
         _name: Independence Day
-        id: 159151cd-edf7-4026-af2f-3f6f13016953
+        id: d89ac212-d5ce-4d07-a254-29a55dc0121d
       08-15:
         _name: 08-15
         name:
           pt: Dia da Padroeira Nacional
-        id: 9d8620bd-c057-450b-996d-2cd8445987c5
+        id: 9459d74c-0578-4f6d-9260-931adf506ee3
       09-12:
         name:
           pt: Dia Nacional
           en: National Day
-        id: 00666008-fa7b-409e-bfb7-2d58d4f7ad65
+        id: 943acbe0-22d8-4aac-abf6-25cc6e4b03e5
       11-01:
         _name: 11-01
-        id: a3c5cde0-af62-4621-8c2a-e5c7efc19657
+        id: b6c27bee-fcdb-4a7d-87b4-af96baf78767
       12-25:
         _name: 12-25
-        id: 670a73d4-ab28-4646-8ebc-64f101dc3508
+        id: 55e2cc25-9d50-45f0-ab04-7a233155a135
     states:
       S:
         name: Sotavento Islands

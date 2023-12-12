@@ -16,35 +16,35 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 20f85dff-6382-42f2-b83e-346da821cf99
+        id: 11681f4d-576c-4a92-94f1-d064ae9eda90
       03-18:
         name:
           fr: Journée de Cheikh Al Maarouf
           en: Cheikh Al Maarouf Day
-        id: 813c99e5-c6b2-4d07-bd4f-1c24485e8c58
+        id: 5e362d64-94e6-4f4f-9ef8-6e00ff3d2653
       05-01:
         _name: 05-01
-        id: 4c440105-f9c9-498e-98f6-496376e305dd
+        id: c76c6f0d-95e0-42b9-ac6b-840abc889e76
       07-06:
         _name: Independence Day
-        id: ac9a87cf-7cf1-4b48-a579-ac5981fa8c2f
+        id: 0fda2470-3256-451c-9b34-63f853f23638
       11-12:
         name:
           fr: Journée Maoré
           en: Maore Day
-        id: f4b3fb13-3145-480b-816e-991d25d2af51
+        id: 14878018-1f36-4910-97c1-114bacd46684
       1 Muharram:
         _name: 1 Muharram
-        id: 58213594-c722-442a-961e-a6951bb24b4c
+        id: bfa756b9-99ef-451f-8079-53755969ec76
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: 45c9c423-ee34-41d1-a376-08a2722b65c6
+        id: 48eeeeaa-50be-4b96-b0e9-795e502524a1
       1 Shawwal P3DT0H0M:
         _name: 1 Shawwal
-        id: 7e564803-46af-4bf8-a8db-2620b1ce611d
+        id: abad2e63-d77b-4ee0-8c29-c8f2db27a7d8
       10 Dhu al-Hijjah P2DT0H0M:
         _name: 10 Dhu al-Hijjah
-        id: 4b2fda62-41bb-41d5-8a1b-fd8ed90c2e92
+        id: 4d12bd42-c0b3-42ae-8abc-3068ca99a445
       27 Rajab:
         _name: 27 Rajab
-        id: 72d3d1be-6acf-464c-8a92-08b7bae2e561
+        id: 883e7f4f-62a6-45ec-9fbf-aa2acde18c07

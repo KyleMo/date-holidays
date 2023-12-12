@@ -11,42 +11,42 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 10272243-eb30-41ef-bdd8-270107f811c0
+        id: f6b03938-63d5-4b3f-81b6-c83980f89cb3
       julian 12-25 P2D:
         _name: julian 12-25
         name:
           ro: Craciun pe Rit Vechi
-        id: f05936ed-eee0-4d0b-8ecf-b3f3280ff893
+        id: 67983206-35aa-4050-8a37-59dc9fa3b53b
       03-08:
         _name: 03-08
-        id: e2fc59ad-1e58-4dbe-94fc-c8ee9e483f46
+        id: ebbda31d-f3e2-4882-ad0f-1165f64c9beb
       orthodox:
         _name: easter
-        id: 4cd309c7-a28a-4fbd-9c9f-b206a58d0b87
+        id: 97f3a7f5-f389-4b44-867d-2bd9be10b868
       orthodox 1:
         _name: easter 1
-        id: b287cc63-5ef5-46c1-b6f4-68c030993d6a
+        id: 7e6cf127-1da8-444f-abb2-5d4e1ee3767a
       orthodox 8:
         name:
           ro: Paştele Blăjinilor
           en: Memorial Day
-        id: 6109d2a5-019b-4278-a824-104e108225bc
+        id: 26f2b15a-c9ff-41af-b4ad-c9fa04cc16c6
       05-01:
         _name: 05-01
-        id: b4ecced9-19fa-4c7b-a809-0ad926770f1c
+        id: 62aec3bb-973b-435c-ae10-0a6aa05bcaa1
       05-09:
         name:
           ro: Ziua Victoriei
           en: Victory Day
-        id: 000f8370-440f-480e-84f0-66395456d806
+        id: 078c617a-1553-4b7a-8425-e4ac36133cbc
       08-27:
         _name: Independence Day
-        id: 39d271fe-e6ab-4bd0-85ee-b02a57aaac5c
+        id: 6e177d21-a253-4c74-9023-f631088884b1
       08-31:
         name:
           ro: Limba noastră
           en: National Language Day
-        id: e18edd70-bc74-44fe-a60e-5abb2def97ae
+        id: bec2428e-f728-4871-83da-ec348acd61e9
       1st saturday in October P2D:
         name:
           ro: Ziua vinului
@@ -54,12 +54,12 @@ holidays:
         type: observance
         active:
           - from: 2013
-        id: 57d5d82c-329e-43f9-b65f-84942b42721f
+        id: cf2a2bf8-956e-4509-b3d2-d27b14f9fb80
       12-25:
         _name: 12-25
         name:
           ro: Craciun pe stil Nou
-        id: 6cae9b72-4cfd-4368-877d-7e6fb439f3f2
+        id: bf151a20-79b3-4f6f-a5b8-9c02dd76d855
     states:
       CA:
         name: Cahul
@@ -68,7 +68,7 @@ holidays:
             name:
               ro: Ziua Cahul
               en: Cahul Day
-            id: a86e974d-dd5d-430d-b7f6-97c4a4cff8af
+            id: 95e05e1d-823b-4674-b37e-82baa0e4f3cb
       CU:
         name: Chișinău
         days:
@@ -76,4 +76,4 @@ holidays:
             name:
               ro: Ziua capitalului
               en: Capital's Day
-            id: e5382a49-b405-4539-a0b4-f3dc5db2a784
+            id: 61d4bd37-3681-49c1-b42c-90144481918e

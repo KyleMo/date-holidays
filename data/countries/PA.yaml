@@ -12,51 +12,51 @@ holidays:
       01-01 and if sunday then next monday:
         substitute: true
         _name: 01-01
-        id: c18fd37d-2177-4572-86a8-9a5965a87a60
+        id: 72ee01a9-166c-4139-8846-eb63807cd595
       01-09 and if sunday then next monday:
         substitute: true
         name:
           en: Martyrs' Day
           es: Día de los Mártires Caídos en la Gesta Patriótica
-        id: 4657d2f7-32f8-4ff4-b1cd-2e86de1cb3ab
+        id: 9fba922d-cd28-4c88-a686-58256fcadde4
       easter -48:
         _name: easter -48
         type: observance
-        id: c04bbe51-7edf-4c64-8dc7-664b005445d3
+        id: 434ae02e-dea2-4d4d-8d24-3b558fe89d41
       easter -47:
         _name: easter -47
-        id: 939cbf3b-3b3a-44e2-b943-d94c0368c251
+        id: d06ff6e3-b931-421b-9ecb-3037da0539da
       easter -2:
         _name: easter -2
-        id: 797a80ea-fa04-4c0d-a804-31aa9213854f
+        id: 0e02669e-81bd-4a69-86f5-537c38e90888
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
-        id: 161095ee-0b02-4f6e-b196-a13d0a00731b
+        id: 2ab26b74-26fa-4725-9cee-fa721e0e2e48
       07-01 every 5 years since 2014:
         name:
           en: Presidential Inauguration
-        id: e0d538da-1e55-40e2-92fc-707b14bf180c
+        id: e881b5a1-10e2-46c1-a1d1-80ce4889ecdd
       11-03 and if sunday then next monday:
         substitute: true
         name:
           en: Separation Day (from Columbia)
           es: Día de la Separación (de Colombia)
-        id: b70967b3-6f5c-417f-b5d3-e2c7329050ea
+        id: 4681f2a5-250f-4698-b1b9-9a7bd39fd129
       11-10 and if sunday then next monday:
         substitute: true
         name:
           es: Primer Grito de Independencia
-        id: 96bdef23-b846-42c1-a842-51feb6f1f8b6
+        id: 9e694cc9-8590-4c08-bba5-f0555bc82e9b
       11-28 and if sunday then next monday:
         substitute: true
         _name: Independence Day
-        id: 4dedaf1f-19ad-4595-831a-b072375065f3
+        id: 9c21f395-9167-4c76-b396-51746e31d559
       12-08 and if sunday then next monday:
         substitute: true
         _name: Mothers Day
-        id: ac69b8e0-a074-4bc0-aac9-1489393769fb
+        id: 86f27df9-1162-4ff9-9a53-c69861b0de9c
       12-25 and if sunday then next monday:
         substitute: true
         _name: 12-25
-        id: 2f0abcdc-4dce-4b4d-a5f5-445c4e215d68
+        id: f8e4e5a5-c2b8-4d7a-9e1b-266161988206

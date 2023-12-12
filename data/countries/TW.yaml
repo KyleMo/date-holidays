@@ -15,95 +15,95 @@ holidays:
         name:
           zh: 中華民國開國紀念日 / 元旦
           en: Founding of the Republic of China
-        id: cdd552c4-b1cb-44dc-bc19-634633d9ddc2
+        id: ad3b3d20-d2b9-4961-87f9-ef655cab080b
       chinese 01-0-00:
         name:
           en: Chinese New Year's Eve
           zh: 農曆除夕
-        id: 30cc6a25-8169-4531-9fce-3ff9b9b7d71d
+        id: 7a9d5361-128f-4597-87e8-e5caaa88c6d2
       chinese 01-0-01:
         name:
           en: Chinese New Year
           zh: 農曆年初一
-        id: 811ce121-d76a-4118-ad5b-e2893c90cb18
+        id: 4b1a81d4-526a-443b-979d-f800dc043da0
       chinese 01-0-01 if Monday then next Friday if Tuesday then next Saturdayif Wednesday then next Sunday if Thursday then next Monday if Friday then next Tuesday if Saturday then next Wednesday if Sunday then next Thursday:
         name:
           en: Chinese New Year Holiday
           zh: 农历新年假期
-        id: cff26141-98ba-4201-ae69-dd3c29c6dbb4
+        id: 67257b23-051d-4457-ba80-57504ab17e1d
       chinese 01-0-02:
         name:
           en: The second day of the Chinese New Year
           zh: 農曆年初二
-        id: a0a32c90-4cde-43ce-9629-d1d388d40a48
+        id: be0d0b47-c9c5-4aa9-91b8-32ad389baf96
       chinese 01-0-03:
         name:
           en: The third day of the Chinese New Year
           zh: 農曆年初三
-        id: 0fd571f3-a893-4317-818d-9076ccf60502
+        id: 1320bbab-83b6-4228-b56a-aa0760537799
       chinese 01-0-04:
         name:
           en: The forth day of the Chinese New Year
           zh: 農曆年初四
-        id: 2ec12879-fc88-47db-9569-deff57c6eed2
+        id: 74f3e2c2-cab1-4c8b-b743-0f3a5f837835
       02-28 and if Sunday then next Monday:
         substitute: true
         name:
           en: Peace Memorial Day
           zh: 228和平紀念日
-        id: 73238a5b-26c4-4540-b325-00524d1647fb
+        id: ea4e148e-b031-4f1e-a49f-0ed56ebce64b
       04-04 and if Sunday then next Monday:
         substitute: true
         name:
           en: Children's Day
           zh: 兒童節
-        id: a420f1ba-fa30-40be-8312-b79af6a63461
+        id: ae84bd0c-419e-413e-b189-ea61d5b9fdd0
       chinese 5-01 solarterm and if Sunday then next Monday:
         substitute: true
         name:
           en: Tomb Sweeping Day
           zh: 淸明節
-        id: 9d4096d6-c74c-4f30-bfed-7087d80a034f
+        id: c316cbb4-9d82-4846-8e2a-d108156bc3b5
       chinese 05-0-05 and if Sunday then next Monday:
         substitute: true
         name:
           en: Dragon Boat Festival
           zh: 端午節
-        id: d8fb878f-bca2-40f5-9870-2482eefe7817
+        id: 70745396-36a1-415d-ad08-ffa1096dabe7
       chinese 08-0-15 and if Sunday then next Monday:
         substitute: true
         name:
           en: Mid-Autumn Festival
           zh: 中秋節
-        id: c3da6d48-d9eb-4a76-bc41-038ba424eb98
+        id: 63b1810c-fea8-442b-a7a6-e89309cec39b
       10-10 and if Sunday then next Monday:
         substitute: true
         name:
           en: National Day / Double Tenth Day
           zh: 國慶日 / 雙十節
-        id: 8c94e605-dc66-496c-b6f3-dc99107fdf6f
+        id: e84ba344-2fed-46a2-9738-d8fbe1439502
       02-04:
         name:
           en: Farmer's Day
           zh: 農民節
         type: observance
-        id: 4d23e38d-74fa-4e88-aa1b-1dc8aba0b5d9
+        id: d23850a8-f99c-4f77-9584-557f6c63661e
       03-08:
         _name: 03-08
         type: observance
-        id: 6be76bf0-4593-4cef-9267-ba763aa4a958
+        id: 13aa74e0-7498-4aef-a0f0-385245a773d5
       03-12:
         name:
           en: Arbor Day
           zh: 國父逝世紀念日
         type: observance
-        id: 07f3838e-d0f4-4e09-ae05-46c5b5b1baf0
+        id: cd90c654-6459-4a45-99dc-bf71ab668f1e
       03-29:
         name:
           en: Youth Day
           zh: 靑年節
         type: observance
-        id: 79b72bd4-8119-4b48-aaa3-7afaa326112e
+        id: 301d0cd2-6e9e-4a27-a6db-146d53a0d439
       05-01 and if Saturday then previous Friday if Sunday then next Monday:
         substitute: true
         _name: 05-01
@@ -111,155 +111,155 @@ holidays:
           zh: 勞動節
         type: observance
         note: private sector
-        id: 2ae14c9f-bcab-4dc0-8e45-5e815980eaac
+        id: 0687edab-774a-4785-bde6-b54e5778be4b
       05-04:
         name:
           en: Literary Day
           zh: 文藝節
         type: observance
-        id: b65bfc44-aae7-40c1-adbb-373c2a938ae6
+        id: 1f119746-cb10-4b92-8d54-d37ab42daacc
       2nd Sunday in May:
         _name: Mothers Day
         name:
           zh: 母親節
         type: observance
-        id: b9a8deee-0dbf-4f92-89dc-990a57c40397
+        id: e0ffbe1a-c5b0-42a5-8b63-46752daf1f34
       06-03:
         name:
           en: Opium Suppression Movement Day
           zh: 禁菸節
         type: observance
-        id: 69f8cdc6-c8d0-4d75-a7bc-55782df3b70d
+        id: 083fab63-31e5-4485-8641-bc55da1b8d4f
       08-08:
         _name: Fathers Day
         name:
           zh: 父親節
         type: observance
-        id: 7e7445d6-17c8-4421-98c8-6cad199959a4
+        id: 29432360-fd5b-44bd-aaf2-70c6654b2f52
       09-01:
         name:
           en: Journalist' Day
           zh: 記者節
         type: observance
-        id: 196bb993-8905-4558-bdf5-ef834009ddec
+        id: 1da99bda-a337-4c48-89d3-63610af8203c
       09-03:
         name:
           en: Armed Forces Day
           zh: 軍人節
         type: observance
-        id: 264a374b-fc36-410f-82e4-e9c5b1461043
+        id: 0072c6e4-3df2-4615-8cf7-b7adc13e64bc
       09-28:
         name:
           en: Teachers' Day
           zh: 孔子誕辰紀念日
         type: observance
-        id: 6604dc64-3eb1-437a-80ef-6811a1d84be6
+        id: a6e6d854-63a5-4da3-9151-ee02f362149b
       10-21:
         name:
           en: Overseas Chinese Day
           zh: 華僑節
         type: observance
-        id: a1505c61-f09f-4cf7-9329-464eacfc8f4c
+        id: ae314943-9986-4eef-973f-580c5f79543c
       10-25:
         name:
           en: Taiwan Retrocession Day
           zh: 臺灣光復節
         type: observance
-        id: be3b3065-512c-4ca4-af90-9ea0a2d650bf
+        id: 54ace656-dfd8-4511-b043-979143715f91
       11-12:
         name:
           en: Sun Yat-sen's Birthday
           zh: 國父誕辰紀念日
         note: Also Doctors' Day and Cultural Renaissance Day
         type: observance
-        id: cfc02ca5-7dda-4e36-adfd-b1ae28bf9a18
+        id: 127832d9-3e96-4c9b-a08d-1097a1ddb9e1
       december solstice:
         name:
           en: Dongzhi Festival
           zh: 冬至
         type: observance
-        id: 68b506c7-7030-4aaa-81b2-e6008beee66c
+        id: 9347aa0d-a2be-46b2-95ea-59e8cc168240
       12-25:
         name:
           en: Constitution Day
           zh: 行憲紀念日
         type: observance
-        id: 62bbb984-ad0f-4d79-aed2-af0b37bc7f5a
+        id: 1be7925d-8765-478f-95c1-89a704983c92
       chinese 01-0-15:
         name:
           en: Lantern Festival
           zh: 元宵節
         type: observance
-        id: 0ca2887b-6ecd-4663-8271-57eaf9537d21
+        id: 978714a8-9ae0-4867-8059-5bb66977da01
       'chinese 01-0-15 #1':
         name:
           en: Tourism Day
           zh: 觀光節
         type: observance
-        id: b46ff7fb-f663-43ba-8bfb-a32ecb62510a
+        id: f0dabd7a-2774-4e27-9edb-3d7b56ed3aa1
       chinese 02-0-02:
         name:
           en: Earth God's Birthday
           zh: 土地公誕辰
         type: observance
-        id: b994b528-043d-4d57-b482-f022b8ff2251
+        id: 6498f518-1ced-4cce-b255-9d536b78cafc
       chinese 02-0-19:
         name:
           en: Kuan Yin's Birthday
           zh: 觀音誕辰
         type: observance
-        id: 51778052-5d20-41ba-a5ef-2e1351ba1c37
+        id: 766c0b68-f2fa-4f00-86ca-5ff959c790f7
       chinese 03-0-15:
         name:
           en: God of Medicine's Birthday
           zh: 保生大帝誕辰
         type: observance
-        id: c70efa07-5ff2-4b13-8881-f2c51d975c88
+        id: fa92eebf-1808-47ad-9367-3ccc6e46b6fd
       chinese 03-0-23:
         name:
           en: Matsu's Birthday
           zh: 媽祖誕辰
         type: observance
-        id: 83a5cb9c-1123-4ade-8b7f-120cfbb16e59
+        id: d369eac5-7268-45ec-ac84-a3543ec3b01b
       chinese 04-0-08:
         name:
           en: Buddha's Birthday
           zh: 佛誕日
         type: observance
-        id: 8d501c58-ee4e-4be8-9295-e664c7224cbf
+        id: 82a6e1c0-9620-48de-8d02-93280f8cb520
       chinese 05-0-13:
         name:
           en: Kuan Kung's Birthday
           zh: 關公誕辰
         type: observance
-        id: 9c4070dd-78a4-4536-841a-4d3b29aac278
+        id: 8509164e-bcc8-48e1-b868-2f55f943f26d
       'chinese 05-0-13 #1':
         name:
           en: Cheng Huang's Birthday
           zh: 城隍爺誕辰
         type: observance
-        id: 70f94588-fd49-406e-9d7a-893aa7e9cd75
+        id: 05bca0a0-14c8-4a5f-86ed-3528b640a417
       chinese 07-0-07:
         name:
           en: Qixi Festival
           zh: 七夕
         type: observance
-        id: fb145abf-9f9a-48f2-bb8c-d75eec1382f7
+        id: 0090047d-cfd1-4e4d-bb01-3562a5f941b7
       chinese 07-0-15:
         name:
           en: Ghost Festival
           zh: 中元節
         type: observance
-        id: b449ea36-eec4-412d-878e-ba6df7ffa276
+        id: ac018c5c-5068-40f9-ace4-79aa1f292bf9
       chinese 09-0-09:
         name:
           en: Double Ninth Festival
           zh: 重陽節
         type: observance
-        id: 98a719be-f0c2-458e-9f42-6e8cd2374b80
+        id: 778300f2-4eeb-40cc-acfb-06c3a7520ed5
       chinese 10-0-15:
         name:
           en: Saisiat Festival
           zh: 賽夏節
         type: observance
-        id: ab719833-512e-4c44-a98a-4cc7b9de1333
+        id: aad1a40b-59e1-450a-a3b2-2ef678b9c118

@@ -11,68 +11,68 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 40539c2f-6376-4ad9-9ae0-53d2e5af9c64
+        id: 97cf8cdf-a58c-48a9-8754-2da29f96110d
       julian 12-25:
         _name: julian 12-25
-        id: c73634ac-911f-4e0f-96d8-16a10e8abad1
+        id: 8563833d-6a06-4fba-993d-6679540b49bf
       julian 01-06:
         _name: 01-06
-        id: 11c373d9-1694-4890-aa4d-4c3fdcedfb1b
+        id: 05b09fad-3b64-4bc6-94a3-99e9e4079c9e
       02-10:
         name:
           ti: ፈንቅል
           en: Fenkil Day
-        id: 5a7cdd3e-ff4e-41b0-b36f-bce77625cb2c
+        id: 7a8b5b02-31a3-4cc2-814a-f110e9c901a8
       03-08:
         _name: 03-08
-        id: 9e83cbe9-e32d-4d50-b5d6-f0300b68290b
+        id: 7a6336a0-e80f-40d1-b20d-12f9d4f2228a
       orthodox -2:
         _name: orthodox -2
-        id: a341ac25-0fa1-4f22-89a5-cea30cfe6e03
+        id: cc3611a1-7f7e-4bd0-8127-bf22cd0c3ebd
       orthodox:
         _name: orthodox
-        id: 4135eb7b-1c88-4dea-8626-398ffdb37f63
+        id: 2c1336b1-4da8-462d-9b8e-2f50424c7ac0
       05-01:
         _name: 05-01
-        id: ef20f38f-6d51-4a8b-828b-d24bda764cdf
+        id: a5cd7134-f550-4d22-be20-df9829b3f0a0
       05-24:
         _name: Independence Day
-        id: 813baf31-9813-4633-a971-1f3a9e8b5a41
+        id: 1e7dd1d3-75c1-4882-9cc0-d393ad859a7d
       06-20:
         name:
           en: Martyrs' Day
           ti: መዓልቲ ስውኣት
-        id: c851fe84-3e81-4e30-a138-f4c302722b42
+        id: a78ce1b4-a83d-47d9-9607-2f03c8874130
       09-01:
         _name: Revolution Day
-        id: 10d79ee5-c071-4a3f-baa1-f77b59410f02
+        id: 14c4f751-d863-46bf-ad6c-06f2dda3d7b1
       09-11 in non-leap years:
         name:
           en: Geez New Year
           ti: ግዕዝ አዲስ ዓመት
-        id: eed03497-36df-496b-b9f9-41885fff0a37
+        id: e51d6c35-d1e4-40d4-a74d-7e9fa2843683
       09-12 in leap years:
         name:
           en: Geez New Year
           ti: ግዕዝ አዲስ ዓመት
-        id: 520a63e0-f44e-4aeb-a111-5da094ced65a
+        id: dce8893c-9d8f-46d0-b3e1-247654d9f0ee
       09-27 in non-leap years:
         name:
           en: Meskel
-        id: 0bd20e32-b073-4378-be38-05ba7cd8dac9
+        id: b6586343-de66-4ef5-bb54-1c864f83ca2c
       09-28 in leap years:
         name:
           en: Meskel
-        id: f4b0b784-d388-4944-b26e-023d1c56fe76
+        id: 49ae7511-227a-467f-a1d9-8de90d656b97
       12-25:
         _name: 12-25
-        id: 95c17bcb-8dd7-4167-8f3a-c036b0e3b54d
+        id: 900d6d2c-83a7-4417-badc-989f2b2c7f6a
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: d73ab9a7-8f09-4dee-ad8b-2ac3a8331fe1
+        id: d6d8657f-24e9-49ea-a514-b0a728301d9e
       1 Shawwal:
         _name: 1 Shawwal
-        id: 64b7e5a2-a1b5-4dda-a955-957c86c6329e
+        id: 806a8512-6d9d-4d29-8981-80c38b2a5614
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 749ca5ab-f9cd-4cc0-a0a7-1ccee03becaf
+        id: 4a866375-c40f-481c-b9e4-a3b30f3759d9

@@ -11,53 +11,53 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: c31fcb6c-cd53-45eb-9709-54fa28f4992a
+        id: d01ac312-3f99-4172-952f-ea429873165b
       01-06:
         _name: 01-06
-        id: 19b63375-a7c5-4787-8dd2-ab936483160f
+        id: 520bb5d1-7d39-4028-9296-f53b8ff63a75
       easter:
         _name: easter
-        id: a8aa50e0-acec-44ba-917c-f68e5f4df9cf
+        id: 0aeed1c8-3cdd-4965-82c8-0ac9df00f1ca
       easter 1:
         _name: easter 1
-        id: 3c83d3d4-f57f-4038-90ef-5a3867921859
+        id: abe88192-0f0f-4f01-9c87-95ea0c540bd0
       04-25:
         name:
           it: Anniversario della Liberazione
           en: Liberation Day
-        id: dc0cb1c4-101e-4140-bf49-ffbae94e9a59
+        id: 1b7efff6-b0dc-48d9-8335-00c78220d2bc
       05-01:
         _name: 05-01
-        id: 6855ab1d-612e-496c-8a56-a49cada640f1
+        id: e3a21b15-3d59-46f7-aacf-5032880c40ab
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: b85ae962-e956-4f1a-b12b-00e0f319b101
+        id: 9a8560ff-e8c5-4452-b275-dd7e04d724e1
       06-02:
         name:
           it: Festa della Repubblica
           en: Republic Day
-        id: 4d166f26-1c42-4443-85f0-570b65b74ca2
+        id: df59efbd-654a-4489-a943-3bfdc1fe7e3b
       08-15:
         _name: 08-15
-        id: 84787714-6556-4c56-b03f-c5860024ac9a
+        id: fe94223c-aa50-42b1-b395-8a57894016e5
       11-01:
         _name: 11-01
-        id: 6039ae0b-9e1a-43d3-8668-22d8cae89407
+        id: 637f8040-a67e-4411-beaf-4f5e42128c66
       12-08:
         _name: 12-08
-        id: f501541e-38e7-4e58-9fa0-7ff8b165f19c
+        id: e7273b4e-c232-4f4d-b285-502798c563aa
       12-25:
         _name: 12-25
-        id: f60dba13-476e-4e80-82a2-dee5e2f033d4
+        id: 5f1ee50f-ccd5-4843-ab5b-c30655ebabfe
       12-26:
         _name: 12-26
-        id: 0b100d9f-d84e-4762-b169-4a4ca7304790
+        id: 2b4899b1-4491-4310-98ce-f6a791657003
       '2011-03-17':
         name:
           it: Festa Nazionale 2011
           en: National Day 2011
-        id: 1eceff4f-8bfc-4c55-9a0f-b3ace3425f58
+        id: a46eb386-8175-4448-99bb-ad73041fbffd
     states:
       '25':
         name: Lombardy
@@ -75,4 +75,4 @@ holidays:
         days:
           easter 50:
             _name: easter 50
-            id: cb28fa18-73b7-4682-8fd2-13eb22e8e145
+            id: 34a0fc38-38aa-4345-9e9b-0c8c85bdfee9

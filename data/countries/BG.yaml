@@ -10,71 +10,71 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 6be543f3-609a-482e-bda2-3a4b769caa7e
+        id: f17abecd-8c35-4160-88d6-57285c1da2da
       03-01:
         name:
           bg: Баба Марта
           en: Granny March Day
         type: observance
-        id: 1ff2cd60-f52c-425b-9a4d-dbdc1582e2ab
+        id: cdedf11f-e5c5-4ded-b5ad-985686bc58f5
       03-03:
         name:
           bg: Ден на Освобождението на България от Османската Империя
           en: Liberation Day
-        id: 0134ff39-42b7-4a65-97ee-0ba4c5a693bb
+        id: f55b6a40-b815-4a6e-8b85-4ed6b0e957bf
       03-08:
         _name: 03-08
         type: observance
-        id: 9a2ace4e-b759-4b20-b982-3b7239bf7c12
+        id: ca591527-e0ec-42b7-a191-89d3269bff21
       orthodox -2:
         _name: easter -2
-        id: 43f7507a-8aed-4875-b210-e6a7ee365ea5
+        id: 8f4c6635-f7f2-4a4c-9755-cf07431ba3d3
       orthodox:
         _name: easter
-        id: 0bda6bdf-994c-4c98-9d91-9fff4dd6b0e1
+        id: da12bab9-da94-41e1-abb2-1ae368e893e8
       orthodox 1:
         _name: easter 1
-        id: cffab9ca-7ccd-4fed-936a-4592b8ca0d7d
+        id: fe595547-2c64-41e7-837e-28c325d14301
       05-01:
         _name: 05-01
-        id: 23aa0832-376b-4463-b2a3-9044d546e899
+        id: 58f86e2d-3d06-43a3-ac67-fb28126a8e6e
       05-06:
         name:
           bg: Гергьовден
           en: St. George's Day
-        id: 2c3d2bdf-a1e5-44f8-9476-8fb1e334ad80
+        id: b01a8733-f56d-4c41-ac6b-d187f75cea27
       05-07:
         name:
           bg: Ден на радиото и телевизията
           en: Radio and Television Day
         type: observance
-        id: 272c6a92-dd73-41de-ae0c-c12dbdf60157
+        id: 3c778f71-5d47-416b-a331-4b583f84f6a9
       05-24:
         name:
           bg: Ден на азбуката, културата и просветата
           en: Bulgarian Education and Culture, and Slavonic Literature Day
-        id: fd3fd383-2df0-4f10-ab71-2cb2ebde83e8
+        id: b58f3eff-4399-46fd-85ee-3a980d0f650d
       09-06:
         name:
           bg: Ден на съединението
           en: Unification Day
-        id: 9ee3337d-df32-4990-9acf-0dc2ee08b001
+        id: 38b75166-9dd3-4097-a943-8f6e4c66e37f
       09-22:
         _name: Independence Day
-        id: c5e16547-7960-40ed-a7f3-9223fd5ee2f8
+        id: a1e064c2-9c1b-4178-86f2-f717e9c2d2af
       11-01:
         name:
           bg: Ден на народните будители
           en: Revival Leaders' Day
         type: school
-        id: 879d3b5b-288a-40f8-9b4b-1b7c0188b1e0
+        id: f3933f83-61cc-46c5-bdb8-a225e6b74afa
       12-24:
         _name: 12-24
-        id: d78bd422-617f-4678-b383-d33517e9191b
+        id: 6d652b2d-b0d8-42c8-9cf7-24762a0dd8d5
       12-25:
         _name: 12-25
-        id: 4e77c8cc-7868-44a3-aaf0-761582dd917d
+        id: 8c828882-cf9a-42e5-a3d5-915e0e4c44e1
       12-26:
         _name: 12-26
         type: observance
-        id: 579e205b-1327-4fa4-b6a4-1d0cdc6c50cf
+        id: ff097e06-4bb0-44b7-b5cf-fdb3c4e20b01

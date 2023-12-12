@@ -10,54 +10,54 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: a8cc3fd8-c0ba-4d6d-a44b-82b6f1a74cc4
+        id: e4e9dfd6-fdcf-42ce-bc81-1f4698790620
       01-10 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: Majority Rule Day
-        id: a0782900-770b-46bd-a777-e2f9429e42e5
+        id: 978acfc8-b0f3-4d90-83b9-a3692ee83593
       easter -2:
         _name: easter -2
-        id: b2e2cc27-9d27-4c76-8f5d-dd59c7bd5dfd
+        id: 15c63ec0-06f4-4f26-b389-256aae3a560d
       easter:
         _name: easter
         type: observance
-        id: 45259139-d1aa-409e-81bc-766864a66244
+        id: c00a62d2-b4e9-4170-a878-d3dbb907abb3
       easter 1:
         _name: easter 1
-        id: c455c184-8713-4128-b6b0-5c58aeac73c7
+        id: f2a245bd-6631-46fa-950f-3e6561bf0968
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: 78d55e6b-a887-4138-9e07-1b48b4519211
+        id: c5d24a06-4587-44b8-bb98-963aed6f43cb
       easter 49:
         _name: easter 49
         type: observance
-        id: 7d491c99-3bf8-4b57-af52-9a65a2b88395
+        id: c4847dd1-4349-4586-959c-e5235d2ee119
       easter 50:
         _name: easter 50
-        id: ce134cf2-ab75-47e5-850d-db0056ed31bc
+        id: 9effcf92-e7cf-489e-bb1e-81a7ec5cd932
       1st friday in June:
         _name: 05-01
         name:
           en: Randol Fawkes Labour Day
-        id: ddb23bc8-08be-405a-8e27-2fc6a775fa70
+        id: 7994ec73-6553-49ae-bc4c-57cc82fb80b4
       07-10 and if saturday,sunday then next monday:
         substitute: true
         _name: Independence Day
-        id: 07691e61-a5d3-4b79-9e8b-0220f6114a44
+        id: 1ba6fc95-7eac-4c8c-af4e-4e2ac3b79b3b
       1st monday in August:
         name:
           en: Emancipation Day
-        id: 48bfd1c0-2697-41e9-9d94-cdebd3da4164
+        id: ed4b9785-f60b-48ab-a0ad-fbeb825b931d
       10-12 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: National Heroes' Day
-        id: 72742700-f008-4ec7-bd0b-e61afc304e7c
+        id: 62991ebb-7da0-4fb0-a568-ea223f313f2e
       12-25:
         _name: 12-25
-        id: d9a35781-c7d7-408e-96ef-5a7b10c9af00
+        id: 22769c0f-4a75-44f3-9611-9e99c23077e7
       12-26:
         _name: 12-26
-        id: 9028bff2-2f2e-4966-8210-12671c44f443
+        id: 286dd4fe-da19-41b4-8b71-1074bdc80c82

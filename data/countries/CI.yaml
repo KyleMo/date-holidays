@@ -12,44 +12,44 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 89415e85-87fa-43ed-8042-689ad8d2eb5c
+        id: 4707973e-9d99-40b6-8d84-6e8a65c6358b
       easter 1:
         _name: easter 1
-        id: 8284867a-e0d4-477e-942e-4c1e3a7d0062
+        id: 1b1ebd5a-2b94-4f52-9569-8af5cf78ede6
       05-01:
         _name: 05-01
-        id: 52e3ee5f-9ecd-4889-8053-ebadfa0f9a14
+        id: bd00ff0b-354c-413f-b259-07d1b166383a
       easter 39:
         _name: easter 39
-        id: 21e9cb11-7cba-45e4-86be-1eeb1b4e9974
+        id: 048933c9-8c72-42b5-9ca1-b165bf9b9c5c
       easter 50:
         _name: easter 50
-        id: 84494727-e662-415d-876a-bfb46fcc4887
+        id: f2240590-0eee-4a0d-9c96-ab32bd010f06
       08-07 since 1960:
         _name: Independence Day
-        id: 04ea2fa8-b24d-4610-9493-0283e00adc4e
+        id: 5c307693-addf-40f0-853d-c9b8c097330c
       08-15:
         _name: 08-15
-        id: 296bcc4a-9d11-405a-90f3-8c4dfb6ad06a
+        id: ae07827d-ddac-4788-81c7-7ab5cb070099
       11-01:
         _name: 11-01
-        id: 48c05475-fb77-4cd0-b115-65d8d2300a04
+        id: 09134b56-ec05-41af-aca7-1dda2fb04d35
       11-15 since 1996:
         name:
           en: National Peace Day
-        id: b3dd43ad-1a80-41ed-a89d-f5a7167214cb
+        id: 69a97fa1-e6b4-4702-9e79-2c68bb1be810
       12-25:
         _name: 12-25
-        id: 1f86f0fe-61d3-45cf-93f7-c1e3010ee133
+        id: bfb37ede-bb41-42ff-a323-c8ba61427712
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: de5f5fe9-7000-485a-b00a-5c75aa90bb84
+        id: a0617db3-481f-4f5b-a80a-380b756c2bf7
       27 Ramadan:
         _name: 27 Ramadan
-        id: b9bc2872-395d-4d6a-a32b-76adca26c88b
+        id: 6618b374-30ae-4ceb-a6b4-16a4e09079ca
       1 Shawwal:
         _name: 1 Shawwal
-        id: e1e55c29-73ca-4823-8162-072f9782841c
+        id: d6dc949e-9fea-4f79-bb35-20118489e1fc
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 3532cda6-1c88-4c9b-b262-b950a45a92b1
+        id: df9d6189-478b-48b0-8d4d-738440be2628

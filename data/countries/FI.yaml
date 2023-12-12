@@ -11,66 +11,66 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 5fdf7596-5f39-471b-b964-db1c7dbd0c2b
+        id: 55fa4cd1-43ed-427a-a782-3eff3b2b6396
       01-06:
         _name: 01-06
-        id: c105e176-aaf9-46fe-b1ce-24aabe937c1e
+        id: 5b0411fa-62ce-4b9d-af76-83d5585b5a8e
       easter -2:
         _name: easter -2
-        id: 89af0adc-ab46-404f-bd37-33f988c2e6f5
+        id: d08a4507-bc00-4cc7-b5fb-381dbe8f123b
       easter:
         _name: easter
-        id: 314111f9-8274-4520-a3e7-2f4880c9c86e
+        id: 4f698233-9567-43a4-b724-471348169e0d
       easter 1:
         _name: easter 1
-        id: dd4d93da-b380-46d5-a4bf-bc52cd17189d
+        id: 0f92901a-4731-4e18-af41-39f1c6c31e0e
       05-01:
         _name: 05-01
-        id: 1bfb9714-a82b-48a7-8008-f30f01676c62
+        id: dea04c73-cc32-4250-9ed9-8d743c144a6a
       easter 39:
         _name: easter 39
-        id: 3382ac09-959a-45aa-9af1-f310b6b9a5cc
+        id: 9f9000a9-808a-4d99-bee4-782cfd8fedb5
       easter 49:
         _name: easter 49
-        id: 76007b3c-12f3-442c-867e-8f81872d58ba
+        id: 20c82b93-4cfd-47c9-b115-5eb31143d9fd
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: cfa553c5-c57c-4e76-9eb6-a47231b3867d
+        id: 67c09392-9224-4c3b-b7b3-a2c2b51d2770
       friday after 06-19:
         name:
           fi: Juhannusaatto
           en: Midsummer Eve
           sv: Midsommarafton
         type: bank
-        id: 77769393-0099-4f5d-b5f5-0cfbaa9ba5ee
+        id: 3acdcc3e-be5a-4c29-96fa-ecc976a73c37
       saturday after 06-20:
         name:
           fi: Juhannuspäivä
           en: Midsummer Day
           sv: Midsommardagen
-        id: 634a2850-f1ad-4e03-84a8-073d84a9ef1c
+        id: 7b4e8224-b5d5-4195-b4ad-921fffa5f9fd
       saturday after 10-31:
         _name: 11-01
-        id: 1061f67a-051a-4129-a9e6-bbde99a191bf
+        id: debd010e-29a7-4a3e-a110-8f15ac493f56
       2nd sunday in November:
         _name: Fathers Day
         type: observance
-        id: 0e0cccc4-24ad-49f1-b2d0-a0c2307821fb
+        id: 84925c5f-c643-4c87-92f5-cdbffc8196f3
       12-06:
         _name: Independence Day
-        id: 13484e41-49be-4a6a-8596-a5ff792a1014
+        id: 5f539ef8-6c09-4a1e-ac12-f075c385238e
       12-24:
         _name: 12-24
         type: bank
-        id: 380d8432-25ce-4229-a8f9-a3b25439c12a
+        id: 56727789-2ef2-49de-a5cd-ac2dd5e07f18
       12-25:
         _name: 12-25
-        id: 4799396e-4f62-4c90-bc89-39b2b4ea35fc
+        id: 0c6cd180-a791-4ec6-bddf-5452ac1019d2
       12-26:
         _name: 12-26
-        id: b3361470-e959-4c25-beb9-7f14991062b4
+        id: 3e2e16c1-f751-4413-8bf3-d74cda0500a5
       12-31:
         _name: 12-31
         type: bank
-        id: 88ebdf8f-673f-4155-a49f-a5784a773683
+        id: 7b996eaf-0943-4196-9bf0-e244a2a8a239

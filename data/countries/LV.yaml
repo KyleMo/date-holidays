@@ -11,57 +11,57 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: f103c786-b2e6-4db3-a432-d968ec560ad2
+        id: fd178ed1-8552-4c57-9276-733c7a282df9
       easter -2:
         _name: easter -2
-        id: 46521ca9-df43-4cf4-803a-f069407e9c18
+        id: d0b1d417-cb20-4c6e-ad4d-858c627c7a92
       easter:
         _name: easter
-        id: 52eafe43-a715-4f37-a63c-1468c85d1a6b
+        id: f09cf765-419a-4319-ac93-8039661ff783
       easter 1:
         _name: easter 1
-        id: 285014b9-3a2c-4f1a-92de-072e188e76d6
+        id: 3324187d-9ed7-432e-b984-7f80bb79e836
       05-01:
         _name: 05-01
-        id: ffe9df38-a7b4-42d9-81ac-e0ebed370b47
+        id: e52338ca-9224-42a6-819a-20c8f218502e
       05-04 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: Restoration of Independence day
           lv: Latvijas Republikas Neatkarības atjaunošanas diena
-        id: 5c2315da-90e3-47c9-b8b4-d8b47c6b6011
+        id: 88658bbc-c697-4e35-afd8-dcc8a9b5d5c6
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: c663ea39-b95d-49c2-adf2-2606f6dcbb91
+        id: a77b5970-1a6d-49c8-b207-8ffe4b121010
       06-23:
         name:
           en: Midsummer Eve
           lv: Līgo Diena
-        id: 95e5a3af-87c9-40f3-b66a-f4148b0cb7e5
+        id: ef0730e6-e552-4b85-b933-0d2880b9e145
       06-24:
         name:
           en: Midsummer
           lv: Jāņi
-        id: e3bbf735-c8df-44e6-8466-3f7577906bfa
+        id: a3a8c1fa-8ec9-4886-a54c-632ef2d03baf
       11-18 and if saturday,sunday then next monday:
         substitute: true
         name:
           en: Republic Day
           lv: Latvijas Republikas proklamēšanas diena
-        id: 8fd23c7c-4f15-48e5-b246-2c6af6c1a679
+        id: bc2285aa-48ba-4ba9-9568-714bd96bfe3a
       12-24:
         _name: 12-24
-        id: b0dbff25-484e-4c91-a4c3-daa0a9f4f06a
+        id: ce56c0f3-5f5c-4774-b10f-92650859d547
       12-25:
         _name: 12-25
-        id: 030f237f-0708-4770-8c78-6bebc20b4e48
+        id: 435b06dc-c807-4693-94fe-5e88dbc8cd40
       12-26:
         _name: 12-26
-        id: bab205f3-d7cd-4399-b005-555f86d177ce
+        id: 2a9dfefe-7ff6-49be-9d13-27895de964b8
       12-31:
         _name: 12-31
-        id: 0f88f0af-2e88-4dd6-b972-1b4ddd4e867c
+        id: 3dd6ae31-fcfe-457d-aa3d-9c2a799a1e22
       '2023-05-29':
         name:
           en: >-
@@ -70,4 +70,4 @@ holidays:
           lv: >-
             Latvijas hokeja komandas 2023. gada Pasaules hokeja čempionātā
             bronzas medaļa
-        id: 8ad7eddd-a574-4cae-88fc-f07ffcb5a05b
+        id: 0331af7b-ee38-4bed-845f-d78ae81c46b3

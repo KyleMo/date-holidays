@@ -13,45 +13,45 @@ holidays:
         _name: 01-06
         name:
           en: Three Kings Day
-        id: 9f1a3270-f2c1-4781-b805-14773df1f8d2
+        id: 9e22c070-c919-4e6b-9956-b13720f8f203
       3rd monday in February:
         name:
           en: President's Day
-        id: c1a7840e-f48f-429a-af87-08fb18e0f9b0
+        id: 886c1b83-f26f-4ce4-9e2e-b91feee122df
       03-17:
-        id: 4ac00828-cf01-4a65-bfbb-34feb7788fd5
+        id: e07f6a01-e18a-48c7-ac91-2e03aca008dd
       03-31:
         name:
           en: Transfer Day
-        id: 30dd1069-34b3-469f-a615-28f58effe260
+        id: 529aafcb-054d-405d-9bee-32a89572e39d
       easter -3:
         _name: easter -3
-        id: 9ff41d81-f301-49a6-9caa-160d7b0d89bb
+        id: b8fa172c-c121-4629-aca9-6ab36e9e2994
       easter -2:
         _name: easter -2
-        id: 60b2e8b9-582c-4c7e-9d08-94f74fdd314e
+        id: 74a1a680-be3d-41e7-a795-3fbf43a643e1
       easter 1:
         _name: easter 1
-        id: 470bfb11-77e1-43b9-8a4c-1cca4a9f267c
+        id: ee1252b7-e987-4192-b9ab-4b21999fde26
       07-03:
         name:
           en: Emancipation Day
-        id: 02a320b5-e8b5-40f7-9271-45948959d9c0
+        id: 968ae513-2b23-4dd2-9623-69c991c64d2b
       4th Monday in July:
         name:
           en: Hurricane Supplication Day
-        id: b4dacacb-4612-49e1-b3e7-aa7c66b6f900
+        id: 87cb31e4-d902-4d87-8a94-602d2339bd95
       2nd monday in October:
         name:
           en: Virgin Islands–Puerto Rico Friendship Day
-        id: 2f675f9f-77d2-44c7-b1de-e7fa1020e412
+        id: 42474c0d-442d-4b47-b726-2e7a69a1992b
       10-25:
         name:
           en: Hurricane Thanksgiving
         type: observance
-        id: e6e4eccf-ee6e-4c7f-9e46-42b19a9727ef
+        id: 3d3e0854-3137-452c-a2ba-b355d6a64b97
       friday after 4th thursday in November:
         name:
           en: Day after Thanksgiving Day
         type: school
-        id: 245459f8-9b44-42c8-b1ac-3f9e3b5669e0
+        id: dddd71c4-57cb-4b64-8a63-337fd850f546

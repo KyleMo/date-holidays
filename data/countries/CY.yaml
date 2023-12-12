@@ -11,66 +11,66 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 0ceb9044-c0c8-4d4f-90e0-1edbee4afa4a
+        id: 31764fe5-b1d6-4f60-bac6-4f2aa16d40d6
       01-06:
         _name: 01-06
-        id: f6a0e36c-3054-4ee8-9db6-79ecdf8c861b
+        id: ff1207ec-9325-4f11-a615-bdc8245ca657
       orthodox -48:
         name:
           el: Καθαρά Δευτέρα
           en: Ash Sunday
         type: observance
-        id: 39d09890-15df-4c96-997a-c3e9a6b4c7b1
+        id: a6fb5b2f-18b7-4dcb-add9-a098ca597034
       orthodox -47:
         name:
           el: Καθαρά Δευτέρα
           en: Clean Monday
-        id: b86c13bb-9181-4fd7-8602-b34773606cce
+        id: 9500a89d-3eb9-4e5b-9c1b-16f0857edce2
       03-25:
         name:
           el: Ευαγγελισμός, Εθνική Εορτή
           en: Annunciation, Anniversary of 1821 Revolution
-        id: 348c8e1e-89a9-461c-acb4-ab0900ac5a5c
+        id: 8463907a-bd0f-4dad-a4ba-5bf7a93f8992
       04-01:
         name:
           en: Cyprus National Day
           el: Κύπρος Εθνική Εορτή
-        id: 7f61cc5f-dee5-4ab9-b240-0a9832257b58
+        id: 9c0a7059-ead6-4b8b-9459-25bbe17f803b
       orthodox -2:
         _name: easter -2
-        id: 620e4ff4-d86b-4321-9708-abb8be8a2666
+        id: 0e10c625-8e56-420d-afac-cb2ed376cb89
       orthodox:
         _name: easter
-        id: 2f90c4c0-dc26-44d9-bd43-5fc0e6eda1a9
+        id: 9068ca01-12e5-483a-bb6c-33e58efedca4
       orthodox 1:
         _name: easter 1
-        id: 00972034-1b75-4069-bfc2-d237e01a11dc
+        id: deabd9d6-d67e-4817-9f48-dbe514c21532
       05-01:
         _name: 05-01
-        id: 973e4c01-71b0-4432-a915-d4ac28867aed
+        id: 8d7470a1-7636-4a3e-a387-619536ae4114
       orthodox 49:
         _name: easter 49
-        id: c9a69dae-5104-4709-8e3b-511deef50983
+        id: dac1bb63-8fb0-46cd-acb7-4abe434e9c9b
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: 0c69fda8-e43d-4015-b0aa-bf3cbf11af35
+        id: d3998c30-b29b-45a9-bd14-e9475e4a9925
       08-15:
         _name: 08-15
-        id: 9b99f6d7-7282-4eea-946f-dffd171c3351
+        id: 49989af1-ed6e-4a9a-a36f-9ba49db1be37
       10-01:
         name:
           en: Cyprus Independence Day
           el: Ημέρα της Ανεξαρτησίας Κύπρος
-        id: 633e4ecd-61a0-4a29-932e-308f692ca8ee
+        id: fc825fb0-0292-447a-87c1-27b663a95b71
       10-28:
         _name: National Holiday
         name:
           el: Επέτειος του Όχι
-        id: 3b756365-3bd6-41bd-bad4-4fa0ea168776
+        id: 797afd1b-492b-48da-89f1-e4ef92ac0daf
       12-25:
         _name: 12-25
-        id: 0d42fe43-44bc-4172-a0d0-fa028e9a7e10
+        id: 642aaeb5-ff4f-4a05-a14d-c1afff5721f6
       12-26:
         _name: 12-26
-        id: 6933f97b-0e37-4a33-9c1d-1938300ccc7b
+        id: 5f9923ca-cbec-4e9b-b0cd-d7b1dba32a9f

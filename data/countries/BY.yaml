@@ -12,52 +12,52 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 03a63c13-053d-4556-b203-3f7afa8fa58f
+        id: bb3d2771-a0a2-407b-99d4-caf76f8038b4
       julian 12-25:
         _name: 12-25
         name:
           be: Каляды праваслаўныя
-        id: 0c55a0a7-1b66-46e5-99ae-5061cb9f2d53
+        id: 88829574-3dc8-496a-b320-57ee23172c17
       easter:
         _name: easter
         name:
           be: Вялiкдзень каталiцкi
         type: observance
-        id: f48a832f-8be0-481a-b568-e24091292bc7
+        id: 394fcbd4-7b97-45f2-807d-be1e909f0f36
       orthodox:
         name:
           en: Orthodox Easter
           be: Вялiкдзень праваслаўны
         type: observance
-        id: e1b49c3c-3365-496d-b626-97310c0a3f52
+        id: 204a0636-8815-477e-8a44-bf07921f8737
       orthodox +9:
         name:
           en: Commemoration Day
           be: Радунiца
-        id: a63894a4-bcf8-482c-ba5a-8b738ef0ee8c
+        id: 21d93ff8-0a75-4fc1-ae8f-014b106626a9
       03-08:
         _name: 03-08
-        id: 1fdd65fd-6382-43a6-b748-09caaddf7a0c
+        id: 4c6b5849-6bbb-479a-b32c-b0abb92d4e9b
       05-01:
         _name: 05-01
-        id: e78d87a9-1c54-4757-b54a-5d12229a22fe
+        id: 1678f4a7-ef78-4bc6-b138-4de809d779b6
       05-09:
         name:
           en: Victory Day
           be: Дзень Перамогi
-        id: 7f2ea482-ec59-4998-9533-e9b30e7e4e11
+        id: 0bb54cb5-9e7a-426d-85fa-8d7dfbfbf6de
       07-03:
         _name: Independence Day
         active:
           - from: 1996
-        id: 95282112-d8f8-4b73-9ee4-74f567b3e692
+        id: 4c28e0f2-cb7c-40fb-acef-f6faeab35686
       11-07:
         name:
           en: October Revolution Day
           be: Дзень Кастрычніцкай рэвалюцыі
-        id: d3536c82-983d-4c5a-b6e8-1534fec44b7c
+        id: a6a8a26a-4bb3-4b73-9301-5dcb5bbdad22
       12-25:
         _name: 12-25
         name:
           be: Каляды каталiцкiя
-        id: 5206d64c-a88c-4049-b873-f80116e9e9a8
+        id: d4b5ad16-6f9f-4e2e-b10b-dda6a60e36ba

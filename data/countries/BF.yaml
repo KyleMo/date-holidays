@@ -11,53 +11,53 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 6353514a-2409-4176-8748-8ecd84ed4287
+        id: 62d40bbb-d0c4-4341-8296-47821e5d43b0
       01-03:
         name:
           fr: Soulèvement populaire
           en: Anniversary of the 1966 Upper Voltan coup d'état
-        id: 48e83947-d33e-47c3-8fcf-309928d57665
+        id: 50aa61b0-3b56-48cb-a18a-036992e390c5
       03-08:
         _name: 03-08
-        id: 666be91c-76b0-48a8-89fd-4fa29673fcc8
+        id: 5d9a5c60-99cd-46b4-b78a-a31a04ac0d29
       easter:
         _name: easter
-        id: bdcc69fd-c10c-40c1-982a-a465cf35c186
+        id: e4e15e7f-2c03-41d7-a91c-3b430a7c7ca6
       easter 1:
         _name: easter 1
-        id: 0548322d-63f2-415b-8472-bdbe1a159315
+        id: e27e7143-58f0-4e55-904a-07aac2fa5fa5
       easter 39:
         _name: easter 39
-        id: 1a4548d6-862e-4541-b382-321397baeaf6
+        id: f52653e7-a4ef-4d2b-a25b-4bbff8f32a9e
       easter 49:
         _name: easter 49
-        id: 8f9776d4-b746-4c55-ac69-6742b1ab318b
+        id: 27eb1a50-8376-4872-98a6-f0609162a037
       05-01:
         _name: 05-01
-        id: aaf9ffb9-2d82-4fc1-b89e-9c0e6a3fb56b
+        id: 8bf5f0ba-9f23-42c4-8d23-5ce0dba6ae4f
       08-05:
         _name: Independence Day
-        id: a8a12290-c77d-4f1c-b256-a77003e6da3b
+        id: 896a6db2-c6a1-4573-942e-c9346a09795d
       08-15:
         _name: 08-15
-        id: 099f064d-aa44-414d-acce-47f7d247871d
+        id: ee5a24ab-8918-42ac-9c47-0024e056124c
       11-01:
         _name: 11-01
-        id: bf5148e8-ed60-425a-883e-a964728aeedc
+        id: 7170df74-fbee-4dbc-82ff-2c8593f3b151
       12-11:
         name:
           fr: Fête nationale
           en: Proclamation of the Republic
-        id: 5238c131-5ab2-44f1-8761-962dbf5a6b51
+        id: 6a1144d9-9ba4-4b54-a06d-54ea5922b1ad
       12-25:
         _name: 12-25
-        id: 33e98029-3309-4ab8-b2a7-f00b5d3ded25
+        id: b642d124-ad16-4f88-bbb6-924623bb1bae
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: 6fab2ba7-74a5-4dc8-ac85-77d92f4a3f20
+        id: 420358b2-9d01-4eb1-a958-c6d00793be18
       1 Shawwal:
         _name: 1 Shawwal
-        id: dd8b232b-3598-4246-bf53-38cc65f17982
+        id: 59c9d96b-2f55-47ca-a417-ced59bfda775
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 25c5b1ba-61e7-4976-a08b-6e682e38d97a
+        id: 9d98b649-02d2-4986-913e-768d050e29d4

@@ -10,42 +10,42 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: c77485bb-1742-495a-ace7-bd8d3fc4883d
+        id: 1d101997-0057-49c3-9372-4c5736fa584b
       02-11:
         name:
           en: Armed Forces Day
-        id: 257c14c8-3c40-4066-9225-4787d37f1c1a
+        id: 7a2ff58e-779c-429e-a1f4-91de6ba491d7
       2nd Wednesday in March:
         name:
           en: Decoration Day
-        id: 968f48e1-4e67-478e-a200-3f14f98ba5f0
+        id: 9a4fa828-26eb-48cd-8920-5d548d329665
       03-15:
         name:
           en: J. J. Robert's Day
-        id: 97134474-8489-46d7-a1d3-829ca5f194c0
+        id: 0f8d675d-cf0f-4c7b-bdb4-91b9a390379c
       2nd Friday in April:
         name:
           en: Fast and Prayer Day
-        id: dd681c67-2d98-4841-9b83-5743db8f9323
+        id: a525844f-2b15-4d2a-95de-0586cd770f78
       05-14:
         name:
           en: National Unification Day
-        id: ba202a2b-7f29-4de9-a43f-818b8bbab0e4
+        id: b4d8c653-aff6-4f7a-b178-8ebbd2520fa9
       07-26:
         _name: Independence Day
-        id: b5256c80-218e-459f-9c2a-e1b5358fead4
+        id: f507d0e3-b55d-4525-85d1-3f76cd09ddb2
       08-24:
         name:
           en: Flag Day
-        id: 6ceb53fe-b271-4d72-b7f6-e3106ac26da5
+        id: e7039634-37d9-4b4b-9842-596d23622b97
       1st Thursday in November:
         name:
           en: Thanksgiving
-        id: 6cc6853c-cf95-4767-bb45-e84d7d47f472
+        id: ebcfdaf3-ff72-46a9-83ad-d9e773c285bb
       11-29:
         name:
           en: William Tubman's Birthday
-        id: 874eb4ab-8b12-4a9a-8f3b-9103975a53d2
+        id: cb9e6b3a-facb-4c44-8325-2667d3242d38
       12-25:
         _name: 12-25
-        id: 7a2d8f26-31ed-4466-bd09-91bd4d5c2489
+        id: 68e6bd1e-7778-4ec5-b588-100f676c9a84

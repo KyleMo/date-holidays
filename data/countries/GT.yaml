@@ -11,43 +11,43 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 0c0ba3ef-cf82-4624-a9cc-b7cf862d38c9
+        id: d6de1e33-73b1-4169-8c66-10791b6c3224
       easter -3:
         _name: easter -3
-        id: 4e381f36-08ab-40bc-b00c-483ee9046c1b
+        id: 5fb5b242-429d-4e67-93dd-3d03c24f1d0e
       easter -2:
         _name: easter -2
-        id: 26b2ceca-168f-4af4-a892-5643b96b86be
+        id: 9050714b-b370-4347-b2df-558c0241845d
       easter -1:
         _name: easter -1
-        id: d4ec7ff7-25e4-48b0-bb47-df35b0c790c0
+        id: 56350cfc-420d-4009-9ef4-f205cdaa29fd
       easter:
         _name: easter
         type: observance
-        id: 8357be6b-8819-459f-bcdd-66d0a6f48257
+        id: 44dfaf5f-76c1-494a-bc99-c9271254a867
       05-01:
         _name: 05-01
-        id: d43817a5-2ba1-4728-ae72-5bcc68d1adff
+        id: 3e696e09-9f13-4bd8-9285-546e0f097a25
       06-30 if tuesday then previous monday if wednesday,thursday then next friday:
         name:
           es: Día de las Fuerzas Armadas
           en: Army Day
-        id: db480c5e-c593-4eec-90a4-99433fb898a5
+        id: 95138e73-40bc-4951-b271-a35b194a0f2f
       09-15:
         _name: Independence Day
-        id: f74dfdfe-cb4f-45a1-93c6-969705b49413
+        id: 2790e038-10bc-40d0-b46c-0b8788ffdc59
       10-20:
         _name: Revolution Day
-        id: e3000610-f1e5-453f-8058-24b5ee9fb900
+        id: f3b10bc5-3c0c-4109-9d71-23187975d736
       11-01:
         _name: 11-01
-        id: 6e6e7dee-4922-41ed-b933-8c3c1d0f7d3f
+        id: 2451c5cd-0ba0-48d7-aeb6-8a73ab6c9a8a
       12-24 12:00:
         _name: 12-24
-        id: 731bbdca-3918-40c6-8351-207b99493d67
+        id: c876febb-2944-405b-ac23-bf742f3d04d5
       12-25:
         _name: 12-25
-        id: 66d78d7c-ca57-4af2-a65d-b25f588bc222
+        id: 21126a42-29ec-4649-94c5-84a776520197
       12-31 12:00:
         _name: 12-31
-        id: f580a9b3-3800-4024-a7b0-f1799fa3cdf3
+        id: e081f611-2391-4333-8d64-7b2622a44e58

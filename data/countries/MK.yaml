@@ -12,155 +12,155 @@ holidays:
       01-01 and if sunday then next monday:
         substitute: true
         _name: 01-01
-        id: fe20f653-0c79-46b0-8925-962b47844bf9
+        id: ec7882be-05f0-4956-9520-6db12c4b401c
       julian 12-25 and if sunday then next monday:
         substitute: true
         _name: julian 12-25
-        id: c496777b-8cdd-457d-bb4b-09c48a859801
+        id: b62b6e3e-4492-40af-863f-9c6ebadd4fb5
       orthodox:
         _name: orthodox
-        id: 087a4dff-58da-4b08-8a1b-ebeea03cf27a
+        id: 1af01918-a5cc-43f2-92b0-3165da38b5df
       orthodox 1:
         _name: orthodox 1
-        id: 48d58630-de90-4035-83fc-e14ee6406275
+        id: 0c8d87ab-c095-441e-8487-f806f4b68b98
       05-01 and if sunday then next monday:
         substitute: true
         _name: 05-01
-        id: 16f586cf-e16c-470a-900c-55a56c9452ed
+        id: 4a31f495-6e9a-4c39-b79c-6b3bf37b02e1
       05-24 and if sunday then next monday:
         substitute: true
         name:
           mk: Св. Кирил и Методиј
           en: Saints Cyril and Methodius Day
-        id: 4eef3ff5-5dfe-403c-88ad-6cceb2d62fa9
+        id: e9195628-fefe-4570-97a1-2a7a89883b9a
       08-02 and if sunday then next monday:
         substitute: true
         name:
           mk: Ден на Републиката
           en: Day of the Republic
-        id: e2302e9d-10ea-4b14-92b0-acfafbf1a9e2
+        id: 75e5e72c-6984-47e4-a693-38795eb5e1ed
       09-08 and if sunday then next monday:
         substitute: true
         _name: Independence Day
-        id: cb20501a-1c0f-43cf-9bc7-eade3fbc7912
+        id: 4d3b3a1e-edbe-4f34-92c7-f630a00fd7b3
       10-11 and if sunday then next monday:
         substitute: true
         name:
           mk: Ден на востанието
           en: Revolution Day
-        id: c61bb927-7e8e-4464-b8af-4789b38828c1
+        id: a0c09e34-5d37-48da-8d9b-c05548f64d19
       10-23 and if sunday then next monday:
         substitute: true
         name:
           mk: Ден на македонската револуционерна борба
           en: Day of the Macedonian Revolutionary Struggle
-        id: ecff9cda-5ea4-4eed-b177-4fea2d2262b4
+        id: a3fa64f8-2fd8-4043-a3e3-6c091b233cc1
       12-08 and if sunday then next monday:
         substitute: true
         name:
           mk: Св. Климент Охридски
           en: Saint Clement of Ohrid Day
-        id: bda19ba5-ba38-401c-9de2-130e8ef30009
+        id: fae3f87a-6ee8-4f0b-ad5a-41eef847e3b7
       1 Shawwal and if sunday then next monday:
         substitute: true
         _name: 1 Shawwal
-        id: dbb18997-7a3b-4520-a0f9-e63f3b767dc4
+        id: 2b7f9b30-ea91-44d5-a3c3-573888c84f25
       julian 12-24:
         _name: julian 12-24
         type: optional
         note: Orthodox believers
-        id: 3ebb26c7-5a4a-4459-af4b-598717f96fa7
+        id: e303da4b-5253-44e9-9ac2-de093bb4daa2
       julian 01-06:
         _name: 01-06
         type: optional
         note: Orthodox believers
-        id: 7c0885f8-0812-4093-a23c-9fccb336e8f5
+        id: 7abc2692-7c5e-4e40-b680-ac184d9e75b7
       orthodox -2:
         _name: orthodox -2
         type: optional
         note: Orthodox believers
-        id: 3a78216f-c762-4a4c-b353-00ba913b4345
+        id: ba00e57c-8506-4851-9617-113e0de7c3fc
       orthodox 47:
         name:
           mk: петок пред Духовден
           en: Friday before Pentecost
         type: optional
         note: Orthodox believers
-        id: a37f5c32-1faa-49c8-ba91-40b76f18afee
+        id: b1aa5a5b-c8b0-4248-9185-45a110ae7980
       orthodox 49:
         _name: easter 49
         type: optional
         note: Orthodox believers
-        id: 763cd92b-0a59-4aa3-802f-59a455aeaa8e
+        id: abd61940-e890-4e03-b659-b3697f6a87be
       julian 08-15:
         _name: 08-15
         type: optional
         note: Orthodox believers
-        id: 816fdf4e-6fec-4aa9-8c8e-c4f1b1fd7c22
+        id: b32f477e-57a2-4ffc-95d3-89fb501b48a6
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         type: optional
         note: Muslim believers
-        id: ada7ffe5-f849-4381-b593-aabe2874640b
+        id: 539f306d-66a4-47c3-afc3-c0f8ce2c7715
       10 Tishrei:
         _name: 10 Tishrei
         type: optional
         note: Jewish believers
-        id: aeb0ab28-5068-4313-961d-3e306ad1b69f
+        id: e6879a0a-2d55-437f-ba5e-ef68e5f386f9
       easter 1:
         _name: easter 1
         type: optional
         note: Catholic believers
-        id: d922a22d-b173-4e5a-978d-6b3293c97efb
+        id: e81c211f-be18-44b9-9795-1bb2623a607f
       11-01:
         _name: 11-01
         type: optional
         note: Catholic believers
-        id: dfcf2c93-b157-412a-8898-e01fa6b1535a
+        id: 9be27e7e-b811-4f65-928f-4282fde94b30
       12-25:
         _name: 12-25
         type: optional
         note: Catholic believers
-        id: f2888485-b837-4e5c-b7f6-97c55648eb8a
+        id: 106fea16-035b-4ede-815f-3ed28b77762f
       11-22:
         name:
           mk: Ден на Албанската азбука
           en: Day of the Albanian Alphabet
         type: optional
         note: For members of the Albanian community
-        id: 77375d2f-fa70-47a4-b2c8-50a055f771d0
+        id: 09dbed68-d533-4187-86d9-b616e5172a3e
       12-21:
         name:
           mk: Ден на настава на турски јазик
           en: Turkish Language Day
         type: optional
         note: For members of the the Turkish community
-        id: aec6e107-9192-4f90-8fdf-ecb158a7ab4c
+        id: 857574a6-943f-4b20-b4a2-4d8d805e3a4f
       01-27:
         name:
           mk: Свети Сава
           en: St. Sava
         type: optional
         note: For members of the Serbian community
-        id: 37fff3cb-4234-423c-bc98-32efad72dda8
+        id: 91603611-ec89-4d28-8218-033e194817cb
       04-08:
         name:
           mk: Меѓународен ден на Ромите
           en: International Roma Day
         type: optional
         note: For members of the the Roma community
-        id: feb02e29-2a7e-47ef-9bbc-ef952564980f
+        id: c8bfa21b-e7b8-4cc3-b2e2-17650d847843
       05-23:
         name:
           mk: Национален ден на Властите
           en: National Day of Authorities
         type: optional
         note: For members of the Vlach community
-        id: f24f6236-66fe-47f6-adc1-4fdb6d3bda08
+        id: a59f4566-b3c5-4d46-b8d1-dcbb03373ad2
       09-28:
         name:
           mk: Меѓународен ден на Бошњаците
           en: International Day of Bosniaks
         type: optional
         note: For Members of the Bosniak community.
-        id: 93aa1dec-73b2-4ed1-8b90-3304b32d1730
+        id: 0140871a-3805-48b2-a941-7e721e206e7d

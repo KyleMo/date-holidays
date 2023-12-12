@@ -12,112 +12,112 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: ce2c2458-7ba7-415f-bcee-8482577ab1f6
+        id: 30dca0e5-69f6-4697-9f46-a9ffcc9ea3d8
       easter -2:
         _name: easter -2
-        id: 38c20440-ccd5-4e83-815a-db570b18ee2b
+        id: 5e1153ca-89fe-489c-b012-f4171c10eeef
       easter -1:
         _name: easter -1
-        id: eca2e279-8f35-4e68-88cf-45441780179b
+        id: 59bac74c-6052-4d41-910c-20868068cfd2
       easter:
         _name: easter
         type: observance
-        id: 0c314b70-8cf4-482b-9272-b25cea10a20f
+        id: acb35b71-7344-4c29-9ab5-577486f977f9
       easter 1:
         _name: easter 1
-        id: 04d4867d-df2c-4332-a1b9-0e6a1045659d
+        id: 7c79ed85-3b82-4bd8-978c-2e8cd7be13b4
       09-07:
         _name: Constitution Day
-        id: 57973d4a-a212-4ddf-951c-a119cedb8eee
+        id: 03cffe84-b95d-46d5-9fb5-ff83826a6c50
       10-10 and if Sunday then next Monday:
         substitute: true
         name:
           en: Fiji Day
-        id: 54834b98-dbd7-4df0-8387-5436a2a6a86f
+        id: 05c1ae6f-5eda-4f35-a6a5-c6004a0ce782
       12-25 if Sunday then next Monday:
         _name: 12-25
-        id: 8206f182-a1f0-4062-aec1-c53b6fb6eb51
+        id: 985aa578-d0fd-4f3e-bf0f-d424d54136cd
       12-26 if Sunday then next Monday if Monday then next Tuesday:
         _name: 12-26
-        id: 7ff2adb5-234b-4f0e-b03d-af70b941683b
+        id: 26c746bf-82e7-4a00-9cde-dd177543441b
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: cdbffd19-cab8-4b94-b788-1c19dba73db7
+        id: e080cd86-c1e3-461a-9126-ed9c3e58edef
       '2014-10-22':
         _name: Deepavali
         name:
           en: Diwali
-        id: 53389c47-2f18-415b-934a-2e5a13ea0a07
+        id: 575cd8f9-0dc1-41b6-8d75-78a3e503b3ea
       '2015-11-10':
         _name: Deepavali
         name:
           en: Diwali
-        id: e7a91e71-61d3-49c9-b9bd-f784ae3f1436
+        id: 015395ee-d409-4512-b6d2-8c2d09b7abaa
       '2016-10-29':
         _name: Deepavali
         name:
           en: Diwali
-        id: 30c4f1b7-eb71-454e-ad9b-55d4fe8eecb0
+        id: 60cb8d1e-6aa5-49a3-b50d-87802dc0157e
       '2017-10-19':
         _name: Deepavali
         name:
           en: Diwali
-        id: 71ad1267-d754-4f54-a498-667e490b1744
+        id: 0c1f8148-1b2a-4bb0-a764-4720b6c7787c
       '2018-11-07':
         _name: Deepavali
         name:
           en: Diwali
-        id: 51ff58a2-0069-489c-be2b-0251c5bcfb9b
+        id: bf1eb7d0-e344-4f85-bbbc-15c003bc5185
       '2019-10-27':
         _name: Deepavali
         name:
           en: Diwali
-        id: 6406d022-ad50-4512-8ad3-7a8ddb234c2b
+        id: a6b16fcc-62f7-46c5-b033-ce01ef4e2ad5
       '2019-10-28':
         substitute: true
         _name: Deepavali
         name:
           en: Diwali
-        id: c2ccf673-b76b-49e1-8b9c-3ac9d47f401d
+        id: 9d835710-4962-4b75-9a57-e0fc9c8d1aa0
       '2020-11-14':
         _name: Deepavali
         name:
           en: Diwali
-        id: 0aa5ee97-4bab-47c8-8e85-99fe42da5885
+        id: d2d3f6b8-f20f-46d6-b0b1-b4093d8938ae
       '2020-11-16':
         substitute: true
         _name: Deepavali
         name:
           en: Diwali
-        id: 5a9b4058-287e-4794-9ca3-9d67400e1ca2
+        id: 8411fc0e-3fa4-4722-b8d4-09aaf6d8bc3f
       '2021-11-04':
         _name: Deepavali
         name:
           en: Diwali
-        id: 46875934-8276-458a-b7ca-8c64d9c21e13
+        id: 905502a2-83f0-401c-b408-acdbdd833343
       '2022-10-24':
         _name: Deepavali
         name:
           en: Diwali
-        id: 0e66bc91-4e76-48f7-8dd3-926fe06322fe
+        id: 855cef50-e373-4bfb-a680-32802a65ebce
       '2023-11-12':
         _name: Deepavali
         name:
           en: Diwali
-        id: 45ba17df-f3f2-4883-839c-784cdd329948
+        id: ef3bddae-7d2f-4f3d-a291-1e092b2470a0
       '2023-11-13':
         substitute: true
         _name: Deepavali
         name:
           en: Diwali
-        id: 72e91f30-96bf-438a-b6f9-5f0b00919ebf
+        id: ac990add-7b99-4ccb-bae3-0e7babd32969
       '2024-11-01':
         _name: Deepavali
         name:
           en: Diwali
-        id: 649900bc-ea91-418c-bdce-4c0a4091b117
+        id: 02bf1553-897f-40b5-986a-240f2dc21a6f
       '2025-10-21':
         _name: Deepavali
         name:
           en: Diwali
-        id: c20a44cd-665a-48a4-8532-bb2ff683a17a
+        id: cfb195f9-7456-490f-8880-be808ecc0717

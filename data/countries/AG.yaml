@@ -14,50 +14,50 @@ holidays:
       01-01 and if sunday then next monday:
         substitute: true
         _name: 01-01
-        id: 510918bd-f225-469a-b358-246c907de016
+        id: 6bded47e-2ad6-4aae-a9cb-8ba30735fc70
       easter -2:
         _name: easter -2
-        id: 3257d2ed-221c-461a-954c-e257126b4f2f
+        id: f0b8b213-5e8f-4e5e-adab-4742b75bbfbe
       easter:
         _name: easter
         type: observance
-        id: 69ea4719-94c6-40ab-ac96-4dfc9d8663aa
+        id: 641db65a-6da7-4319-8c23-3fc7fe2986c1
       easter 1:
         _name: easter 1
-        id: 376dcb7d-787c-41be-bde8-326c19ca990e
+        id: 346d121e-a425-4e49-bee7-79cb0780b64c
       05-01:
         _name: 05-01
-        id: 03eb33da-2246-4bcd-97a3-59d506e92494
+        id: f5237a08-8660-4d92-b882-dab54d781d04
       easter 49:
         _name: easter 49
         type: observance
-        id: 27f87e19-372e-4391-938f-fd65e1f82110
+        id: 800c33d8-b767-4012-b26e-af62d4b0ad9e
       easter 50:
         _name: easter 50
-        id: 2f241e96-a0be-481f-b56e-4ae5fb0bb38b
+        id: 5822226c-71e9-44d3-bb85-6436d5ac7dd5
       08-01:
         name:
           en: J'Ouvert Morning
-        id: 1003e718-2c0e-4c56-894d-74f6c5a29bfe
+        id: 5e651e73-d9dd-4083-ab1f-179dbd2a4d0f
       08-02:
         name:
           en: Last Lap
-        id: 67cd7c67-2909-4aa4-a5fb-31ffc7f44d68
+        id: 1f80e9a2-30f6-4fc9-b946-852ee14a62ca
       11-01 if saturday,sunday then next monday:
         _name: Independence Day
-        id: 541b9bab-7ccf-4703-a2cd-469ebb2471ed
+        id: be311166-94ea-4d61-84dc-6eb24a14b6ba
       12-09:
         name:
           en: V.C Bird Day
-        id: 63c06b14-3f1a-4ea9-b72a-9b5c0f3e545a
+        id: 95fa9c1d-7bd2-4ee7-b5db-f967637d066d
       12-25 and if saturday then next monday if sunday then next tuesday:
         _name: 12-25
         substitute: true
-        id: 14708164-45c5-4e03-a800-58aeec027bd6
+        id: e2afcaf1-4442-4d0f-a392-f88a3c963eab
       12-26 and if sunday then next monday:
         _name: 12-26
         substitute: true
-        id: 9d3cdd4c-e21b-4005-b048-0ec9867b2b63
+        id: b5041292-9d8a-4d53-9066-ec4b10b1e260
     regions:
       '10':
         name: Barbuda

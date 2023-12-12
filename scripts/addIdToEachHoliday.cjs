@@ -6,10 +6,14 @@ const resolve = path.resolve;
 const { randomUUID } = require("crypto");
 const dirParser = path.dirname(require.resolve("date-holidays-parser"));
 
+const DO_NOT_RUN_THIS_SCRIPT = true;
+
 const REGEX = /^([A-Z]+)\.yaml$/;
 
 function update() {
-    const one = getList().find((country) => country === "US");
+    if (DO_NOT_RUN_THIS_SCRIPT) {
+        return;
+    }
 
     const cleanedList = getList().filter(
         (code) => code !== null && code !== undefined && code !== "0"
@@ -80,6 +84,10 @@ const updateIdField = (obj) => {
             let newHolidays = {};
 
             for (const holidayKey of holidayKeys) {
+                if (holidays[holidayKey].holidayKey !== undefined) {
+                    continue;
+                }
+
                 newHolidays[holidayKey] = {
                     ...holidays[holidayKey],
                     id: randomUUID(),
@@ -103,6 +111,11 @@ const updateIdField = (obj) => {
                         );
 
                         for (const stateHolidayKey of stateHolidayKeys) {
+                            if (
+                                stateHolidays[stateHolidayKey].id !== undefined
+                            ) {
+                                continue;
+                            }
                             newStateHolidays[stateHolidayKey] = {
                                 ...stateHolidays[stateHolidayKey],
                                 id: randomUUID(),

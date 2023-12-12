@@ -14,54 +14,54 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 528f76d4-c0cf-4481-9fa4-3b70959b1f27
+        id: 5078b0e8-8b2b-40a8-a3f4-bd1ba04cf9ef
       01-02:
         _name: Public Holiday
-        id: 157fceb5-d896-436e-95f6-2f584b12c1b3
+        id: 5c5c08c2-a1c2-40c8-bffa-e8aa20dd8400
       02-01:
         name:
           en: Heroes Day
-        id: 7eda1bf6-0a9a-4bc7-80f0-c4a8e40e7ed8
+        id: a49f0c2c-9a96-42f8-9b1a-c65a44a68cfa
       easter -2:
         _name: easter -2
-        id: 3b39ebee-59dd-4923-a06b-568956f2c7a1
+        id: 8bbbc805-0e9c-4c0c-a468-f36e0c6fc2d9
       04-07:
         name:
           fr: Jour de Mémorial du Génocide
           en: Genocide Memorial Day
-        id: 39a577fd-147e-4012-8fda-84f64e2e4064
+        id: f4c71e45-fe92-4481-8cb6-15b4144da4fa
       05-01:
         _name: 05-01
-        id: 47b759b3-7162-43d0-9d27-5d685ffc07c9
+        id: 3e4ad341-0c08-4f9c-aeaf-453cb1c5a1b8
       07-01:
         _name: Independence Day
-        id: 8025a0b2-3364-4c7f-9842-dcb8a4fafd59
+        id: 2fb219be-df0f-491a-a750-f3fdd0e3d855
       07-04:
         name:
           fr: Jour de la Libération
           en: Liberation Day
-        id: 197df119-258d-4b84-afb9-132661faca26
+        id: 97f71d55-933e-458a-a9fa-db39d350dc51
       08-15:
         _name: 08-15
-        id: 5b49b2f4-1648-436f-8a37-adc7a470ae03
+        id: fe5cca2a-d8e1-4e5d-900c-e62115435d6b
       1st friday in August:
         name:
           rw: Umuganura
           fr: Journée nationale de récolte
           en: National Harvest Day
-        id: 67dc9dcc-a43d-4831-b43a-bb9f266752ec
+        id: cdcb559e-20d1-44a7-9143-e7c40323ccb5
       12-25:
         _name: 12-25
-        id: 0df8580a-f681-4639-b067-3a59a694b936
+        id: f8d99db8-f061-41b8-a430-34fc15e6a5f2
       12-26:
         _name: 12-26
-        id: 8602cea6-7f73-40d3-9196-2c02aa9bfebc
+        id: 2ea91275-24a5-4465-a2a5-c34a4275fa8f
       easter 1:
         _name: easter 1
-        id: af95ee3e-b94d-45b7-96fb-ac79a45a390b
+        id: ee25ee67-b40d-425a-9d28-5bc049747a77
       1 Shawwal:
         _name: 1 Shawwal
-        id: 4cc2b8be-a255-47d6-817f-8cc8ce7b3993
+        id: 1cb5beb9-2778-4177-b242-3b74810179c0
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: eda5c1ad-a884-4e74-8109-35850e196dcf
+        id: b956b68e-dc32-4085-a145-4966196873e0

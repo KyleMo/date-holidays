@@ -14,50 +14,50 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 9a5237d8-3d63-4888-8bfa-2e0ff40e262a
+        id: 3f1c87f1-003e-4942-9d25-a15c390554e7
       easter -2:
         _name: easter -2
-        id: cc9ed6df-aacb-4122-93fe-365ee8ba4458
+        id: 7663ba22-e7c4-49be-a8c7-4a627c8a9bff
       easter:
         _name: easter
         type: observance
-        id: cca201e5-111a-40f9-bc1d-5c5af4f66d00
+        id: e78e6bd3-c60e-4967-9f39-4d61afb9cbe0
       easter 1:
         _name: easter 1
-        id: bbc7374f-ee6e-4d34-bf7d-ecc031b3e615
+        id: 89ff0fe4-c124-40ce-8d09-809920beb0f6
       04-18:
         _name: Independence Day
-        id: 373617be-cb30-4db1-97fa-002e70138ded
+        id: eea240bc-7a57-48c7-8075-bdd1f11336d4
       05-01:
         _name: 05-01
-        id: 32b87347-6e89-4a82-b25b-e53266f17e2e
+        id: 40ec9b30-47df-4cea-aa5c-e0b19c273aa9
       05-25:
         name:
           en: Africa Day
-        id: 7115825e-3144-4f15-8803-88bc6169c9ab
+        id: dc7c6b31-451a-4781-9acf-80032a721985
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: f07e8984-fa24-4bbd-a9e4-59ef0636a606
+        id: e844e6a9-50d5-47bd-aa9a-5710800d5b57
       3rd sunday in June:
         _name: Fathers Day
         type: observance
-        id: 8384c80e-2461-457b-a657-c59e4392a1bd
+        id: acc367c0-b0dc-4901-ba79-83f97097d429
       2nd monday in August:
         name:
           en: Heroes' Day
-        id: 53e2d858-beec-4fa7-a100-beca9cd1681f
+        id: 42c05450-81b4-4205-8c89-507c0e4059e5
       2nd tuesday in August:
         name:
           en: Defence Forces Day
-        id: 18e07886-b53e-4e06-9623-88a1659b0c71
+        id: cb240d41-3227-4738-a8e8-004c74316151
       12-22:
         name:
           en: Unity Day
-        id: 60c522b1-191f-4696-b7b6-6be998056b74
+        id: 865771d9-8363-4b43-b47e-89db6bfddd9e
       12-25:
         _name: 12-25
-        id: 5bd554b8-c95c-46fe-9489-eb17272e42af
+        id: a33fa856-bbce-4b26-94d9-b1ef27f83b0c
       12-26:
         _name: 12-26
-        id: fb4ce840-c816-472b-a23a-3e0feac95150
+        id: a2af7380-d55d-4ccc-bb16-4fb9b7f6bf78

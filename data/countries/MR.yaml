@@ -12,27 +12,27 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 5faa14fd-a0e8-4656-bcb1-7a3585ab15cc
+        id: d1f0e257-0a1f-429d-80fb-0f2a547bbf6a
       05-01:
         _name: 05-01
-        id: 660a904e-1771-4632-b4ba-7fa53cf24ab0
+        id: a330fa1c-a491-449e-991f-23e5ca36e375
       05-25:
         name:
           ar: يوم افريقيا
           en: Africa Day
-        id: 0f6f49ca-dc48-43f3-98f4-daf424185800
+        id: 3fd6072b-204b-45d2-b6de-b5287434a030
       11-28:
         _name: Independence Day
-        id: 1adce402-336e-44d3-972c-ec7883ed967b
+        id: 1bf3c732-c55a-4c4e-bb68-5ff432aa674a
       1 Muharram:
         _name: 1 Muharram
-        id: 8f2ea423-042e-41a8-ab3e-0d25dd2399fe
+        id: 3b45d54e-ec8c-4156-9637-0465dc942212
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: e780d9d8-afca-494a-bfaa-7922e48410c4
+        id: dddd02c6-f446-4620-9737-ea9fc50bd5df
       1 Shawwal:
         _name: 1 Shawwal
-        id: 945aa1b7-194c-4ea9-a2d1-cd1d2745bbc1
+        id: 42bcd868-7e1f-4a2c-b1f3-6facecdfa60a
       10 Dhu al-Hijjah P3D:
         _name: 10 Dhu al-Hijjah
-        id: 12ed46fc-c214-4b46-82fe-bd165c6cdad3
+        id: ec1b7732-479b-473a-a623-2647ac614716

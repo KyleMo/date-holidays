@@ -14,60 +14,60 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 4c92cc07-542e-4752-8981-7d7b57782f2c
+        id: dbaa28fe-8123-435e-9345-0d3959612dca
       01-11:
         name:
           fr: Manifeste de l'indépendance
           ar: ذكرى تقديم وثيقة الاستقلال
           en: Anniversary of the Independence Manifesto
-        id: 172c34e7-85ef-4cdd-85ef-e35a1bd13844
+        id: 518bd322-4f60-46cc-b56e-f7473079daed
       05-01:
         _name: 05-01
-        id: ef557263-18d8-4e78-94ff-777b3e2d994c
+        id: 206c1d96-02e0-4884-bcc6-6bf01ff52d0c
       07-30:
         name:
           fr: Fête du trône
           ar: عيد العرش
           en: Feast of the Throne
-        id: e1d15651-b90e-4e24-9267-67f3f448d2f8
+        id: 82adfa14-1f42-4c00-bcd3-563b97ffe9ec
       08-14:
         name:
           fr: Journée de Oued Ed-Dahab
           ar: يوم وادي الذهب
           en: Anniversary of the Recovery Oued Ed-Dahab
-        id: 6190b16b-c3c5-4525-b81f-57bc23eff487
+        id: cd2fadce-f7ce-4ff3-8ee7-131bbd18e51b
       08-20:
         name:
           fr: Fête de la révolution du roi et du peuple
           ar: ثورة الملك والشعب
           en: Anniversary of the Revolution of the King and the People
-        id: dd613af2-ceac-4e66-84a5-45da4987ec8e
+        id: 91477324-676a-4fb7-93b4-4a9e3a61f37b
       08-21:
         name:
           fr: Journée de la jeunesse
           ar: عيد الشباب
           en: Youth Day
-        id: bbc8dbf0-0679-4a5d-bcf3-2632c9fea7ec
+        id: 8141d1eb-6dd8-448d-87a4-b5c444596827
       11-06:
         name:
           fr: La Marche verte
           ar: المسيرة الخضراء
           en: Anniversary of the Green March
-        id: 5812fe56-2f08-4f29-9b3c-d4e638150fab
+        id: 72c580f9-b412-445c-a1a3-6402c9c54dbb
       11-18:
         _name: Independence Day
         name:
           fr: Fête de l'indépendance
-        id: a8138677-36e4-4cab-91fb-738c25d2b562
+        id: a79cc86a-1489-4295-8f2c-606486b368c7
       1 Muharram:
         _name: 1 Muharram
-        id: 0e4a61e8-5af7-4823-b5d5-74a92bd097a6
+        id: 40bdafc1-17f1-4900-8f97-c2404ee4a82f
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: 36006135-838f-4ce0-a128-8f7e6bd6bd61
+        id: 86dc3562-2d46-4b8d-b03d-530ea8e858e8
       1 Shawwal:
         _name: 1 Shawwal
-        id: a7d89a99-a343-405a-b3ff-d3cd7a87e098
+        id: 51da78fc-5ce6-4b97-aed4-5fbff79132c2
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 275e8ddf-aef1-4b9b-93bf-6b4b0a20a543
+        id: fd3fabbb-f25c-48e2-b527-5bded4a9bad5

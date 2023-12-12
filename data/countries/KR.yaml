@@ -11,56 +11,56 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 930c33c8-0564-4cb8-a1cc-0b1f2a8992fc
+        id: f6a45e0a-1bfb-4650-942f-aa90497062c3
       korean 01-0-01 P3D:
         name:
           en: Korean New Year
           ko: 설날
-        id: 86e1110a-262c-4151-a3ff-5bf7d83e31b2
+        id: eb00c221-eac3-4a7a-924b-2395be3c0b1b
       03-01:
         name:
           en: Independence Movement Day
           ko: 3·1절
-        id: 038c9190-cccf-4fbe-8ae1-d8c39e70319b
+        id: 5fe1630d-16cc-4838-8839-e6d47a48f7d1
       05-05:
         name:
           en: Children's Day
           ko: 어린이날
-        id: 57e62801-61a2-4580-9005-436806d31cc9
+        id: 1f6b08e3-fa11-4464-a78b-69a82ad95fea
       korean 4-0-8:
         name:
           en: Buddha's Birthday
           ko: 석가탄신일
-        id: f3fc25d1-e104-4508-9ab5-c0f0156b4973
+        id: 086ec793-b6c7-4f25-a58f-ead5d53ca61b
       06-06:
         name:
           en: Memorial Day
           ko: 현충일
-        id: bdebe3c5-0199-4f98-b28a-a881b107c40d
+        id: 9de7ec72-566c-404a-be5e-4696f5c0ba50
       07-17:
         _name: Constitution Day
         type: observance
-        id: 01696e47-2348-4f18-8b3d-c44850c95890
+        id: 08aa82f1-09cd-49fe-8772-10455f46b573
       08-15:
         name:
           en: Liberation Day
           ko: 광복절
-        id: 06d15178-485d-4d64-b2ee-8573cc76d842
+        id: ff453fa3-f8b5-4556-8ec5-bd2fdbf558a9
       korean 8-0-15 P3D:
         name:
           en: Korean Thanksgiving
           ko: 추석
-        id: f19b618f-b2c3-4e48-93cd-fa4e8f52b3e0
+        id: 53174c34-4566-4050-b687-5db30e84f2fd
       10-03:
         name:
           en: National Foundation Day
           ko: 개천절
-        id: aff93cc3-2707-4196-bde2-50951b57eb7e
+        id: ed0fcaa0-e24f-4864-8db3-5dd6be974fcf
       10-09:
         name:
           en: Hangul Day
           ko: 한글날
-        id: a6cc62b5-679d-41c0-a294-3d3e43fac815
+        id: 912e5f35-e435-4820-83f8-12d243846827
       12-25:
         _name: 12-25
-        id: cac2247b-c6c1-4305-bb73-f9e47e6570d1
+        id: 4a3f99d8-8ed7-40c2-b57f-068f9bfd65ae

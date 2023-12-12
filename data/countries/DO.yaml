@@ -11,45 +11,45 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 6a5a650e-89f4-41a2-95c0-bc3ce5b1b131
+        id: 3ed91d6c-2343-4c5c-b9bb-92558ee470e9
       01-06 if tuesday,wednesday then previous monday if thursday,friday then next monday:
         _name: 01-06
-        id: fe35ff53-beb2-4b5f-821a-223e5004037e
+        id: 7d273225-742c-46a1-919d-5b4f6a8ceabc
       01-21:
         name:
           es: Nuestra Señora de la Altagracia
           en: Our Lady of Altagracia
-        id: 4a301bae-b125-48a6-ba19-f31ab0241165
+        id: 3acf2858-c0b6-447d-8099-5a92f77be3a6
       01-26 if tuesday,wednesday then previous monday if thursday,friday then next monday:
         name:
           es: Día de Duarte
           en: Duarte's Birthday
-        id: 9e85bb0b-7e81-43f9-beb6-2e68e79f8177
+        id: 6b67e56f-4bec-4260-acac-6ba84296ac45
       02-27:
         _name: Independence Day
-        id: 1b7b9c84-421b-448b-bf96-7fc2c1ce0a4e
+        id: ec788884-d753-447f-8702-e7f57426432c
       easter -2:
         _name: easter -2
-        id: d238e921-bd51-4dca-a371-bfe04dc88aaa
+        id: eb620ed9-22e7-4b91-bdfa-ca8b4ec328d0
       05-01 if tuesday,wednesday then previous monday if thursday,friday,sunday then next monday:
         _name: 05-01
-        id: 26a43cfb-0a49-4e97-8c4f-455993877b8e
+        id: 81e48053-967a-4edb-9ca9-44170b72e2ee
       easter 60:
         _name: easter 60
-        id: fe67c6a8-644b-4e47-87fa-cc656067d7ba
+        id: 2b5c3b6c-5a1b-4ed7-bc44-ef4d9e1f18f1
       08-16:
         name:
           es: Día de la Restauración
           en: Restoration Day
-        id: 87242b73-91d0-4c59-b9ef-6e84807b699b
+        id: b37a24eb-2988-4837-85fd-a2574e33c526
       09-24:
         name:
           es: Nuestra Señora de las Mercedes
           en: Our Lady of las Mercedes
-        id: ea2d15a4-4597-46ba-8072-a2b3d0f1593b
+        id: e1b51c8d-0ac1-4c46-a272-ebc172d913b9
       11-06 if tuesday,wednesday,thursday,friday,saturday then next monday:
         _name: Constitution Day
-        id: 8141e780-82af-4e30-9587-e023023f7fc7
+        id: ab86ff4c-a2c4-433d-8ee0-ecfb17ad11de
       12-25:
         _name: 12-25
-        id: ac064929-af51-42ae-8532-013273257f06
+        id: 78fef570-3c33-499c-bd16-bceb903553ae

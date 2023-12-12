@@ -11,85 +11,85 @@ holidays:
       01-01 and if Saturday, Sunday then next Monday:
         substitute: true
         _name: 01-01
-        id: 7ac60047-e795-481d-b28f-7ad99bebaf8b
+        id: 6ac380bd-f88c-4cd9-bf23-1c4d3c01eaf9
       4th Monday in January:
         name:
           en: National Heroes Day
-        id: e76ed29e-ef91-4414-b137-9e738399d35f
+        id: 2df4464e-c494-484e-aafe-f648767b77a1
       easter -46:
         _name: easter -46
-        id: f1de9f64-0331-42b9-b7a7-74979a26901f
+        id: 8d5313bd-1ba3-4ea8-9e27-9e992ba8658e
       easter -2:
         _name: easter -2
-        id: 460a352d-a571-4b63-aba0-b93f121248d8
+        id: d74e0fed-c861-4929-a5bb-b6ec50afd48e
       easter:
         _name: easter
         type: observance
-        id: 2f277b25-2f32-476c-93e4-0da840f1afc3
+        id: e54fda00-3b67-4950-99be-e7b6bcb7ceaf
       easter 1:
         _name: easter 1
-        id: 1fa9bfcb-5e57-4848-a88b-32b17cfb71ef
+        id: 9d3df3bf-3c96-42db-8b06-3ad3c40a483e
       3rd Monday in May:
         name:
           en: Discovery Day
-        id: 607b93e0-b81f-45c5-b379-2e8ede6eaf9d
+        id: 53f7012e-4d8a-4d01-b49e-c80f784a11ce
       07-02:
         name:
           en: Constitution Day
-        id: 6c15669d-b080-4c01-a38f-094baeb90e16
+        id: 018f6926-72e9-4942-8a60-519d2afd4977
       12-25:
         _name: 12-25
-        id: b60d5753-2866-4a8e-8b20-73175c3bff4f
+        id: eb24a84c-1f4d-4d2c-9ac9-0edfdbaf7494
       12-26:
         _name: 12-26
-        id: fbfdf5d2-fd57-45ad-9534-88f9d5c98b33
+        id: fbf4a62d-084c-40af-aaf9-d2ca220eaaf5
       '2017-05-24':
         name: General Election Day
-        id: 11453ce4-7cdf-47d5-a977-4b8e8ed7b9d1
+        id: 27104b91-45da-4314-a07d-b92e560dea90
       '2021-04-14':
         name: General Election Day
-        id: 5a366134-5bce-4cd2-818c-4b03f9b16590
+        id: 877f8e2e-2bdb-459b-bbd9-8f093aab271e
       '2016-06-13':
         name:
           en: Queen's Birthday
-        id: f8af8d64-a86e-4c03-881b-b906948d6a27
+        id: 54835d37-0ccc-424b-9e3a-030f03c14cf3
       '2017-06-19':
         name:
           en: Queen's Birthday
-        id: 49e1ac15-0a48-430c-9292-8deb0703a2ce
+        id: fd78e2a2-0673-45f6-b082-b6407793ef4c
       '2018-06-11':
         name:
           en: Queen's Birthday
-        id: 0b7bf3c8-4b75-4a5b-936f-42a343e1dcc4
+        id: d7f4d67c-7e0d-4cbd-835c-8b5d0c4a5f67
       '2019-06-10':
         name:
           en: Queen's Birthday
-        id: 5090f207-fa5e-406b-9402-60c476200256
+        id: 55270274-b666-4fa5-a36b-d66d6300df77
       '2020-06-15':
         name:
           en: Queen's Birthday
-        id: 2ee44f21-6527-4107-9a85-cce9a2ae1f9c
+        id: 1b729d40-93e7-47ef-b460-18a12d9fbc9b
       '2021-06-14':
         name:
           en: Queen's Birthday
-        id: 142b45e4-fe85-4ae4-8c83-2e47d55b632a
+        id: 37be26d1-3071-474f-a847-d7056a1e4d7a
       '2022-06-20':
         name:
           en: Queen's Birthday
-        id: 21e1a92b-9367-4d3b-9fa1-63fd46ffdafd
+        id: 1654a8ba-4cbf-480d-af6d-698a9099a10d
       '2023-06-19':
         name:
           en: Queen's Birthday
-        id: 0613e263-deaf-4c61-89a5-001987863cbf
+        id: 3f486f5c-825f-4261-bfcf-4af202bef796
       '2024-06-17':
         name:
           en: Queen's Birthday
-        id: 81f850c9-a0d5-4100-bd5d-00949309a4fd
+        id: f95ab5bd-e9e0-42f9-9b9a-9622d636d652
       '2025-06-16':
         name:
           en: Queen's Birthday
-        id: f30e9e4e-b363-4464-86c0-b6914c9949d5
+        id: 0eaded20-b861-4cd7-a93a-7877f49f1fcc
       '2026-06-15':
         name:
           en: Queen's Birthday
-        id: 26195be4-d781-4ed1-93e6-33418a28aebc
+        id: bf3c3fc0-a6a6-46ba-a6d9-9d295a78dafe

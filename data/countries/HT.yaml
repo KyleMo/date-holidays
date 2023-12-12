@@ -11,77 +11,77 @@ holidays:
     days:
       01-01:
         _name: Independence Day
-        id: 215058c0-8cfc-42b9-a6c7-f97b6bc5a76b
+        id: 8b436ce2-4c37-421a-82d9-ff886eaf67a5
       01-02:
         name:
           fr: Jour des Aieux
           en: Ancestry Day
-        id: 6ef5e6b7-f1a5-4008-8bdc-e681289898d7
+        id: 23871e1a-eba7-41a1-9496-05fe6e525afc
       01-06:
         _name: 01-06
         name:
           fr: Le Jour des Rois
         type: observance
-        id: 0ca5b216-3321-4e97-bb44-4bb681d2cb88
+        id: 51cb644b-9ce5-4279-ba66-d8f7ac688165
       easter -48 14:00:
         name:
           fr: Lundi Gras
           en: Lundi Gras
-        id: 40ad85c5-2fc0-4c6f-a451-635a0d2220d3
+        id: 471cff17-ebe2-4d01-aac5-2a12c277bff0
       easter -47:
         name:
           fr: Mardi Gras
           en: Mardi Gras
-        id: cceed499-c4e5-4fd1-82d8-b7f9f949fcde
+        id: 74ad9068-3b2a-479b-b546-19fbfc0e7be2
       easter -46:
         _name: easter -46
         type: observance
-        id: ac90270c-8a98-40f4-b3f7-305f3c6456ec
+        id: 38bf2aa9-9fff-4c74-9023-15fa4f51e0ce
       easter -2:
         _name: easter -2
-        id: fa317b59-599f-4f79-a78a-e74732194191
+        id: bc80b887-7ef8-4b63-a4e8-6efb4ef67cdb
       easter:
         _name: easter
-        id: 40cf7dfa-2be7-4b8a-87b9-0dcacd6dc914
+        id: 20d86374-4857-46ae-b044-7f9092e00818
       easter 39:
         _name: easter 39
-        id: 275808e4-e7d7-46ad-950e-f2c836053dca
+        id: 47af43eb-e021-426b-b073-5815d9486ed5
       easter 60:
         _name: easter 60
-        id: 5c48e86d-0cf8-4333-ae3e-7e35c38c45ca
+        id: 870f6d6a-71cb-4967-9627-c28ea7fdb497
       05-01:
         _name: 05-01
-        id: a797c7e6-85a9-4f9a-9ce4-fbbff1a0abf1
+        id: 593c670e-ae6b-4dce-bbb6-79500dd293b0
       05-18:
         name:
           fr: Jour du Drapeau et de l'Université
           en: Flag and Universities' Day
-        id: 31d01d62-af49-4286-922f-ce37df4c3ce4
+        id: 4b256b92-6d30-4ee8-92c1-19a96cff0f0b
       08-15:
         _name: 08-15
-        id: 86cf71c1-2e56-41b6-a56d-f2b535cacea3
+        id: 2faeab9d-24c2-4ed4-ae6b-25c4bb1311db
       10-17:
         name:
           fr: Anniversaire de la mort de Dessalines
           en: Anniversary of the death of Dessalines
-        id: d7899668-def0-478d-96c4-e983deb9b257
+        id: 8090db8e-7554-4138-9f7e-9ad483c6d41c
       11-01:
         _name: 11-01
-        id: 37c5b85a-34a5-4f6f-a750-ffe72f6c3de2
+        id: c105225d-be92-4766-9bb7-a775bb7d2d51
       11-02:
         _name: 11-02
-        id: bcbf6e92-8181-45d3-8c74-bc03431374fa
+        id: 8927fff1-5d1d-480d-bfab-04c8d92fe633
       11-18:
         name:
           fr: Vertières
           en: Battle of Vertières Day
-        id: db17fea3-189a-46c4-9553-edf7aecec843
+        id: 93f14aac-5985-4c4a-85e7-b5a0b4c358b4
       12-05:
         name:
           fr: Découverte d'Haïti
           en: Discovery Day
         type: observance
-        id: a2abb33f-dd89-49fb-bde8-c53a7fc021d5
+        id: 58d4471d-22c8-4054-814e-9a33880fdcf6
       12-25:
         _name: 12-25
-        id: 0a080679-90a4-483a-996d-b479995d5d8a
+        id: 82a9d0e8-8bbf-409d-86e9-8d1b6aec71a1

@@ -10,62 +10,62 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 51434d54-1a59-4303-a3d1-9a21c16b249e
+        id: 794b8b70-fa26-4e52-b031-e7940912bc26
       substitutes 01-01 if saturday, sunday then next monday:
         _name: 01-01
         substitute: true
         type: bank
         note: Goverment offices close
-        id: 953f0ce1-8abe-4305-a5bf-21e6b1239660
+        id: 2854b909-04cf-4f42-9941-12d3d1ef600d
       easter -2:
         _name: easter -2
-        id: 4a449805-b21a-47eb-be64-fa00e9fcf320
+        id: 6375e271-22a3-4a8e-b052-f3625a4b9dfb
       friday before 06-01:
         name:
           en: Bermuda Day
-        id: 83524482-a2e0-41a3-b673-b0479995b929
+        id: c70a8258-5cad-4e6c-8130-5288c62d8853
       3nd monday in June:
         name:
           en: National Heroes Day
-        id: 99071c28-a9dd-4dcf-94f7-88df678c8fff
+        id: a4a3758d-b6d9-45bc-8ee9-07c7cd6e0cfd
       thursday before 08-04:
         name:
           en: Emancipation Day
-        id: 3c7c277e-bef1-443f-a1e6-6af95c36133e
+        id: 514ebe82-8a4b-484e-a5fd-b146e8a73bfa
       friday before 08-05:
         name:
           en: Somers' Day
-        id: 6cd59fc7-f0da-4819-9d9e-e02e926f6ef6
+        id: 5055f637-30c6-405e-8ed4-3e957da44f70
       monday after 09-01:
         name:
           en: Labour Day
-        id: 84515af7-dc9e-4d40-ae98-761aa1a5e6da
+        id: a19cd965-cbb2-4389-9151-f967b0069acb
       11-11:
         name:
           en: Remembrance Day
-        id: 27b731de-b2f6-4119-adf7-a7b2e4fea6bf
+        id: a77398ea-a1c1-4ba2-82f2-0feae00bc651
       substitutes 11-11 if saturday, sunday then next monday:
         name:
           en: Remembrance Day
         substitute: true
         type: bank
         note: Goverment offices close
-        id: 7473fce8-61fe-4b7c-a125-cc73a7a180f9
+        id: d5129bbb-61aa-4e08-979f-64c5d318334f
       12-25:
         _name: 12-25
-        id: 3b71c528-4653-421e-877e-1f6944d0f511
+        id: ff28b4e1-0e1b-486e-807c-d1515a77984f
       substitutes 12-25 if saturday then next monday if sunday then next tuesday:
         _name: 12-25
         substitute: true
         type: bank
         note: Goverment offices close
-        id: 79b9584b-be51-4373-8c93-e0abcde9d39c
+        id: 2cdadbf7-9c24-40f4-b340-e987fcd98b81
       12-26:
         _name: 12-26
-        id: 23f0b304-ed3f-49f2-814b-87bd47f42e56
+        id: 89ac90b4-6486-47aa-8e0f-b3f3e5bc9397
       substitutes 12-26 if saturday then next monday if sunday then next tuesday:
         _name: 12-26
         substitute: true
         type: bank
         note: Goverment offices close
-        id: f6c74511-8100-49ad-a6dd-e625d99061c0
+        id: ffbaa5d9-22cb-45e9-8590-be2f79fb4278

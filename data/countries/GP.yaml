@@ -11,15 +11,15 @@ holidays:
     _days: FR
     days:
       easter 49:
-        id: 51ec7e11-1fe7-4083-9b9e-6abd619fa0b7
+        id: 2676a2c7-0b7a-48d8-b883-0fd807dc6d1c
       easter -2:
         _name: easter -2
-        id: 6247e249-6395-410e-b630-4136a7cd2d05
+        id: 4dbd9cd6-ab6f-47ff-b32c-a7ba2ce81a93
       05-27:
         _name: Abolition of Slavery
-        id: 436e65f4-9b47-49c6-a729-b109242b3352
+        id: fdbe11cd-279c-4b86-ad5f-7e818ed8690d
       07-21:
         name:
           fr: Jour de Victor Shoelcher
           en: Victor Shoelcher Day
-        id: 92ecc22a-63f7-4c69-9d34-95029da2a46d
+        id: 6cb3b2eb-9974-4a0c-aaa6-162c991515fd

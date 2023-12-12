@@ -13,146 +13,146 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 7c633b0b-752e-4dc0-b991-d5df053e4e58
+        id: 9340621b-e7b6-47c3-92c8-5509dffe8a68
       substitutes 01-01 if sunday then next monday:
         name:
           en: New Year's Day (substitutes)
           es: Año Nuevo (substituto)
-        id: 135a5255-9bf9-49a3-a01d-17fe2c6313d9
+        id: 3438bf1c-0901-443b-b071-fee5e7a9b247
       01-22:
         name:
           en: Plurinational State Foundation Day
           es: Día de la Creación del Estado Plurinacional de Bolivia
-        id: 02dd015f-caaf-4c56-b1bd-9a81b187baa7
+        id: c2a4b4fe-1c27-4e1f-9f7e-4040a1d1b84d
       substitutes 01-22 if sunday then next monday:
         name:
           en: Plurinational State Foundation Day (substitutes)
           es: Día de la Creación del Estado Plurinacional de Bolivia (substituto)
-        id: 68d6c3dd-7e2b-4f1f-83ac-1caef95622cc
+        id: fc7bd921-8dc1-4f49-9bf7-2cff2475e1ea
       02-02:
         name:
           en: Feast of the Virgin of Candelaria
           qu: Mamacha Candelaria
           es: Fiesta de la Virgen de Candelaria
         type: observance
-        id: 233a6aae-c4c2-4e2d-9e78-7ff0760bab1c
+        id: e16a6b28-8345-439f-96e0-1e567421614e
       easter -48:
         _name: easter -48
         name:
           es: Lunes de Carnaval
-        id: b21b7d1e-fa8b-4621-b1d8-c19ae7fdd0e2
+        id: e6f23a83-b824-4c06-9c14-e10293d98f01
       easter -47:
         _name: easter -47
         name:
           es: Martes de Carnaval
-        id: 6a225d91-abfb-4060-87bd-3f22a8025baa
+        id: bbd6cc08-adc4-4bae-b7c7-a8d6ec773f1f
       03-19:
         name:
           en: Father's Day
           es: Día del Padre
         type: observance
-        id: d2bfad07-7223-4a83-a3d6-f9174fa1f2c8
+        id: 51e9264d-8f64-4697-ade9-2b0bd49dfbac
       03-23:
         name:
           en: Day of the Sea
           es: Día del Mar
         type: observance
-        id: 55ff82b7-3864-4494-9197-6338a0263a61
+        id: 0460fc84-f43d-420c-9d67-86cecd07bd62
       easter -3:
         _name: easter -3
         type: observance
-        id: 49451e99-9526-48d2-bc61-f227fd352de2
+        id: 2a1e88c8-f429-4a85-befb-af9043653767
       easter -2:
         _name: easter -2
-        id: ecf661bc-a7a4-42be-9287-fb23cb438f2d
+        id: 7441918b-6f6f-428f-a585-93de80cf5071
       04-12:
         name:
           en: Children's Day
           es: Día del Niño
         type: observance
-        id: 84ca6bd8-68c1-4374-8062-1579108be9d7
+        id: 917c4359-0c58-4dfa-ab3b-91eaf356de4b
       05-01:
         _name: 05-01
-        id: 572e4a57-e492-40da-8bdd-c3e90c2341ba
+        id: e52e6a2b-fc55-43d1-9eef-3052643f7707
       substitutes 05-01 if sunday then next monday:
         _name: 05-01
         name:
           en: Labour Day (substitutes)
           es: Día del Trabajo (substituto)
-        id: d4924932-f878-477b-b9ad-bd487173de07
+        id: 29bb1a0f-7ed8-486f-a475-c4ccd2d72a37
       05-27:
         name:
           en: Mother's Day
           es: Día de la Madre
         type: observance
-        id: 2f847607-714e-4e0b-9ea1-26d4191341a3
+        id: 2f175303-66a3-4238-8053-ac71e08005cf
       06-06:
         name:
           en: Teacher's Day
           es: Día del Maestro
         type: observance
-        id: 3574f27b-01c9-42a2-9df4-e78f28f6c5de
+        id: e8abc1f4-b5f9-49a0-bf5f-7e1f53f8c61d
       easter 60:
         _name: easter 60
-        id: c4297db3-c26e-46a5-9879-5fe621b7c5cf
+        id: 69c5e543-af7c-490f-aa42-85cebf0e9f32
       06-21:
         name:
           en: Andean Amazonian Chaqueño New Year
           ay: Willkakuti
           es: Año Nuevo Andino Amazónico Chaqueño
-        id: a585fded-7500-4351-ab33-8b4a1c2e008c
+        id: 9489bcd0-8423-4030-a334-b29e0ef466cc
       substitutes 06-21 if sunday then next monday:
         name:
           en: Andean Amazonic Chacoan New Year (substitutes)
           ay: Willkakuti (substituto)
           es: Año Nuevo Andino Amazónico Chaqueño (substituto)
-        id: a6221ffd-f717-4dd3-bdba-a208c1cdf8bd
+        id: 5ecbe0de-39ce-4fce-839c-f5d5acb55610
       08-06:
         _name: Independence Day
-        id: ab909922-0cd9-4b81-93e2-94ee4027b394
+        id: 795f96ce-3648-44d8-ac95-fed4b5ece8a9
       substitutes 08-06 if sunday then next monday:
         name:
           en: Independence Day (substitutes)
           es: Día de la Independencia (substituto)
-        id: d32a6eb5-c879-42b7-bc7a-f5b2011855f2
+        id: cff621e8-7fd5-4185-80c0-713af489b01a
       08-17:
         name:
           en: Flag Day
           es: Día de la Bandera
         type: observance
-        id: 4b965aad-c355-4000-8232-8806072cf4d6
+        id: db4b0ad4-63cb-42aa-8dc1-8ab350a18390
       09-21:
         name:
           en: Student's Day
           es: Día del Estudiante
         type: observance
-        id: d5a1d255-addf-4c3e-8d45-cc61f6780e17
+        id: ea552d2b-9a87-402a-956a-7d75bd86531d
       10-11:
         name:
           es: Día de la Mujer Boliviana
           en: Bolivian Woman's Day
         type: observance
-        id: bdf8dee9-5e22-42c7-a776-339b2cdc61a1
+        id: 90bbd02a-23ba-4dc3-ab35-dcf95b149ad2
       11-01:
         _name: 11-01
         name:
           es: Todos Santos
         type: observance
-        id: 0cb12962-55c2-463d-b8a3-7b4de1440a7c
+        id: 6a0a218b-2506-4a71-94f5-eaa5a8bf8726
       11-02:
         _name: 11-02
         name:
           es: Todos Santos
-        id: 519aa53d-0e9c-4feb-b357-81a62a503397
+        id: 68998158-e010-4ff6-a8ba-ae6445b8cad3
       12-25:
         _name: 12-25
-        id: 665c2e50-ed1c-4a77-8c06-2ca601df4f82
+        id: 6534fea7-c829-4d0f-8204-22a4224d35bc
       substitutes 12-25 if sunday then next monday:
         _name: 12-25
         name:
           en: Christmas Day (substitutes)
           es: Navidad (substituto)
-        id: 88f21eee-4ae6-4d35-bf49-3ed0518ece2a
+        id: 640b1157-0574-48e1-b854-ac6a23bf7bae
     states:
       B:
         name: Beni
@@ -161,12 +161,12 @@ holidays:
             name:
               es: Efemérides del Beni
               en: Beni Day
-            id: f98890cc-be85-4d8c-80ae-2f7076a5486a
+            id: 4ab202ae-21fe-4441-8a33-76722814dcf4
           substitutes 11-18 if sunday then next monday:
             name:
               es: Efemérides del Beni (substituto)
               en: Beni Day (substitutes)
-            id: 50bda999-faf6-461a-a588-9118f6bd16e0
+            id: b1c2c957-ac4d-4a86-b2b2-7f430c404050
       C:
         name: Cochabamba
         days:
@@ -174,12 +174,12 @@ holidays:
             name:
               es: Efemérides de Cochabamba
               en: Cochabamba Day
-            id: c7bc783d-3e46-422d-8e26-a27103911fb0
+            id: 9ecfdf32-60e5-4e55-a228-78a4d0af3490
           substitutes 09-14 if sunday then next monday:
             name:
               es: Efemérides de Cochabamba (substituto)
               en: Cochabamba Day (substitutes)
-            id: f6b4bd3c-a691-4ab4-9fb0-195160d891ad
+            id: e4baf0ed-8fa8-4984-aa93-b367e6a2a329
       H:
         name: Chuquisaca
         days:
@@ -187,12 +187,12 @@ holidays:
             name:
               es: Efemérides de Chuquisaca
               en: Chuquisaca Day
-            id: 7659840d-ead5-4d2f-a91e-323e79b2edd4
+            id: c6d3f88a-716e-4926-b1de-2d5ce8ed4aed
           substitutes 05-25 if sunday then next monday:
             name:
               es: Efemérides de Chuquisaca (substituto)
               en: Chuquisaca Day (substitutes)
-            id: 50706de5-ae4a-4312-bf69-6e5febbee02b
+            id: f78ff177-ba22-4a03-a386-31b0c9d268ef
       L:
         name: La Paz
         days:
@@ -200,12 +200,12 @@ holidays:
             name:
               es: Efemérides de La Paz
               en: La Paz Day
-            id: 1ad16e81-82b6-48ab-84a8-febdd83bc76a
+            id: d7cbe003-d63f-40c9-9adb-7f261ef75c14
           substitutes 07-16 if sunday then next monday:
             name:
               es: Efemérides de La Paz (substituto)
               en: La Paz Day (substitutes)
-            id: 5dd5a40e-d312-4bd8-94aa-45b0556c0098
+            id: 4d6e299c-808c-4c07-b505-a9b49e40c791
       'N':
         name: Pando
         days:
@@ -213,12 +213,12 @@ holidays:
             name:
               es: Efemérides de Pando
               en: Pando Day
-            id: 30e5cc48-25b0-45b7-a68c-79c11b1fd123
+            id: d472c90e-f338-4989-89d3-9c416848826a
           substitutes 09-24 if sunday then next monday:
             name:
               es: Efemérides de Pando (substituto)
               en: Pando Day (substitutes)
-            id: 60e4d45a-a0b9-4b9e-825f-528dd8005ccf
+            id: 15ef0f52-091e-471f-99c0-0b32a0018815
       O:
         name: Oruro
         days:
@@ -226,12 +226,12 @@ holidays:
             name:
               es: Efemérides de Oruro
               en: Oruro Day
-            id: 2197e10f-38c0-4e5a-9cfd-c10cbe6363db
+            id: 49e3159e-7334-44a9-88d5-a2169cb1967d
           substitutes 02-10 if sunday then next monday:
             name:
               es: Efemérides de Oruro (substituto)
               en: Oruro Day (substitutes)
-            id: 8c452f23-55a5-4ff6-b58d-501c75a01207
+            id: a64c0a62-ba04-4357-a538-7123aa7587e0
       P:
         name: Potosí
         days:
@@ -239,12 +239,12 @@ holidays:
             name:
               es: Efemérides de Potosí
               en: Potosí Day
-            id: 1c47b39d-33c0-4662-9120-c2f8c195844b
+            id: 940834f1-5985-405d-8150-85bd882c0684
           substitutes 11-10 if sunday then next monday:
             name:
               es: Efemérides de Potosí (substituto)
               en: Potosí Day (substitutes)
-            id: 9509ed0e-be39-4778-966a-9bd6a2fd962e
+            id: 84fdc211-55ed-4fcf-aa78-32d12a34a7d7
       S:
         name: Santa Cruz
         days:
@@ -252,12 +252,12 @@ holidays:
             name:
               es: Efemérides de Santa Cruz
               en: Santa Cruz Day
-            id: d25a315d-9be1-44ec-bce7-13d511db8ff2
+            id: 6924fd5a-723a-45c7-83f5-08f5e3f59968
           substitutes 09-24 if sunday then next monday:
             name:
               es: Efemérides de Santa Cruz (substituto)
               en: Santa Cruz Day (substitutes)
-            id: 7d120562-6467-4fb1-8879-ad8a9f88895c
+            id: ce397b1b-b9d3-4b05-acd2-681a099bf120
       T:
         name: Tarija
         days:
@@ -265,9 +265,9 @@ holidays:
             name:
               es: Efemérides de Tarija
               en: Tarija Day
-            id: 122b56d9-4c9f-400b-936b-81e04ebbc88e
+            id: e7cac8ae-c001-45a4-b070-ff7d4311c597
           substitutes 04-15 if sunday then next monday:
             name:
               es: Efemérides de Tarija (substituto)
               en: Tarija Day (substitutes)
-            id: 2e8399a8-2316-4e24-93e6-68a46c746277
+            id: 70b63ddb-ef45-4507-951c-e6367e717430

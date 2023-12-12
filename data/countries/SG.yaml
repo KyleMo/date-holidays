@@ -10,55 +10,55 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: bc5388df-7375-4d90-b256-b45c4df8cacf
+        id: 9e115a84-e03e-4b10-bddd-62cfd07eb3f1
       substitutes 01-01 if sunday then next monday:
         substitute: true
         _name: 01-01
-        id: c2082f58-41e8-47c2-83e3-582c899d2039
+        id: a0822442-51c3-418a-b8fc-fe06b89f09b1
       chinese 01-0-01:
         name:
           en: Chinese New Year
-        id: 250fb31f-9638-4cea-8d31-15f38fa1ee0d
+        id: a1abe992-413d-4b2a-bdb7-aa754cee1bed
       chinese 01-0-02:
         name:
           en: Chinese New Year
-        id: a192a225-18ec-4adf-9090-c57729b4b4c9
+        id: 2641f8f2-1c39-41a8-b5bc-4f86cb6ba079
       substitutes chinese 01-0-01 if sunday then next tuesday:
         substitute: true
         name:
           en: Chinese New Year
-        id: 1e962be1-3c95-41bd-9e5a-d458ceae2d5c
+        id: b539dadd-40ac-42aa-b32d-7cdf03c17b93
       substitutes chinese 01-0-02 if sunday then next monday:
         substitute: true
         name:
           en: Chinese New Year
-        id: 4f12691d-a540-475e-8a15-a731c897aabd
+        id: cf7c907f-e2a1-464b-b948-c9168fe3eed1
       easter -2:
         _name: easter -2
-        id: 54db1e31-7b95-4647-910f-5289f5d39431
+        id: 4c81bb76-c970-4e90-9baf-b3da5c49e7e4
       05-01:
         _name: 05-01
-        id: f1513899-ed08-4958-9804-6c46efde7174
+        id: 8aa69a75-af86-4569-988a-6eebd532c6f1
       substitutes 05-01 if sunday then next monday:
         substitute: true
         _name: 05-01
-        id: f6342344-a289-4f9e-85bd-2a85afdf6e29
+        id: 8f7d3a1b-ca94-4748-84fc-b5bcf78dd2ff
       08-09:
         name:
           en: National Day
-        id: 4df380f2-8eae-4824-b713-1b616e52e54a
+        id: afa1349c-6db0-4267-9bfd-f87b8efcb6b0
       substitutes 08-09 if sunday then next monday:
         substitute: true
         name:
           en: National Day
-        id: 4fc38c24-331c-420f-a434-c98234eaf41e
+        id: 26e2d750-85e7-4e20-9f2b-97915c147947
       12-25:
         _name: 12-25
-        id: 3ad18e33-b4ca-427b-a41e-746a55e0d940
+        id: 756a3fa6-b68e-43f4-ab6a-48200156a329
       substitutes 12-25 if sunday then next monday:
         substitute: true
         _name: 12-25
-        id: 0575c5c1-5961-4171-a961-3caa3d7ec278
+        id: 532e75b7-3212-430d-b8b5-f032a8b6b802
       1 Shawwal:
         _name: 1 Shawwal
         name:
@@ -69,7 +69,7 @@ holidays:
         enable:
           - '2022-05-03'
           - '2023-04-22'
-        id: 25625431-9d23-4b9a-82c7-a43eff8817a6
+        id: 407ef0f0-1922-4458-ad16-a8fd1a92a13f
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         name:
@@ -80,194 +80,194 @@ holidays:
         enable:
           - '2022-07-10'
           - '2023-06-29'
-        id: 28d54190-76e5-42e2-a5f8-b272d91fbb3b
+        id: b81c5326-fb8f-4f1b-ab86-c992bd45d3ca
       '2001-05-07':
         _name: Vesak
-        id: 205be75b-b0f0-4309-a662-66c55e9dab1b
+        id: 6ba6d712-3051-4f93-beb0-1e45e06b2bef
       '2002-05-27':
         _name: Vesak
-        id: 08498457-1499-48a9-bd52-964dfbdd6da2
+        id: 0a96b5b0-53f3-4dda-a312-b186acc58fdc
       '2003-05-15':
         _name: Vesak
-        id: 2ce3c7c7-dfe5-4701-a123-07eeb862c7e8
+        id: 04cb89b4-fd78-4cc5-9027-6620b43b8530
       '2004-06-02':
         _name: Vesak
-        id: 5e1bae96-3ceb-430a-b3e5-014fc531734d
+        id: d6e7be49-2a95-4a4e-8b8a-7b301cdf73b1
       '2005-05-23':
         _name: Vesak
-        id: c83151e0-e763-4f5a-a6d5-d26401d362a9
+        id: 92bd87e0-decc-4cee-8658-a4dd1e837a56
       '2006-05-12':
         _name: Vesak
-        id: 9a32b434-0307-4ecf-bc1b-6ed2afe16f3a
+        id: f88adbe2-2ec0-448a-ad5c-89e40bd2f599
       '2007-05-31':
         _name: Vesak
-        id: cb09af01-471c-42cb-b8b4-58b2cd13209e
+        id: 98215b0b-77b6-4f57-88c5-3ee2e739aa0b
       '2008-05-19':
         _name: Vesak
-        id: f27354c9-f99e-4e50-a4d2-e2eea512f763
+        id: 9e00f474-7991-45d0-878e-437c47ccba34
       '2009-05-09':
         _name: Vesak
-        id: 6030baa7-d40e-43d9-ace2-72ce57aac008
+        id: 9d003550-1f16-4702-b8b1-70010085f507
       '2010-05-28':
         _name: Vesak
-        id: 37c4944a-b066-43d3-bcf2-dbad19fc1781
+        id: e1d77e32-bec0-4303-bcb6-706677154d46
       '2011-05-17':
         _name: Vesak
-        id: fff15c44-59ef-4fdd-a679-2c9dc3c4c2c6
+        id: 6d6d4be2-b116-4c0c-b5de-9a2a5b35d504
       '2012-05-05':
         _name: Vesak
-        id: 4b969534-c519-455f-92b5-0fb57a241ad6
+        id: 3eeb08b4-f45e-404e-abad-fd050a1f9290
       '2013-05-24':
         _name: Vesak
-        id: 62c006ce-6e51-411f-b50b-90cf1e1075dd
+        id: cf1203ec-cdc6-4bf9-b13c-4e99f035ffb2
       '2014-05-13':
         _name: Vesak
-        id: a67f9436-a0c5-40d6-a0a9-53381163f064
+        id: 56133cec-dcbd-45c3-bb29-4677e9d409ec
       '2015-06-01':
         _name: Vesak
-        id: ec246f10-9c1f-40a2-ba06-9f0a6bca0ddf
+        id: 74c0bd21-01ef-405e-a9b7-78b5d1be2d63
       '2016-05-21':
         _name: Vesak
-        id: e00126cb-ce92-4d24-9a82-41a778ee52a9
+        id: 279621f1-0d2f-4cde-b1f1-a69217095146
       '2017-05-10':
         _name: Vesak
-        id: e6cc7da4-5637-431e-8a96-ee6a29d07f2b
+        id: 7f15d86f-b8c9-4ce1-85bc-6bfd8d4e7693
       '2018-05-29':
         _name: Vesak
-        id: 115eb65e-d7e4-49a3-b3a3-7c2ba6967fc2
+        id: f6bed37a-ef0b-4b42-bc34-3d7f0a682e8e
       '2019-05-19':
         _name: Vesak
-        id: ce039fd5-89cd-4046-b606-ee1b95f7e762
+        id: 2505b1bb-0767-4a94-892e-d96d156a7e0e
       '2019-05-20':
         substitute: true
         _name: Vesak
-        id: 1cc61aa9-a990-4b52-813b-70b5e1001c87
+        id: 309f1770-742e-495b-8fbc-11574e64e59b
       '2020-05-07':
         _name: Vesak
-        id: ef22b50a-9a0c-41f1-99c4-db557c28a3bb
+        id: c010ca77-0797-4030-9a52-e97e5388434e
       '2021-05-26':
         _name: Vesak
-        id: 7d2891cf-3425-442d-b060-ddec249e06a0
+        id: 19ea9a68-18de-4572-a658-855df2702f73
       '2022-05-15':
         _name: Vesak
-        id: 2f7940bf-7a6e-4900-bf3a-c42a4bd152db
+        id: 35c622d2-d6b2-4af9-a4d9-5c228c06fb4c
       '2022-05-16':
         substitute: true
         _name: Vesak
-        id: 0d72ea24-8706-4afb-8dc3-f747344543a5
+        id: 5a1decc4-70a1-456b-9c5e-b3f9cb9901b4
       '2023-06-02':
         _name: Vesak
-        id: 58b4cd33-6c09-45e9-aa11-f10482ed1630
+        id: 1e79a88f-9e5c-43c6-a7c7-b37dd6968bf2
       '2024-05-23':
         _name: Vesak
-        id: f1beb09c-814f-4509-b4dd-cba12d03223b
+        id: 303799f2-84d3-4585-bb87-726df590935f
       '2000-10-26':
         _name: Deepavali
-        id: 887713e5-c173-45cb-b46d-d21f12c9bc65
+        id: b66360da-aeb0-486f-9c87-5a5ba256c3e4
       '2001-11-14':
         _name: Deepavali
-        id: 3cbc59ff-3046-49dc-9d70-8b438ab65104
+        id: f151dbeb-4938-4e5d-9e36-6f9fde42e60a
       '2002-11-03':
         _name: Deepavali
-        id: 2af42717-7443-4c16-9024-0a3b8616567e
+        id: 385d7932-c075-476e-abb0-186471ca9f53
       '2002-11-04':
         substitute: true
         _name: Deepavali
-        id: 9ebe56da-39e9-489f-8400-7238dcbe6758
+        id: 0ce9e72a-6d1f-45d7-80a9-e8e0938b913e
       '2003-10-23':
         _name: Deepavali
-        id: 8346a6aa-4462-4e7b-a2ae-99704688b0b4
+        id: 3dfb11d5-554b-4018-aef9-b700eba130a6
       '2004-11-11':
         _name: Deepavali
-        id: 7c412cc4-7230-4f92-8162-b0484e4886bf
+        id: 8a586d82-816a-4c2a-bb5f-0623183854ad
       '2005-11-01':
         _name: Deepavali
-        id: 90ca62bd-33fd-4f05-a671-ccdfb7db34d9
+        id: d55af493-3b58-4777-84e7-7bb7da2d7bb0
       '2006-10-21':
         _name: Deepavali
-        id: ef044f36-d091-4ecf-a3eb-6d90effd8ec6
+        id: 59aa86c0-9770-4a8a-ba82-8b617e4d9fea
       '2007-11-08':
         _name: Deepavali
-        id: a0cf4904-7e1e-4879-ac34-40a0f6c58f55
+        id: 98da75d0-bfea-4aab-88a1-a07f69ea867c
       '2008-10-27':
         _name: Deepavali
-        id: 16c34a93-5562-48d9-adec-979bec256b65
+        id: 5f1e89cf-4d55-4bde-9903-6981417a7978
       '2009-10-17':
         _name: Deepavali
-        id: 42ebb942-4a8f-47dd-b366-84e471a48236
+        id: 2ed6400a-08be-4b42-b0c3-5040c2a2eb51
       '2010-11-05':
         _name: Deepavali
-        id: 6a3c29c2-d86b-4c52-b93a-978a8b08fd51
+        id: 7f8d1412-e3af-48cb-910d-6cffbb047847
       '2011-10-26':
         _name: Deepavali
-        id: eedfb8ab-0423-40ee-95d9-f98b9376ab73
+        id: cd44ecdc-5e3b-48cd-8078-a3abec75ee90
       '2012-11-13':
         _name: Deepavali
-        id: 9f3e16c5-fedb-46b8-954b-f9ef65efb48f
+        id: 368fddc6-0b1c-465d-bf84-5deb81662958
       '2013-11-03':
         _name: Deepavali
-        id: 44fb4c5e-98b0-4951-858e-1aacee75de9b
+        id: a36966ad-bd4b-4561-bd55-1ea87917ab42
       '2013-11-04':
         substitute: true
         _name: Deepavali
-        id: 97859240-4c7c-4f4a-9154-78df52842119
+        id: 8bc2c9ee-95d0-4e39-9981-736aac5b3d81
       '2014-10-22':
         _name: Deepavali
-        id: 2e37e74d-0aa3-4dc6-bbe5-53a2494462bd
+        id: cfe79f77-96b4-48cc-a48a-ad2f6f35151f
       '2015-11-10':
         _name: Deepavali
-        id: 65955a21-446a-40cb-9c2a-8545b5eeabdd
+        id: b49afe8e-476d-47b9-b869-6780b822caab
       '2016-10-29':
         _name: Deepavali
-        id: cda187bd-06f2-436b-81b8-4296b7a8194d
+        id: 1f8b9d95-3cd2-480e-a7b3-e954b58906bd
       '2017-10-18':
         _name: Deepavali
-        id: 46d8dfe5-1b24-42a1-88bc-837e14b95c25
+        id: 61b421fc-c5ee-404f-b5bc-80d9ab9f22e1
       '2018-11-06':
         _name: Deepavali
-        id: aa87def9-6654-4592-8834-e7e93986c5a2
+        id: 31061a22-b8bc-4588-a312-c50bc336b65a
       '2019-10-27':
         _name: Deepavali
-        id: 251b40fc-95d1-4014-80c2-d80bc2bc34b0
+        id: 9de91203-3a34-4120-93ed-ac2460a4bd9c
       '2019-10-28':
         substitute: true
         _name: Deepavali
-        id: 3ba55962-3e50-4eae-befa-d812aee619a0
+        id: fd571bf8-9d89-4e1e-afd6-b88a3f9380d1
       '2020-11-14':
         _name: Deepavali
-        id: 2902cc41-75ed-4849-8ba2-f67539ec2ce0
+        id: 3c8751a2-5321-4b78-982c-9f378fe920c5
       '2021-11-04':
         _name: Deepavali
-        id: 53b6d898-2572-4b1d-a80d-317d24382663
+        id: 3c3065a1-d244-41b8-a8ef-e806504d0935
       '2022-10-24':
         _name: Deepavali
-        id: 6ff99514-b96f-42ef-8de2-f1bcb5420b32
+        id: b5c28064-5299-4c3c-907e-91472ef04a3d
       '2023-11-13':
         _name: Deepavali
-        id: 4c5af8e3-01eb-43e6-8042-5f4dcefafd47
+        id: 615c9900-4f3a-4be5-bdfb-2ec13e00f329
       '2024-10-31':
         _name: Deepavali
-        id: 8f0a30e3-12d4-4690-a163-e0180bffd43d
+        id: 8bae7b57-4fa3-444a-9c5b-865c8e0ac1bf
       '2025-10-20':
         _name: Deepavali
-        id: dea70fed-1cc5-42bf-86f7-f3cd9d2c557a
+        id: a6876a98-3ace-450c-972a-ddfc01dcdbb6
       '2026-11-09':
         _name: Deepavali
-        id: 2e7b9c4f-cfc0-40f3-a385-17f16b75fbe4
+        id: 36c013f6-f5eb-4cea-84c7-273b5df0da80
       '2027-10-28':
         _name: Deepavali
-        id: 3b499fda-34f5-49de-92fb-882beb610d37
+        id: b43614ac-473f-485d-8763-4772e76a8da5
       '2028-11-15':
         _name: Deepavali
-        id: c4fff9b9-7022-4fda-a163-86b52dd0d793
+        id: 063e8dcb-580f-47a2-a5c5-3fb8657a3324
       '2029-11-05':
         _name: Deepavali
-        id: 33000ac7-96e5-4657-ad6c-17c798fdeec2
+        id: 4a97bc41-1516-435b-9812-8ad6d85d3639
       '2030-10-25':
         _name: Deepavali
-        id: 6c3a532a-f956-4f2c-b6ef-1bdc50af1184
+        id: 7a047236-7f00-4e1b-9870-96a00a937c47
       2023-09-1:
         name:
           en: Presidential Election Day
         type: public
-        id: da2f44fb-9e89-4b9c-9e7e-a2fb11c3f2aa
+        id: 0086effb-874b-4dd6-ba60-6ec342c08ebc

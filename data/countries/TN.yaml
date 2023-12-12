@@ -13,49 +13,49 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 77d0803a-ff0a-4080-841e-75d12f815192
+        id: 88047d51-56d2-40d1-bedf-a9634cb215cb
       01-14:
         name:
           fr: Fête de la Révolution et de la Jeunesse
           ar: عيد الثورة و الشباب
-        id: dd68ff8b-d4ef-44d8-b700-e66d528b70cc
+        id: 33747da4-b77f-4143-84fc-6fe0b162a2bc
       03-20:
         name:
           fr: Fête de l'indépendance
           ar: عيد الإستقلال
-        id: 47671763-7832-4bdd-9e37-a1fc2f68b50e
+        id: 6e41adad-f3b1-40ef-beb4-0884210d18dc
       04-09:
         name:
           fr: Journée des Martyrs
           ar: عيد الشهداء
-        id: ab2ff766-8f77-4586-9521-d60440edfc8a
+        id: 95ef8b63-a862-439e-82e3-99501f9dd6f1
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: 741ffecc-1c87-4eb8-929d-ba7fa9ad430e
+        id: 1e1dc26d-b656-4fd3-861f-0ba46f3521fc
       1 Muharram:
         _name: 1 Muharram
-        id: 4522b238-f6e0-4c62-9835-aa480f72bb90
+        id: 36e86c90-fb5c-4f53-9443-05eb425b5036
       1 Shawwal:
         _name: 1 Shawwal
-        id: c8dd36ed-2614-441a-a5d7-4bceee8937bb
+        id: 1ccc4de2-b4b0-4ea6-b091-7bf9595996f4
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: b4a401c2-1adb-4b3e-84c7-41fa23fff427
+        id: 4b5d37ae-f5d7-40fa-9da1-6a2c5e5dde55
       05-01:
         _name: 05-01
-        id: 36fbece7-7e47-498e-a874-6b9f2c2ae139
+        id: 1cc17450-d46d-48a4-9349-15cb0a9d3444
       07-25:
         name:
           fr: Fête de la République
           ar: عيد الجمهورية
-        id: 571e726a-ce38-4bd1-ac2a-a7e999274c69
+        id: 7060b126-af26-4e59-bbfd-d4b61370401d
       08-13:
         name:
           fr: Fête de la Femme et de la Famille
           ar: عيد المرأة
-        id: b2695e2e-8a09-446b-9a2e-1288c8766fdc
+        id: dfdb7399-641b-49de-a75f-ed04dcc3ad59
       10-15:
         name:
           fr: Fête de l'Évacuation
           ar: عيد الجلاء
-        id: a83daed0-a3ab-40db-8e13-34724dc25c47
+        id: 69b8dacc-41f6-440a-9f7d-6c77f726047b

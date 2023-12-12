@@ -13,49 +13,49 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: b2c203cc-654c-48f3-9534-01c9be7514bc
+        id: 9f2aa229-ba6b-4cac-8d9d-09e566af8d22
       easter -3:
         _name: easter -3
-        id: 3f2b386f-b99e-4755-95bf-4cfb523c6633
+        id: a1906c67-0500-4ec8-813d-3ef1e92f46f5
       easter -2:
         _name: easter -2
-        id: 861a2c74-bee4-42b3-9f95-7e8c545564cd
+        id: 5653d06e-7d9e-44b1-81ac-0b43b94f8184
       easter:
         _name: easter
-        id: 457edc32-ecc2-4a08-9b27-af8e3092c610
+        id: fca436e7-7609-4ecb-ad9d-a8e6c38ee76f
       easter 1:
         _name: easter 1
-        id: 30260577-4eb4-47d0-83a8-0ec6ba941c22
+        id: 95f4065e-f528-459a-ad15-ba07da248b99
       04-24:
         name:
           fo: Flaggdagur
           da: Flagdag
           en: Flag Day
-        id: 42865209-0229-41a1-b755-424110d42240
+        id: 4df811c5-d51c-4a87-a3db-d0d61b7e74ae
       easter 26:
         name:
           fo: Dýri biðidagur
           en: Great Prayer Day
-        id: 8b7ad8b1-26ed-4be2-bf31-1913b67833fb
+        id: 17902adf-581b-4c9c-bc3f-a64dc4078638
       easter 39:
         _name: easter 39
-        id: 0d560e7b-c0cb-4bea-97b1-f4a22981abfb
+        id: 0fce5f99-86be-411e-9c75-06c122939de4
       easter 49:
         _name: easter 49
-        id: 1c3c2d32-d4d9-4d72-b0b9-6f37df604da9
+        id: 6f2e7b13-55f4-4c0e-adc2-fc3e63f61aad
       easter 50:
         _name: easter 50
-        id: 3671bf05-3348-419c-981e-86cd4189b86b
+        id: 5377b103-8e39-422e-9153-6f7c70864314
       06-05 12:00 if sunday then 00:00:
         _name: Constitution Day
-        id: 671d6c63-94fb-4278-b65d-c77915f6dec6
+        id: 31a93a5d-cc25-4ad6-9d56-0e09d8a9a3f8
       07-28 12:00 if sunday then 00:00:
         name:
           da: Sankt Olavsaften
           en: St.Olav's Eve
         note: half-day holiday for some workers' unions
         type: observance
-        id: 3eea769f-2888-4a6b-ada7-6cb20be0b765
+        id: 03d6506d-4cef-4779-8413-1181b936b757
       07-29:
         name:
           fo: Ólavsøka
@@ -63,16 +63,16 @@ holidays:
           en: St.Olav's Day
         note: full holiday for most workers' unions
         type: observance
-        id: 23c6bab7-b44c-4227-9245-cb4676819e31
+        id: d7e31239-7fd8-4653-b3bf-4044b9545401
       12-24:
         _name: 12-24
-        id: 3f29192a-d4a1-4b10-8c45-b2e71b5756eb
+        id: 85358a16-20e2-4372-aa3b-0ae941865ffa
       12-25:
         _name: 12-25
-        id: 052abcfb-2c30-4b31-81c9-c8ea06ba93d0
+        id: 54ef3414-bedb-4615-a477-864d4a034433
       12-26:
         _name: 12-26
-        id: 74b26586-527f-4a5d-a216-8deb08f3b4bb
+        id: 9a20c7e6-6b73-488d-83f3-f363ad7600d3
       12-31 12:00 if sunday then 00:00:
         _name: 12-31
-        id: dc9f43a7-d713-4d10-95da-9de3d16c2cbe
+        id: 8d2b0cab-b292-4a47-a510-0fa94809951e

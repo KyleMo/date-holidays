@@ -10,69 +10,69 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 8919e4bd-eac0-47bd-aac0-532e2c8694f3
+        id: 91f1c59e-5c75-4e58-a6bb-253f7f2cf53f
       substitutes 01-01 if sunday then next monday:
         substitute: true
         _name: 01-01
-        id: 35c67a32-d793-4a8d-bd00-bfa31e9217fe
+        id: 61977bc8-ac0c-42d6-837d-610dc26ce3f2
       substitutes 01-01 if saturday then next monday:
         substitute: true
         _name: 01-01
-        id: d32acd23-acdf-49fa-b6d1-2593e0acb232
+        id: 1ac318f5-ce26-4481-9316-1a9373d36cfe
       easter -2:
         _name: easter -2
-        id: cac44f21-ac89-4637-a009-a4b83c72895f
+        id: d5d7298f-475c-40a9-9c4c-fb8e9708f72a
       easter:
         _name: easter
         type: observance
-        id: f651a65d-2498-46e8-8d14-0b70d15232f8
+        id: 991e015a-2870-4e6d-bc21-43a45d4c92b7
       easter 1:
         _name: easter 1
-        id: 8062c808-0b4b-4533-afa2-2245d9ba824f
+        id: 81136a62-9e82-4b61-b1f1-2ac93ea86fba
       3rd monday in April:
         name:
           en: Queen's Birthday
-        id: ffb52ecf-80f9-46e1-8f3e-b01cdaa0e465
+        id: 2921e6e8-cb6e-4412-9f06-5de60bb36109
       05-21:
         name:
           en: Saint Helena Day
-        id: 3aa7422c-b022-4b53-ab1c-e446a6ae7a63
+        id: 19be1daa-ce8f-4558-a7ec-d40671925bd5
       easter 50:
         _name: easter 50
-        id: 15cbc415-6b6d-4d12-a9bc-a710e8d1127b
+        id: c4ea3d9b-71c3-47f5-b4ef-8829e6e0e379
       monday before 09-01:
         name:
           en: August Bank Holiday
-        id: 74238fc2-c705-4eea-a38d-036b6de70d2e
+        id: 4864d625-329d-49f9-afe5-fedbe627fae5
       12-25:
         _name: 12-25
-        id: 25432527-4a79-49b1-a803-6563a6bd3230
+        id: afe05512-1a1f-4e83-af5e-618daa697e09
       substitutes 12-25 if saturday then next tuesday:
         substitute: true
         _name: 12-25
-        id: 0ad64f34-2e0e-4f01-b08f-1232a34a933c
+        id: 8904e49e-b8b4-45d6-86d6-925f96595968
       substitutes 12-25 if sunday then next tuesday:
         substitute: true
         _name: 12-25
-        id: d6eae39f-e561-4678-85df-d531a267c87e
+        id: 5115e90b-7c6c-4169-81ce-255d5ad58ce0
       12-26:
         _name: 12-26
-        id: c27a347d-ea4c-4c28-ac6f-6b7ad2667b60
+        id: 123cc9f9-6b93-42d6-81c4-4babf80ddbd4
       substitutes 12-26 if saturday then next monday:
         substitute: true
         _name: 12-26
-        id: da398268-8424-4f75-b1f2-34494bc0325a
+        id: ec6dced7-85d4-4e18-acae-a7b5670f6ab2
       substitutes 12-26 if sunday then next monday:
         substitute: true
         _name: 12-26
-        id: f3ab5d4d-4612-41b4-b800-402d324d7386
+        id: b2dd413a-a70d-4712-904a-2dd981043cc0
     states:
       AC:
         name: Ascension Island
         days:
           easter 39:
             _name: easter 39
-            id: 532c66ee-98fc-4269-9bc9-e8061a710868
+            id: e0561e4c-3d1a-4898-9e84-f6793bdb54b1
       HL:
         name: Saint Helena
         days: {}
@@ -81,38 +81,38 @@ holidays:
         days:
           easter 39:
             _name: easter 39
-            id: c107da27-d06a-4854-8713-de4d741558ad
+            id: a7e489dc-21da-42b5-9274-f5283eeb4233
           '2012-04-23':
             name:
               en: Ratting Day
-            id: 40758993-2265-4a5a-8fdf-f5bd17ed8c43
+            id: f2b8505d-45fd-4f46-a458-fe24fa145c4c
           '2013-05-03':
             name:
               en: Ratting Day
-            id: 2d77da2b-add7-42a2-9887-e30c25056f0d
+            id: e96b3c1f-19f3-485a-83ab-179c30d49ef7
           '2014-05-02':
             name:
               en: Ratting Day
-            id: 05262475-a064-4084-bfc9-480e7a8a4e23
+            id: f77b8c8c-0f4f-4bcb-9778-7778699af1f6
           '2015-05-16':
             name:
               en: Ratting Day
-            id: 407f763d-33d9-4e6e-a9b6-3fccd7273738
+            id: c1fd407e-04e9-4c0e-8865-9058197af478
           '2016-04-30':
             name:
               en: Ratting Day
-            id: 580b2daf-91a2-486a-bb03-a9c398dc72b0
+            id: 0c2c5bb3-0fe5-4d92-873c-e82f817f2692
           '2017-05-26':
             name:
               en: Ratting Day
-            id: 331c44a2-2c2a-4ee7-a4a1-6e71a3ed6bbd
+            id: 74fdb4a9-7853-4dee-8b43-495c85b266a4
           '2018-06-02':
             name:
               en: Ratting Day
-            id: a093b845-0839-445d-89bb-2fb1ca03c4fe
+            id: dff17b61-8c9c-4ec0-862f-ff3bb8e8cfa4
           08-14:
             name:
               en: Anniversary Day
-            id: 4402030f-5404-4612-aa94-8a6aa0464216
+            id: 5ecfccf1-ceb9-4b50-946f-d6d77400abd7
           monday before 09-01:
-            id: ccaa8e27-6b7b-4f30-8c0c-349c50bc6037
+            id: e0ffff96-17b7-43e0-9850-32f789bcbbb6

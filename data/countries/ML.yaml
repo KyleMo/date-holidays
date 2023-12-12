@@ -12,40 +12,40 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: e35c934e-bb66-43bc-aae0-1a1dac49a3f4
+        id: 8c0f7867-9744-4b20-8d8e-ae859eb581dd
       01-20:
         name:
           fr: Fête de l'armée
           en: Army Day
-        id: ab3932c1-90c9-46ab-b563-30485a478063
+        id: 7810cdfe-06e1-4aa1-a7d3-35946f8278ae
       03-26:
         name:
           fr: Journée des Martyrs
           en: Martyrs' Day
-        id: dfab57d5-f98d-4b10-832f-2cf91776cd5d
+        id: 5d6fb143-dff8-4408-8293-349f52e32c6e
       easter 1:
         _name: easter 1
-        id: 5062c789-8077-4d71-8837-96ff008db8de
+        id: 8abfe0cc-a56b-4d55-b6eb-a17b596d195a
       05-01:
         _name: 05-01
-        id: 6488f361-b369-4b1d-a985-d874fb2ba396
+        id: a584a5ae-30a6-481a-8bf7-f0850f0f6340
       12-25:
         _name: 12-25
-        id: 50e22a1a-ee6e-4fb2-af47-7302d697814b
+        id: 80ab64e1-547e-4e55-ba10-e4ed060456eb
       1 Shawwal:
         _name: 1 Shawwal
-        id: 2fc19dea-751e-4947-b9a4-5c914ac70581
+        id: 7be07f0d-1e9c-4fde-9ba5-e06bea25bea4
       05-25:
         name: Jour de l'Afrique
-        id: 170bc744-bb16-4f16-a0da-68c19ef9fa58
+        id: 384a1100-e90b-4b5d-a216-62e87e31e68f
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 222bab72-f95a-4cc0-98c7-c7e2bb3fa941
+        id: 2fbca10d-e36a-4edf-add4-143e047eced6
       09-22:
         _name: Independence Day
         name:
           fr: Fête nationale de l'indépendance
-        id: 1cf5da2a-2aa2-493f-b0a1-adc00b516398
+        id: 366ecee1-25e8-4048-bb36-f17593c463a3
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: 90697d94-7e88-43fb-83a4-9f49ac91e6f3
+        id: 589d009a-3a5b-4cf6-a88d-b55ba602dff0

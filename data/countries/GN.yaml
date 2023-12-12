@@ -11,41 +11,41 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: c636c74d-03aa-45ea-bf20-3439e52aac99
+        id: 02ed5835-d952-4b8f-ba85-3fd700af84df
       easter 1:
         _name: easter 1
-        id: b0e37078-61b1-45c5-936e-3f367f83e0ce
+        id: 23e5cf1c-d1d2-4c00-a77f-5a840d68ba97
       04-03:
         name:
           fr: Fête Nationale de la deuxième République
           en: National Holiday
-        id: 363f26d6-6cf7-417b-bcb6-368d1fcea502
+        id: 18d0fbba-7cd1-4fe2-9203-3a3693a7ba37
       05-01:
         _name: 05-01
-        id: 124cff4f-fa9c-4774-8162-69bc7f92c406
+        id: 46013513-a077-445f-9057-1444ee7ea04a
       05-25:
         name:
           fr: Anniversaire de l'Organisation de l'unité africaine (OUA)
           en: Africa Day
-        id: 761f0db5-8ac3-495a-aae6-2ac02b2b5f6e
+        id: 95a800ac-37d5-4e4b-b0af-a06d6bd280e8
       27 Ramadan:
         _name: 27 Ramadan
-        id: e1cb66a7-2ef6-41df-bf39-d36af8a60785
+        id: ddaa9949-1fa7-4997-816a-ab9f848c12d5
       1 Shawwal:
         _name: 1 Shawwal
-        id: 059d40e4-17a2-460f-a5b3-3a7393ee333f
+        id: 171317d2-127d-4e73-9c05-0e0bfb651909
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 307f78cf-3231-46c4-9617-ef9f8a2cbe44
+        id: af15edaf-c794-4102-af2b-958f598f913a
       08-15:
         _name: 08-15
-        id: ff1e5c06-e8ce-4417-9726-83feeb6459b8
+        id: b0f5d3b6-698a-43e3-b6ef-0db849d718dd
       10-02:
         _name: Independence Day
-        id: 9eaa28b3-3625-4e2a-ac49-69d0406dfb65
+        id: df6b0c57-ab8f-4017-87f0-4ce855590adb
       12-25:
         _name: 12-25
-        id: 946052fd-96e8-45a2-8d6e-eb6d1aa74397
+        id: abf5f7e4-5fa4-4400-99bb-97fea3c94873
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: f5b1c242-881c-4c6f-96c7-b612336a1fec
+        id: 58ed4bcc-50fe-4905-8668-febf58f774f0

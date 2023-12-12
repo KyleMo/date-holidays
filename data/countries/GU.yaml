@@ -12,25 +12,25 @@ holidays:
       - US
     days:
       3rd monday in February:
-        id: 10d0b89b-4a10-4b95-9e4b-02672dd2826d
+        id: 342b63ea-5a47-4e13-9547-ed5bb1ec2e4b
       03-17:
-        id: 847094cc-0f70-47a7-badb-1c0d449d7c66
+        id: c70ac7c6-8db8-4dab-bd2c-e6d44ba0e94b
       1st monday in March:
         name:
           en: Guam History and Chamorro Heritage Day
-        id: 659915f3-c0c0-4f05-b394-32c32b0d5d96
+        id: bde8d333-8dc4-4ef4-8f41-a54c5c2651e4
       easter -2:
         _name: easter -2
         type: observance
-        id: 1e15a3a6-07ef-4218-80f0-8722882d7e03
+        id: 29f8b002-cce7-4ff0-b0b5-57392685f595
       07-21 if sunday then next monday:
         name:
           en: Liberation Day
-        id: 7aea8b90-b45b-4f0e-9289-5ef854c1df42
+        id: 9501b945-29dc-41de-9880-e5d0dc4b7719
       11-02:
         _name: 11-02
-        id: e8a54df5-92ff-4ad8-9651-b91abb5da4be
+        id: f66f8180-6432-4c99-8871-9f30e0a0836b
       12-08 if sunday then next monday:
         name:
           en: Our Lady of Camarin Day
-        id: 55164ad1-444b-413c-a426-a6695bd8c53a
+        id: 7ce64119-0b4c-4e08-83e2-e72cce62668a

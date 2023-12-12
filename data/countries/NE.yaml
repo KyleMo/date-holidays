@@ -11,43 +11,43 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 9886f6fe-c78f-4313-9a5c-fb76f8f95c50
+        id: 2a9d0dc9-76af-47a6-b5b9-c8e865e6ed5e
       04-24:
         name:
           fr: Journée Nationale de la Concorde
           en: Concord Day
-        id: 9a1f3add-5876-4cfc-88e6-917b46a16b0a
+        id: 8c6333b8-adb8-452f-829b-342f5bacde34
       05-01:
         _name: 05-01
-        id: 59672804-d4ec-4b7b-b697-7d589c11c34c
+        id: 3c5fba99-4c6e-44f0-b6ed-a08e7cc1fea1
       08-03:
         _name: Independence Day
         name:
           fr: Proclamation de l'indépendance
-        id: 610f3096-8739-4519-9e2b-12a1a2507df2
+        id: 3a5bb80b-8634-4a9f-a3e4-2efea9c137d0
       12-18:
         name:
           fr: Proclamation de la République
           en: Republic Day
-        id: 0c026a27-16ad-4f6d-802f-ef1d2ee63610
+        id: 8264d579-5709-49b0-9eed-57ec779d9aea
       12-25:
         _name: 12-25
-        id: 549752d9-850a-43c5-bc17-74af7e07ffeb
+        id: fb787ad7-4a63-4712-a314-8f7c67af16cd
       easter 1:
         _name: easter 1
-        id: 6be8ebfe-beef-4b61-bb00-50576457c30c
+        id: 58332481-13d1-4c65-827d-d4298827b7b6
       1 Shawwal:
         _name: 1 Shawwal
-        id: 7acde09d-5c32-4626-88cb-6544026aa1f8
+        id: 5e6f1d89-57ee-4a0b-94fa-9b47fa1206b6
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 5fbb244e-81cc-478d-bdb5-198ae2ee7c8e
+        id: 4e7048c0-a46c-4467-899c-2b87f87a862d
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: 140693ae-ee48-4416-ad36-8078934fa4fa
+        id: a78d48df-7185-4832-b627-9195cd5cea94
       1 Muharram:
         _name: 1 Muharram
-        id: 76a8b990-3a01-4b66-a619-890ec6b1cefd
+        id: 672deb53-837a-421d-bdff-31beceb9d296
       27 Ramadan:
         _name: 27 Ramadan
-        id: fe6a3474-af36-4c5b-a572-eeed832c3bbf
+        id: 9b1ee945-361a-41c1-bb41-c4c714d305bc

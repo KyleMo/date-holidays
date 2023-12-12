@@ -11,80 +11,80 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 8c449910-7202-4678-a14e-2552f998bbe6
+        id: 9b735750-e2ae-4742-a56f-333f72a62bd3
       01-06:
         _name: 01-06
         name:
           it: Epifania
-        id: 02387836-0d10-469b-8bcd-756d36eb5422
+        id: 96582f4a-03c8-4306-a7f0-0c5e576a9485
       02-05:
         name:
           it: Festa di Sant’Agata
           en: Feast of Saint Agatha
-        id: 8fdc5754-a368-4326-9a46-5ccb8e5373ba
+        id: ce9f13da-00d9-4f3a-8df6-ec4fd75fd524
       easter:
         _name: easter
-        id: d304c34e-7f6b-43c5-88c6-161e0e8367fb
+        id: d558b2b2-9185-4271-b64a-2760ba45b213
       easter 1:
         _name: easter 1
-        id: d2334a41-12f6-4092-a4a5-f6fa354d623a
+        id: e0176d0e-9ab8-4dc6-aa41-443a1a0d77b2
       03-25:
         name:
           it: Anniversario dell'Arengo
           en: Anniversary of the Arengo
-        id: 16766583-2710-4d7c-8bef-630511f6c044
+        id: 053fc222-b062-4608-a216-30a0911d13cc
       04-01:
         name:
           it: Cerimonia di investitura dei Capitani Reggenti
           en: Inauguration Ceremony
-        id: ed39ac4c-071e-4a0e-94d2-3133970c3ea4
+        id: 297c6b2e-07ce-4452-a0d8-b7384528dd5c
       05-01:
         _name: 05-01
-        id: 5a778040-e7ee-4898-8947-b8dff3ed105e
+        id: b70f34fb-6eca-4e59-aadb-d943ccf287b0
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: 3fa54806-6cee-4dca-93d2-196bbed33580
+        id: ee8fff25-6c49-470c-98d6-f897570a6b40
       easter 60:
         _name: easter 60
-        id: 3db6486e-3d67-46ab-80c7-4d3857a9868f
+        id: 76496ef6-516b-458b-b978-74bff31799af
       07-28:
         name:
           it: Anniversario della caduta del Fascismo e Festa della Libertà
           en: Liberation from Fascism
-        id: 081d4535-c467-4e94-8d78-d19d8b528dc8
+        id: 358d23cd-b9f6-4163-b6a7-64e7c03ccdb7
       08-15:
         _name: 08-15
-        id: 7950a3e4-3c87-4de1-be68-afb9d6c388c5
+        id: ec2589fc-1ddb-4a1d-92f2-c319250700b4
       09-03:
         name:
           it: Festa di San Marino e di Fondazione della Repubblica
           en: The Feast of San Marino and the Republic
-        id: f4089c90-be58-45e1-9f7f-6820208b6521
+        id: 68bd46f7-dee8-4cd9-9afa-73c0f02ebe5d
       10-01:
         name:
           it: Cerimonia di investitura dei Capitani Reggenti
-        id: 2b72d802-bd31-4f32-9183-fbcdff1567ee
+        id: 4405d3d1-3462-4161-8022-5cfba448a9cc
       11-01:
         _name: 11-01
         name:
           it: Tutti i Santi
-        id: 7498d47e-64ff-46ba-9fe8-fb7e072b5ea0
+        id: 41bee76c-62fd-4acf-b0ca-5038a1de0484
       11-02:
         name:
           it: Commemorazione dei defunti
           en: Commemoration of the deceased
-        id: 9b9931f1-8b28-47da-9f78-5305d7c5d683
+        id: 7fdb0b13-40ab-46d9-b595-bbee3d124737
       12-08:
         _name: 12-08
-        id: baf4ee44-ff9c-4ad6-8e69-41cb03487a07
+        id: 2ca26df0-d21f-43d2-9e12-1b3ef3f57724
       12-25:
         _name: 12-25
-        id: 0224b6f7-8257-4327-8a84-b1634cbe2f73
+        id: d2c62e4f-708d-47ba-833d-f1a2c337839c
       12-26:
         _name: 12-26
-        id: 433bf14a-2007-4c67-abc2-a10f8e06b8cc
+        id: 72cf8029-fa36-457e-9e40-76c7029ed7cf
       12-31:
         _name: 12-31
         type: optional
-        id: 8a0559dc-0324-498f-94f7-0fe7d0c0de98
+        id: bd777f50-e6df-4b85-afd0-6820a502b6d3

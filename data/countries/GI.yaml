@@ -12,11 +12,11 @@ holidays:
       2nd monday in March:
         name:
           en: Commonwealth Day
-        id: f6b6e053-14e1-434f-b33d-71482fea5c99
+        id: 89c0cc11-3286-475a-bbf9-c1b64d3587b2
       easter:
         _name: easter
         type: observance
-        id: 971640a8-6e10-4417-b59d-e5a6c7977eb2
+        id: 53a5a0ba-47c8-4995-9ca4-a57c15df95f1
       04-28:
         name:
           en: Workers Memorial Day
@@ -24,36 +24,36 @@ holidays:
           - '2015-04-28'
         enable:
           - '2015-04-27'
-        id: 0cd1dee2-cea0-4df4-8ed0-cc1189684a0d
+        id: 66fd3e0d-f70c-4839-9348-aa290c30f827
       05-01 if sunday, saturday then next monday:
         substitute: true
         name:
           en: May Day
-        id: 56a7e61d-9c4f-45ec-a874-4691ddfacf84
+        id: 38e9f4f6-b148-4f5f-bfb5-64dcee0c82cb
       1st monday in May:
-        id: 8f3e3f63-82a5-450b-9eda-7830ab66c0ad
+        id: b3cc969e-940a-4312-829a-3da88eafae42
       '2020-05-08':
         name:
           en: Victory in Europe Day (VE Day)
-        id: a375a44a-56f7-47cf-926e-a9fbefa68971
+        id: e12c4b28-44d4-4f61-b261-fa77f79c500e
       monday before 06-20:
         name:
           en: Queen's Birthday
-        id: 50653edf-71a2-4808-a5a9-585bdcb825de
+        id: 812c36a2-7c51-4b47-bdf5-1f263a6a3fdd
       monday before September:
         name:
           en: Late Summer Bank Holiday
-        id: b11b9d54-f18a-43b3-870c-9ee8f023c763
+        id: f3fb3014-809e-450c-98ed-d4306d6aae8a
       09-10:
         name:
           en: Gibraltar National Day
         active:
           - to: 2015
-        id: 0e4771b0-6dc0-4212-b721-fc14de5c9348
+        id: f86ef90b-7b91-48c4-8c0b-9f92977c6f49
       09-10 and if sunday, saturday then previous monday:
         substitute: true
         name:
           en: Gibraltar National Day
         active:
           - from: 2015
-        id: 2ebc9a72-2b14-4345-aa75-3365dbd60460
+        id: 5ef62712-8660-4af4-b673-72e26917567b

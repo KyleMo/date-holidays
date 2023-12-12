@@ -11,116 +11,116 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 42f4f254-58b2-49e6-8578-1516436f2b73
+        id: 1a2aab88-917f-4640-b5e2-14f7736c354c
       01-06:
         _name: 01-06
         type: observance
-        id: 686aa8df-032c-4a6b-be61-db46fed14d67
+        id: 13156dde-38c7-4fcb-928c-282a8b9786f0
       friday after 01-18:
         name:
           is: Bóndadagur
         type: observance
-        id: d5399107-8b56-498c-a182-6e88f70246f1
+        id: fe626ec5-e568-4e27-89fd-665e8df79336
       02-18:
         name:
           is: Konudagur
           en: Woman's Day
         type: observance
-        id: 0c8e037f-ee68-45f4-a81a-7b57f21f48f8
+        id: 74c92749-aa59-4899-8e8c-5024b175ec55
       easter -48:
         name:
           is: Bolludagur
         type: observance
-        id: 9fe13793-d285-4e4f-bfe2-3409ffc1c233
+        id: 97ec3d95-ae8f-474a-84a0-41cc4d055aa6
       easter -47:
         name:
           is: Sprengidagur
         type: observance
-        id: 661bbbd9-ed67-4c1d-bfac-93782c0cd67e
+        id: 1722dc1b-6044-40e3-a5e5-a009718753be
       easter -46:
         _name: easter -46
         type: observance
-        id: 96eed31d-c25e-43ea-a136-ee5f63c31da8
+        id: eb626dc3-18cc-48b8-b8c0-38957dff9b3c
       easter -7:
         _name: easter -7
         type: observance
-        id: 51c74aee-d4f0-485b-8af0-6a157552c660
+        id: 3696ce37-1acb-49f6-b8b3-255bc31afa93
       easter -3:
         _name: easter -3
-        id: 1ea83895-3c9a-47cc-a899-581e0baca5f0
+        id: 698ff41d-3f0c-4bc0-b575-9447526af66b
       easter -2:
         _name: easter -2
-        id: f22f09d1-d187-4e10-983f-551a9b98faae
+        id: 7358ed1d-9aa4-4bbc-a4cc-c5a23906a03c
       easter:
         _name: easter
-        id: 3a486b11-bb31-4187-b928-a2f9f09d4805
+        id: e14efd85-79fb-4e91-a0a7-8a59a5826c2b
       easter 1:
         _name: easter 1
-        id: ab06fda1-27b9-4d63-a400-27aef30b4544
+        id: 0ca2c1ab-5179-40ed-8716-0943bd90c263
       thursday after 04-18:
         name:
           is: Sumardagurinn fyrsti
           en: First Day of Summer
-        id: 08fac2ab-fab7-48f9-9a08-ad95711b2c95
+        id: 4bdaea39-ec23-4dc5-9c93-1c491d1dcc8c
       05-01:
         _name: 05-01
-        id: 07151643-a1b9-47ed-87e2-228ce461ae0d
+        id: fe561bfe-ac00-41aa-90c1-cc69f80e7de8
       2nd sunday in May:
         _name: Mothers Day
         type: observance
-        id: ae36a3ad-92a3-48d0-a4b6-6b6246eb1d44
+        id: 8866a47e-ccb1-4571-a2ae-8cd1c2dc4229
       easter 39:
         _name: easter 39
-        id: afdf70db-d648-4228-8b34-d28eeed0b9bb
+        id: 9a26c8b5-ea5b-45dc-be2a-64af64e59be5
       easter 49:
         _name: easter 49
-        id: 04b63773-ed25-4b2b-9bfc-f1c9b51bb882
+        id: d40b66c4-afe2-4ea1-a0b6-1065bf0796dc
       easter 50:
         _name: easter 50
-        id: 5ea7f690-771f-4bd6-89d0-a5dcd4d77a17
+        id: c812c385-3920-4d52-8b8d-c6db40a3fc0a
       1st sunday in June:
         name:
           is: Sjómannadagurinn
           en: The Seamen's Day
         type: observance
-        id: f9458f80-a928-466e-84a8-d22587d90406
+        id: 3988932f-5374-4ef4-9f7c-e49e89aae776
       06-17:
         name:
           is: Íslenski þjóðhátíðardagurinn
           en: Icelandic National Day
-        id: 63b9ff8c-d9b4-488c-9a50-3a8edbb9217c
+        id: 2af7ad4c-08eb-4130-b3fd-0d7cfd6ccbfa
       1st monday in August:
         name:
           is: Frídagur verslunarmanna
           en: Commerce Day
-        id: ab2889a4-5f35-46f4-bb44-a83f66e6063d
+        id: 6ad26590-e35f-4747-a60d-49098cb12954
       saturday after 10-21:
         name:
           is: Fyrsti vetrardagur
           en: First Day of Winter
         type: observance
-        id: 01d43d9c-8a3b-431f-ac1e-6654a0602f46
+        id: ad93a9f8-d678-4e00-9cee-f71d33ac0e2c
       11-16:
         name:
           is: Dagur íslenskrar tungu
           en: Icelandic Language Day
         type: observance
-        id: 930e3372-bed5-4115-b4cb-d5c5e4d07244
+        id: 77b7d7ce-e6ba-474a-bf66-c386b5f83754
       12-23:
         name:
           is: Þorláksmessa
           en: St Þorlákur's Day
         type: observance
-        id: 21f418dd-546f-42ce-b9ef-f298afd85dee
+        id: 63693ac5-0316-4198-8001-066c5d1893d0
       12-24 13:00 if sunday then 00:00:
         _name: 12-24
-        id: 98b94d6a-4556-48d3-91ea-efc242cdda1c
+        id: 0cc01da5-2fdc-46ce-b22f-1a1ea93ef078
       12-25:
         _name: 12-25
-        id: 9730a48d-5806-48f2-b772-ec411baea0a9
+        id: b2067594-a712-47dd-8954-ab72d84792e2
       12-26:
         _name: 12-26
-        id: 6ad408fd-dd02-4e94-bb80-2bcfb11c185a
+        id: 419f9a96-2e93-42ad-86c9-4cde5534ab77
       12-31 13:00 if sunday then 00:00:
         _name: 12-31
-        id: 081c673f-0a4d-44e2-8eb7-7a2fb7a784b3
+        id: f648529e-6cc5-49be-8c90-7f5994f16aab

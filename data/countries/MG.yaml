@@ -14,61 +14,61 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 3c904b24-2bf9-4e9f-aca4-f71efe2dd9b8
+        id: f68bdbec-23ee-48e7-86e6-b79ec45c4fcd
       03-08:
         name:
           mg: Andro iraisam-pirenena ho an'ny vehivavy
           fr: Journée internationale de la femme
           en: International Women's Day
         note: only for women
-        id: ba7e8ea7-709d-4464-b090-18c4e6223faf
+        id: bbce59b0-8a76-4add-9921-4e15c829354c
       03-29:
         name:
           mg: Martioran'ny tolona tamin'ny 1947
           fr: Commémoration des martyrs de l'insurrection de 1947.
           en: Martyrs' Day
-        id: b3318c7d-b5fd-40b5-884a-c5335fb0344e
+        id: 034e758b-f84e-46bf-bd9e-9d9511771880
       easter:
         _name: easter
-        id: 8a15bcb9-6874-4bff-b24d-5e068ae92ac6
+        id: b5879471-14a9-4215-8ac1-4571fc8ace37
       easter 1:
         _name: easter 1
-        id: 9c9e820a-7bef-4c91-bc62-f88d494f2c79
+        id: a126c93d-7be3-49c8-9408-2099b192aecb
       05-01:
         _name: 05-01
-        id: 81e8fd57-6ad5-4b34-bd05-a1f292abfcb6
+        id: f4b7602b-8586-4f2b-a06d-4fea6b320d00
       05-25:
         name:
           mg: Andron'i Afrika
           fr: Jour de l'Afrique
           en: Africa Day
-        id: 22f4899b-9def-473b-99e8-05c8a56c1d57
+        id: 36c3b031-6fc0-4365-8a0c-71a15c2794dc
       easter 39:
         _name: easter 39
-        id: b435ce9a-20c6-4c1a-9ff7-b148b989e6f4
+        id: f9505750-0832-4942-92ff-aa4861de405a
       easter 50:
         _name: easter 50
-        id: e2ae7fed-b116-4f90-b95b-2b9812a483d5
+        id: b6389464-770d-47b8-ba2b-f332c5ffce56
       06-26:
         _name: Independence Day
         name:
           mg: Fetim-pirenena
           fr: Fête Nationale
-        id: b9c52e40-fc79-41cb-a676-dab743bf9396
+        id: 1bcf5f75-6bd0-4daa-b1b8-6ba3254a199a
       08-15:
         _name: 08-15
-        id: 53f706c1-beb9-46cd-a74a-72e3d4ecc6de
+        id: 78d19a1c-f7b9-4afd-a4c4-4e0d03ab5feb
       11-01:
         _name: 11-01
-        id: 5bbcd841-cf70-443d-8dae-45943be98d4f
+        id: 4be4beff-4ec5-4611-bc36-88a4afbd9288
       12-25:
         _name: 12-25
-        id: bceac2ce-01bd-47f7-82c8-2e73702c9037
+        id: 6e3bb0a5-b81d-419e-82f7-c0e07e74a638
       1 Shawwal:
         _name: 1 Shawwal
         note: For Muslim
-        id: 2362ae3f-8c89-4dc4-bb76-c9577fc7bba7
+        id: 3260ec41-ab38-40fc-be5d-61abe732a812
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         note: For Muslim
-        id: 6b0168c9-82f2-42d4-a517-24527ebc0b83
+        id: 0dbb9ac3-5511-4de3-83e6-71b0e56ac9d3

@@ -11,74 +11,74 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 7edbfa2c-98e5-41ba-b30c-8e5738bc5a9e
+        id: 62e418f1-210b-43d6-bf85-313c95d5db63
       01-02:
         name:
           ge: ბედობა
           en: Bedoba
-        id: fbe80778-5fce-49a0-94dc-6c6e3b31f5d0
+        id: d75cd432-c306-4fe7-a097-944f348dc468
       01-07:
         name:
           ge: შობა
           en: Orthodox Christmas
-        id: 9b351303-453b-4541-a560-c631edccab89
+        id: 418eb4aa-fdf3-4584-a4fd-2cf40b2796d4
       01-19:
         name:
           ge: ნათლისღება
           en: Orthodox Epiphany
-        id: 9b3a0344-74ce-4941-b353-399a88ed6d7c
+        id: 6ebf96de-d7c6-410f-8747-fffecfb27c37
       03-03:
         name:
           ge: დედის დღე
           en: Mother's Day
-        id: 7d095045-ae52-4d1e-96c0-a7768943a398
+        id: 07d306f3-7a0f-4b51-8f5a-385f7c71afbc
       03-08:
         _name: 03-08
-        id: 0d8d4088-a7a2-4453-ad18-710f4b7f5c8a
+        id: 736b94e1-ba79-4765-8869-7d01e0afb063
       04-09:
         name:
           ge: ეროვნული ერთიანობის დღე
           en: National Unity Day
-        id: e848afc1-ee2e-4387-bb41-be3d4802119e
+        id: e6c2e783-11af-4e42-8a92-5071dcdd22d6
       orthodox -2:
         _name: easter -2
-        id: cab9ceda-5453-4ce2-8fd8-857b8a3d8a3d
+        id: c3fd4162-1d19-4b23-bdf4-08b7c1e23f65
       orthodox -1:
         _name: easter -1
-        id: 57b67c3b-9d5c-4abe-8ce3-b9d4c2ed7213
+        id: 2e6301af-bcfd-480e-b638-ec1b0dd856c5
       orthodox:
         _name: easter
-        id: 56e35faf-57ab-4fe0-a518-0cccc64ea559
+        id: 676ee844-00f8-4d75-9d4e-ca2468d88ad7
       orthodox 1:
         _name: easter 1
-        id: 00d822a2-2413-410e-a042-e18c4ee8a806
+        id: ea7d2f0e-0c96-4af5-b72b-ea17e0464301
       05-09:
         name:
           ge: ფაშიზმზე გამარჯვების დღე
           en: Victory Day
-        id: 941e6d80-1ec8-4389-8588-37e4dac1d81e
+        id: b38da498-992f-43c0-8cdb-4afa945ca558
       05-12:
         name:
           ge: წმინდა ანდრია პირველწოდებულის ხსენების დღე
           en: Saint Andrew the First-Called Day
-        id: 8fde6de6-a63d-4876-8687-4557ea005440
+        id: 27eedf49-45b0-403e-9733-66e863a98db1
       05-26:
         name:
           ge: დამოუკიდებლობის დღე
           en: Independence Day
-        id: 001b6ff9-daa4-45bc-b93d-d5be4cc828a2
+        id: 55cdd07b-ebac-4276-abf5-451f86ae3ef4
       08-28:
         name:
           ge: მარიამობა
           en: Saint Mary's Day
-        id: 3708ad89-1bdf-482d-93ca-a57e3b9c20c6
+        id: 37a72843-1c85-4106-bed4-da5576111156
       10-14:
         name:
           ge: სვეტიცხოვლობა
           en: Svetitskhovloba
-        id: 3ace130a-0d41-4080-87be-2e9bd0263a9f
+        id: aff35b21-7e26-4f76-a944-36605da5ce32
       11-23:
         name:
           ge: გიორგობა
           en: Saint George's Day
-        id: 3a07f835-bdfd-429c-ad80-e9bedfd62f01
+        id: 31cdd941-1244-4af2-ab14-dca1cca34fb6

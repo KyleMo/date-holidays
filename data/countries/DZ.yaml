@@ -14,34 +14,34 @@ holidays:
     days:
       01-01:
         _name: 01-01
-        id: 022ad49c-82fb-4e3c-a6f2-92386d271470
+        id: d3e8c82a-b8f9-4cd1-81bf-08f10016463b
       01-12:
         name:
           ar: رأس السنة الأمازيغية
           fr: Nouvel an amazigh
           en: Amazigh New Year
-        id: 971fabd0-d510-496d-9a1e-d6c49db2e0d4
+        id: b54a9c22-3257-4aa9-bc6e-9f989bc69afb
       05-01:
         _name: 05-01
-        id: df82995b-f826-4df8-8b4b-056143702864
+        id: e5a5da66-b4d7-439a-bf18-071900562d51
       07-05:
         _name: Independence Day
-        id: d20966b7-65a0-42c0-906a-99c76d0e1961
+        id: 813986ee-1389-4538-920c-d03e1d985ee8
       11-01:
         _name: Revolution Day
-        id: a76f8233-cc54-42c5-a42e-457acaf12c3e
+        id: d195d867-2355-40de-b5c3-ae562501db0f
       1 Muharram:
         _name: 1 Muharram
-        id: c6c6a81f-3412-4f6e-b75e-098988e51496
+        id: df4f50cb-42f0-410a-ab6f-f2054fcf7a6b
       10 Muharram:
         _name: 10 Muharram
-        id: 4335dc2b-494d-4320-a71d-a500a44fecf3
+        id: 0235437a-bf64-44d5-8e2d-879322bd490b
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
-        id: 52f27b90-1a5a-49d3-97c7-00deb103c9a8
+        id: 16f1a9d3-12db-47fd-9f74-9307f0147a64
       1 Shawwal:
         _name: 1 Shawwal
-        id: 5635360a-7054-4ec8-aca1-5682da109690
+        id: 0b0631d2-06bf-48aa-a33f-edcc47e34722
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
-        id: 49eb6a68-0eea-44ad-9fd0-cf32ca56a38d
+        id: a69112dd-d8c7-4fd0-bf59-2b9e1566c9cf
